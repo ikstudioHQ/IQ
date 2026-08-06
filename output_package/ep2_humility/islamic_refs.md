@@ -1,0 +1,1 @@
+1. qv_014 — Quran 25:63, DIRECT_SUPPORT

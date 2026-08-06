@@ -1,0 +1,30 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "series": [
+    {
+      "series_id": "welcome_series",
+      "name": "Welcome Series",
+      "status": "completed",
+      "episodes": 1
+    },
+    {
+      "series_id": "daily_duas",
+      "name": "Daily Duas",
+      "status": "active",
+      "episodes": 12
+    },
+    {
+      "series_id": "good_manners",
+      "name": "Good Manners (Akhlaq)",
+      "status": "active",
+      "episodes": 8
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ"
+  }
+}

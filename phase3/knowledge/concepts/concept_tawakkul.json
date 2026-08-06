@@ -1,0 +1,88 @@
+{
+  "concept_id": "concept_tawakkul",
+  "name": "Tawakkul (Trust in Allah)",
+  "definition_by_age": {
+    "4": "Allah takes care of us always.",
+    "6": "Trusting Allah means doing your best and then feeling calm about what happens next.",
+    "8": "Tawakkul means relying on Allah with full confidence after you've done everything within your own effort and ability."
+  },
+  "common_misconceptions": [
+    "Tawakkul means doing nothing and just waiting — wrong: you must still try your best first (see the consultation dua and Quran 3:159)."
+  ],
+  "learning_objective": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+  "related_quran": [
+    "qv_004",
+    "qv_005"
+  ],
+  "related_hadith": [],
+  "related_duas": [
+    "dua_005",
+    "dua_006"
+  ],
+  "related_prophets": [
+    "prophet_yunus",
+    "prophet_ibr",
+    "prophet_nuh"
+  ],
+  "related_vocabulary": [
+    "vocab_001",
+    "vocab_002"
+  ],
+  "related_conflicts": [
+    "cf_001",
+    "cf_004",
+    "cf_007",
+    "cf_010"
+  ],
+  "recommended_age_range": [
+    6,
+    7
+  ],
+  "version": "v1.0",
+  "citation_verified": false,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_001",
+    "pattern_id": "pattern_001",
+    "hook_id": "hook_002",
+    "ending_id": "end_001",
+    "emotion": "worry",
+    "note": "Retrieval ranking (retrieval_ranking.md) starts from this combination and diversity-penalizes away from it on repeat use, per recommended_story_combinations.md."
+  },
+  "semantic_support": {
+    "qv_004": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly commands trust in Allah after deciding.",
+      "scholarly_reviewed": false
+    },
+    "qv_005": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Yunus's dua of trust in hardship.",
+      "scholarly_reviewed": false
+    },
+    "dua_005": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "The core tawakkul dua itself.",
+      "scholarly_reviewed": false
+    },
+    "dua_006": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly the dua said in extreme hardship, trusting Allah.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_007",
+      "conflict_id": "cf_007",
+      "reasoning": "Fear of the dark fits fear->step->support->confidence, trust-in-Allah flavored."
+    },
+    {
+      "pattern_id": "pattern_013",
+      "conflict_id": "cf_010",
+      "reasoning": "A rainy day changing plans fits natural-consequence acceptance."
+    }
+  ]
+}

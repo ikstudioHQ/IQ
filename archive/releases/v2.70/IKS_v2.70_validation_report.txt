@@ -1,0 +1,19 @@
+Islamic Kids Studio v2.70 validation report
+Baseline v2.69 SHA-256: 440b4eddc1e0f45df68b510abbc8c0452f37efbf6b435903ab75599b711bdcda
+Baseline files: 3347
+Baseline pytest: 66/66 PASS
+v2.70 pytest: 73/73 PASS
+Active roadmap episodes: 30
+Operational arcs: 16
+Accepted memory snapshots: 3
+Character development records: 4
+Autopilot episode directories present: 6
+Generation units in active autopilot artifacts: 480
+Gemini prompts in active autopilot artifacts: 480
+Maximum generation unit duration: 7.5s
+Islamic unresolved: 7/59 citation_verified=false; 59/59 scholarly_reviewed=false
+Validator: PASS
+Distribution preflight: PASS
+Runtime compile: PASS
+Human render QA: REQUIRED
+Islamic publication: NOT READY

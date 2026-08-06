@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-07-31T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Accumulated continuity history across ALL episodes ever produced. This is different from current_state.json (which only tracks what's currently active) and last_episode.json (which only tracks the single most recent episode). world_state.json is the append-only long-term memory that lets the pipeline avoid continuity errors across hundreds of future episodes. See phase1/docs/governance/authority_rules.md.",
+  "character_lessons_learned": {
+    "char_001_zayd": [
+      {
+        "lesson": "Kindness to parents brings closeness to Allah",
+        "episode_id": "S02E01"
+      }
+    ],
+    "char_002_amira": [
+      {
+        "lesson": "Morning dua sets a good start to the day",
+        "episode_id": "S01E02"
+      }
+    ]
+  },
+  "ongoing_friendships": [
+    {
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "status": "best_friends",
+      "since_episode": "ep_001"
+    }
+  ],
+  "recurring_locations_used": {
+    "env_home": {
+      "times_used": 3,
+      "last_used_episode": "S02E01"
+    },
+    "env_mosque_small": {
+      "times_used": 0,
+      "last_used_episode": null
+    },
+    "env_school": {
+      "times_used": 0,
+      "last_used_episode": null
+    },
+    "env_park": {
+      "times_used": 0,
+      "last_used_episode": null
+    },
+    "env_market": {
+      "times_used": 0,
+      "last_used_episode": null
+    }
+  },
+  "seasonal_state": {
+    "current_islamic_calendar_context": "none",
+    "notes": "Set to 'ramadan' or 'eid' during seasonal specials per festivals.json; reset to 'none' otherwise."
+  },
+  "episode_chronology": [
+    {
+      "episode_id": "S01E01",
+      "topic_id": "t_intro",
+      "published_at": "2026-06-01T09:00:00+05:30"
+    },
+    {
+      "episode_id": "S01E02",
+      "topic_id": "t_morning_dua",
+      "published_at": "2026-06-08T09:00:00+05:30"
+    },
+    {
+      "episode_id": "S02E01",
+      "topic_id": "t_parents",
+      "published_at": "2026-07-01T09:00:00+05:30"
+    }
+  ],
+  "update_instructions": "MASTER_PROMPT.md Step 20 (Produce Final Output) must append to this file after every successfully packaged episode: add any new lesson to character_lessons_learned for characters who grew in that episode, increment recurring_locations_used for the environment(s) used, and append {episode_id, topic_id, published_at} to episode_chronology. Never overwrite prior entries — this file is append-only, consistent with deprecation_policy.md. Also append/update concepts_taught for every concept_id used in the episode (increment times_used, set last_used_episode, append the difficulty level used) — this is the Moral Progression check: MASTER_PROMPT.md Step 16 must consult this before selecting a concept so the same moral isn't retaught at the same difficulty repeatedly (see phase4/engine/teaching/teaching_strategy.json for how difficulty maps to age).",
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "pattern_conflict_tracking_added": "2026-08-05 — real gap found: world_state.json previously tracked concept usage only, with no field for pattern/conflict usage across concepts. This is why 3 different concepts independently defaulted to pattern_002 without any mechanism able to detect the collision. Backfilled from the 13 real episodes generated so far in this project's history."
+  },
+  "status_note": "Backfilled from published_videos.json 2026-07-31 — see CHANGELOG.md v2.5. This file did not exist when ep_001-003 were produced (added in v2.4), so it was empty despite 3 published episodes; going forward MASTER_PROMPT.md Step 20 keeps it current per-episode.",
+  "concepts_taught": {
+    "concept_gratitude": {
+      "times_used": 1,
+      "last_used_episode": "S01E02",
+      "difficulty_progression": [
+        "easy"
+      ]
+    },
+    "concept_tawakkul": {
+      "times_used": 0,
+      "last_used_episode": null,
+      "difficulty_progression": []
+    },
+    "concept_honesty": {
+      "times_used": 0,
+      "last_used_episode": null,
+      "difficulty_progression": []
+    }
+  },
+  "pattern_usage": {
+    "pattern_001": 1,
+    "pattern_002": 3,
+    "pattern_004": 1,
+    "pattern_003": 1,
+    "pattern_011": 1,
+    "pattern_012": 2
+  },
+  "conflict_usage": {
+    "cf_001": 1,
+    "cf_023": 1,
+    "cf_025": 1,
+    "cf_009": 1,
+    "cf_004": 1,
+    "cf_034": 1,
+    "cf_040": 1,
+    "cf_026": 1
+  }
+}

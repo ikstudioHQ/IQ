@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_honesty_wallet_assisted",
+  "note": "Structured performance/visibility data. scene_breakdown.md remains the separate, untouched human-readable creative summary.",
+  "migration_method": "Manual, human-structured cross-reference -- not automated guessing. Per-event certainty varies -- see each performance_event's own 'confidence' field (CONFIRMED = explicit source statement; INFERRED_FROM_ORDER_AND_CONTENT = reasoned, not independently verified).",
+  "scenes": [
+    {
+      "scene_id": "scene_1",
+      "location": "env_market",
+      "duration_seconds": 15,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "visible_characters_confidence": "CONFIRMED — image_prompts.md Block 1 inlines both full locks.",
+      "performance_events": [
+        {
+          "character_id": "char_002_amira",
+          "type": "SPOKEN",
+          "text": "These dates look perfect for Ummi's basket.",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — first dialogue.md line, matches this scene's browsing/market beat."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "Amira, look—",
+          "confidence": "CONFIRMED_FROM_COMPLETE_SCRIPT_SCENE_BOUNDARY — output_package complete_script.md places this transition line at the end of Scene 1, where Amira is present."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_2",
+      "location": "env_market",
+      "duration_seconds": 45,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "visible_characters_confidence": "CONFIRMED — scene_breakdown.md explicitly states 'Zayd alone with the wallet'; image_prompts.md Block 2 inlines only Zayd's full lock.",
+      "performance_events": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "It's... someone's wallet. It has money in it.",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches 'finding the wallet' scene title exactly."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "No one's even looking...",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches this scene's 'Tension' beat."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_3",
+      "location": "env_market (quieter corner)",
+      "duration_seconds": 75,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "visible_characters_confidence": "CONFIRMED — image_prompts.md Block 3 inlines both full locks; scene_breakdown.md explicitly states 'Zayd + Amira'.",
+      "performance_events": [
+        {
+          "character_id": "char_002_amira",
+          "type": "SPOKEN",
+          "text": "Zayd? What's wrong?",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches 'Decision' scene's opening beat; also explains the earlier Scene 2 ambiguity -- Amira likely rejoins right at this scene's start."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "I don't know what to do. Part of me wants to just... keep it.",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches the moral-conflict beat."
+        },
+        {
+          "character_id": "char_002_amira",
+          "type": "SPOKEN",
+          "text": "It's not ours though.",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — direct reply."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "Sidq means telling the truth about it. And amanah means taking care of it properly, since it isn't mine.",
+          "confidence": "CONFIRMED — matches this repository's own cited evidence (hd_005/qv_009, sidq/amanah) already linked to this episode's islamic_refs.md."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "I've decided what's right. Now I'll trust Allah with the rest.",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches this scene's resolution beat, tawakkul theme."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_4",
+      "location": "env_market (stall)",
+      "duration_seconds": 50,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_085_market_stall_owner"
+      ],
+      "visible_characters_confidence": "CONFIRMED source roles; market stall owner resolved through canonical supporting-character authority in v2.67.",
+      "performance_events": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "Excuse me — I found this wallet near your stall. I think it might be yours, or someone dropped it here.",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches 'returning the wallet' scene title exactly."
+        },
+        {
+          "character_id": "char_085_market_stall_owner",
+          "type": "SPOKEN",
+          "text": "This is mine! I didn't even notice it was gone. Thank you, truly — that was very honest of you.",
+          "confidence": "CONFIRMED — dialogue.md explicitly labels this line 'STALL OWNER:'."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "Hasbunallahu wa ni'mal wakeel.",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches this repository's real tawakkul evidence already cited for this episode."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_5",
+      "location": "walking home",
+      "duration_seconds": 30,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "visible_characters_confidence": "CONFIRMED — image_prompts.md Block 5 inlines both full locks; scene_breakdown.md explicitly states 'Zayd + Amira'.",
+      "performance_events": [
+        {
+          "character_id": "char_002_amira",
+          "type": "SPOKEN",
+          "text": "That felt like the right thing, didn't it?",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches this scene's closing beat."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "It did.",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — final line, direct reply."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "note": "Wardrobe records are DERIVED from character_master_library.json's canonical_image_prompt field, never an independent definition. Only 'default' wardrobes exist for now -- alternates (school/sleep/Eid) will be added only when a real episode needs one, not speculatively.",
+  "total_wardrobes": 2,
+  "wardrobes": [
+    {
+      "wardrobe_id": "wardrobe_zayd_default",
+      "character_id": "char_001_zayd",
+      "name": "Zayd Default",
+      "use_case": "default/everyday, matches canonical master-library appearance exactly",
+      "clothing_description": "Zayd — warm light-brown skin, round face, very large deep-brown eyes, thick dark-brown hair with a small forehead tuft; soft-blue knee-length thobe, cream trousers, peach slip-on shoes. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark.",
+      "colors": "soft-blue thobe, cream trousers, peach shoes",
+      "footwear": "peach slip-on shoes",
+      "headwear": null,
+      "accessories": [],
+      "reference_asset": "sources/characters/reference_images/1. Zayd.png",
+      "gemini_compact_wardrobe_lock": "soft-blue knee-length thobe, cream trousers, peach slip-on shoes",
+      "approval_status": "DRAFT",
+      "version": "1.0",
+      "source": "Derived directly from character_master_library.json's canonical_image_prompt -- not a separate invention."
+    },
+    {
+      "wardrobe_id": "wardrobe_amira_default",
+      "character_id": "char_002_amira",
+      "name": "Amira Default",
+      "use_case": "default/everyday, matches canonical master-library appearance exactly",
+      "clothing_description": "Amira — warm light-brown skin, rosy round cheeks, very large hazel eyes; soft lavender hijab, pale-yellow knee-length dress, mint leggings, cream shoes. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark.",
+      "colors": "soft lavender hijab, pale-yellow dress, mint leggings, cream shoes",
+      "footwear": "cream shoes",
+      "headwear": "soft lavender hijab",
+      "accessories": [],
+      "reference_asset": "sources/characters/reference_images/2. Amira.png",
+      "gemini_compact_wardrobe_lock": "soft lavender hijab, pale-yellow knee-length dress, mint leggings, cream shoes",
+      "approval_status": "DRAFT",
+      "version": "1.0",
+      "source": "Derived directly from character_master_library.json's canonical_image_prompt -- not a separate invention."
+    }
+  ]
+}

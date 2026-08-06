@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-01T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Reusable opening-line patterns for the first 8-15 seconds, to replace generic openings like 'Today we will learn...' — see COMPETITOR_STRATEGY.md Step 5 (opening hook discipline) and rubric.md dimension 9.",
+  "hooks": [
+    {"hook_id": "hook_001", "pattern": "Have you ever lost something you really loved?", "age_range": [3,6], "emotion": "curiosity", "use_when": "conflict is about loss or a missing item"},
+    {"hook_id": "hook_002", "pattern": "[Character] couldn't find [thing] anywhere...", "age_range": [3,6], "emotion": "concern", "use_when": "conflict opens in-scene rather than as a question"},
+    {"hook_id": "hook_003", "pattern": "What would you do if your best friend needed your help right now?", "age_range": [4,7], "emotion": "curiosity", "use_when": "conflict is about helping someone"},
+    {"hook_id": "hook_004", "pattern": "[Character] made one small mistake...", "age_range": [5,8], "emotion": "gentle_tension", "use_when": "conflict is about honesty or a mistake"},
+    {"hook_id": "hook_005", "pattern": "Something exciting was about to happen at [environment]...", "age_range": [3,6], "emotion": "excitement", "use_when": "conflict opens with anticipation, e.g. a trip or new friend"},
+    {"hook_id": "hook_006", "pattern": "It was the darkest, quietest night [character] had ever seen...", "age_range": [4,7], "emotion": "gentle_suspense", "use_when": "conflict is about fear or nighttime"}
+  ],
+  "metadata": {"channel": "Islamic Kids Studio", "handle": "@IslamicKidsHQ", "total_hooks": 6, "rule": "Never repeat the same hook_id in two consecutive episodes — check world_state.json episode_chronology before selecting."}
+}

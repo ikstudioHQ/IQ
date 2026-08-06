@@ -1,0 +1,11 @@
+{"schema_version":"1.0","episode_id":"test_multiclip_scene","total_duration":"01:00",
+"clip_order":["CLIP_001","CLIP_002","CLIP_003","CLIP_004","CLIP_005","CLIP_006"],
+"timeline":[
+{"clip_id":"CLIP_001","timeline_start":"00:00","timeline_end":"00:10","trim_in":0.0,"trim_out":10.0,"transition_in":"cut","transition_duration":0},
+{"clip_id":"CLIP_002","timeline_start":"00:10","timeline_end":"00:20","trim_in":0.0,"trim_out":10.0,"transition_in":"cut","transition_duration":0},
+{"clip_id":"CLIP_003","timeline_start":"00:20","timeline_end":"00:30","trim_in":0.0,"trim_out":10.0,"transition_in":"cut","transition_duration":0},
+{"clip_id":"CLIP_004","timeline_start":"00:30","timeline_end":"00:40","trim_in":0.0,"trim_out":10.0,"transition_in":"crossfade","transition_duration":0.5,"continuity_notes":"Location change living room -> kitchen, soft crossfade preferred over hard cut."},
+{"clip_id":"CLIP_005","timeline_start":"00:40","timeline_end":"00:50","trim_in":0.0,"trim_out":10.0,"transition_in":"cut","transition_duration":0},
+{"clip_id":"CLIP_006","timeline_start":"00:50","timeline_end":"01:00","trim_in":0.0,"trim_out":10.0,"transition_in":"cut","transition_duration":0,"transition_out":"fade_out","audio_overlap":"gentle music swell starts 8.0s into this clip, carries past the fade"}
+],
+"music":"gentle instrumental, swells at the final clip only","sfx":["soft bag-set-down thud, CLIP_002"]}

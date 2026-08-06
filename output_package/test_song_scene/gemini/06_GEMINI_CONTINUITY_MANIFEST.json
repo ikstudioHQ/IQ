@@ -1,0 +1,4 @@
+{"schema_version":"1.0","episode_id":"test_song_scene","clip_states":{
+"CLIP_001":{"location_id":"loc_family_kitchen","characters":{"char_002_amira":{"wardrobe_id":"wardrobe_amira_default","emotion":"warm, singing"},"char_001_zayd":{"wardrobe_id":"wardrobe_zayd_default","emotion":"listening, smiling"}},"camera_axis":"established"},
+"CLIP_002":{"location_id":"loc_family_kitchen","characters":{"char_002_amira":{"wardrobe_id":"wardrobe_amira_default","emotion":"warm, singing"},"char_001_zayd":{"wardrobe_id":"wardrobe_zayd_default","emotion":"joining in, singing"}},"camera_axis":"unchanged"}
+}}

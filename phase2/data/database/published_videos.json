@@ -1,0 +1,98 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "videos": [
+    {
+      "video_id": "pv_001",
+      "title": "Assalamu Alaikum — Welcome to Islamic Kids Studio",
+      "episode_number": "S01E01",
+      "series_id": "welcome_series",
+      "series_name": "Welcome Series",
+      "playlist_id": "pl_intro",
+      "topic_id": "t_intro",
+      "age_target": 2,
+      "duration_seconds": 210,
+      "youtube_id": "welcome_001",
+      "published_at": "2026-06-01T09:00:00+05:30",
+      "language": "en",
+      "subtitle_languages": [
+        "en"
+      ],
+      "thumbnail_url": "thumbnails/welcome_001.jpg",
+      "view_count": 45230,
+      "status": "published",
+      "quality_score": 9.2,
+      "tags": [
+        "Islamic Kids",
+        "Assalamu Alaikum",
+        "Welcome"
+      ],
+      "islamic_accuracy_verified": true,
+      "subtitle_correction_note": "Corrected 2026-08-02: previously listed 'ar' but no Arabic subtitle file was ever actually generated for this episode (languages.yaml has always marked Arabic status: planned, not active). This field now reflects what was really produced. See CHANGELOG.md v2.9 and subtitle_prompt.md."
+    },
+    {
+      "video_id": "pv_002",
+      "title": "Morning Dua for Kids — Start Your Day with Allah",
+      "episode_number": "S01E02",
+      "series_id": "daily_duas",
+      "series_name": "Daily Duas",
+      "playlist_id": "pl_duas",
+      "topic_id": "t_morning_dua",
+      "age_target": 3,
+      "duration_seconds": 180,
+      "youtube_id": "morning_dua_002",
+      "published_at": "2026-06-08T09:00:00+05:30",
+      "language": "en",
+      "subtitle_languages": [
+        "en"
+      ],
+      "thumbnail_url": "thumbnails/morning_002.jpg",
+      "view_count": 67800,
+      "status": "published",
+      "quality_score": 9.5,
+      "tags": [
+        "Dua for Kids",
+        "Morning Dua",
+        "Islamic Kids"
+      ],
+      "islamic_accuracy_verified": true
+    },
+    {
+      "video_id": "pv_003",
+      "title": "Kindness to Parents — A Beautiful Story",
+      "episode_number": "S02E01",
+      "series_id": "good_manners",
+      "series_name": "Good Manners (Akhlaq)",
+      "playlist_id": "pl_manners",
+      "topic_id": "t_parents",
+      "age_target": 5,
+      "duration_seconds": 240,
+      "youtube_id": "kindness_003",
+      "published_at": "2026-07-01T09:00:00+05:30",
+      "language": "en",
+      "subtitle_languages": [
+        "en"
+      ],
+      "thumbnail_url": "thumbnails/kindness_003.jpg",
+      "view_count": 32100,
+      "status": "published",
+      "quality_score": 9.1,
+      "tags": [
+        "Good Manners",
+        "Parents",
+        "Islamic Kids"
+      ],
+      "islamic_accuracy_verified": true,
+      "subtitle_correction_note": "Corrected 2026-08-02: previously listed 'ar' but no Arabic subtitle file was ever actually generated for this episode (languages.yaml has always marked Arabic status: planned, not active). This field now reflects what was really produced. See CHANGELOG.md v2.9 and subtitle_prompt.md."
+    }
+  ],
+  "metadata": {
+    "total_videos": 3,
+    "total_series": 3,
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "last_updated": "2026-07-30T10:00:00+05:30"
+  }
+}

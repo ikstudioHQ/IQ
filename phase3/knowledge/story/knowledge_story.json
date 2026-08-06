@@ -1,0 +1,97 @@
+{
+  "schema_version": "3.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "story_universe_name": "Zayd & Amira's Warm World",
+  "story_principles": [
+    "Every story teaches through emotion, not lecture",
+    "Every character grows a little",
+    "Every conflict is gentle and resolved with love",
+    "Every ending includes a warm closing dua or song",
+    "Every story is appropriate for ages 2-8 while engaging parents"
+  ],
+  "story_universe_elements": {
+    "main_characters": [
+      "Zayd",
+      "Amira",
+      "Nuri",
+      "Ummi Layla",
+      "Baba Ahmad",
+      "Dada Yusuf"
+    ],
+    "main_locations": [
+      "Zayd & Amira's Home",
+      "Small Beautiful Mosque",
+      "Zayd & Amira's School",
+      "Warm Park",
+      "Friendly Market"
+    ],
+    "main_themes": [
+      "Kindness",
+      "Gratitude",
+      "Patience",
+      "Respect",
+      "Love for Allah",
+      "Community"
+    ],
+    "main_islamic_values": [
+      "Assalamu Alaikum",
+      "Alhamdulillah",
+      "Bismillah",
+      "Respecting parents",
+      "Being kind",
+      "Sharing"
+    ],
+    "emotional_tones": [
+      "Warm",
+      "Gentle",
+      "Positive",
+      "Hopeful",
+      "Calm",
+      "Happy"
+    ]
+  },
+  "episode_structure": {
+    "opening_duration_target": "15 seconds",
+    "conflict_duration_target": "2 minutes",
+    "resolution_duration_target": "1 minute",
+    "closing_duration_target": "30 seconds",
+    "total_target_duration": "3-7 minutes"
+  },
+  "story_continuity_rules": [
+    "Characters maintain consistent personalities",
+    "Previous lessons are referenced gently",
+    "Relationships grow naturally",
+    "No sudden changes in behavior",
+    "Every episode can stand alone but also fits a series"
+  ],
+  "future_expansion_notes": "New story arcs will follow established themes. Seasonal specials (Ramadan, Eid) will use special settings while maintaining warm color palette.",
+  "metadata": {
+    "retrieval_tags": [
+      "story",
+      "universe",
+      "structure",
+      "conflict",
+      "resolution",
+      "moral"
+    ],
+    "difficulty_level": "intermediate",
+    "age_target": "2-8",
+    "curriculum_stage": "all",
+    "search_keywords": [
+      "story",
+      "emotion",
+      "conflict",
+      "resolution",
+      "moral",
+      "structure"
+    ],
+    "related_concepts": [
+      "characters",
+      "curriculum",
+      "islamic",
+      "world"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.71",
+  "characters": {
+    "char_001_zayd": {
+      "events": [
+        {
+          "episode_id": "rm_ced56ce5ae",
+          "arc_id": "arc_01",
+          "status": "ACCEPTED"
+        },
+        {
+          "episode_id": "rm_f537b73030",
+          "arc_id": "arc_01",
+          "status": "ACCEPTED"
+        }
+      ],
+      "learned_lessons": [
+        "concept_charity",
+        "concept_trustworthiness"
+      ],
+      "active_goals": []
+    },
+    "char_002_amira": {
+      "events": [
+        {
+          "episode_id": "rm_ced56ce5ae",
+          "arc_id": "arc_01",
+          "status": "ACCEPTED"
+        },
+        {
+          "episode_id": "rm_1c729b4802",
+          "arc_id": "arc_01",
+          "status": "ACCEPTED"
+        }
+      ],
+      "learned_lessons": [
+        "concept_charity",
+        "concept_forgiveness"
+      ],
+      "active_goals": []
+    },
+    "char_003_ummi_layla": {
+      "events": [
+        {
+          "episode_id": "rm_1c729b4802",
+          "arc_id": "arc_01",
+          "status": "ACCEPTED"
+        }
+      ],
+      "learned_lessons": [
+        "concept_forgiveness"
+      ],
+      "active_goals": []
+    },
+    "char_004_baba_ahmad": {
+      "events": [
+        {
+          "episode_id": "rm_f537b73030",
+          "arc_id": "arc_01",
+          "status": "ACCEPTED"
+        }
+      ],
+      "learned_lessons": [
+        "concept_trustworthiness"
+      ],
+      "active_goals": []
+    }
+  }
+}

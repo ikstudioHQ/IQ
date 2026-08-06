@@ -1,0 +1,29 @@
+channel:
+  name: Islamic Kids Studio
+  handle: '@IslamicKidsHQ'
+  logo_text: Islamic Kids Studio
+  watermark: IK Studio
+seo:
+  default_tags:
+  - Islamic Kids
+  - Islamic Stories
+  - Muslim Kids
+  - Quran for Kids
+  - Dua for Kids
+  thumbnail_size: 1280x720
+  thumbnail_format: jpg
+  thumbnail_text_style: rounded, bold, white with dark outline
+content:
+  video_format: mp4
+  resolution: 1920x1080
+  frame_rate: 30
+  audio_sample_rate: 44100
+  bitrate_video: 8Mbps
+  bitrate_audio: 320kbps
+subtitles:
+  default_language: en
+  available_languages:
+  - en
+  - ar
+  format: srt
+  font_family: Poppins

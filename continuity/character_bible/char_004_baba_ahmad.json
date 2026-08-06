@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_004_baba_ahmad",
+  "canonical_name": "Baba Ahmad (with cap + rumal)",
+  "aliases": [],
+  "role_relation": "Father of Zayd and Amira, husband of Ummi Layla — head of household, everyday-life and family-lesson episodes",
+  "age": "adult",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Baba Ahmad — warm deep-brown skin, short black hair, neat trimmed dark beard, kind steady eyes; wearing a white embroidered kufi cap, deep-teal button-up shirt, charcoal-grey trousers, brown loafers, simple brown wristwatch, a pink-and-white checkered patterned rumal (shemagh-style scarf) draped casually over one shoulder. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark. 6-VIEW TURNAROUND PROMPT:",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Baba Ahmad, exact same canonical identity: warm deep-brown skin, short black hair, neat trimmed dark beard, kind steady eyes; white embroidered kufi cap, deep-teal button-up shirt, charcoal-grey trousers, brown loafers, simple brown wristwatch, pink-and-white checkered patterned rumal draped over one shoulder. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep face, proportions, clothing colors, cap style, rumal pattern and accessories identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. EXPRESSION SHEET PROMPT:",
+  "expression_prompt": "Baba Ahmad, exact same canonical identity: warm deep-brown skin, short black hair, neat trimmed dark beard, kind steady eyes; white embroidered kufi cap, deep-teal button-up shirt, pink-and-white checkered patterned rumal draped over one shoulder. Expression sheet with neutral, happy, excited, thoughtful, worried, sad, surprised, apologetic, relieved, joyful. Head-and-shoulders grid, identical identity and clothing, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "warm steady father figure; medium-low pitch; calm unhurried pace; gentle authority, patient and reassuring",
+    "voice_master": {
+      "voice_identity_id": "VOICE_004_BABA_AHMAD",
+      "voice_profile_version": "2.0",
+      "voice_status": "AUDITION_REQUIRED",
+      "fingerprint": {
+        "vocal_age_band": "adult",
+        "gender_presentation": "male",
+        "pitch_band": "low",
+        "pace_baseline": "unhurried",
+        "source_description": "warm steady father figure; medium-low pitch; calm unhurried pace; gentle authority, patient and reassuring",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "adult",
+        "gender_presentation": "male",
+        "pitch_band": "low",
+        "core_timbre": "warm steady father figure; medium-low pitch; calm unhurried pace; gentle authority, patient and reassuring"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 3,
+        "age_band": "adult",
+        "gender_voice_class": "male",
+        "pace": "unhurried",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "authority",
+          "father",
+          "figure",
+          "low",
+          "medium",
+          "unhurried"
+        ],
+        "raw_source": "warm steady father figure; medium-low pitch; calm unhurried pace; gentle authority, patient and reassuring"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null,
+      "audition_pack": {
+        "A_neutral": "Let's sit together after Maghrib.",
+        "B_happy": "I'm glad we could spend the day together.",
+        "C_concerned": "Tell me what's on your mind, take your time.",
+        "D_excited": "I have some good news to share with the family.",
+        "E_calm": "There's no rush. We'll figure it out together.",
+        "F_storytelling": "Let me tell you about something that happened when I was young...",
+        "G_question": "Did you finish your homework before dinner?",
+        "H_exclamation": "Well done, that's excellent!",
+        "I_pronunciation": "Assalamu Alaikum, welcome home. Alhamdulillah, you're safe.",
+        "J_singing_optional": "Not typically singing-forward -- narrator/reciter style only if needed."
+      }
+    }
+  },
+  "restrictions": null,
+  "production_priority": "CORE",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_004_baba_ahmad_approved_reference",
+      "path": "sources/characters/reference_images/04. Baba Ahmad.png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.68",
+  "episode_id": "rm_efc2c3ee01",
+  "categories": {
+    "STORY": "PASS",
+    "CHARACTERS": "PASS",
+    "DIALOGUE": "PASS",
+    "PRODUCTION": "PASS",
+    "CONTINUITY": "PASS",
+    "SONG": "PASS",
+    "RELIGIOUS": "REVIEW_REQUIRED",
+    "GEMINI": "PASS"
+  },
+  "generation_units": 80,
+  "max_unit_duration": 7.5,
+  "shorts_candidates": [
+    {
+      "type": "hook",
+      "source_scene": "scene_01"
+    },
+    {
+      "type": "moral choice",
+      "source_scene": "scene_03"
+    },
+    {
+      "type": "lesson reveal",
+      "source_scene": "scene_06"
+    }
+  ],
+  "publication_status": "NOT_READY",
+  "human_render_review": "REQUIRED"
+}

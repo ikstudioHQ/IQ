@@ -1,0 +1,15 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "characters": [
+    {"character_id": "char_001_zayd", "name": "Zayd", "status": "active", "role": "protagonist", "current_episodes": ["ep_001", "ep_002", "ep_003"]},
+    {"character_id": "char_002_amira", "name": "Amira", "status": "active", "role": "protagonist", "current_episodes": ["ep_001", "ep_002", "ep_003"]},
+    {"character_id": "char_nuri", "name": "Nuri", "status": "active", "role": "mascot", "current_episodes": ["ep_001", "ep_002", "ep_003"]},
+    {"character_id": "char_ummi_layla", "name": "Ummi Layla", "status": "supporting", "role": "mother", "current_episodes": ["ep_003"]},
+    {"character_id": "char_baba_ahmad", "name": "Baba Ahmad", "status": "supporting", "role": "father", "current_episodes": []},
+    {"character_id": "char_dada_yusuf", "name": "Dada Yusuf", "status": "supporting", "role": "grandfather", "current_episodes": []}
+  ],
+  "metadata": {"channel": "Islamic Kids Studio", "handle": "@IslamicKidsHQ"}
+}

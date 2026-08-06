@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.2",
+  "version": "2.0",
+  "updated_at": "2026-07-30T14:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "description": "Character Knowledge Module retrieval index — maps concepts to exact file paths within sources/characters/",
+  "module_name": "Character Design System",
+  "module_version": "v2.0",
+  "repository_version": "v2.3",
+  "local_only": true,
+  "status": "production",
+  "confidence_system": "verified",
+  "entries": {
+    "character_module": [
+      "sources/characters/README.md",
+      "sources/characters/character_system.md",
+      "sources/characters/character_index.json",
+      "sources/characters/character_schema.json",
+      "sources/characters/character_generation_rules.md",
+      "sources/characters/character_render_rules.md",
+      "sources/characters/character_consistency_rules.md",
+      "sources/characters/character_master_library.json",
+      "sources/characters/voice_collision_audit.json"
+    ],
+    "character_system": [
+      "sources/characters/character_system.md"
+    ],
+    "zayd": [
+      "sources/characters/characters/zayd.md"
+    ],
+    "amira": [
+      "sources/characters/characters/amira.md"
+    ],
+    "dada_yusuf": [
+      "sources/characters/characters/dada_yusuf.md"
+    ],
+    "baba_ahmad": [
+      "sources/characters/characters/baba_ahmad.md"
+    ],
+    "ummi_layla": [
+      "sources/characters/characters/ummi_layla.md"
+    ],
+    "nuri": [
+      "sources/characters/characters/nuri.md"
+    ],
+    "generation_rules": [
+      "sources/characters/character_generation_rules.md"
+    ],
+    "render_rules": [
+      "sources/characters/character_render_rules.md"
+    ],
+    "consistency_rules": [
+      "sources/characters/character_consistency_rules.md"
+    ]
+  },
+  "search_instructions": "Load this index first when resolving character-related concepts in MASTER_PROMPT.md. Use the array under each concept key to find the exact character file or system reference. Confirm file exists before using. Character data lives ONLY inside this module — never load full repository for character information.",
+  "version_note": "v2.0 — Character Knowledge Module added to repository. All original prompts preserved exactly. Integration with MASTER_PROMPT.md confirmed."
+}

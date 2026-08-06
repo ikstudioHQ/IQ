@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-01T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Ties festivals.json (Ramadan, Eid) to approximate Gregorian dates so seasonal content is scheduled correctly each year without manual recalculation. Hijri dates shift ~10-11 days earlier each Gregorian year — this file must be re-verified and extended annually, not treated as permanently fixed.",
+  "note": "Dates are astronomical-projection estimates (Umm al-Qura calendar basis), sourced from multiple current Islamic-calendar publishers as of 2026-08-01. Actual observance depends on local moon sighting and can shift by 1-2 days. Confirm against a current source close to the date before finalizing production scheduling.",
+  "schedule": [
+    {
+      "event": "Ramadan (start, estimated)",
+      "festival_id": "fest_001",
+      "gregorian_year": 2027,
+      "approx_date": "2027-02-08",
+      "hijri_year": "1448 AH",
+      "prep_window_days": 30,
+      "source_note": "Multiple 2026-verified sources converge on Feb 7-8, 2027 for the start of Ramadan 1448 AH"
+    },
+    {
+      "event": "Eid al-Fitr (estimated)",
+      "festival_id": "fest_002",
+      "gregorian_year": 2027,
+      "approx_date": "2027-03-09",
+      "hijri_year": "1448 AH",
+      "prep_window_days": 14,
+      "source_note": "Estimated range across sources is March 9-11, 2027, depending on whether Ramadan completes 29 or 30 days"
+    }
+  ],
+  "update_instructions": "Extend this table one year ahead once the current year's dates pass, or when topic_planner.md finds it's within 30 days of a festival with no schedule entry beyond the current table. Do not extrapolate future years by simply subtracting ~11 days without verifying against a current source at the time — the pattern is a useful estimate, not a substitute for confirmation.",
+  "metadata": {"channel": "Islamic Kids Studio", "handle": "@IslamicKidsHQ"}
+}

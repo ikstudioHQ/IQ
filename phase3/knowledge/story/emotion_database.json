@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-01T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Emotion-to-production mapping for consistent voice, expression, camera, music, and pacing — feeds voice_instructions.md, image_prompts.md, animation_directions.md, and music_notes.md so the same emotion reads consistently across every episode.",
+  "emotions": [
+    {"emotion": "joy", "intensity": "medium", "voice_style": "bright, slightly faster, warm smile in the tone", "facial_expression": "wide eyes, open smile, raised eyebrows", "camera": "slightly closer, static or gentle push-in", "music": "light, major key, playful", "pace": "quick but not rushed"},
+    {"emotion": "worry", "intensity": "low-medium", "voice_style": "softer, slightly slower, slight rise in pitch on questions", "facial_expression": "furrowed brow, downturned mouth corners, wide eyes", "camera": "closer framing, static (no movement — stability signals safety)", "music": "quiet, minor undertone, sparse instrumentation", "pace": "slower than baseline"},
+    {"emotion": "curiosity", "intensity": "medium", "voice_style": "upward inflection, energetic but controlled", "facial_expression": "head tilt, wide eyes, slight lean-in", "camera": "slow push-in toward the object of curiosity", "music": "light, exploratory, gentle rising motif", "pace": "medium"},
+    {"emotion": "relief", "intensity": "medium", "voice_style": "exhale audible in tone, warmer, slower", "facial_expression": "shoulders drop, soft smile, eyes soften", "camera": "static, wide enough to show the whole body relax", "music": "resolving chord progression, warm strings/oud", "pace": "slows down from the preceding tension"},
+    {"emotion": "gratitude", "intensity": "medium", "voice_style": "warm, slightly slower, sincere", "facial_expression": "soft smile, hand-on-heart gesture if applicable", "camera": "close, warm lighting emphasis", "music": "gentle, nasheed-style, no rush", "pace": "slow, unhurried"},
+    {"emotion": "gentle_fear", "intensity": "low", "voice_style": "quieter, shorter sentences, slight tremor acceptable but never distressing", "facial_expression": "wide eyes, slightly hunched posture — never crying or panicked, per DESIGN_PRINCIPLES.md no-fear rule", "camera": "static, medium-close, stable framing to avoid amplifying anxiety", "music": "sparse, quiet, resolves quickly", "pace": "slightly slower, resolves within the beat"}
+  ],
+  "metadata": {"channel": "Islamic Kids Studio", "handle": "@IslamicKidsHQ", "total_emotions": 6, "note": "gentle_fear is capped deliberately low-intensity per DESIGN_PRINCIPLES.md's no-fear/no-scary-elements non-negotiable — this is not a general fear/dread entry."}
+}

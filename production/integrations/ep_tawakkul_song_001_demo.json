@@ -1,0 +1,12 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "integration_id": "demo_ep_tawakkul_song_001",
+  "episode_id": "ep_tawakkul_lost_toy",
+  "entry_after_scene_id": "scene_3",
+  "canonical_song_id": "song_001",
+  "canonical_lyrics_policy": "REFERENCE_ONLY_NO_DUPLICATION",
+  "entry_direction": "Authored demonstration: transition from the episode's calm reflection beat into the canonical song sequence without changing canonical episode dialogue or canonical song lyrics.",
+  "exit_direction": "Authored demonstration: return to the episode story state after the canonical song sequence; preserve episode continuity as a production demo, not canonical story evidence.",
+  "standalone_same_source_required": true
+}

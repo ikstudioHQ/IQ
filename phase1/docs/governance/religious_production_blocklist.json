@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "note": "Recalculated from real repository state.",
+  "total_blocked": 7,
+  "records": [
+    {
+      "record_id": "companion_aisha",
+      "type": "companions",
+      "canonical_reference": "Unknown source reference",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false,
+      "production_eligible": false,
+      "reason": "citation_verified or source_verified is false",
+      "what_would_clear_it": "real web verification: search -> open source -> verify -> cross-check -> ingest"
+    },
+    {
+      "record_id": "companion_ali",
+      "type": "companions",
+      "canonical_reference": "Unknown source reference",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false,
+      "production_eligible": false,
+      "reason": "citation_verified or source_verified is false",
+      "what_would_clear_it": "real web verification: search -> open source -> verify -> cross-check -> ingest"
+    },
+    {
+      "record_id": "sun_003",
+      "type": "daily_sunnah",
+      "canonical_reference": "Unknown source reference",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false,
+      "production_eligible": false,
+      "reason": "citation_verified or source_verified is false",
+      "what_would_clear_it": "real web verification: search -> open source -> verify -> cross-check -> ingest"
+    },
+    {
+      "record_id": "fest_001",
+      "type": "festivals",
+      "canonical_reference": "Unknown source reference",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false,
+      "production_eligible": false,
+      "reason": "citation_verified or source_verified is false",
+      "what_would_clear_it": "real web verification: search -> open source -> verify -> cross-check -> ingest"
+    },
+    {
+      "record_id": "fest_002",
+      "type": "festivals",
+      "canonical_reference": "Unknown source reference",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false,
+      "production_eligible": false,
+      "reason": "citation_verified or source_verified is false",
+      "what_would_clear_it": "real web verification: search -> open source -> verify -> cross-check -> ingest"
+    },
+    {
+      "record_id": "fest_003",
+      "type": "festivals",
+      "canonical_reference": "Unknown source reference",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false,
+      "production_eligible": false,
+      "reason": "citation_verified or source_verified is false",
+      "what_would_clear_it": "real web verification: search -> open source -> verify -> cross-check -> ingest"
+    },
+    {
+      "record_id": "mann_004",
+      "type": "good_manners",
+      "canonical_reference": "Unknown source reference",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false,
+      "production_eligible": false,
+      "reason": "citation_verified or source_verified is false",
+      "what_would_clear_it": "real web verification: search -> open source -> verify -> cross-check -> ingest"
+    }
+  ]
+}

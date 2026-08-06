@@ -1,0 +1,5 @@
+{"schema_version":"1.0","characters":[
+{"character_id":"char_001_zayd","reference_image":"sources/characters/reference_images/1. Zayd.png","approved_asset":false,"asset_version":"1.0","wardrobe_id":"wardrobe_zayd_default"},
+{"character_id":"char_002_amira","reference_image":"sources/characters/reference_images/02_Amira_turnaround_sheet.jpeg","approved_asset":false,"asset_version":"1.0","wardrobe_id":"wardrobe_amira_default"}
+],"locations":[{"location_id":"loc_family_living_room","reference_asset":null,"version":"1.0"},{"location_id":"loc_family_kitchen","reference_asset":null,"version":"1.0"}],
+"props":[{"prop_id":"prop_grocery_bag_01","reference_asset":null,"version":"1.0"}]}

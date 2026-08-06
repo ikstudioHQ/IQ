@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "total_locations": 4,
+  "locations": [
+    {
+      "location_id": "loc_family_living_room",
+      "name": "Zayd & Amira's Family Living Room",
+      "canonical_description": "Cozy family living room, warm and lived-in, family-friendly 3D style.",
+      "layout": "Central seating area, window to one side, door to kitchen implied off-frame.",
+      "architecture": "Modest single-family home interior, warm wood tones.",
+      "materials": "Soft fabric sofa, wooden floor, warm-toned walls.",
+      "color_palette": "warm cream, soft browns, gentle afternoon gold light",
+      "furniture": [
+        "low sofa",
+        "small side table",
+        "floor cushion"
+      ],
+      "important_objects": [
+        "family Quran stand (background)"
+      ],
+      "lighting_baseline": "warm afternoon interior light, soft shadows",
+      "time_variants": {
+        "afternoon": "warm gold light, established baseline",
+        "evening": "not yet established",
+        "night": "not yet established"
+      },
+      "reference_assets": null,
+      "gemini_compact_location_lock": "Cozy family living room, warm wood tones, soft fabric sofa, warm afternoon light, family-friendly 3D animated interior.",
+      "approval_status": "DRAFT",
+      "version": "1.0",
+      "source": "Built 2026-08-05, justified by existing test_gemini_scene usage (previously informal, now registered)."
+    },
+    {
+      "location_id": "loc_family_kitchen",
+      "name": "Zayd & Amira's Family Kitchen",
+      "canonical_description": "Warm family kitchen, used in meal/dua-related episodes (dua_002/dua_003 evidence).",
+      "layout": "Small dining table, kitchen counter visible in background.",
+      "architecture": "Modest home kitchen, warm and functional.",
+      "materials": "Wooden table, tiled counter, warm cabinetry.",
+      "color_palette": "warm cream, soft mint accents (matches Ummi Layla's apron)",
+      "furniture": [
+        "dining table",
+        "chairs",
+        "counter"
+      ],
+      "important_objects": [],
+      "lighting_baseline": "warm daytime kitchen light",
+      "time_variants": {},
+      "reference_assets": null,
+      "gemini_compact_location_lock": "Warm family kitchen, wooden dining table, soft daytime light, family-friendly 3D animated interior.",
+      "approval_status": "DRAFT",
+      "version": "1.0",
+      "source": "Built 2026-08-05, justified by dua_002/dua_003-linked meal-time episodes already in the topic bank."
+    },
+    {
+      "location_id": "loc_school_classroom",
+      "name": "School Classroom",
+      "canonical_description": "Bright, friendly classroom used in school-setting conflicts (cf_034, cf_046, etc.).",
+      "layout": "Rows of small desks, teacher's area at front.",
+      "architecture": "Standard friendly classroom.",
+      "materials": "Wooden desks, colorful wall displays.",
+      "color_palette": "bright, cheerful, primary-adjacent pastels",
+      "furniture": [
+        "student desks",
+        "teacher's desk",
+        "chalkboard/whiteboard"
+      ],
+      "important_objects": [],
+      "lighting_baseline": "bright even daytime classroom light",
+      "time_variants": {},
+      "reference_assets": null,
+      "gemini_compact_location_lock": "Bright cheerful classroom, small wooden desks, colorful wall displays, even daytime light, family-friendly 3D animated interior.",
+      "approval_status": "DRAFT",
+      "version": "1.0",
+      "source": "Built 2026-08-05, justified by school-setting conflicts already in conflict_library.json (cf_034, cf_046, cf_008)."
+    },
+    {
+      "location_id": "loc_neighborhood_park",
+      "name": "Neighborhood Park/Playground",
+      "canonical_description": "Friendly neighborhood playground, used in playground-setting conflicts.",
+      "layout": "Open grassy area, playground equipment.",
+      "architecture": "Outdoor park.",
+      "materials": "Grass, playground equipment (swings, etc.).",
+      "color_palette": "bright natural greens, blue sky, warm sunlight",
+      "furniture": [
+        "swing set",
+        "bench"
+      ],
+      "important_objects": [],
+      "lighting_baseline": "bright natural daylight",
+      "time_variants": {},
+      "reference_assets": null,
+      "gemini_compact_location_lock": "Friendly neighborhood park, grassy area, playground swings, bright natural daylight, family-friendly 3D animated exterior.",
+      "approval_status": "DRAFT",
+      "version": "1.0",
+      "source": "Built 2026-08-05, justified by playground conflicts (cf_009, cf_047, cf_054)."
+    }
+  ]
+}

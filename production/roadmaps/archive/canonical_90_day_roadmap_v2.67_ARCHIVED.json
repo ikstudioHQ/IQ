@@ -1,0 +1,5348 @@
+{
+  "schema_version": "2.67",
+  "brand": "Islamic Kids Studio",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "scope": "90-day canonical ROADMAP; not 90 completed scripts",
+  "episodes": [
+    {
+      "day": 1,
+      "episode_id": "ep_001",
+      "title": "Learning Charity — A classmate has less than you at lunchtime",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_001",
+      "educational_islamic_concept": "concept_charity",
+      "curriculum_topic_reference": "topic_001",
+      "evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [],
+      "story_objective": "Children can name one way to help someone who has less.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "school"
+      ],
+      "conflict_id": "cf_034",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can name one way to help someone who has less.",
+      "opening_state": {
+        "inherits_from": null,
+        "arc": "arc_01"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_charity",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_01"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_002.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 2,
+      "episode_id": "ep_002",
+      "title": "Learning Charity — Wanting to donate a favorite (not just spare) toy",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_002",
+      "educational_islamic_concept": "concept_charity",
+      "curriculum_topic_reference": "topic_002",
+      "evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_001"
+      ],
+      "story_objective": "Children can name one way to help someone who has less.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_056",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can name one way to help someone who has less.",
+      "opening_state": {
+        "inherits_from": "ep_001.ending_state",
+        "arc": "arc_01"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_charity",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_01"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_003.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 3,
+      "episode_id": "ep_003",
+      "title": "Learning Good Speech — A friend saying something unkind by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_003",
+      "educational_islamic_concept": "concept_good_speech",
+      "curriculum_topic_reference": "topic_003",
+      "evidence_ids": [
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_002"
+      ],
+      "story_objective": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_025",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "opening_state": {
+        "inherits_from": "ep_002.ending_state",
+        "arc": "arc_01"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_good_speech",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_01"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_004.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 4,
+      "episode_id": "ep_004",
+      "title": "Learning Good Speech — Wanting to interrupt while someone else is talking",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_004",
+      "educational_islamic_concept": "concept_good_speech",
+      "curriculum_topic_reference": "topic_004",
+      "evidence_ids": [
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_003"
+      ],
+      "story_objective": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home/mosque"
+      ],
+      "conflict_id": "cf_035",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "opening_state": {
+        "inherits_from": "ep_003.ending_state",
+        "arc": "arc_01"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_good_speech",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_01"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_005.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_002",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 5,
+      "episode_id": "ep_005",
+      "title": "Learning Patience — Losing a game and feeling upset",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_005",
+      "educational_islamic_concept": "concept_patience",
+      "curriculum_topic_reference": "topic_005",
+      "evidence_ids": [
+        "qv_007"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_004"
+      ],
+      "story_objective": "Children can wait their turn calmly and name it as sabr.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_023",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can wait their turn calmly and name it as sabr.",
+      "opening_state": {
+        "inherits_from": "ep_004.ending_state",
+        "arc": "arc_01"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_patience",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_01"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_006.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 6,
+      "episode_id": "ep_006",
+      "title": "Learning Patience — Waiting your turn in a long line at the mosque or store",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_006",
+      "educational_islamic_concept": "concept_patience",
+      "curriculum_topic_reference": "topic_006",
+      "evidence_ids": [
+        "qv_007"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_005"
+      ],
+      "story_objective": "Children can wait their turn calmly and name it as sabr.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "mosque/market"
+      ],
+      "conflict_id": "cf_054",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can wait their turn calmly and name it as sabr.",
+      "opening_state": {
+        "inherits_from": "ep_005.ending_state",
+        "arc": "arc_01"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_patience",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_01"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_007.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 7,
+      "episode_id": "ep_007",
+      "title": "Learning Forgiveness — A friend saying something unkind by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_007",
+      "educational_islamic_concept": "concept_forgiveness",
+      "curriculum_topic_reference": "topic_007",
+      "evidence_ids": [
+        "qv_008"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_006"
+      ],
+      "story_objective": "Children can describe forgiving a friend after a small mistake.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_025",
+      "emotional_arc": "relief → choice → reflection → warm resolution",
+      "lesson": "Children can describe forgiving a friend after a small mistake.",
+      "opening_state": {
+        "inherits_from": "ep_006.ending_state",
+        "arc": "arc_01"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_forgiveness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_01"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_008.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 8,
+      "episode_id": "ep_008",
+      "title": "Learning Forgiveness — A sibling breaking something of yours by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_008",
+      "educational_islamic_concept": "concept_forgiveness",
+      "curriculum_topic_reference": "topic_008",
+      "evidence_ids": [
+        "qv_008"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_007"
+      ],
+      "story_objective": "Children can describe forgiving a friend after a small mistake.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_019",
+      "emotional_arc": "relief → choice → reflection → warm resolution",
+      "lesson": "Children can describe forgiving a friend after a small mistake.",
+      "opening_state": {
+        "inherits_from": "ep_007.ending_state",
+        "arc": "arc_01"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_forgiveness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_01"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_009.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_003",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 9,
+      "episode_id": "ep_009",
+      "title": "Learning Community — A family member is sick and routines change",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_009",
+      "educational_islamic_concept": "concept_community",
+      "curriculum_topic_reference": "topic_009",
+      "evidence_ids": [
+        "qv_016",
+        "hd_012"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_008"
+      ],
+      "story_objective": "Children can describe helping someone outside their immediate family.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_040",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe helping someone outside their immediate family.",
+      "opening_state": {
+        "inherits_from": "ep_008.ending_state",
+        "arc": "arc_01"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_community",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_01"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_010.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 10,
+      "episode_id": "ep_010",
+      "title": "Learning Community — Wanting to skip helping set up for a family gathering",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_010",
+      "educational_islamic_concept": "concept_community",
+      "curriculum_topic_reference": "topic_010",
+      "evidence_ids": [
+        "qv_016",
+        "hd_012"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_009"
+      ],
+      "story_objective": "Children can describe helping someone outside their immediate family.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "family gathering"
+      ],
+      "conflict_id": "cf_041",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe helping someone outside their immediate family.",
+      "opening_state": {
+        "inherits_from": "ep_009.ending_state",
+        "arc": "arc_01"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_community",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_01"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_011.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 11,
+      "episode_id": "ep_011",
+      "title": "Learning Honesty — Breaking a small promise by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_011",
+      "educational_islamic_concept": "concept_honesty",
+      "curriculum_topic_reference": "topic_011",
+      "evidence_ids": [
+        "hd_005",
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_010"
+      ],
+      "story_objective": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_003",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "opening_state": {
+        "inherits_from": "ep_010.ending_state",
+        "arc": "arc_02"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_honesty",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_02"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_012.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 12,
+      "episode_id": "ep_012",
+      "title": "Learning Honesty — Sharing toys with a sibling or friend",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_012",
+      "educational_islamic_concept": "concept_honesty",
+      "curriculum_topic_reference": "topic_012",
+      "evidence_ids": [
+        "hd_005",
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_011"
+      ],
+      "story_objective": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_002",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "opening_state": {
+        "inherits_from": "ep_011.ending_state",
+        "arc": "arc_02"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_honesty",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_02"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_013.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_004",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 13,
+      "episode_id": "ep_013",
+      "title": "Learning Mercy — Spilling something and worrying about getting in trouble",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_013",
+      "educational_islamic_concept": "concept_mercy",
+      "curriculum_topic_reference": "topic_013",
+      "evidence_ids": [
+        "hd_014",
+        "hd_003"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_012"
+      ],
+      "story_objective": "Children can describe showing gentleness to someone who was upset.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_017",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe showing gentleness to someone who was upset.",
+      "opening_state": {
+        "inherits_from": "ep_012.ending_state",
+        "arc": "arc_02"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_mercy",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_02"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_014.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 14,
+      "episode_id": "ep_014",
+      "title": "Learning Mercy — A friend is mean to a smaller or younger child",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_014",
+      "educational_islamic_concept": "concept_mercy",
+      "curriculum_topic_reference": "topic_014",
+      "evidence_ids": [
+        "hd_014",
+        "hd_003"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_013"
+      ],
+      "story_objective": "Children can describe showing gentleness to someone who was upset.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "playground"
+      ],
+      "conflict_id": "cf_055",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe showing gentleness to someone who was upset.",
+      "opening_state": {
+        "inherits_from": "ep_013.ending_state",
+        "arc": "arc_02"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_mercy",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_02"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_015.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 15,
+      "episode_id": "ep_015",
+      "title": "Learning Trustworthiness — A sibling breaking something of yours by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_015",
+      "educational_islamic_concept": "concept_trustworthiness",
+      "curriculum_topic_reference": "topic_015",
+      "evidence_ids": [
+        "qv_009"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_014"
+      ],
+      "story_objective": "Children can describe returning a borrowed item carefully.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_019",
+      "emotional_arc": "relief → choice → reflection → warm resolution",
+      "lesson": "Children can describe returning a borrowed item carefully.",
+      "opening_state": {
+        "inherits_from": "ep_014.ending_state",
+        "arc": "arc_02"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_trustworthiness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_02"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_016.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 16,
+      "episode_id": "ep_016",
+      "title": "Learning Trustworthiness — Wanting to keep playing with new friend's toy a bit too long",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_016",
+      "educational_islamic_concept": "concept_trustworthiness",
+      "curriculum_topic_reference": "topic_016",
+      "evidence_ids": [
+        "qv_009"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_015"
+      ],
+      "story_objective": "Children can describe returning a borrowed item carefully.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "playground/school"
+      ],
+      "conflict_id": "cf_050",
+      "emotional_arc": "relief → choice → reflection → warm resolution",
+      "lesson": "Children can describe returning a borrowed item carefully.",
+      "opening_state": {
+        "inherits_from": "ep_015.ending_state",
+        "arc": "arc_02"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_trustworthiness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_02"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_017.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_005",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 17,
+      "episode_id": "ep_017",
+      "title": "Learning Prayer — Being asked to pray while in the middle of fun play",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_017",
+      "educational_islamic_concept": "concept_prayer",
+      "curriculum_topic_reference": "topic_017",
+      "evidence_ids": [
+        "qv_012"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_016"
+      ],
+      "story_objective": "Children can name one of the five daily prayers.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_032",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can name one of the five daily prayers.",
+      "opening_state": {
+        "inherits_from": "ep_016.ending_state",
+        "arc": "arc_02"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_prayer",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_02"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_018.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 18,
+      "episode_id": "ep_018",
+      "title": "Learning Prayer — Wanting to skip prayer to finish watching something",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_018",
+      "educational_islamic_concept": "concept_prayer",
+      "curriculum_topic_reference": "topic_018",
+      "evidence_ids": [
+        "qv_012"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_017"
+      ],
+      "story_objective": "Children can name one of the five daily prayers.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_051",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can name one of the five daily prayers.",
+      "opening_state": {
+        "inherits_from": "ep_017.ending_state",
+        "arc": "arc_02"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_prayer",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_02"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_019.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 19,
+      "episode_id": "ep_019",
+      "title": "Learning Perseverance — Losing a game and feeling upset",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_019",
+      "educational_islamic_concept": "concept_perseverance",
+      "curriculum_topic_reference": "topic_019",
+      "evidence_ids": [
+        "qv_015"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_018"
+      ],
+      "story_objective": "Children can describe trying again after not succeeding the first time.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_023",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe trying again after not succeeding the first time.",
+      "opening_state": {
+        "inherits_from": "ep_018.ending_state",
+        "arc": "arc_02"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_perseverance",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_02"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_020.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 20,
+      "episode_id": "ep_020",
+      "title": "Learning Perseverance — A teacher assigns a difficult task and character wants to give up",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_020",
+      "educational_islamic_concept": "concept_perseverance",
+      "curriculum_topic_reference": "topic_020",
+      "evidence_ids": [
+        "qv_015"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_019"
+      ],
+      "story_objective": "Children can describe trying again after not succeeding the first time.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "school"
+      ],
+      "conflict_id": "cf_046",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe trying again after not succeeding the first time.",
+      "opening_state": {
+        "inherits_from": "ep_019.ending_state",
+        "arc": "arc_02"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_perseverance",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_02"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_021.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_006",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 21,
+      "episode_id": "ep_021",
+      "title": "Learning Courage — Feeling scared to try something new, like swimming",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_021",
+      "educational_islamic_concept": "concept_courage",
+      "curriculum_topic_reference": "topic_021",
+      "evidence_ids": [
+        "qv_013"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_020"
+      ],
+      "story_objective": "Children can describe trying something new even though it felt scary.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_026",
+      "emotional_arc": "curiosity → choice → reflection → warm resolution",
+      "lesson": "Children can describe trying something new even though it felt scary.",
+      "opening_state": {
+        "inherits_from": "ep_020.ending_state",
+        "arc": "arc_03"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_courage",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_03"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_022.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 22,
+      "episode_id": "ep_022",
+      "title": "Learning Courage — Being scared during a thunderstorm at night",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_022",
+      "educational_islamic_concept": "concept_courage",
+      "curriculum_topic_reference": "topic_022",
+      "evidence_ids": [
+        "qv_013"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_021"
+      ],
+      "story_objective": "Children can describe trying something new even though it felt scary.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_045",
+      "emotional_arc": "curiosity → choice → reflection → warm resolution",
+      "lesson": "Children can describe trying something new even though it felt scary.",
+      "opening_state": {
+        "inherits_from": "ep_021.ending_state",
+        "arc": "arc_03"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_courage",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_03"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_023.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 23,
+      "episode_id": "ep_023",
+      "title": "Learning Friendship / Brotherhood — A friend from a different background joins the class",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_023",
+      "educational_islamic_concept": "concept_friendship",
+      "curriculum_topic_reference": "topic_023",
+      "evidence_ids": [
+        "hd_008"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_022"
+      ],
+      "story_objective": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "school"
+      ],
+      "conflict_id": "cf_036",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "opening_state": {
+        "inherits_from": "ep_022.ending_state",
+        "arc": "arc_03"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_friendship",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_03"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_024.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 24,
+      "episode_id": "ep_024",
+      "title": "Learning Friendship / Brotherhood — Two friends both want to lead the same game",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_024",
+      "educational_islamic_concept": "concept_friendship",
+      "curriculum_topic_reference": "topic_024",
+      "evidence_ids": [
+        "hd_008"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_023"
+      ],
+      "story_objective": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "playground"
+      ],
+      "conflict_id": "cf_047",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "opening_state": {
+        "inherits_from": "ep_023.ending_state",
+        "arc": "arc_03"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_friendship",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_03"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_025.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_007",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 25,
+      "episode_id": "ep_025",
+      "title": "Learning Respect for Parents — Helping a grandparent with a small task",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_025",
+      "educational_islamic_concept": "concept_respect_for_parents",
+      "curriculum_topic_reference": "topic_025",
+      "evidence_ids": [
+        "hd_001",
+        "hd_004"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_024"
+      ],
+      "story_objective": "Children can describe one way they helped a parent this week.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_005",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can describe one way they helped a parent this week.",
+      "opening_state": {
+        "inherits_from": "ep_024.ending_state",
+        "arc": "arc_03"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_respect_for_parents",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_03"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_026.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 26,
+      "episode_id": "ep_026",
+      "title": "Learning Respect for Parents — Parents say no to something reasonable-seeming and character feels it's unfair",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_026",
+      "educational_islamic_concept": "concept_respect_for_parents",
+      "curriculum_topic_reference": "topic_026",
+      "evidence_ids": [
+        "hd_001",
+        "hd_004"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_025"
+      ],
+      "story_objective": "Children can describe one way they helped a parent this week.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_053",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can describe one way they helped a parent this week.",
+      "opening_state": {
+        "inherits_from": "ep_025.ending_state",
+        "arc": "arc_03"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_respect_for_parents",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_03"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_027.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 27,
+      "episode_id": "ep_027",
+      "title": "Learning Tawakkul — Lost toy",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_027",
+      "educational_islamic_concept": "concept_tawakkul",
+      "curriculum_topic_reference": "topic_027",
+      "evidence_ids": [
+        "qv_004",
+        "qv_005",
+        "dua_005",
+        "dua_006"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_026"
+      ],
+      "story_objective": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_001",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "opening_state": {
+        "inherits_from": "ep_026.ending_state",
+        "arc": "arc_03"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_tawakkul",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_03"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_028.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 28,
+      "episode_id": "ep_028",
+      "title": "Learning Tawakkul — Waiting impatiently for something",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_028",
+      "educational_islamic_concept": "concept_tawakkul",
+      "curriculum_topic_reference": "topic_028",
+      "evidence_ids": [
+        "qv_004",
+        "qv_005",
+        "dua_005",
+        "dua_006"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_027"
+      ],
+      "story_objective": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_004",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "opening_state": {
+        "inherits_from": "ep_027.ending_state",
+        "arc": "arc_03"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_tawakkul",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_03"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_029.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_008",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 29,
+      "episode_id": "ep_029",
+      "title": "Learning Humility — Winning a game and bragging about it",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_029",
+      "educational_islamic_concept": "concept_humility",
+      "curriculum_topic_reference": "topic_029",
+      "evidence_ids": [
+        "qv_014"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_028"
+      ],
+      "story_objective": "Children can describe being humble after doing well at something.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "playground"
+      ],
+      "conflict_id": "cf_031",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe being humble after doing well at something.",
+      "opening_state": {
+        "inherits_from": "ep_028.ending_state",
+        "arc": "arc_03"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_humility",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_03"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_030.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 30,
+      "episode_id": "ep_030",
+      "title": "Learning Humility — A sibling gets praised for something you also did quietly",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_030",
+      "educational_islamic_concept": "concept_humility",
+      "curriculum_topic_reference": "topic_030",
+      "evidence_ids": [
+        "qv_014"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_029"
+      ],
+      "story_objective": "Children can describe being humble after doing well at something.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_049",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe being humble after doing well at something.",
+      "opening_state": {
+        "inherits_from": "ep_029.ending_state",
+        "arc": "arc_03"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_humility",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_03"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_031.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 31,
+      "episode_id": "ep_031",
+      "title": "Learning Self-Control — Losing a game and feeling upset",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_031",
+      "educational_islamic_concept": "concept_self_control",
+      "curriculum_topic_reference": "topic_031",
+      "evidence_ids": [
+        "hd_006",
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_030"
+      ],
+      "story_objective": "Children can describe staying calm during a frustrating moment.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_023",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe staying calm during a frustrating moment.",
+      "opening_state": {
+        "inherits_from": "ep_030.ending_state",
+        "arc": "arc_04"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_self_control",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_04"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_032.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 32,
+      "episode_id": "ep_032",
+      "title": "Learning Self-Control — Being offered something haram-adjacent innocently by a friend (e.g. food with unclear ingredients)",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_032",
+      "educational_islamic_concept": "concept_self_control",
+      "curriculum_topic_reference": "topic_032",
+      "evidence_ids": [
+        "hd_006",
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_031"
+      ],
+      "story_objective": "Children can describe staying calm during a frustrating moment.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "school/playground"
+      ],
+      "conflict_id": "cf_048",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe staying calm during a frustrating moment.",
+      "opening_state": {
+        "inherits_from": "ep_031.ending_state",
+        "arc": "arc_04"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_self_control",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_04"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_033.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_009",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 33,
+      "episode_id": "ep_033",
+      "title": "Learning Generosity — Not wanting to share the last snack",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_033",
+      "educational_islamic_concept": "concept_generosity",
+      "curriculum_topic_reference": "topic_033",
+      "evidence_ids": [
+        "hd_007"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_032"
+      ],
+      "story_objective": "Children can name something they shared and how it felt.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_018",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can name something they shared and how it felt.",
+      "opening_state": {
+        "inherits_from": "ep_032.ending_state",
+        "arc": "arc_04"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_generosity",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_04"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_034.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 34,
+      "episode_id": "ep_034",
+      "title": "Learning Generosity — Not wanting to clean up after playing",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_034",
+      "educational_islamic_concept": "concept_generosity",
+      "curriculum_topic_reference": "topic_034",
+      "evidence_ids": [
+        "hd_007"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_033"
+      ],
+      "story_objective": "Children can name something they shared and how it felt.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_006",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can name something they shared and how it felt.",
+      "opening_state": {
+        "inherits_from": "ep_033.ending_state",
+        "arc": "arc_04"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_generosity",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_04"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_035.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 35,
+      "episode_id": "ep_035",
+      "title": "Learning Compassion for Animals — A stray animal needing gentle help",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_035",
+      "educational_islamic_concept": "concept_compassion_for_animals",
+      "curriculum_topic_reference": "topic_035",
+      "evidence_ids": [
+        "hd_011"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_034"
+      ],
+      "story_objective": "Children can describe a kind way to treat an animal.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_029",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can describe a kind way to treat an animal.",
+      "opening_state": {
+        "inherits_from": "ep_034.ending_state",
+        "arc": "arc_04"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_compassion_for_animals",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_04"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_036.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 36,
+      "episode_id": "ep_036",
+      "title": "Learning Compassion for Animals — A pet needs feeding but character is busy playing",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_036",
+      "educational_islamic_concept": "concept_compassion_for_animals",
+      "curriculum_topic_reference": "topic_036",
+      "evidence_ids": [
+        "hd_011"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_035"
+      ],
+      "story_objective": "Children can describe a kind way to treat an animal.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_038",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can describe a kind way to treat an animal.",
+      "opening_state": {
+        "inherits_from": "ep_035.ending_state",
+        "arc": "arc_04"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_compassion_for_animals",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_04"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_037.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_010",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 37,
+      "episode_id": "ep_037",
+      "title": "Learning Kindness — Finding a lost kitten or animal",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_037",
+      "educational_islamic_concept": "concept_kindness",
+      "curriculum_topic_reference": "topic_037",
+      "evidence_ids": [
+        "hd_001",
+        "hd_003"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_036"
+      ],
+      "story_objective": "Children can describe one kind thing they did for someone.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_009",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can describe one kind thing they did for someone.",
+      "opening_state": {
+        "inherits_from": "ep_036.ending_state",
+        "arc": "arc_04"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_kindness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_04"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_038.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 38,
+      "episode_id": "ep_038",
+      "title": "Learning Kindness — Wanting a toy that isn't yours at a store",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_038",
+      "educational_islamic_concept": "concept_kindness",
+      "curriculum_topic_reference": "topic_038",
+      "evidence_ids": [
+        "hd_001",
+        "hd_003"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_037"
+      ],
+      "story_objective": "Children can describe one kind thing they did for someone.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_014",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can describe one kind thing they did for someone.",
+      "opening_state": {
+        "inherits_from": "ep_037.ending_state",
+        "arc": "arc_04"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_kindness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_04"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_039.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 39,
+      "episode_id": "ep_039",
+      "title": "Learning Cleanliness — Not wanting to wash hands or brush teeth",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_039",
+      "educational_islamic_concept": "concept_cleanliness",
+      "curriculum_topic_reference": "topic_039",
+      "evidence_ids": [
+        "qv_010",
+        "hd_009"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_038"
+      ],
+      "story_objective": "Children can describe washing hands before eating and why.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_033",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe washing hands before eating and why.",
+      "opening_state": {
+        "inherits_from": "ep_038.ending_state",
+        "arc": "arc_04"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_cleanliness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_04"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_040.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 40,
+      "episode_id": "ep_040",
+      "title": "Learning Cleanliness — Getting frustrated during wudu because it's cold or slow",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_040",
+      "educational_islamic_concept": "concept_cleanliness",
+      "curriculum_topic_reference": "topic_040",
+      "evidence_ids": [
+        "qv_010",
+        "hd_009"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_039"
+      ],
+      "story_objective": "Children can describe washing hands before eating and why.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home/mosque"
+      ],
+      "conflict_id": "cf_037",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe washing hands before eating and why.",
+      "opening_state": {
+        "inherits_from": "ep_039.ending_state",
+        "arc": "arc_04"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_cleanliness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_04"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_041.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_011",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 41,
+      "episode_id": "ep_041",
+      "title": "Learning Gratitude — Helping a grandparent with a small task",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_041",
+      "educational_islamic_concept": "concept_gratitude",
+      "curriculum_topic_reference": "topic_041",
+      "evidence_ids": [
+        "qv_001",
+        "dua_003",
+        "dua_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_040"
+      ],
+      "story_objective": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_005",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "opening_state": {
+        "inherits_from": "ep_040.ending_state",
+        "arc": "arc_05"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_gratitude",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_05"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_042.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 42,
+      "episode_id": "ep_042",
+      "title": "Learning Gratitude — Meeting a new friend at school",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_042",
+      "educational_islamic_concept": "concept_gratitude",
+      "curriculum_topic_reference": "topic_042",
+      "evidence_ids": [
+        "qv_001",
+        "dua_003",
+        "dua_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_041"
+      ],
+      "story_objective": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_008",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "opening_state": {
+        "inherits_from": "ep_041.ending_state",
+        "arc": "arc_05"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_gratitude",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_05"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_043.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 43,
+      "episode_id": "ep_043",
+      "title": "Learning Justice — Breaking a small promise by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_043",
+      "educational_islamic_concept": "concept_justice",
+      "curriculum_topic_reference": "topic_043",
+      "evidence_ids": [
+        "qv_006",
+        "hd_013"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_042"
+      ],
+      "story_objective": "Children can describe a fair way to solve a disagreement.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_003",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe a fair way to solve a disagreement.",
+      "opening_state": {
+        "inherits_from": "ep_042.ending_state",
+        "arc": "arc_05"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_justice",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_05"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_044.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 44,
+      "episode_id": "ep_044",
+      "title": "Learning Justice — Parents say no to something reasonable-seeming and character feels it's unfair",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_044",
+      "educational_islamic_concept": "concept_justice",
+      "curriculum_topic_reference": "topic_044",
+      "evidence_ids": [
+        "qv_006",
+        "hd_013"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_043"
+      ],
+      "story_objective": "Children can describe a fair way to solve a disagreement.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_053",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe a fair way to solve a disagreement.",
+      "opening_state": {
+        "inherits_from": "ep_043.ending_state",
+        "arc": "arc_05"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_justice",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_05"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_045.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_012",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 45,
+      "episode_id": "ep_045",
+      "title": "Learning Charity — A classmate has less than you at lunchtime",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_001",
+      "educational_islamic_concept": "concept_charity",
+      "curriculum_topic_reference": "topic_001",
+      "evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_044"
+      ],
+      "story_objective": "Children can name one way to help someone who has less.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "school"
+      ],
+      "conflict_id": "cf_034",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can name one way to help someone who has less.",
+      "opening_state": {
+        "inherits_from": "ep_044.ending_state",
+        "arc": "arc_05"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_charity",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_05"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_046.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 46,
+      "episode_id": "ep_046",
+      "title": "Learning Charity — Wanting to donate a favorite (not just spare) toy",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_002",
+      "educational_islamic_concept": "concept_charity",
+      "curriculum_topic_reference": "topic_002",
+      "evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_045"
+      ],
+      "story_objective": "Children can name one way to help someone who has less.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_056",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can name one way to help someone who has less.",
+      "opening_state": {
+        "inherits_from": "ep_045.ending_state",
+        "arc": "arc_05"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_charity",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_05"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_047.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 47,
+      "episode_id": "ep_047",
+      "title": "Learning Good Speech — A friend saying something unkind by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_003",
+      "educational_islamic_concept": "concept_good_speech",
+      "curriculum_topic_reference": "topic_003",
+      "evidence_ids": [
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_046"
+      ],
+      "story_objective": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_025",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "opening_state": {
+        "inherits_from": "ep_046.ending_state",
+        "arc": "arc_05"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_good_speech",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_05"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_048.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 48,
+      "episode_id": "ep_048",
+      "title": "Learning Good Speech — Wanting to interrupt while someone else is talking",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_004",
+      "educational_islamic_concept": "concept_good_speech",
+      "curriculum_topic_reference": "topic_004",
+      "evidence_ids": [
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_047"
+      ],
+      "story_objective": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home/mosque"
+      ],
+      "conflict_id": "cf_035",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "opening_state": {
+        "inherits_from": "ep_047.ending_state",
+        "arc": "arc_05"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_good_speech",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_05"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_049.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_013",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 49,
+      "episode_id": "ep_049",
+      "title": "Learning Patience — Losing a game and feeling upset",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_005",
+      "educational_islamic_concept": "concept_patience",
+      "curriculum_topic_reference": "topic_005",
+      "evidence_ids": [
+        "qv_007"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_048"
+      ],
+      "story_objective": "Children can wait their turn calmly and name it as sabr.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_023",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can wait their turn calmly and name it as sabr.",
+      "opening_state": {
+        "inherits_from": "ep_048.ending_state",
+        "arc": "arc_05"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_patience",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_05"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_050.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 50,
+      "episode_id": "ep_050",
+      "title": "Learning Patience — Waiting your turn in a long line at the mosque or store",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_006",
+      "educational_islamic_concept": "concept_patience",
+      "curriculum_topic_reference": "topic_006",
+      "evidence_ids": [
+        "qv_007"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_049"
+      ],
+      "story_objective": "Children can wait their turn calmly and name it as sabr.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "mosque/market"
+      ],
+      "conflict_id": "cf_054",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can wait their turn calmly and name it as sabr.",
+      "opening_state": {
+        "inherits_from": "ep_049.ending_state",
+        "arc": "arc_05"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_patience",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_05"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_051.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 51,
+      "episode_id": "ep_051",
+      "title": "Learning Forgiveness — A friend saying something unkind by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_007",
+      "educational_islamic_concept": "concept_forgiveness",
+      "curriculum_topic_reference": "topic_007",
+      "evidence_ids": [
+        "qv_008"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_050"
+      ],
+      "story_objective": "Children can describe forgiving a friend after a small mistake.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_025",
+      "emotional_arc": "relief → choice → reflection → warm resolution",
+      "lesson": "Children can describe forgiving a friend after a small mistake.",
+      "opening_state": {
+        "inherits_from": "ep_050.ending_state",
+        "arc": "arc_06"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_forgiveness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_06"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_052.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 52,
+      "episode_id": "ep_052",
+      "title": "Learning Forgiveness — A sibling breaking something of yours by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_008",
+      "educational_islamic_concept": "concept_forgiveness",
+      "curriculum_topic_reference": "topic_008",
+      "evidence_ids": [
+        "qv_008"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_051"
+      ],
+      "story_objective": "Children can describe forgiving a friend after a small mistake.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_019",
+      "emotional_arc": "relief → choice → reflection → warm resolution",
+      "lesson": "Children can describe forgiving a friend after a small mistake.",
+      "opening_state": {
+        "inherits_from": "ep_051.ending_state",
+        "arc": "arc_06"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_forgiveness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_06"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_053.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_014",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 53,
+      "episode_id": "ep_053",
+      "title": "Learning Community — A family member is sick and routines change",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_009",
+      "educational_islamic_concept": "concept_community",
+      "curriculum_topic_reference": "topic_009",
+      "evidence_ids": [
+        "qv_016",
+        "hd_012"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_052"
+      ],
+      "story_objective": "Children can describe helping someone outside their immediate family.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_040",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe helping someone outside their immediate family.",
+      "opening_state": {
+        "inherits_from": "ep_052.ending_state",
+        "arc": "arc_06"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_community",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_06"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_054.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 54,
+      "episode_id": "ep_054",
+      "title": "Learning Community — Wanting to skip helping set up for a family gathering",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_010",
+      "educational_islamic_concept": "concept_community",
+      "curriculum_topic_reference": "topic_010",
+      "evidence_ids": [
+        "qv_016",
+        "hd_012"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_053"
+      ],
+      "story_objective": "Children can describe helping someone outside their immediate family.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "family gathering"
+      ],
+      "conflict_id": "cf_041",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe helping someone outside their immediate family.",
+      "opening_state": {
+        "inherits_from": "ep_053.ending_state",
+        "arc": "arc_06"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_community",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_06"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_055.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 55,
+      "episode_id": "ep_055",
+      "title": "Learning Honesty — Breaking a small promise by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_011",
+      "educational_islamic_concept": "concept_honesty",
+      "curriculum_topic_reference": "topic_011",
+      "evidence_ids": [
+        "hd_005",
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_054"
+      ],
+      "story_objective": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_003",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "opening_state": {
+        "inherits_from": "ep_054.ending_state",
+        "arc": "arc_06"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_honesty",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_06"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_056.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 56,
+      "episode_id": "ep_056",
+      "title": "Learning Honesty — Sharing toys with a sibling or friend",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_012",
+      "educational_islamic_concept": "concept_honesty",
+      "curriculum_topic_reference": "topic_012",
+      "evidence_ids": [
+        "hd_005",
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_055"
+      ],
+      "story_objective": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_002",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "opening_state": {
+        "inherits_from": "ep_055.ending_state",
+        "arc": "arc_06"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_honesty",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_06"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_057.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_015",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 57,
+      "episode_id": "ep_057",
+      "title": "Learning Mercy — Spilling something and worrying about getting in trouble",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_013",
+      "educational_islamic_concept": "concept_mercy",
+      "curriculum_topic_reference": "topic_013",
+      "evidence_ids": [
+        "hd_014",
+        "hd_003"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_056"
+      ],
+      "story_objective": "Children can describe showing gentleness to someone who was upset.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_017",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe showing gentleness to someone who was upset.",
+      "opening_state": {
+        "inherits_from": "ep_056.ending_state",
+        "arc": "arc_06"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_mercy",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_06"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_058.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 58,
+      "episode_id": "ep_058",
+      "title": "Learning Mercy — A friend is mean to a smaller or younger child",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_014",
+      "educational_islamic_concept": "concept_mercy",
+      "curriculum_topic_reference": "topic_014",
+      "evidence_ids": [
+        "hd_014",
+        "hd_003"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_057"
+      ],
+      "story_objective": "Children can describe showing gentleness to someone who was upset.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "playground"
+      ],
+      "conflict_id": "cf_055",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe showing gentleness to someone who was upset.",
+      "opening_state": {
+        "inherits_from": "ep_057.ending_state",
+        "arc": "arc_06"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_mercy",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_06"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_059.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 59,
+      "episode_id": "ep_059",
+      "title": "Learning Trustworthiness — A sibling breaking something of yours by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_015",
+      "educational_islamic_concept": "concept_trustworthiness",
+      "curriculum_topic_reference": "topic_015",
+      "evidence_ids": [
+        "qv_009"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_058"
+      ],
+      "story_objective": "Children can describe returning a borrowed item carefully.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_019",
+      "emotional_arc": "relief → choice → reflection → warm resolution",
+      "lesson": "Children can describe returning a borrowed item carefully.",
+      "opening_state": {
+        "inherits_from": "ep_058.ending_state",
+        "arc": "arc_06"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_trustworthiness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_06"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_060.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 60,
+      "episode_id": "ep_060",
+      "title": "Learning Trustworthiness — Wanting to keep playing with new friend's toy a bit too long",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_016",
+      "educational_islamic_concept": "concept_trustworthiness",
+      "curriculum_topic_reference": "topic_016",
+      "evidence_ids": [
+        "qv_009"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_059"
+      ],
+      "story_objective": "Children can describe returning a borrowed item carefully.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "playground/school"
+      ],
+      "conflict_id": "cf_050",
+      "emotional_arc": "relief → choice → reflection → warm resolution",
+      "lesson": "Children can describe returning a borrowed item carefully.",
+      "opening_state": {
+        "inherits_from": "ep_059.ending_state",
+        "arc": "arc_06"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_trustworthiness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_06"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_061.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_016",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 61,
+      "episode_id": "ep_061",
+      "title": "Learning Prayer — Being asked to pray while in the middle of fun play",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_017",
+      "educational_islamic_concept": "concept_prayer",
+      "curriculum_topic_reference": "topic_017",
+      "evidence_ids": [
+        "qv_012"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_060"
+      ],
+      "story_objective": "Children can name one of the five daily prayers.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_032",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can name one of the five daily prayers.",
+      "opening_state": {
+        "inherits_from": "ep_060.ending_state",
+        "arc": "arc_07"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_prayer",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_07"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_062.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 62,
+      "episode_id": "ep_062",
+      "title": "Learning Prayer — Wanting to skip prayer to finish watching something",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_018",
+      "educational_islamic_concept": "concept_prayer",
+      "curriculum_topic_reference": "topic_018",
+      "evidence_ids": [
+        "qv_012"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_061"
+      ],
+      "story_objective": "Children can name one of the five daily prayers.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_051",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can name one of the five daily prayers.",
+      "opening_state": {
+        "inherits_from": "ep_061.ending_state",
+        "arc": "arc_07"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_prayer",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_07"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_063.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 63,
+      "episode_id": "ep_063",
+      "title": "Learning Perseverance — Losing a game and feeling upset",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_019",
+      "educational_islamic_concept": "concept_perseverance",
+      "curriculum_topic_reference": "topic_019",
+      "evidence_ids": [
+        "qv_015"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_062"
+      ],
+      "story_objective": "Children can describe trying again after not succeeding the first time.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_023",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe trying again after not succeeding the first time.",
+      "opening_state": {
+        "inherits_from": "ep_062.ending_state",
+        "arc": "arc_07"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_perseverance",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_07"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_064.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 64,
+      "episode_id": "ep_064",
+      "title": "Learning Perseverance — A teacher assigns a difficult task and character wants to give up",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_020",
+      "educational_islamic_concept": "concept_perseverance",
+      "curriculum_topic_reference": "topic_020",
+      "evidence_ids": [
+        "qv_015"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_063"
+      ],
+      "story_objective": "Children can describe trying again after not succeeding the first time.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "school"
+      ],
+      "conflict_id": "cf_046",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe trying again after not succeeding the first time.",
+      "opening_state": {
+        "inherits_from": "ep_063.ending_state",
+        "arc": "arc_07"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_perseverance",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_07"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_065.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_017",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 65,
+      "episode_id": "ep_065",
+      "title": "Learning Courage — Feeling scared to try something new, like swimming",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_021",
+      "educational_islamic_concept": "concept_courage",
+      "curriculum_topic_reference": "topic_021",
+      "evidence_ids": [
+        "qv_013"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_064"
+      ],
+      "story_objective": "Children can describe trying something new even though it felt scary.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_026",
+      "emotional_arc": "curiosity → choice → reflection → warm resolution",
+      "lesson": "Children can describe trying something new even though it felt scary.",
+      "opening_state": {
+        "inherits_from": "ep_064.ending_state",
+        "arc": "arc_07"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_courage",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_07"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_066.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 66,
+      "episode_id": "ep_066",
+      "title": "Learning Courage — Being scared during a thunderstorm at night",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_022",
+      "educational_islamic_concept": "concept_courage",
+      "curriculum_topic_reference": "topic_022",
+      "evidence_ids": [
+        "qv_013"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_065"
+      ],
+      "story_objective": "Children can describe trying something new even though it felt scary.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_045",
+      "emotional_arc": "curiosity → choice → reflection → warm resolution",
+      "lesson": "Children can describe trying something new even though it felt scary.",
+      "opening_state": {
+        "inherits_from": "ep_065.ending_state",
+        "arc": "arc_07"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_courage",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_07"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_067.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 67,
+      "episode_id": "ep_067",
+      "title": "Learning Friendship / Brotherhood — A friend from a different background joins the class",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_023",
+      "educational_islamic_concept": "concept_friendship",
+      "curriculum_topic_reference": "topic_023",
+      "evidence_ids": [
+        "hd_008"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_066"
+      ],
+      "story_objective": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "school"
+      ],
+      "conflict_id": "cf_036",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "opening_state": {
+        "inherits_from": "ep_066.ending_state",
+        "arc": "arc_07"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_friendship",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_07"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_068.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 68,
+      "episode_id": "ep_068",
+      "title": "Learning Friendship / Brotherhood — Two friends both want to lead the same game",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_024",
+      "educational_islamic_concept": "concept_friendship",
+      "curriculum_topic_reference": "topic_024",
+      "evidence_ids": [
+        "hd_008"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_067"
+      ],
+      "story_objective": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "playground"
+      ],
+      "conflict_id": "cf_047",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "opening_state": {
+        "inherits_from": "ep_067.ending_state",
+        "arc": "arc_07"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_friendship",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_07"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_069.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_018",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 69,
+      "episode_id": "ep_069",
+      "title": "Learning Respect for Parents — Helping a grandparent with a small task",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_025",
+      "educational_islamic_concept": "concept_respect_for_parents",
+      "curriculum_topic_reference": "topic_025",
+      "evidence_ids": [
+        "hd_001",
+        "hd_004"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_068"
+      ],
+      "story_objective": "Children can describe one way they helped a parent this week.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_005",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can describe one way they helped a parent this week.",
+      "opening_state": {
+        "inherits_from": "ep_068.ending_state",
+        "arc": "arc_07"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_respect_for_parents",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_07"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_070.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 70,
+      "episode_id": "ep_070",
+      "title": "Learning Respect for Parents — Parents say no to something reasonable-seeming and character feels it's unfair",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_026",
+      "educational_islamic_concept": "concept_respect_for_parents",
+      "curriculum_topic_reference": "topic_026",
+      "evidence_ids": [
+        "hd_001",
+        "hd_004"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_069"
+      ],
+      "story_objective": "Children can describe one way they helped a parent this week.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_053",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can describe one way they helped a parent this week.",
+      "opening_state": {
+        "inherits_from": "ep_069.ending_state",
+        "arc": "arc_07"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_respect_for_parents",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_07"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_071.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 71,
+      "episode_id": "ep_071",
+      "title": "Learning Tawakkul — Lost toy",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_027",
+      "educational_islamic_concept": "concept_tawakkul",
+      "curriculum_topic_reference": "topic_027",
+      "evidence_ids": [
+        "qv_004",
+        "qv_005",
+        "dua_005",
+        "dua_006"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_070"
+      ],
+      "story_objective": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_001",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "opening_state": {
+        "inherits_from": "ep_070.ending_state",
+        "arc": "arc_08"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_tawakkul",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_08"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_072.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 72,
+      "episode_id": "ep_072",
+      "title": "Learning Tawakkul — Waiting impatiently for something",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_028",
+      "educational_islamic_concept": "concept_tawakkul",
+      "curriculum_topic_reference": "topic_028",
+      "evidence_ids": [
+        "qv_004",
+        "qv_005",
+        "dua_005",
+        "dua_006"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_071"
+      ],
+      "story_objective": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_004",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "opening_state": {
+        "inherits_from": "ep_071.ending_state",
+        "arc": "arc_08"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_tawakkul",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_08"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_073.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_019",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 73,
+      "episode_id": "ep_073",
+      "title": "Learning Humility — Winning a game and bragging about it",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_029",
+      "educational_islamic_concept": "concept_humility",
+      "curriculum_topic_reference": "topic_029",
+      "evidence_ids": [
+        "qv_014"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_072"
+      ],
+      "story_objective": "Children can describe being humble after doing well at something.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "playground"
+      ],
+      "conflict_id": "cf_031",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe being humble after doing well at something.",
+      "opening_state": {
+        "inherits_from": "ep_072.ending_state",
+        "arc": "arc_08"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_humility",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_08"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_074.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 74,
+      "episode_id": "ep_074",
+      "title": "Learning Humility — A sibling gets praised for something you also did quietly",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_030",
+      "educational_islamic_concept": "concept_humility",
+      "curriculum_topic_reference": "topic_030",
+      "evidence_ids": [
+        "qv_014"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_073"
+      ],
+      "story_objective": "Children can describe being humble after doing well at something.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_049",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe being humble after doing well at something.",
+      "opening_state": {
+        "inherits_from": "ep_073.ending_state",
+        "arc": "arc_08"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_humility",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_08"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_075.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 75,
+      "episode_id": "ep_075",
+      "title": "Learning Self-Control — Losing a game and feeling upset",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_031",
+      "educational_islamic_concept": "concept_self_control",
+      "curriculum_topic_reference": "topic_031",
+      "evidence_ids": [
+        "hd_006",
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_074"
+      ],
+      "story_objective": "Children can describe staying calm during a frustrating moment.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_023",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe staying calm during a frustrating moment.",
+      "opening_state": {
+        "inherits_from": "ep_074.ending_state",
+        "arc": "arc_08"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_self_control",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_08"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_076.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 76,
+      "episode_id": "ep_076",
+      "title": "Learning Self-Control — Being offered something haram-adjacent innocently by a friend (e.g. food with unclear ingredients)",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_032",
+      "educational_islamic_concept": "concept_self_control",
+      "curriculum_topic_reference": "topic_032",
+      "evidence_ids": [
+        "hd_006",
+        "hd_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_075"
+      ],
+      "story_objective": "Children can describe staying calm during a frustrating moment.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "school/playground"
+      ],
+      "conflict_id": "cf_048",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe staying calm during a frustrating moment.",
+      "opening_state": {
+        "inherits_from": "ep_075.ending_state",
+        "arc": "arc_08"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_self_control",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_08"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_077.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_020",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 77,
+      "episode_id": "ep_077",
+      "title": "Learning Generosity — Not wanting to share the last snack",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_033",
+      "educational_islamic_concept": "concept_generosity",
+      "curriculum_topic_reference": "topic_033",
+      "evidence_ids": [
+        "hd_007"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_076"
+      ],
+      "story_objective": "Children can name something they shared and how it felt.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_018",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can name something they shared and how it felt.",
+      "opening_state": {
+        "inherits_from": "ep_076.ending_state",
+        "arc": "arc_08"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_generosity",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_08"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_078.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 78,
+      "episode_id": "ep_078",
+      "title": "Learning Generosity — Not wanting to clean up after playing",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_034",
+      "educational_islamic_concept": "concept_generosity",
+      "curriculum_topic_reference": "topic_034",
+      "evidence_ids": [
+        "hd_007"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_077"
+      ],
+      "story_objective": "Children can name something they shared and how it felt.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_006",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can name something they shared and how it felt.",
+      "opening_state": {
+        "inherits_from": "ep_077.ending_state",
+        "arc": "arc_08"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_generosity",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_08"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_079.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 79,
+      "episode_id": "ep_079",
+      "title": "Learning Compassion for Animals — A stray animal needing gentle help",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_035",
+      "educational_islamic_concept": "concept_compassion_for_animals",
+      "curriculum_topic_reference": "topic_035",
+      "evidence_ids": [
+        "hd_011"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_078"
+      ],
+      "story_objective": "Children can describe a kind way to treat an animal.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_029",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can describe a kind way to treat an animal.",
+      "opening_state": {
+        "inherits_from": "ep_078.ending_state",
+        "arc": "arc_08"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_compassion_for_animals",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_08"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_080.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 80,
+      "episode_id": "ep_080",
+      "title": "Learning Compassion for Animals — A pet needs feeding but character is busy playing",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_036",
+      "educational_islamic_concept": "concept_compassion_for_animals",
+      "curriculum_topic_reference": "topic_036",
+      "evidence_ids": [
+        "hd_011"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_079"
+      ],
+      "story_objective": "Children can describe a kind way to treat an animal.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_038",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can describe a kind way to treat an animal.",
+      "opening_state": {
+        "inherits_from": "ep_079.ending_state",
+        "arc": "arc_08"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_compassion_for_animals",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_08"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_081.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_001",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 81,
+      "episode_id": "ep_081",
+      "title": "Learning Kindness — Finding a lost kitten or animal",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_037",
+      "educational_islamic_concept": "concept_kindness",
+      "curriculum_topic_reference": "topic_037",
+      "evidence_ids": [
+        "hd_001",
+        "hd_003"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_080"
+      ],
+      "story_objective": "Children can describe one kind thing they did for someone.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_009",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can describe one kind thing they did for someone.",
+      "opening_state": {
+        "inherits_from": "ep_080.ending_state",
+        "arc": "arc_09"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_kindness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_09"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_082.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 82,
+      "episode_id": "ep_082",
+      "title": "Learning Kindness — Wanting a toy that isn't yours at a store",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_038",
+      "educational_islamic_concept": "concept_kindness",
+      "curriculum_topic_reference": "topic_038",
+      "evidence_ids": [
+        "hd_001",
+        "hd_003"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_081"
+      ],
+      "story_objective": "Children can describe one kind thing they did for someone.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_014",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can describe one kind thing they did for someone.",
+      "opening_state": {
+        "inherits_from": "ep_081.ending_state",
+        "arc": "arc_09"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_kindness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_09"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_083.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 83,
+      "episode_id": "ep_083",
+      "title": "Learning Cleanliness — Not wanting to wash hands or brush teeth",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_039",
+      "educational_islamic_concept": "concept_cleanliness",
+      "curriculum_topic_reference": "topic_039",
+      "evidence_ids": [
+        "qv_010",
+        "hd_009"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_082"
+      ],
+      "story_objective": "Children can describe washing hands before eating and why.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_033",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe washing hands before eating and why.",
+      "opening_state": {
+        "inherits_from": "ep_082.ending_state",
+        "arc": "arc_09"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_cleanliness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_09"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_084.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 84,
+      "episode_id": "ep_084",
+      "title": "Learning Cleanliness — Getting frustrated during wudu because it's cold or slow",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_040",
+      "educational_islamic_concept": "concept_cleanliness",
+      "curriculum_topic_reference": "topic_040",
+      "evidence_ids": [
+        "qv_010",
+        "hd_009"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_083"
+      ],
+      "story_objective": "Children can describe washing hands before eating and why.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home/mosque"
+      ],
+      "conflict_id": "cf_037",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe washing hands before eating and why.",
+      "opening_state": {
+        "inherits_from": "ep_083.ending_state",
+        "arc": "arc_09"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_cleanliness",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_09"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_085.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_002",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 85,
+      "episode_id": "ep_085",
+      "title": "Learning Gratitude — Helping a grandparent with a small task",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_041",
+      "educational_islamic_concept": "concept_gratitude",
+      "curriculum_topic_reference": "topic_041",
+      "evidence_ids": [
+        "qv_001",
+        "dua_003",
+        "dua_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_084"
+      ],
+      "story_objective": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_005",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "opening_state": {
+        "inherits_from": "ep_084.ending_state",
+        "arc": "arc_09"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_gratitude",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_09"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_086.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 86,
+      "episode_id": "ep_086",
+      "title": "Learning Gratitude — Meeting a new friend at school",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_042",
+      "educational_islamic_concept": "concept_gratitude",
+      "curriculum_topic_reference": "topic_042",
+      "evidence_ids": [
+        "qv_001",
+        "dua_003",
+        "dua_002"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_085"
+      ],
+      "story_objective": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_008",
+      "emotional_arc": "gratitude → choice → reflection → warm resolution",
+      "lesson": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "opening_state": {
+        "inherits_from": "ep_085.ending_state",
+        "arc": "arc_09"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_gratitude",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_09"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_087.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 87,
+      "episode_id": "ep_087",
+      "title": "Learning Justice — Breaking a small promise by accident",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_043",
+      "educational_islamic_concept": "concept_justice",
+      "curriculum_topic_reference": "topic_043",
+      "evidence_ids": [
+        "qv_006",
+        "hd_013"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_086"
+      ],
+      "story_objective": "Children can describe a fair way to solve a disagreement.",
+      "character_focus": [
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_003",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe a fair way to solve a disagreement.",
+      "opening_state": {
+        "inherits_from": "ep_086.ending_state",
+        "arc": "arc_09"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_justice",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_09"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_088.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 88,
+      "episode_id": "ep_088",
+      "title": "Learning Justice — Parents say no to something reasonable-seeming and character feels it's unfair",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_044",
+      "educational_islamic_concept": "concept_justice",
+      "curriculum_topic_reference": "topic_044",
+      "evidence_ids": [
+        "qv_006",
+        "hd_013"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_087"
+      ],
+      "story_objective": "Children can describe a fair way to solve a disagreement.",
+      "character_focus": [
+        "char_004_baba_ahmad",
+        "char_001_zayd"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_053",
+      "emotional_arc": "worry → choice → reflection → warm resolution",
+      "lesson": "Children can describe a fair way to solve a disagreement.",
+      "opening_state": {
+        "inherits_from": "ep_087.ending_state",
+        "arc": "arc_09"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection",
+        "canonical song sequence"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_justice",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_09"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_089.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": {
+        "song_id": "song_003",
+        "placement": "after choice/consequence, before resolution",
+        "lyrics_source": "canonical song source only",
+        "entry_exit_state": "AUTHORING_REQUIRED at script/scene level"
+      },
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal",
+        "song chorus"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 89,
+      "episode_id": "ep_089",
+      "title": "Learning Charity — A classmate has less than you at lunchtime",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_001",
+      "educational_islamic_concept": "concept_charity",
+      "curriculum_topic_reference": "topic_001",
+      "evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_088"
+      ],
+      "story_objective": "Children can name one way to help someone who has less.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "school"
+      ],
+      "conflict_id": "cf_034",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can name one way to help someone who has less.",
+      "opening_state": {
+        "inherits_from": "ep_088.ending_state",
+        "arc": "arc_09"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_charity",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_09"
+      },
+      "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_090.",
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    },
+    {
+      "day": 90,
+      "episode_id": "ep_090",
+      "title": "Learning Charity — Wanting to donate a favorite (not just spare) toy",
+      "roadmap_level": "ROADMAP",
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+      "topic_id": "topic_002",
+      "educational_islamic_concept": "concept_charity",
+      "curriculum_topic_reference": "topic_002",
+      "evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "religious_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE; NO NEW VERIFICATION CLAIMED",
+      "dependencies": [
+        "ep_089"
+      ],
+      "story_objective": "Children can name one way to help someone who has less.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_056",
+      "emotional_arc": "joy → choice → reflection → warm resolution",
+      "lesson": "Children can name one way to help someone who has less.",
+      "opening_state": {
+        "inherits_from": "ep_089.ending_state",
+        "arc": "arc_09"
+      },
+      "story_beats": [
+        "accessible setup",
+        "continuity callback",
+        "age-appropriate conflict",
+        "choice and consequence",
+        "lesson reflection"
+      ],
+      "ending_state": {
+        "lesson_progress": "concept_charity",
+        "relationship_effect": "carry forward consequence/callback",
+        "arc": "arc_09"
+      },
+      "next_episode_hook": null,
+      "recurring_props_state": [
+        "AUTHORING_REQUIRED at script/scene level"
+      ],
+      "song_placement": null,
+      "shorts_candidates": [
+        "moral choice",
+        "lesson reveal"
+      ],
+      "script_status": "AUTHORING_REQUIRED",
+      "scene_plan_status": "AUTHORING_REQUIRED",
+      "generation_plan_status": "AUTHORING_REQUIRED",
+      "gemini_prompt_status": "AUTHORING_REQUIRED"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_068_sahara",
+  "canonical_name": "Sahara (Camel)",
+  "aliases": [],
+  "role_relation": "Desert-journey companion — Madinah/Hajj-themed journey songs, patient wise-friend role",
+  "age": "young adult animal",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Sahara — a small stylized chibi camel character, warm sandy-tan coat with a soft cream underbelly, single rounded hump, big round dark-brown eyes with bright glossy catchlights and long lashes, small rounded ears, stubby chibi-proportioned legs, wearing a woven maroon-and-gold saddle blanket with tassel trim. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, all four legs visible, no text, no watermark.",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Sahara, exact same canonical identity: warm sandy-tan coat with a soft cream underbelly, single rounded hump, big round dark-brown eyes with bright glossy catchlights and long lashes, small rounded ears, stubby chibi-proportioned legs, wearing a woven maroon-and-gold saddle blanket with tassel trim. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep coat tone, hump shape, proportions and accessories identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "expression_prompt": "Sahara, exact same canonical identity: warm sandy-tan coat with a soft cream underbelly, single rounded hump, big round dark-brown eyes with bright glossy catchlights and long lashes, small rounded ears, stubby chibi-proportioned legs, wearing a woven maroon-and-gold saddle blanket with tassel trim. Expression sheet with neutral, happy, excited, curious, patient, surprised, playful, calm, proud, sleepy. Head-and-shoulders grid, identical identity, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "NON-DIALOGUE — low gentle grunts, calm huffs, contented sounds",
+    "voice_master": {
+      "voice_identity_id": "VOICE_068_SAHARA",
+      "voice_profile_version": "2.0",
+      "voice_status": "PROFILE_DEFINED",
+      "fingerprint": {
+        "vocal_age_band": "adult",
+        "gender_presentation": "unspecified",
+        "pitch_band": "low",
+        "pace_baseline": "medium",
+        "source_description": "NON-DIALOGUE — low gentle grunts, calm huffs, contented sounds",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "adult",
+        "gender_presentation": "unspecified",
+        "pitch_band": "low",
+        "core_timbre": "NON-DIALOGUE — low gentle grunts, calm huffs, contented sounds"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 1,
+        "age_band": "adult",
+        "gender_voice_class": "unspecified",
+        "pace": "medium",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "contented",
+          "dialogue",
+          "grunts",
+          "huffs",
+          "low",
+          "non",
+          "sounds"
+        ],
+        "raw_source": "NON-DIALOGUE — low gentle grunts, calm huffs, contented sounds"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null
+    }
+  },
+  "restrictions": null,
+  "production_priority": "RECURRING",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_068_sahara_approved_reference",
+      "path": "sources/characters/reference_images/68. Sahara (Camel).png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

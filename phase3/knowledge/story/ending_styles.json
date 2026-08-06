@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-01T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Reusable closing-beat styles for the final 30 seconds, to avoid every episode ending identically. Pairs with STORY.md's fixed 5-beat structure — this varies the FEEL of the fixed 'Closing' beat, not its length.",
+  "endings": [
+    {"ending_id": "end_001", "style": "dua_close", "description": "Episode closes with the character(s) saying the relevant dua together, calm and warm.", "best_for": "episodes centered on a specific dua"},
+    {"ending_id": "end_002", "style": "reflection_question", "description": "A gentle direct-to-camera question inviting the viewer to think of their own similar moment.", "best_for": "moral/values episodes without a specific dua"},
+    {"ending_id": "end_003", "style": "warm_family_moment", "description": "Ends on a quiet family scene (hug, shared smile) rather than dialogue.", "best_for": "episodes about parents or family"},
+    {"ending_id": "end_004", "style": "gentle_surprise", "description": "A small, kind surprise resolves the episode (e.g. the lost toy turns up, a friend appears).", "best_for": "lighter, adventure-leaning conflicts"},
+    {"ending_id": "end_005", "style": "song_close", "description": "Episode closes with the short song from lyrics_and_song.md.", "best_for": "episodes with a strong sing-along moment"}
+  ],
+  "metadata": {"channel": "Islamic Kids Studio", "handle": "@IslamicKidsHQ", "total_endings": 5, "rule": "Never repeat the same ending_id in two consecutive episodes — check world_state.json episode_chronology."}
+}

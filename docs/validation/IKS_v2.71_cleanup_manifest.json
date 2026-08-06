@@ -1,0 +1,512 @@
+{
+  "schema_version": "2.71",
+  "source_inventory_files": 3568,
+  "moves": [
+    {
+      "old_path": "90_DAY_PRODUCTION_STATUS_v2.68.md",
+      "new_path": "archive/releases/v2.68/90_DAY_PRODUCTION_STATUS_v2.68.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "AUTOPILOT_v2.68_USAGE.md",
+      "new_path": "archive/releases/v2.68/AUTOPILOT_v2.68_USAGE.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "AUTOPILOT_v2.69_USAGE.md",
+      "new_path": "archive/releases/v2.69/AUTOPILOT_v2.69_USAGE.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "DYNAMIC_ROADMAP_v2.69_USAGE.md",
+      "new_path": "archive/releases/v2.69/DYNAMIC_ROADMAP_v2.69_USAGE.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "PRODUCTION_STATUS_v2.69.md",
+      "new_path": "archive/releases/v2.69/PRODUCTION_STATUS_v2.69.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "IKS_v2.69_validation_report.txt",
+      "new_path": "archive/releases/v2.69/IKS_v2.69_validation_report.txt",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "IKS_v2.65_validation_report.txt",
+      "new_path": "archive/audits/IKS_v2.65_validation_report.txt",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "IKS_v2.67_validation_report.txt",
+      "new_path": "archive/audits/IKS_v2.67_validation_report.txt",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "IKS_v2.68_validation_report.txt",
+      "new_path": "archive/audits/IKS_v2.68_validation_report.txt",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "AUDIT_REPORT.md",
+      "new_path": "archive/audits/AUDIT_REPORT.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "FINAL_AUDIT_REPORT.md",
+      "new_path": "archive/audits/FINAL_AUDIT_REPORT.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "AUTOPILOT_v2.70_USAGE.md",
+      "new_path": "archive/releases/v2.70/AUTOPILOT_v2.70_USAGE.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "DYNAMIC_ROADMAP_v2.70_USAGE.md",
+      "new_path": "archive/releases/v2.70/DYNAMIC_ROADMAP_v2.70_USAGE.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "PRODUCTION_INTELLIGENCE_v2.70_USAGE.md",
+      "new_path": "archive/releases/v2.70/PRODUCTION_INTELLIGENCE_v2.70_USAGE.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "PRODUCTION_STATUS_v2.70.md",
+      "new_path": "archive/releases/v2.70/PRODUCTION_STATUS_v2.70.md",
+      "reason": "separate historical release evidence from active root"
+    },
+    {
+      "old_path": "IKS_v2.70_validation_report.txt",
+      "new_path": "archive/releases/v2.70/IKS_v2.70_validation_report.txt",
+      "reason": "separate historical release evidence from active root"
+    }
+  ],
+  "deletions": [
+    {
+      "old_path": ".pytest_cache/.gitignore",
+      "classification": "DEVELOPMENT_CACHE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "3ed731b65d06150c138e2dadb0be0697550888a6b47eb8c45ecc9adba8b8e9bd"
+    },
+    {
+      "old_path": ".pytest_cache/CACHEDIR.TAG",
+      "classification": "DEVELOPMENT_CACHE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "37dc88ef9a0abeddbe81053a6dd8fdfb13afb613045ea1eb4a5c815a74a3bde4"
+    },
+    {
+      "old_path": ".pytest_cache/README.md",
+      "classification": "DEVELOPMENT_CACHE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "73fd6fccdd802c419a6b2d983d6c3173b7da97558ac4b589edec2dfe443db9ad"
+    },
+    {
+      "old_path": ".pytest_cache/v/cache/lastfailed",
+      "classification": "DEVELOPMENT_CACHE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+    },
+    {
+      "old_path": ".pytest_cache/v/cache/nodeids",
+      "classification": "DEVELOPMENT_CACHE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "7f7dc085dcea893de41a4796d44fce34d4f74c71e3517da7ae606f8a9525f52e"
+    },
+    {
+      "old_path": "tests/__pycache__/test_gemini_compiler_regression.cpython-313-pytest-9.0.2.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "3704acd0dfe07833af4e8cbf8b4510a46de98aabcef00d5e7a11954ff6c610b8"
+    },
+    {
+      "old_path": "tests/__pycache__/test_v263_root_fixes.cpython-313-pytest-9.0.2.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "8b7e11b100c64a4867dd1c1aeac8840d7af10c7eb1464ef2255d1e21fa790ffe"
+    },
+    {
+      "old_path": "tests/__pycache__/test_v264_post_audit.cpython-313-pytest-9.0.2.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "18ecc528480d6a3361c132b46e8a482c254c31e2bc02410dcdd78fb2324cfe11"
+    },
+    {
+      "old_path": "tests/__pycache__/test_v265_contracts.cpython-313-pytest-9.0.2.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "52760465aa286d84946b6deccd4f60dbcb8f9abf935da564b4488310f36b8ce4"
+    },
+    {
+      "old_path": "tests/__pycache__/test_v266_full_content.cpython-313-pytest-9.0.2.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "2033c10171a7de332fed742c449b317c38d8923db5ed3bfd1b5eb1c9e7348bea"
+    },
+    {
+      "old_path": "tests/__pycache__/test_v267_roadmap_and_completion.cpython-313-pytest-9.0.2.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "9302e72233432cc7001ef2e3010ecc880abbd4bf667b02e84df0d9b29fe6d264"
+    },
+    {
+      "old_path": "tests/__pycache__/test_v268_autopilot.cpython-313-pytest-9.0.2.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "8a92207352bad3084e3cf503e4110877a3d612515ed66145a9ef2953ad4a3408"
+    },
+    {
+      "old_path": "tests/__pycache__/test_v269_dynamic_roadmap.cpython-313-pytest-9.0.2.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "5f75d8fc423a160fd8e8ada7b4ca3100b6ef72fadfc4c517fbcd4d71250a9eb3"
+    },
+    {
+      "old_path": "tests/__pycache__/test_v270_production_intelligence.cpython-313-pytest-9.0.2.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "13fada75ee08e802e38ef781a22335992060b76dca270c36fb9b61a785c203ae"
+    },
+    {
+      "old_path": "tools/__pycache__/authoring_pipeline.cpython-313.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "0d9c28403d329a9a14bc497dcb6a052914b56b3eb438f8f38d1ad83559a98c57"
+    },
+    {
+      "old_path": "tools/__pycache__/compile_runtime.cpython-313.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "cb274f7d2f861a9578357e3bbedd009b89ae63ac9dacb170655e9ee7cd1c0718"
+    },
+    {
+      "old_path": "tools/__pycache__/dynamic_roadmap.cpython-313.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "b353f2c8d30ded5da130c747e6cc8eed49c1c4db35814ea860545d818c8da53d"
+    },
+    {
+      "old_path": "tools/__pycache__/episode_autopilot.cpython-313.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "ab0569f05350c6dc077d24aff9d9a1704e424cd31090dad806738f2239a61ca4"
+    },
+    {
+      "old_path": "tools/__pycache__/gemini_shared.cpython-313.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "b66baca29b47590375ba191ee1234352a89061fc5aa70ec26035fa01b5aca6aa"
+    },
+    {
+      "old_path": "tools/__pycache__/preflight_check.cpython-313.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "279de1d803505b8c8de40e266964ab17764b259c585bf8778217ad7da4a98880"
+    },
+    {
+      "old_path": "tools/__pycache__/production_contracts.cpython-313.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "87e97ae30427916adad2ccc16048219bf8017749c55a652f291724a1ff106e05"
+    },
+    {
+      "old_path": "tools/__pycache__/production_intelligence.cpython-313.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "710e668625131cb73fd81926624d5d6e1c492292e4e5a6e429bb79116348a3c3"
+    },
+    {
+      "old_path": "tools/__pycache__/prompt_regression_test.cpython-313-pytest-9.0.2.pyc",
+      "classification": "BYTECODE",
+      "reason": "prohibited rebuildable development artifact",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "05dd18b61901075e9854bd27d5213ddbbcff6d90680ee265be5aac28513d2e4b"
+    },
+    {
+      "old_path": "output_package/fresh_song_1_honesty.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "2dfef91bee104b34ef6b439ebe761a2522ffe04302a63a5354ec2088648c2a8e"
+    },
+    {
+      "old_path": "output_package/ep_honesty_wallet_assisted.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "979c40c3132fe673892eb3736e0c991486a4375dcc18124c109f7724a272b1e3"
+    },
+    {
+      "old_path": "output_package/final_d_community.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "d0ea684dc290dd3431a282be37e6fa36976577dc6fdce26471a1a172c3978d74"
+    },
+    {
+      "old_path": "output_package/fresh_1_patience.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "2311fe7193ae7bc0f24870228efe29eff5ba389f6613fb09ece8bd882afd2730"
+    },
+    {
+      "old_path": "output_package/ep2_prayer.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "bab77fa3a663964737a3a62bd5f3bf95373d6175c7b241ebc1958583be5119e9"
+    },
+    {
+      "old_path": "output_package/ep_stress_charity.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "1290ff0ab8c57b9225d077eb81a9b7f073af2c6e370d19d2d59b3cd8d9d6e463"
+    },
+    {
+      "old_path": "output_package/fresh_5_community.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "2b43f1a647835f166c9bb951ddf7694fda09b6527c7dd388c87917fc4a17fba0"
+    },
+    {
+      "old_path": "output_package/ep_stress_courage.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "aac467bbde15d704b0b68581deff46a917640a932648682fd0f082198c357408"
+    },
+    {
+      "old_path": "output_package/ep_tawakkul_lost_toy.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "c5e09373654a9f7000c9814bb1504ed929e964237384d7d5eacb4aa12160335f"
+    },
+    {
+      "old_path": "output_package/final_e_family.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "05cd98f33424a4e97ac3f5e5fa2d7d85e0b25bb3b67ea2104c94c4ea9ecef19f"
+    },
+    {
+      "old_path": "output_package/ep2_compassion.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "2ccf3fad40269cebd51e6b9b9d7a7c82497f05987420fe5d416f3f028cb388a4"
+    },
+    {
+      "old_path": "output_package/test_multiclip_scene.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "9a45b01e27bb17d355b6d920f3944d48b5b0adfcef65e139dd23467e4ea08f96"
+    },
+    {
+      "old_path": "output_package/fresh_song_3_selfcontrol.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "41e17cee6d7567c2edb53c87f30b25259af9fd3b28d7a5bc5f1c853559fdbda3"
+    },
+    {
+      "old_path": "output_package/ep_blocked_demo.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "b3a5054e4dd5c6429ad7f5fee9c574c302899336400bcfbd7d763ed386703422"
+    },
+    {
+      "old_path": "output_package/ep2_forgiveness.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "bb723accd0244967a0347a7c11b49e08f99a90b829f266c17275a88d0e3276bf"
+    },
+    {
+      "old_path": "output_package/ep2_humility.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "367b497b41676fdda095a26b7f705e231f15fdae62c56124d6ca675ac25290ff"
+    },
+    {
+      "old_path": "output_package/ep_tawakkul_pilot_c.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "c6db580f935ac864d39eb7862c1fdd823e6a07caacf06e50a5519521b78966db"
+    },
+    {
+      "old_path": "output_package/ep_stress_selfcontrol.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "88ba082bb92239d0d21e0a99d63715b437dc5632bb65e8ed5ce89389b773ac99"
+    },
+    {
+      "old_path": "output_package/ep_patience_pilot_a.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "b727082d30b5195643baaae2f6221bb19d07ecf3b142e4d059ffe652d82335eb"
+    },
+    {
+      "old_path": "output_package/ep_fairness_v2_15_regression.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "ba0364e530cd902e0db6b4a4351ff8b324232f54259566c2e17ccb9d7347580d"
+    },
+    {
+      "old_path": "output_package/ep_stress_kindness.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "0c2a0ebd90cbeac0e0138ee1141d234ccf2e4a3a9b615b9bdc15ccf9ab0fc57e"
+    },
+    {
+      "old_path": "output_package/ep_stress_community.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "a2c3d3e612ae013bcceb0fce0e2a17ab9de1fca763e0f6361ad296fe44e0f0cd"
+    },
+    {
+      "old_path": "output_package/ep2_cleanliness.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "f7cfc2026d8b157efd70052bfaaeff02a8820ccec48e3d29cb0f339c25a64f09"
+    },
+    {
+      "old_path": "output_package/final_b_goodmanners.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "07dabae472cf46e14575e5d352da3b64e1d9cd6484e2782be98f1648f790bd7e"
+    },
+    {
+      "old_path": "output_package/fresh_2_goodspeech.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "c63c5bc7e398b6daf5033579b19fcfcddbdfbfc1f50e11a226a1913c11faea2e"
+    },
+    {
+      "old_path": "output_package/fresh_4_gratitude.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "a037b9dccd7e0d05ff10342c0ee85e8d7ea69e18b4fa882836c42ab9b0c05f03"
+    },
+    {
+      "old_path": "output_package/final_c_song.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "d603eeb812f7e70159f3bc4f507d8968c71fe0c7f60d9e1e13a21016d97fa0a9"
+    },
+    {
+      "old_path": "output_package/fresh_song_2_trustworthy.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "f6e922848277031f31d6a9d92a9bdd718d446e9c1afddb1a2af3fe9de96b6278"
+    },
+    {
+      "old_path": "output_package/fresh_3_mercy.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "f952b65a66c3871977561c9ad2c13d3a3ded1283eab75516bab719238ca1ceac"
+    },
+    {
+      "old_path": "output_package/ep_goodspeech_pilot_b.zip",
+      "classification": "GENERATED_REBUILDABLE",
+      "reason": "rebuildable nested package excluded from source distribution hygiene",
+      "rebuildable": true,
+      "archived_elsewhere": false,
+      "sha256": "980650fb71bcaf652bb04ace737928f6f13373bb9da105c126c1aa6417efc97c"
+    }
+  ]
+}

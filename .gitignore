@@ -1,0 +1,32 @@
+# Local-only operating prompt -- never commit to a public/shared repository.
+MASTER_PROMPT.md
+MASTER_PROMPT_*_LOCAL_ONLY.zip
+
+# Standard Python artifacts
+__pycache__/
+*.pyc
+
+# Generated output, never canonical
+output_package/*.zip
+production/songs/*/Gemini/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.hypothesis/
+htmlcov/
+.coverage
+*.pyo
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.env
+.venv/
+venv/
+build/
+dist/

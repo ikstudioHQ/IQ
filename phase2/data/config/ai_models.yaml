@@ -1,0 +1,58 @@
+generation_models:
+  story_generation:
+    primary: gpt-4o
+    backup: claude-sonnet
+    temperature: 0.7
+    max_tokens: 4000
+  dialogue_generation:
+    primary: gpt-4o
+    backup: claude-sonnet
+    temperature: 0.6
+    max_tokens: 2000
+  script_generation:
+    primary: gpt-4o
+    backup: claude-sonnet
+    temperature: 0.65
+    max_tokens: 3000
+  seo_generation:
+    primary: gpt-4o
+    backup: claude-sonnet
+    temperature: 0.5
+    max_tokens: 1500
+  image_prompt_generation:
+    primary: gpt-4o
+    backup: claude-sonnet
+    temperature: 0.8
+    max_tokens: 2000
+  thumbnail_prompt_generation:
+    primary: gpt-4o
+    backup: claude-sonnet
+    temperature: 0.8
+    max_tokens: 1500
+  voice_script_optimization:
+    primary: gpt-4o
+    backup: claude-sonnet
+    temperature: 0.4
+    max_tokens: 1000
+tts_engines:
+  primary: amazon_polly
+  voices:
+    narration: Joanna
+    male_narration: Matthew
+    child_voice: Kendra
+  language_codes:
+    en: en-US
+    ar: ar-XA
+image_generation:
+  primary: dall-e-3
+  style_reference: soft rounded shapes, warm pastel palette, big expressive eyes
+  resolution: 1024x1024
+  aspect_ratio_options:
+  - '1:1'
+  - '16:9'
+  - '9:16'
+quality_control:
+  automatic_qa_model: gpt-4o
+  manual_review_required: true
+  islamic_accuracy_review: true
+  parent_review_for_new_series: true

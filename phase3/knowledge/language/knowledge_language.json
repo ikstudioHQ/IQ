@@ -1,0 +1,110 @@
+{
+  "schema_version": "3.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "system_description": "Complete language knowledge system for Islamic Kids Studio narration, dialogue, and TTS optimization.",
+  "language_policies": [
+    "Always use child-friendly explanations",
+    "Always include pronunciation guides for Islamic terms",
+    "Always provide TTS overrides for consistent output",
+    "Never use complex vocabulary without explanation",
+    "Always maintain warm, conversational English"
+  ],
+  "language_categories": [
+    {
+      "category": "greetings",
+      "description": "Words used to greet others with peace",
+      "examples": [
+        "Assalamu Alaikum",
+        "Wa Alaikum Assalam"
+      ]
+    },
+    {
+      "category": "praise",
+      "description": "Words used to praise Allah",
+      "examples": [
+        "Alhamdulillah",
+        "Subhanallah",
+        "Masha Allah"
+      ]
+    },
+    {
+      "category": "invocation",
+      "description": "Words used before actions",
+      "examples": [
+        "Bismillah",
+        "Bismillah ar-Rahman ar-Rahim"
+      ]
+    },
+    {
+      "category": "expression",
+      "description": "Phrases expressing trust and hope",
+      "examples": [
+        "Insha Allah",
+        "Masha Allah"
+      ]
+    },
+    {
+      "category": "thanks",
+      "description": "Words used to express gratitude",
+      "examples": [
+        "Jazakallahu Khairan",
+        "Shukran"
+      ]
+    }
+  ],
+  "pronunciation_system": {
+    "purpose": "Ensure consistent, accurate, child-friendly pronunciation of Islamic terms",
+    "components": [
+      "pronunciation_dictionary.json",
+      "phoneme_dictionary.json",
+      "tts_dictionary.json",
+      "pronunciation_exceptions.json",
+      "forbidden_pronunciations.json"
+    ],
+    "quality_check": "Every Islamic term must have verified pronunciation before episode generation"
+  },
+  "tts_optimization": {
+    "primary_engine": "amazon_polly",
+    "primary_voice": "Joanna",
+    "backup_voice": "Matthew",
+    "language_code": "en-US",
+    "prosody_rate": "85%",
+    "pitch": "high (friendly)",
+    "speed": "medium"
+  },
+  "arabic_integration_policy": {
+    "keep_arabic_in_english_content": true,
+    "always_translate_for_children": true,
+    "always_use_pronunciation_guide": true,
+    "use_tts_overrides": true,
+    "reference_arabic_script": true
+  },
+  "metadata": {
+    "retrieval_tags": [
+      "language",
+      "pronunciation",
+      "arabic",
+      "tts",
+      "dictionary",
+      "phoneme"
+    ],
+    "difficulty_level": "intermediate",
+    "age_target": "all",
+    "curriculum_stage": "all",
+    "search_keywords": [
+      "pronunciation",
+      "arabic",
+      "tts",
+      "dictionary",
+      "phoneme",
+      "language"
+    ],
+    "related_concepts": [
+      "islamic",
+      "voice",
+      "education"
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "note": "Real audition manifest for the 5 CORE characters. Nothing here is fabricated -- every candidate/score field is null until real human listening occurs.",
+  "records": [
+    {
+      "character_id": "char_001_zayd",
+      "voice_identity_id": "VOICE_001_ZAYD",
+      "candidate_id": null,
+      "provider": null,
+      "provider_voice_id": null,
+      "model": null,
+      "seed_settings": null,
+      "sample_files": null,
+      "audition_date": null,
+      "status": "UNREVIEWED",
+      "scores": {
+        "identity_fit": null,
+        "age_fit": null,
+        "distinctiveness": null,
+        "clarity": null,
+        "emotion_range": null,
+        "pronunciation": null,
+        "long_form_stability": null,
+        "gemini_compatibility": null,
+        "singing_fit": null
+      },
+      "notes": "No real audition has occurred yet. All fields intentionally null/UNREVIEWED."
+    },
+    {
+      "character_id": "char_002_amira",
+      "voice_identity_id": "VOICE_002_AMIRA",
+      "candidate_id": null,
+      "provider": null,
+      "provider_voice_id": null,
+      "model": null,
+      "seed_settings": null,
+      "sample_files": null,
+      "audition_date": null,
+      "status": "UNREVIEWED",
+      "scores": {
+        "identity_fit": null,
+        "age_fit": null,
+        "distinctiveness": null,
+        "clarity": null,
+        "emotion_range": null,
+        "pronunciation": null,
+        "long_form_stability": null,
+        "gemini_compatibility": null,
+        "singing_fit": null
+      },
+      "notes": "No real audition has occurred yet. All fields intentionally null/UNREVIEWED."
+    },
+    {
+      "character_id": "char_003_ummi_layla",
+      "voice_identity_id": "VOICE_003_UMMI_LAYLA",
+      "candidate_id": null,
+      "provider": null,
+      "provider_voice_id": null,
+      "model": null,
+      "seed_settings": null,
+      "sample_files": null,
+      "audition_date": null,
+      "status": "UNREVIEWED",
+      "scores": {
+        "identity_fit": null,
+        "age_fit": null,
+        "distinctiveness": null,
+        "clarity": null,
+        "emotion_range": null,
+        "pronunciation": null,
+        "long_form_stability": null,
+        "gemini_compatibility": null,
+        "singing_fit": null
+      },
+      "notes": "No real audition has occurred yet. All fields intentionally null/UNREVIEWED."
+    },
+    {
+      "character_id": "char_004_baba_ahmad",
+      "voice_identity_id": "VOICE_004_BABA_AHMAD",
+      "candidate_id": null,
+      "provider": null,
+      "provider_voice_id": null,
+      "model": null,
+      "seed_settings": null,
+      "sample_files": null,
+      "audition_date": null,
+      "status": "UNREVIEWED",
+      "scores": {
+        "identity_fit": null,
+        "age_fit": null,
+        "distinctiveness": null,
+        "clarity": null,
+        "emotion_range": null,
+        "pronunciation": null,
+        "long_form_stability": null,
+        "gemini_compatibility": null,
+        "singing_fit": null
+      },
+      "notes": "No real audition has occurred yet. All fields intentionally null/UNREVIEWED."
+    },
+    {
+      "character_id": "char_005_dada_yusuf",
+      "voice_identity_id": "VOICE_005_DADA_YUSUF",
+      "candidate_id": null,
+      "provider": null,
+      "provider_voice_id": null,
+      "model": null,
+      "seed_settings": null,
+      "sample_files": null,
+      "audition_date": null,
+      "status": "UNREVIEWED",
+      "scores": {
+        "identity_fit": null,
+        "age_fit": null,
+        "distinctiveness": null,
+        "clarity": null,
+        "emotion_range": null,
+        "pronunciation": null,
+        "long_form_stability": null,
+        "gemini_compatibility": null,
+        "singing_fit": null
+      },
+      "notes": "No real audition has occurred yet. All fields intentionally null/UNREVIEWED."
+    }
+  ]
+}

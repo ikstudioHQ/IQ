@@ -1,0 +1,29 @@
+primary_language: en
+language_name: English
+script: Latin
+supported_languages:
+- code: en
+  name: English
+  script: Latin
+  tts_voice: Joanna
+  status: active
+- code: ar
+  name: Arabic
+  script: Arabic
+  tts_voice: Zeinab
+  status: active
+- code: ur
+  name: Urdu
+  script: Arabic (Nastaliq)
+  tts_voice: None assigned
+  status: planned
+- code: fr
+  name: French
+  script: Latin
+  tts_voice: None assigned
+  status: future
+islamic_terminology_policy:
+  keep_arabic_terms_in_english_content: true
+  always_provide_child_friendly_translation: true
+  always_use_pronunciation_guide: true
+  use_tts_overrides_for_islamic_words: true

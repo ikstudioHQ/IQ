@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_073_dadi_khadija",
+  "canonical_name": "Dadi Khadija",
+  "aliases": [],
+  "role_relation": "Grandmother of Zayd and Amira (Baba Ahmad's mother) — spiritual anchor of the family, namaz/Quran/dua teaching episodes",
+  "age": "older adult",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Dadi Khadija — warm light-brown skin, soft gently wrinkled face with kind crinkly eyes, warm glossy catchlights, wearing a plain white lace-trimmed namaz chador (prayer hijab/shawl) draped over her head and shoulders, a simple cream-white ankle-length abaya underneath, soft rounded elderly body build, holding a strand of wooden tasbih (prayer beads) gently in one hand, soft white socks, warm serene closed-mouth smile. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark. 6-VIEW TURNAROUND PROMPT:",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Dadi Khadija, exact same canonical identity: warm light-brown skin, soft gently wrinkled face with kind crinkly eyes, plain white lace-trimmed namaz chador, cream-white ankle-length abaya, soft rounded elderly body build, wooden tasbih in hand, soft white socks. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep face, proportions, chador drape, clothing colors and tasbih identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. EXPRESSION SHEET PROMPT:",
+  "expression_prompt": "Dadi Khadija, exact same canonical identity: warm light-brown skin, soft gently wrinkled face with kind crinkly eyes, plain white lace-trimmed namaz chador, cream-white abaya, wooden tasbih in hand. Expression sheet with neutral, happy, peaceful-eyes-closed, encouraging, thoughtful, gentle-concern, surprised, proud, warm-smile, deep-dua-expression. Head-and-shoulders grid, identical identity and clothing, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "soft elderly woman; low-medium pitch; slow gentle unhurried pace; warm, calm, deeply peaceful tone",
+    "voice_master": {
+      "voice_identity_id": "VOICE_073_DADI_KHADIJA",
+      "voice_profile_version": "2.0",
+      "voice_status": "PROFILE_DEFINED",
+      "fingerprint": {
+        "vocal_age_band": "elder",
+        "gender_presentation": "male",
+        "pitch_band": "low",
+        "pace_baseline": "slow",
+        "source_description": "soft elderly woman; low-medium pitch; slow gentle unhurried pace; warm, calm, deeply peaceful tone",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "elder",
+        "gender_presentation": "male",
+        "pitch_band": "low",
+        "core_timbre": "soft elderly woman; low-medium pitch; slow gentle unhurried pace; warm, calm, deeply peaceful tone"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 3,
+        "age_band": "elder",
+        "gender_voice_class": "female",
+        "pace": "slow",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "deeply",
+          "elderly",
+          "low",
+          "medium",
+          "peaceful",
+          "slow",
+          "tone",
+          "unhurried"
+        ],
+        "raw_source": "soft elderly woman; low-medium pitch; slow gentle unhurried pace; warm, calm, deeply peaceful tone"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null
+    }
+  },
+  "restrictions": null,
+  "production_priority": "SUPPORTING",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_073_dadi_khadija_approved_reference",
+      "path": "sources/characters/reference_images/73. Dadi Khadija.png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

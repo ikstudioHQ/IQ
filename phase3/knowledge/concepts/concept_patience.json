@@ -1,0 +1,63 @@
+{
+  "concept_id": "concept_patience",
+  "name": "Patience (Sabr)",
+  "definition_by_age": {
+    "4": "Waiting calmly, even when it's hard.",
+    "6": "Sabr means staying calm and not giving up when something is difficult or takes time.",
+    "8": "Sabr is patience through hardship, waiting, and self-control, trusting that Allah rewards those who stay steady."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can wait their turn calmly and name it as sabr.",
+  "related_quran": [
+    "qv_007"
+  ],
+  "related_hadith": [],
+  "related_duas": [],
+  "related_prophets": [
+    "prophet_nuh"
+  ],
+  "related_vocabulary": [
+    "vocab_002"
+  ],
+  "related_conflicts": [
+    "cf_023",
+    "cf_054",
+    "cf_059"
+  ],
+  "recommended_age_range": [
+    6,
+    7
+  ],
+  "version": "v1.0",
+  "citation_verified": false,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_023",
+    "pattern_id": "pattern_009",
+    "hook_id": "hook_004",
+    "ending_id": "end_002",
+    "emotion": "worry",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_002). Waiting->Reframe->Acceptance is the pattern literally built for patience — was defaulted to unrelated pattern_002."
+  },
+  "semantic_support": {
+    "qv_007": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly commands sabr by name and promises Allah's companionship to the patient — the foundational patience verse.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_013",
+      "conflict_id": "cf_059",
+      "reasoning": "A boring necessary appointment fits natural-consequence-of-waiting learning."
+    },
+    {
+      "pattern_id": "pattern_002",
+      "conflict_id": "cf_054",
+      "reasoning": "Losing patience in a line, then correcting, fits mistake-reflection too."
+    }
+  ]
+}

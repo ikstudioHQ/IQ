@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "location_id": "loc_school_classroom",
+  "display_name": "School Classroom",
+  "canonical_description": "Bright, friendly classroom used in school-setting conflicts (cf_034, cf_046, etc.).",
+  "layout": "Rows of small desks, teacher's area at front.",
+  "architecture": "Standard friendly classroom.",
+  "materials": "Wooden desks, colorful wall displays.",
+  "colour_palette": "bright, cheerful, primary-adjacent pastels",
+  "furniture": [
+    "student desks",
+    "teacher's desk",
+    "chalkboard/whiteboard"
+  ],
+  "important_objects": [],
+  "lighting_default": {
+    "baseline": "bright even daytime classroom light",
+    "time_variants": {},
+    "needs_review": false
+  },
+  "weather_default": {
+    "value": null,
+    "needs_review": true,
+    "note": "Not tracked in v2.72 source data (interior location); flagged for episodes involving weather/exterior continuity."
+  },
+  "reference_images": [],
+  "continuity_notes": "Bright cheerful classroom, small wooden desks, colorful wall displays, even daytime light, family-friendly 3D animated interior.",
+  "approval_status": "DRAFT",
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/production/location_library.json"
+}

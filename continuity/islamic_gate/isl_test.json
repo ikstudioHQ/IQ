@@ -1,0 +1,17 @@
+{
+  "episode_id": "isl_test",
+  "status": "BLOCKED",
+  "findings": [
+    {
+      "context": "s1/b1",
+      "text": "The Prophet taught us something with no source.",
+      "claim_reasons": [
+        "direct Prophet attribution"
+      ],
+      "issue": "unsourced_religious_claim",
+      "message": "Text makes an Islamic-source claim (direct Prophet attribution) with no citation ID present. Never invent hadith/Qur'an/dua content -- cite a real, eligible source ID or rewrite without the specific attribution.",
+      "severity": "error"
+    }
+  ],
+  "checked_at": "2026-08-06T12:48:04.143341+00:00"
+}

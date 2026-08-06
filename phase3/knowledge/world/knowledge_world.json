@@ -1,0 +1,152 @@
+{
+  "schema_version": "3.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "world_name": "Zayd & Amira's Warm World",
+  "design_principles": {
+    "warmth": "Every scene feels like a gentle hug",
+    "safety": "No sharp edges, no scary shadows, no overwhelming detail",
+    "child_scale": "Everything is sized for preschool viewers",
+    "color_palette": [
+      "mint green",
+      "soft peach",
+      "warm cream",
+      "lavender",
+      "soft blue",
+      "pale yellow"
+    ]
+  },
+  "environments": [
+    {
+      "env_id": "env_home",
+      "name": "Zayd & Amira's Home",
+      "description": "A very cozy, warm house with rounded furniture, soft cream walls, mint-green window frames, and lavender curtains. There is a small round table with three chairs. A soft rug with warm patterns covers the floor. A bookshelf holds colorful books. The lighting is golden and gentle, like late afternoon sun.",
+      "rooms": [
+        "Living room",
+        "Kitchen",
+        "Zayd and Amira's bedroom",
+        "Small garden"
+      ],
+      "props": [
+        "Round table",
+        "Soft cushions",
+        "Colorful books",
+        "Small flowers in a vase",
+        "A soft lamp"
+      ],
+      "pets_present": true,
+      "atmosphere": "Safe, warm, welcoming",
+      "story_use": "Family scenes, learning scenes, quiet emotional scenes"
+    },
+    {
+      "env_id": "env_mosque_small",
+      "name": "Small Beautiful Mosque",
+      "description": "A beautiful, welcoming mosque with soft cream walls, a gentle green dome, and a small garden with flowers. The entrance has a rounded arch. Inside there is a soft carpet with gentle patterns, small low windows with colorful light, and a very calm feeling. It is sized so children feel welcome, not small.",
+      "rooms": [
+        "Prayer hall",
+        "Small library",
+        "Garden area"
+      ],
+      "props": [
+        "Soft carpet",
+        "Small Quran stand",
+        "Beautiful lanterns",
+        "Flowers"
+      ],
+      "pets_present": false,
+      "atmosphere": "Peaceful, beautiful, welcoming",
+      "story_use": "Learning duas, visiting with parents, feeling close to Allah"
+    },
+    {
+      "env_id": "env_school",
+      "name": "Zayd & Amira's School",
+      "description": "A bright, colorful school with rounded doors, large windows, and a small playground. The walls are cream with soft green and peach decorations. There is a small library corner with pillows. A gentle teacher stands near a board with colorful drawings.",
+      "rooms": [
+        "Classroom",
+        "Library corner",
+        "Playground",
+        "Small garden"
+      ],
+      "props": [
+        "Soft pillows",
+        "Colorful boards",
+        "Small chairs",
+        "Flowers",
+        "Books"
+      ],
+      "pets_present": false,
+      "atmosphere": "Happy, organized, safe, playful",
+      "story_use": "Learning new things, making friends, playing gently"
+    },
+    {
+      "env_id": "env_park",
+      "name": "Warm Park",
+      "description": "A beautiful park with soft green grass, round trees with gentle leaves, flowers in warm colors, a small pond with gentle ripples, and a playground with rounded equipment. The sky is light blue with soft clouds. Everything moves gently.",
+      "rooms": [
+        "Open space",
+        "Playground",
+        "Pond area",
+        "Flower garden"
+      ],
+      "props": [
+        "Soft flowers",
+        "Small bench",
+        "Gentle pond",
+        "Rounded playground"
+      ],
+      "pets_present": true,
+      "atmosphere": "Happy, peaceful, open, natural",
+      "story_use": "Nature appreciation, playing with friends, family time"
+    },
+    {
+      "env_id": "env_market",
+      "name": "Friendly Market",
+      "description": "A warm, colorful market with small stalls with rounded awnings. There are colorful fruits, soft fabric, beautiful small items, and very friendly vendors who smile. The ground is clean and warm. Everything is at child-scale.",
+      "rooms": [
+        "Open market area",
+        "Small stalls",
+        "Rest area"
+      ],
+      "props": [
+        "Colorful fruits",
+        "Soft fabric",
+        "Small baskets",
+        "Flowers"
+      ],
+      "pets_present": false,
+      "atmosphere": "Friendly, colorful, warm, welcoming",
+      "story_use": "Learning about sharing, community, kindness to strangers"
+    }
+  ],
+  "future_expansion_notes": "New environments will follow the same warmth, safety, child-scale, and color rules. No dark or scary locations.",
+  "metadata": {
+    "retrieval_tags": [
+      "world",
+      "environment",
+      "home",
+      "mosque",
+      "school",
+      "park",
+      "market"
+    ],
+    "difficulty_level": "beginner",
+    "age_target": "2-8",
+    "curriculum_stage": "all",
+    "search_keywords": [
+      "home",
+      "mosque",
+      "school",
+      "park",
+      "market",
+      "nature",
+      "safe",
+      "warm"
+    ],
+    "related_concepts": [
+      "characters",
+      "story",
+      "animation"
+    ]
+  }
+}

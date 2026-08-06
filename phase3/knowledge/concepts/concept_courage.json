@@ -1,0 +1,53 @@
+{
+  "concept_id": "concept_courage",
+  "name": "Courage",
+  "definition_by_age": {
+    "4": "Being brave even when a little scared.",
+    "6": "Courage means trying something new even when it feels a little scary.",
+    "8": "Courage is facing fear or difficulty with trust in Allah and taking the right action anyway."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe trying something new even though it felt scary.",
+  "related_quran": [
+    "qv_013"
+  ],
+  "related_hadith": [],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [],
+  "related_conflicts": [
+    "cf_026",
+    "cf_045"
+  ],
+  "recommended_age_range": [
+    3,
+    6
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": true,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_026",
+    "pattern_id": "pattern_007",
+    "hook_id": "hook_005",
+    "ending_id": "end_004",
+    "emotion": "curiosity",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_003). FIX: pattern_007 (Fear->Small Brave Step->Support->Confidence) was built specifically for courage — recommended_default was stale, still pointing to pattern_003 from before pattern_007 existed."
+  },
+  "semantic_support": {
+    "qv_013": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "The Prophet's real words to Abu Bakr in the cave — directly about courage amid fear.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_007",
+      "conflict_id": "cf_045",
+      "reasoning": "Storm fear fits the same fear->step->support->confidence shape as the primary, just a different trigger."
+    }
+  ]
+}

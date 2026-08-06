@@ -1,0 +1,68 @@
+{
+  "concept_id": "concept_self_control",
+  "name": "Self-Control (Hilm)",
+  "definition_by_age": {
+    "4": "Staying calm instead of getting upset.",
+    "6": "Hilm means staying calm and gentle, even when something is frustrating.",
+    "8": "Hilm is measured self-control and gentleness, especially when provoked or upset."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe staying calm during a frustrating moment.",
+  "related_quran": [],
+  "related_hadith": [
+    "hd_006",
+    "hd_002"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [
+    "vocab_020"
+  ],
+  "related_conflicts": [
+    "cf_023",
+    "cf_048",
+    "cf_050",
+    "cf_042"
+  ],
+  "recommended_age_range": [
+    7,
+    8
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_023",
+    "pattern_id": "pattern_013",
+    "hook_id": "hook_004",
+    "ending_id": "end_002",
+    "emotion": "worry",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_002). Warning Ignored->Experiential Lesson fits self-control's natural-consequence shape — was on generic pattern_002."
+  },
+  "semantic_support": {
+    "hd_006": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly defines strength as self-control during anger — the concept's exact definition.",
+      "scholarly_reviewed": false
+    },
+    "hd_002": {
+      "support_type": "INTERPRETIVE",
+      "reasoning": "About good speech generally, tangentially related to self-control but hd_006 is the direct match.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_002",
+      "conflict_id": "cf_042",
+      "reasoning": "A cousin copying everything, resolved after reflection, fits mistake-correction."
+    },
+    {
+      "pattern_id": "pattern_011",
+      "conflict_id": "cf_050",
+      "reasoning": "Overstaying with a borrowed toy fits responsibility/trust-repair."
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "song",
+  "parent_id": "song_004",
+  "logical_scene_id": "scene_04",
+  "generation_units": [
+    {
+      "generation_unit_id": "song_004_scene_04_u01",
+      "parent_scene_id": "scene_04",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 6.8,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "Pardon, pardon — let it go, (Pardon, pardon — let it go,)",
+          "start_seconds": 0.0,
+          "end_seconds": 5.455
+        }
+      ],
+      "primary_action": "The repaired butterfly picture held up to the sun; the girls hug. Authored beat 1/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, golden, slightly brighter than the conflict beat (resolution_relief); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, golden, slightly brighter than the conflict beat (resolution_relief)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "begin scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_004_scene_04_u02",
+      "parent_scene_id": "scene_04",
+      "sequence": 2,
+      "start_seconds": 6.8,
+      "end_seconds": 13.6,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "Forgiveness helps us both to grow. I forgive, I forgive,",
+          "start_seconds": 6.8,
+          "end_seconds": 11.345
+        }
+      ],
+      "primary_action": "The repaired butterfly picture held up to the sun; the girls hug. Authored beat 2/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, golden, slightly brighter than the conflict beat (resolution_relief); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, golden, slightly brighter than the conflict beat (resolution_relief)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_004_scene_04_u03",
+      "parent_scene_id": "scene_04",
+      "sequence": 3,
+      "start_seconds": 13.6,
+      "end_seconds": 20.4,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "I let the hurt go free.",
+          "start_seconds": 13.6,
+          "end_seconds": 16.327
+        }
+      ],
+      "primary_action": "The repaired butterfly picture held up to the sun; the girls hug. Authored beat 3/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, golden, slightly brighter than the conflict beat (resolution_relief); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, golden, slightly brighter than the conflict beat (resolution_relief)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_004_scene_04_u04",
+      "parent_scene_id": "scene_04",
+      "sequence": 4,
+      "start_seconds": 20.4,
+      "end_seconds": 27.2,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [],
+      "primary_action": "The repaired butterfly picture held up to the sun; the girls hug. Authored beat 4/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, golden, slightly brighter than the conflict beat (resolution_relief); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, golden, slightly brighter than the conflict beat (resolution_relief)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_004_scene_04_u05",
+      "parent_scene_id": "scene_04",
+      "sequence": 5,
+      "start_seconds": 27.2,
+      "end_seconds": 34.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [],
+      "primary_action": "The repaired butterfly picture held up to the sun; the girls hug. Authored beat 5/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, golden, slightly brighter than the conflict beat (resolution_relief); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, golden, slightly brighter than the conflict beat (resolution_relief)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "scene action settled"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

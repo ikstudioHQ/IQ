@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "tts_words": [
+    {
+      "canonical_spelling": "Assalamu Alaikum",
+      "tts_engine": "amazon_polly",
+      "voice_id": "Joanna",
+      "language_code": "en-US",
+      "speed": "medium",
+      "pitch": "high",
+      "prosody_rate": "85"
+    },
+    {
+      "canonical_spelling": "Alhamdulillah",
+      "tts_engine": "amazon_polly",
+      "voice_id": "Joanna",
+      "language_code": "en-US",
+      "speed": "medium",
+      "pitch": "high",
+      "prosody_rate": "85"
+    },
+    {
+      "canonical_spelling": "Bismillah",
+      "tts_engine": "amazon_polly",
+      "voice_id": "Joanna",
+      "language_code": "en-US",
+      "speed": "medium",
+      "pitch": "high",
+      "prosody_rate": "85"
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ"
+  }
+}

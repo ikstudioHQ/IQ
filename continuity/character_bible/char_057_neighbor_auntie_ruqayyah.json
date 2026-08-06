@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_057_neighbor_auntie_ruqayyah",
+  "canonical_name": "Neighbor Auntie Ruqayyah",
+  "aliases": [],
+  "role_relation": "Kind elderly neighbor",
+  "age": "older adult",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Neighbor Auntie Ruqayyah — medium-brown skin; lavender-grey hijab, warm cream abaya, walking cane when needed. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark.",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Neighbor Auntie Ruqayyah, exact same canonical identity: medium-brown skin; lavender-grey hijab, warm cream abaya, walking cane when needed. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep face, proportions, clothing colors, hairstyle/hijab and accessories identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "expression_prompt": "Neighbor Auntie Ruqayyah, exact same canonical identity: medium-brown skin; lavender-grey hijab, warm cream abaya, walking cane when needed. Expression sheet with neutral, happy, excited, thoughtful, worried, sad, surprised, apologetic, relieved, joyful. Head-and-shoulders grid, identical identity and clothing, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "soft older woman; low-medium pitch; affectionate slow pace",
+    "voice_master": {
+      "voice_identity_id": "VOICE_057_NEIGHBOR_AUNTIE_RUQAYYAH",
+      "voice_profile_version": "2.0",
+      "voice_status": "PROFILE_DEFINED",
+      "fingerprint": {
+        "vocal_age_band": "adult",
+        "gender_presentation": "male",
+        "pitch_band": "low",
+        "pace_baseline": "slow",
+        "source_description": "soft older woman; low-medium pitch; affectionate slow pace",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "adult",
+        "gender_presentation": "male",
+        "pitch_band": "low",
+        "core_timbre": "soft older woman; low-medium pitch; affectionate slow pace"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 3,
+        "age_band": "adult",
+        "gender_voice_class": "female",
+        "pace": "slow",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "affectionate",
+          "low",
+          "medium",
+          "older",
+          "slow"
+        ],
+        "raw_source": "soft older woman; low-medium pitch; affectionate slow pace"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null
+    }
+  },
+  "restrictions": null,
+  "production_priority": "RECURRING",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_057_neighbor_auntie_ruqayyah_approved_reference",
+      "path": "sources/characters/reference_images/57. Neighbor Auntie Ruqayyah.png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

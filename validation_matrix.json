@@ -1,0 +1,67 @@
+{
+  "matrix_version": "1.1",
+  "created": "2026-07-30",
+  "source_document": "VALIDATION_MATRIX.md",
+  "usage_policy": "Every validation phase (story, writing, islamic, brand, curriculum, voice, animation, packaging, repository) reads this single source. Prompt references this file instead of embedding rules.",
+  "categories": {
+    "story_quality": [
+      "clear_value",
+      "gentle_conflict",
+      "earned_resolution",
+      "consistent_characters",
+      "natural_writing",
+      "no_filler",
+      "every_sentence_contributes"
+    ],
+    "writing_quality": [
+      "conversational_english",
+      "short_sentences",
+      "emotional_storytelling",
+      "show_not_tell",
+      "consistent_personalities",
+      "no_repetition",
+      "no_filler",
+      "no_robotic",
+      "no_generic_ai"
+    ],
+    "islamic_accuracy": [
+      "verified_sources",
+      "no_invented_hadith",
+      "no_invented_quran",
+      "no_disputed_as_fact",
+      "child_friendly",
+      "source_reference"
+    ],
+    "brand_consistency": [
+      "pastel_palette",
+      "rounded_shapes",
+      "expressive_eyes",
+      "child_scale",
+      "merchandise_friendly",
+      "warm_safe_cute"
+    ],
+    "curriculum_progression": [
+      "age_appropriate",
+      "prerequisites_met",
+      "one_concept",
+      "clear_objective",
+      "reference_previous"
+    ],
+    "technical_integrity": [
+      "all_json_valid",
+      "all_yaml_valid",
+      "all_references_verified",
+      "no_broken_links",
+      "no_placeholders",
+      "version_1_1_present",
+      "brand_present",
+      "no_contradictions"
+    ]
+  },
+  "scoring": {
+    "method": "PASS_FAIL_per_category",
+    "aggregate_rule": "Only outputs with 100_percent_PASS may be packaged as production_ready",
+    "warning_threshold": "No automatic packaging for aggregate below 85_percent"
+  },
+  "reference_id": "VALID_MATRIX_001"
+}

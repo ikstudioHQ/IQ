@@ -1,0 +1,563 @@
+{
+  "schema_version": "3.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "curriculum_overview": "Age-based Islamic and life skills curriculum for ages 2-8, designed for emotional engagement and progressive learning.",
+  "age_groups": [
+    {
+      "age": 2,
+      "name": "Tiny Learners",
+      "learning_goals": [
+        "Recognize greetings",
+        "Say simple duas",
+        "Show basic kindness"
+      ],
+      "vocabulary_focus": [
+        "Assalamu Alaikum",
+        "Bismillah",
+        "Mama",
+        "Baba",
+        "Please",
+        "Thank you"
+      ],
+      "islamic_concepts": [
+        "Allah is kind",
+        "Saying Bismillah",
+        "Being gentle"
+      ],
+      "stories": [
+        "Zayd says Bismillah",
+        "Ummi Layla teaches Assalamu Alaikum",
+        "Nuri is gentle"
+      ],
+      "life_skills": [
+        "Sharing toys gently",
+        "Cleaning hands",
+        "Helping with small tasks"
+      ],
+      "manners": [
+        "Saying please",
+        "Saying thank you",
+        "Being gentle"
+      ],
+      "emotional_skills": [
+        "Recognizing happy",
+        "Recognizing sad",
+        "Asking for help"
+      ],
+      "activities": [
+        "Singing short duas",
+        "Drawing circles",
+        "Hugging gently"
+      ],
+      "progression_notes": "Focus is on recognition and gentle repetition, not memorization.",
+      "lesson_id": "LESSON_AGE_02",
+      "requires": [],
+      "reinforces": [
+        "kindness"
+      ],
+      "mastery_level": "beginner",
+      "estimated_age": 2,
+      "learning_objectives": [
+        "Recognize greetings",
+        "Say simple duas",
+        "Show basic kindness"
+      ],
+      "assessment_type": "observational",
+      "version": "v1.1",
+      "confidence": "verified",
+      "last_updated": "2026-07-30",
+      "review_questions": [
+        "Can your child say 'Bismillah'?",
+        "Does your child recognize when to say thank you?"
+      ]
+    },
+    {
+      "age": 3,
+      "name": "Little Discoverers",
+      "learning_goals": [
+        "Remember simple duas",
+        "Introduce Prophets",
+        "Show kindness to friends"
+      ],
+      "vocabulary_focus": [
+        "Alhamdulillah",
+        "Insha Allah",
+        "Prophet",
+        "Friend",
+        "Kind",
+        "Share"
+      ],
+      "islamic_concepts": [
+        "Prophet Nuh was patient",
+        "Allah loves kindness",
+        "Morning dua"
+      ],
+      "stories": [
+        "Prophet Nuh's big boat",
+        "Zayd and Amira share",
+        "Morning dua with Ummi Layla"
+      ],
+      "life_skills": [
+        "Sharing with friends",
+        "Cleaning up gently",
+        "Asking before taking"
+      ],
+      "manners": [
+        "Greeting others",
+        "Saying Alhamdulillah after eating",
+        "Being kind to animals"
+      ],
+      "emotional_skills": [
+        "Recognizing anger gently",
+        "Asking for help",
+        "Saying sorry"
+      ],
+      "activities": [
+        "Making flower crowns",
+        "Singing with friends",
+        "Drawing families"
+      ],
+      "progression_notes": "Introduce more words, simple Prophet stories, deeper emotional awareness.",
+      "lesson_id": "LESSON_AGE_03",
+      "requires": [
+        "t_intro"
+      ],
+      "reinforces": [
+        "kindness"
+      ],
+      "mastery_level": "beginner",
+      "estimated_age": 3,
+      "learning_objectives": [
+        "Remember simple duas",
+        "Introduce Prophets",
+        "Show kindness to friends"
+      ],
+      "assessment_type": "observational",
+      "version": "v1.1",
+      "confidence": "verified",
+      "last_updated": "2026-07-30",
+      "review_questions": [
+        "Can your child repeat one word about Prophet Nuh's patience?",
+        "Does your child say the morning dua with you?"
+      ]
+    },
+    {
+      "age": 4,
+      "name": "Young Learners",
+      "learning_goals": [
+        "Understand Ramadan basics",
+        "Show respect to parents",
+        "Remember eating duas"
+      ],
+      "vocabulary_focus": [
+        "Ramadan",
+        "Fast",
+        "Respect",
+        "Parent",
+        "Teacher",
+        "Nature",
+        "Beautiful"
+      ],
+      "islamic_concepts": [
+        "Ramadan is a beautiful month",
+        "Parents are very special",
+        "Nature is a gift"
+      ],
+      "stories": [
+        "Zayd learns about Ramadan",
+        "Amira helps Ummi Layla",
+        "Amira sees beautiful stars"
+      ],
+      "life_skills": [
+        "Helping with simple tasks",
+        "Being patient",
+        "Being respectful"
+      ],
+      "manners": [
+        "Respecting parents",
+        "Being kind to teachers",
+        "Being gentle with animals"
+      ],
+      "emotional_skills": [
+        "Being patient",
+        "Being grateful",
+        "Feeling proud of good actions"
+      ],
+      "activities": [
+        "Making small crafts",
+        "Planting flowers",
+        "Learning new duas"
+      ],
+      "progression_notes": "Introduce festivals, respect concepts, deeper emotional skills.",
+      "lesson_id": "LESSON_AGE_04",
+      "requires": [
+        "t_intro",
+        "t_morning_dua"
+      ],
+      "reinforces": [
+        "kindness",
+        "respect",
+        "gratitude"
+      ],
+      "mastery_level": "intermediate",
+      "estimated_age": 4,
+      "learning_objectives": [
+        "Understand Ramadan basics",
+        "Show respect to parents",
+        "Remember eating duas"
+      ],
+      "assessment_type": "observational",
+      "version": "v1.1",
+      "confidence": "verified",
+      "last_updated": "2026-07-30",
+      "review_questions": [
+        "Can your child name one reason Ramadan is special?",
+        "Does your child show kindness to a family member?"
+      ]
+    },
+    {
+      "age": 5,
+      "name": "Growing Hearts",
+      "learning_goals": [
+        "Understand kindness to parents",
+        "Remember more duas",
+        "Show gratitude"
+      ],
+      "vocabulary_focus": [
+        "Gratitude",
+        "Love",
+        "Respect",
+        "Dua",
+        "Prophet",
+        "Family",
+        "Community"
+      ],
+      "islamic_concepts": [
+        "Kindness to parents is a path to Jannah",
+        "Prophets teach us beautiful things",
+        "Being part of a community"
+      ],
+      "stories": [
+        "Kindness to parents",
+        "Prophet stories deeper",
+        "Community kindness"
+      ],
+      "life_skills": [
+        "Being a good friend",
+        "Helping the community",
+        "Making good choices"
+      ],
+      "manners": [
+        "Saying Assalamu Alaikum to everyone",
+        "Respecting teachers",
+        "Being kind to strangers"
+      ],
+      "emotional_skills": [
+        "Understanding others' feelings",
+        "Being a gentle leader",
+        "Being patient with friends"
+      ],
+      "activities": [
+        "Community activities",
+        "Making small gifts",
+        "Learning longer nasheeds"
+      ],
+      "progression_notes": "Deeper stories, community awareness, emotional leadership.",
+      "lesson_id": "LESSON_AGE_05",
+      "requires": [
+        "t_intro",
+        "t_morning_dua"
+      ],
+      "reinforces": [
+        "kindness",
+        "respect",
+        "gratitude"
+      ],
+      "mastery_level": "intermediate",
+      "estimated_age": 5,
+      "learning_objectives": [
+        "Understand kindness to parents",
+        "Remember more duas",
+        "Show gratitude"
+      ],
+      "assessment_type": "observational_plus_discussion",
+      "version": "v1.1",
+      "confidence": "verified",
+      "last_updated": "2026-07-30",
+      "review_questions": [
+        "Can your child explain one way to be kind to parents?",
+        "Can your child name a Prophet and one thing they learned from him?"
+      ]
+    },
+    {
+      "age": 6,
+      "name": "Brave Hearts",
+      "learning_goals": [
+        "Understand Hajj and Eid",
+        "Learn respect concepts",
+        "Begin simple Arabic"
+      ],
+      "vocabulary_focus": [
+        "Hajj",
+        "Eid",
+        "Respect",
+        "Prayer",
+        "Community",
+        "Arabic words",
+        "Thank you"
+      ],
+      "islamic_concepts": [
+        "Hajj is a beautiful journey",
+        "Eid is a time of joy",
+        "Prayer connects us to Allah",
+        "Trusting Allah (Tawakkul)"
+      ],
+      "stories": [
+        "Prophet Ibrahim's beautiful obedience",
+        "Eid celebration stories",
+        "Simple prayer concepts",
+        "Zayd trusts Allah when he loses something important"
+      ],
+      "life_skills": [
+        "Working with others",
+        "Being a good example",
+        "Making good choices"
+      ],
+      "manners": [
+        "Respecting everyone",
+        "Being kind to animals",
+        "Sharing with others"
+      ],
+      "emotional_skills": [
+        "Being brave in small ways",
+        "Helping others feel better",
+        "Being a gentle leader"
+      ],
+      "activities": [
+        "Making Eid cards",
+        "Simple Arabic words",
+        "Community service"
+      ],
+      "progression_notes": "Introduce worship concepts, Arabic language basics, leadership skills.",
+      "lesson_id": "LESSON_AGE_06",
+      "requires": [
+        "t_intro",
+        "t_morning_dua"
+      ],
+      "reinforces": [
+        "kindness",
+        "respect",
+        "gratitude"
+      ],
+      "mastery_level": "intermediate",
+      "estimated_age": 6,
+      "learning_objectives": [
+        "Understand Hajj and Eid",
+        "Learn respect concepts",
+        "Begin simple Arabic"
+      ],
+      "assessment_type": "observational_plus_discussion",
+      "version": "v1.1",
+      "confidence": "verified",
+      "last_updated": "2026-07-30",
+      "review_questions": [
+        "Can your child describe what trusting Allah means, in their own words?",
+        "Does your child talk about a time prayer made them feel calm?"
+      ]
+    },
+    {
+      "age": 7,
+      "name": "Wise Hearts",
+      "learning_goals": [
+        "Deepen Islamic values",
+        "Understand community",
+        "Understand basic prayer"
+      ],
+      "vocabulary_focus": [
+        "Prayer",
+        "Community",
+        "Respect",
+        "Patience",
+        "Gratitude",
+        "Kindness",
+        "Love"
+      ],
+      "islamic_concepts": [
+        "Community is beautiful",
+        "Prayer is a gift",
+        "Patience is a beautiful virtue",
+        "Prophet Yunus trusted Allah in the hardest moment"
+      ],
+      "stories": [
+        "Community stories",
+        "Prophet stories with deeper lessons",
+        "Prayer awareness",
+        "Prophet Yunus and the whale"
+      ],
+      "life_skills": [
+        "Being a good leader",
+        "Making wise choices",
+        "Helping others grow"
+      ],
+      "manners": [
+        "Being respectful to everyone",
+        "Being kind even when tired",
+        "Being honest in everything"
+      ],
+      "emotional_skills": [
+        "Being emotionally wise",
+        "Helping others express feelings",
+        "Being calm when things are hard"
+      ],
+      "activities": [
+        "Community projects",
+        "Leading small activities",
+        "Learning longer Arabic phrases"
+      ],
+      "progression_notes": "Leadership, emotional wisdom, deeper Islamic concepts.",
+      "lesson_id": "LESSON_AGE_07",
+      "requires": [
+        "t_intro",
+        "t_morning_dua"
+      ],
+      "reinforces": [
+        "kindness",
+        "respect",
+        "gratitude"
+      ],
+      "mastery_level": "advanced",
+      "estimated_age": 7,
+      "learning_objectives": [
+        "Deepen Islamic values",
+        "Understand community",
+        "Understand basic prayer"
+      ],
+      "assessment_type": "observational_plus_reflection",
+      "version": "v1.1",
+      "confidence": "verified",
+      "last_updated": "2026-07-30",
+      "review_questions": [
+        "Can your child give an example of being patient?",
+        "Can your child explain why community matters, in their own words?"
+      ]
+    },
+    {
+      "age": 8,
+      "name": "Strong Hearts",
+      "learning_goals": [
+        "Leadership",
+        "Kindness in action",
+        "Expanded vocabulary",
+        "Moral reasoning"
+      ],
+      "vocabulary_focus": [
+        "Leadership",
+        "Kindness",
+        "Community",
+        "Love",
+        "Patience",
+        "Gratitude",
+        "Responsibility",
+        "Honesty"
+      ],
+      "islamic_concepts": [
+        "Leadership with kindness",
+        "Community service",
+        "Being responsible for others",
+        "Being honest in everything"
+      ],
+      "stories": [
+        "Leadership stories",
+        "Community service stories",
+        "Prophet stories with deep moral lessons"
+      ],
+      "life_skills": [
+        "Being a good leader",
+        "Making wise choices",
+        "Helping others grow",
+        "Being responsible"
+      ],
+      "manners": [
+        "Being respectful in all situations",
+        "Being kind to everyone",
+        "Being a good example"
+      ],
+      "emotional_skills": [
+        "Being emotionally mature",
+        "Helping others express feelings",
+        "Being calm and wise"
+      ],
+      "activities": [
+        "Leading small groups",
+        "Community service projects",
+        "Teaching younger children",
+        "Making presentations"
+      ],
+      "progression_notes": "Leadership focus, emotional maturity, moral reasoning, expanded vocabulary.",
+      "lesson_id": "LESSON_AGE_08",
+      "requires": [
+        "t_intro",
+        "t_morning_dua"
+      ],
+      "reinforces": [
+        "kindness",
+        "respect",
+        "gratitude"
+      ],
+      "mastery_level": "advanced",
+      "estimated_age": 8,
+      "learning_objectives": [
+        "Leadership",
+        "Kindness in action",
+        "Expanded vocabulary",
+        "Moral reasoning"
+      ],
+      "assessment_type": "observational_plus_reflection",
+      "version": "v1.1",
+      "confidence": "verified",
+      "last_updated": "2026-07-30",
+      "review_questions": [
+        "Can your child describe one way they showed leadership with kindness?",
+        "Can your child explain honesty in their own words, with an example?"
+      ]
+    }
+  ],
+  "curriculum_rules": [
+    "Every episode teaches exactly one clear concept.",
+    "Never skip age prerequisites.",
+    "Always reference approved Islamic sources.",
+    "Make every lesson emotional and engaging.",
+    "Never use lecture-style teaching."
+  ],
+  "future_expansion_notes": "Curriculum will expand with new age-appropriate series, multi-language versions, parent guides, and merchandise-integrated learning.",
+  "metadata": {
+    "retrieval_tags": [
+      "curriculum",
+      "age",
+      "learning",
+      "progression",
+      "prerequisites",
+      "education"
+    ],
+    "difficulty_level": "intermediate",
+    "age_target": "2-8",
+    "curriculum_stage": "all",
+    "search_keywords": [
+      "age",
+      "learning",
+      "goals",
+      "vocabulary",
+      "islamic",
+      "life_skills",
+      "emotional"
+    ],
+    "related_concepts": [
+      "islamic",
+      "story",
+      "education",
+      "world"
+    ]
+  }
+}

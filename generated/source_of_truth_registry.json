@@ -1,0 +1,28 @@
+{
+  "note": "Machine-readable version of sources/production/SOURCE_OF_TRUTH_MANIFEST.md -- that file remains the human-readable authority, this is a generated derivation for AI task-routing, not a second source of truth.",
+  "domains": {
+    "characters_visual": "sources/characters/character_master_library.json",
+    "characters_voice": "sources/characters/character_master_library.json:voice_master",
+    "voice_collision": "sources/characters/voice_collision_matrix.json",
+    "voice_audition": "sources/characters/voice_audition_manifest.json",
+    "pronunciation": "sources/production/pronunciation_dictionary.json",
+    "locations": "sources/production/location_library.json",
+    "wardrobe": "sources/production/wardrobe_library.json",
+    "props": "sources/production/prop_registry.json",
+    "religious_evidence": "phase2/data/islamic/*.json",
+    "religious_allowlist": "phase1/docs/governance/religious_production_allowlist.json",
+    "religious_blocklist": "phase1/docs/governance/religious_production_blocklist.json",
+    "concepts": "phase3/knowledge/concepts/*.json",
+    "vocabulary": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+    "conflicts": "phase3/knowledge/story/conflict_library.json",
+    "patterns": "phase3/knowledge/story/story_patterns.json",
+    "episode_topics": "phase5/orchestration/planning/episode_topic_bank.json",
+    "song_topics": "phase5/orchestration/planning/song_topic_bank.json",
+    "content_safety": "phase2/data/safety/content_scene_safety_registry.json",
+    "animal_policy": "phase2/data/safety/animal_policy_registry.json",
+    "review_resolutions": "phase2/data/safety/review_resolutions.json",
+    "world_state_history": "phase2/data/database/world_state.json",
+    "gemini_export": "output_package/<name>/gemini/ (DERIVED, never authoritative)",
+    "generated_episodes": "output_package/ (DERIVED, never authoritative, 0 published)"
+  }
+}

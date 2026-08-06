@@ -1,0 +1,239 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "song",
+  "parent_id": "song_020",
+  "logical_scene_id": "scene_01",
+  "generation_units": [
+    {
+      "generation_unit_id": "song_020_scene_01_u01",
+      "parent_scene_id": "scene_01",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 7.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "My hands had grass and sticky marks, From all my outdoor play,",
+          "start_seconds": 0.0,
+          "end_seconds": 5.455
+        }
+      ],
+      "primary_action": "In the family kitchen, Amira reaches eagerly toward the table while Ummi Layla notices her sticky hands and gently stops her. Authored beat 1/4: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_kitchen",
+      "lighting": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "begin scene action"
+      },
+      "out_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_020_scene_01_u02",
+      "parent_scene_id": "scene_01",
+      "sequence": 2,
+      "start_seconds": 7.0,
+      "end_seconds": 14.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "So before I reached the dinner plate, I washed them right away.",
+          "start_seconds": 7.0,
+          "end_seconds": 12.455
+        }
+      ],
+      "primary_action": "In the family kitchen, Amira reaches eagerly toward the table while Ummi Layla notices her sticky hands and gently stops her. Authored beat 2/4: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_kitchen",
+      "lighting": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_020_scene_01_u03",
+      "parent_scene_id": "scene_01",
+      "sequence": 3,
+      "start_seconds": 14.0,
+      "end_seconds": 21.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "performance": [],
+      "primary_action": "In the family kitchen, Amira reaches eagerly toward the table while Ummi Layla notices her sticky hands and gently stops her. Authored beat 3/4: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_kitchen",
+      "lighting": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_020_scene_01_u04",
+      "parent_scene_id": "scene_01",
+      "sequence": 4,
+      "start_seconds": 21.0,
+      "end_seconds": 28.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "performance": [],
+      "primary_action": "In the family kitchen, Amira reaches eagerly toward the table while Ummi Layla notices her sticky hands and gently stops her. Authored beat 4/4: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_kitchen",
+      "lighting": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "scene action settled"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

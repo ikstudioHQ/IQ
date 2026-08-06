@@ -1,0 +1,71 @@
+{
+  "concept_id": "concept_honesty",
+  "name": "Honesty (Sidq)",
+  "definition_by_age": {
+    "4": "Always telling the truth, even when it's hard.",
+    "6": "Honesty means saying what really happened, and being someone people can trust.",
+    "8": "Sidq means truthfulness in words and actions, and Amanah means being trustworthy with what others give you to look after."
+  },
+  "common_misconceptions": [
+    "Honesty means never having a hard feeling about telling the truth — wrong: it can still feel hard, the point is choosing truth anyway."
+  ],
+  "learning_objective": "Children can describe a moment when telling the truth was the right, brave choice.",
+  "related_quran": [],
+  "related_hadith": [
+    "hd_005",
+    "hd_002"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [
+    "vocab_005",
+    "vocab_006"
+  ],
+  "related_conflicts": [
+    "cf_002",
+    "cf_003",
+    "cf_006",
+    "cf_011"
+  ],
+  "recommended_age_range": [
+    5,
+    7
+  ],
+  "version": "v1.0",
+  "citation_verified": false,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_003",
+    "pattern_id": "pattern_006",
+    "hook_id": "hook_004",
+    "ending_id": "end_002",
+    "emotion": "worry",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_002). Temptation to lie/hide truth is a live CHOICE moment, a better fit than generic mistake-reflection."
+  },
+  "semantic_support": {
+    "hd_005": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly and explicitly about sidq (truthfulness), names the exact concept.",
+      "scholarly_reviewed": false
+    },
+    "hd_002": {
+      "support_type": "INTERPRETIVE",
+      "reasoning": "About good speech/silence generally (Bukhari 6018) — related but not a direct honesty statement; previously used as the primary evidence, now correctly downgraded now that hd_005 provides direct support.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_002",
+      "conflict_id": "cf_003",
+      "reasoning": "Breaking a promise by accident is the classic mistake-reflection shape."
+    },
+    {
+      "pattern_id": "pattern_013",
+      "conflict_id": "cf_017",
+      "reasoning": "Spilling and worrying fits natural-consequence learning."
+    }
+  ]
+}

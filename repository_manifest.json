@@ -1,0 +1,114 @@
+{
+  "repository_version": "2.72",
+  "manifest_version": "1.1",
+  "last_updated": "2026-08-05",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "supported_modules": [
+    "documentation",
+    "structured_data",
+    "knowledge_base",
+    "generation_engine",
+    "orchestration",
+    "sources",
+    "psychology",
+    "research",
+    "character_module",
+    "tooling",
+    "assets",
+    "governance",
+    "decisions",
+    "quality",
+    "failures",
+    "roadmap",
+    "concepts",
+    "vocabulary",
+    "planning",
+    "community",
+    "shorts",
+    "examples"
+  ],
+  "supported_output_types": [
+    "episode_package",
+    "story_outline",
+    "script",
+    "dialogue",
+    "image_prompts",
+    "thumbnail",
+    "voice_instructions",
+    "subtitle",
+    "seo_metadata",
+    "qa_checklist",
+    "validation_report"
+  ],
+  "supported_ai_models": [
+    "gpt-4o",
+    "claude-sonnet",
+    "future_models"
+  ],
+  "supported_tts_engines": [
+    "amazon_polly",
+    "google_tts",
+    "azure_tts",
+    "future_engines"
+  ],
+  "supported_image_engines": [
+    "dall-e-3",
+    "future_engines"
+  ],
+  "supported_languages": [
+    "en",
+    "ar",
+    "ur",
+    "fr",
+    "future_languages"
+  ],
+  "optional_modules": [
+    "analytics_integration",
+    "parent_review",
+    "merchandise_design",
+    "multi_language_expansion",
+    "interactive_content"
+  ],
+  "local_only": true,
+  "version_control_dependency": false,
+  "scalability_target": "thousands_of_episodes_over_many_years",
+  "character_module": {
+    "folder_path": "sources/characters/",
+    "version": "v2.0",
+    "status": "production",
+    "local_only": true,
+    "brand": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "folder_structure": {
+      "sources/characters/README.md": "Module overview, preservation guarantee, integration rules",
+      "sources/characters/character_system.md": "Full original v2 system: title, how-to-use, universal render suffix",
+      "sources/characters/character_index.json": "Retrieval index mapping concepts to exact file paths",
+      "sources/characters/character_schema.json": "Data schema for character entries",
+      "sources/characters/character_generation_rules.md": "Master turnaround + hero portrait generation rules",
+      "sources/characters/character_render_rules.md": "Universal render suffix + visual/render specifications",
+      "sources/characters/character_consistency_rules.md": "4 consistency rules \u2014 exact original",
+      "sources/characters/characters/zayd.md": "Character 1: locked description + master turnaround + hero portrait",
+      "sources/characters/characters/amira.md": "Character 2: locked description + master turnaround + hero portrait",
+      "sources/characters/characters/dada_yusuf.md": "Character 3: locked description + master turnaround + hero portrait",
+      "sources/characters/characters/baba_ahmad.md": "Character 4: locked description + master turnaround + hero portrait",
+      "sources/characters/characters/ummi_layla.md": "Character 5: locked description + master turnaround + hero portrait",
+      "sources/characters/characters/nuri.md": "Character 6: locked description + master turnaround + hero portrait"
+    },
+    "integration_notes": [
+      "MASTER_PROMPT.md orchestrates module automatically (Character Module Orchestration section).",
+      "knowledge_index.json registers all module files under 'characters' and 'character_module' entries.",
+      "All original prompts preserved exactly \u2014 zero simplification, zero rewriting.",
+      "Module follows repository architecture (lowercase_underscore, YAML front matter where applicable, version tracking, brand tracking, local-only).",
+      "This is the sole canonical character system as of v2.3 \u2014 the earlier duplicate character dataset that once conflicted with this module has been retired and rewritten onto these six characters."
+    ]
+  },
+  "tooling": {
+    "validate_repo": "tools/validate_repo.py \u2014 run before publishing; checks JSON/YAML validity and reference existence. See CHANGELOG.md v2.3.",
+    "package_episode": "tools/package_episode.py <episode_slug> \u2014 zips output_package/<episode_slug>/ into a downloadable file."
+  },
+  "assets": {
+    "characters": "assets/characters/*.jpeg \u2014 real locked turnaround reference sheets for all six characters.",
+    "brand": "assets/brand/logo.png \u2014 channel logo."
+  }
+}

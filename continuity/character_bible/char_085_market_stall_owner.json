@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_085_market_stall_owner",
+  "canonical_name": "Market Stall Owner",
+  "aliases": [
+    "Stall Owner"
+  ],
+  "role_relation": "Recurring-capable supporting market merchant; first appears in ep_honesty_wallet_assisted scene_4",
+  "age": "adult",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Market Stall Owner — friendly adult merchant with medium-brown skin, kind dark eyes, neatly kept short dark hair and trimmed beard; modest sand-beige long-sleeve tunic, dark olive trousers, brown closed shoes, simple forest-green waist apron. 3D animated children’s feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, wholesome child-safe mood, modest clothing, clean silhouette, consistent character-model design. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark.",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Market Stall Owner, exact same canonical identity and clothing. Six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Preserve face, beard, proportions, beige tunic, olive trousers, brown shoes and forest-green apron. Neutral warm-cream model-sheet background.",
+  "expression_prompt": "Market Stall Owner, exact same canonical identity. Expression sheet: neutral, attentive, surprised, relieved, grateful, warm smile, thoughtful, concerned, cheerful, calm. Preserve face, beard and clothing.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "warm appreciative adult merchant; medium pitch; calm conversational pace",
+    "voice_master": null
+  },
+  "restrictions": [
+    "Do not depict as a religious authority unless separately authored and reviewed."
+  ],
+  "production_priority": "SUPPORTING",
+  "approval_status": "DRAFT",
+  "asset_status": "AUTHORING_COMPLETE_ASSET_PENDING",
+  "reference_images": [],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

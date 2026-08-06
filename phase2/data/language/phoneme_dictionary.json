@@ -1,0 +1,48 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "phonemes": [
+    {
+      "symbol": "æ",
+      "sound": "a as in cat",
+      "example_word": "Assalamu",
+      "language_origin": "Arabic/English"
+    },
+    {
+      "symbol": "ɑː",
+      "sound": "a as in father",
+      "example_word": "Allah",
+      "language_origin": "Arabic"
+    },
+    {
+      "symbol": "l",
+      "sound": "l as in light",
+      "example_word": "Alhamdulillah",
+      "language_origin": "Arabic/English"
+    },
+    {
+      "symbol": "h",
+      "sound": "h as in happy",
+      "example_word": "Bismillah",
+      "language_origin": "Arabic/English"
+    },
+    {
+      "symbol": "r",
+      "sound": "rolled r",
+      "example_word": "Khairan",
+      "language_origin": "Arabic"
+    },
+    {
+      "symbol": "ʔ",
+      "sound": "glottal stop",
+      "example_word": "Insha Allah",
+      "language_origin": "Arabic"
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "total_phonemes": 6
+  }
+}

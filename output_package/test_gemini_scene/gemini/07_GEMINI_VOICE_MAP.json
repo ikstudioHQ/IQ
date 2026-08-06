@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "characters": [
+    {
+      "character_id": "char_001_zayd", "canonical_name": "Zayd",
+      "voice_id": null, "voice_profile_source": "Character Master Library, voice_profile_text field",
+      "provider": null, "provider_voice_id": null, "voice_seed": null,
+      "accent": "not specified in supplied profile", "pitch": "medium-high",
+      "timbre": "bright eager boy, warm and innocent", "pace": "medium, faster when excited",
+      "pronunciation": null, "approved": false, "reference_audio": null
+    },
+    {
+      "character_id": "char_002_amira", "canonical_name": "Amira",
+      "voice_id": null, "voice_profile_source": "Character Master Library, voice_profile_text field",
+      "provider": null, "provider_voice_id": null, "voice_seed": null,
+      "accent": "not specified in supplied profile", "pitch": "high natural",
+      "timbre": "sweet gentle young girl, soft and emotionally clear", "pace": "slow-medium",
+      "pronunciation": null, "approved": false, "reference_audio": null
+    }
+  ]
+}

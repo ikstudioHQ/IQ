@@ -1,0 +1,12 @@
+{
+  "technical_ready": true,
+  "content_safety_ready": true,
+  "publication_ready": false,
+  "package_mode": "DRAFT",
+  "blocking_reasons": [
+    "review_status:generated",
+    "assisted_mode"
+  ],
+  "review_resolution": null,
+  "note": "publication_ready reflects content_safety_ready only. religious_source_ready/character_asset_ready/voice_ready are separate dimensions computed elsewhere in this repository (verification_pipeline.md, character_master_library.json) and are NOT rolled into this single field to avoid a misleading collapsed PASS."
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "location_id": "loc_family_living_room",
+  "display_name": "Zayd & Amira's Family Living Room",
+  "canonical_description": "Cozy family living room, warm and lived-in, family-friendly 3D style.",
+  "layout": "Central seating area, window to one side, door to kitchen implied off-frame.",
+  "architecture": "Modest single-family home interior, warm wood tones.",
+  "materials": "Soft fabric sofa, wooden floor, warm-toned walls.",
+  "colour_palette": "warm cream, soft browns, gentle afternoon gold light",
+  "furniture": [
+    "low sofa",
+    "small side table",
+    "floor cushion"
+  ],
+  "important_objects": [
+    "family Quran stand (background)"
+  ],
+  "lighting_default": {
+    "baseline": "warm afternoon interior light, soft shadows",
+    "time_variants": {
+      "afternoon": "warm gold light, established baseline",
+      "evening": "not yet established",
+      "night": "not yet established"
+    },
+    "needs_review": true
+  },
+  "weather_default": {
+    "value": null,
+    "needs_review": true,
+    "note": "Not tracked in v2.72 source data (interior location); flagged for episodes involving weather/exterior continuity."
+  },
+  "reference_images": [],
+  "continuity_notes": "Cozy family living room, warm wood tones, soft fabric sofa, warm afternoon light, family-friendly 3D animated interior.",
+  "approval_status": "DRAFT",
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/production/location_library.json"
+}

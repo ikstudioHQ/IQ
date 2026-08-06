@@ -1,0 +1,18 @@
+{
+  "season_id": "cg_season4",
+  "status": "BLOCKED",
+  "episode_count": 2,
+  "findings": [
+    {
+      "source": "id_validation",
+      "id_type": "character",
+      "invalid_id": "char_999_fake",
+      "field": "character_ids",
+      "message": "Unknown character_id 'char_999_fake' -- no matching entry in the Character Registry (continuity/character_bible/). Refusing to build a request that references a character that doesn't exist.",
+      "severity": "error",
+      "episode_id": "cg_ep02",
+      "scene_id": "s1"
+    }
+  ],
+  "checked_at": "2026-08-06T12:48:04.116810+00:00"
+}

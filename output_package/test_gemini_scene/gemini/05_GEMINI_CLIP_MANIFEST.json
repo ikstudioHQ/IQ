@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "test_gemini_scene",
+  "clips": [
+    {
+      "clip_id": "CLIP_001", "scene_id": "SCENE_001", "sequence_number": 1,
+      "start_time": "00:00", "end_time": "00:10", "duration": 10.0,
+      "type": "dialogue", "character_ids": ["char_001_zayd", "char_002_amira"],
+      "speaker_ids": ["char_002_amira"],
+      "dialogue": "Alhamdulillah, thank you for helping me carry these!",
+      "dialogue_start": 2.5, "dialogue_end": 5.8,
+      "image_required": true, "direct_animation_supported": true,
+      "source_image": null,
+      "location": "loc_zayd_home_living_room",
+      "camera": "medium, eye-level, static",
+      "continuity_from": null, "continuity_to": "CLIP_002",
+      "religious_source_ids": ["dua_003"],
+      "restriction_status": "clean", "qa_status": "PENDING"
+    },
+    {
+      "clip_id": "CLIP_002", "scene_id": "SCENE_001", "sequence_number": 2,
+      "start_time": "00:10", "end_time": "00:20", "duration": 10.0,
+      "type": "dialogue", "character_ids": ["char_001_zayd", "char_002_amira"],
+      "speaker_ids": ["char_001_zayd"],
+      "dialogue": "Of course! That's what family is for.",
+      "dialogue_start": 2.0, "dialogue_end": 5.2,
+      "image_required": true, "direct_animation_supported": true,
+      "source_image": null,
+      "location": "loc_zayd_home_living_room",
+      "camera": "medium-close, eye-level, static",
+      "continuity_from": "CLIP_001", "continuity_to": null,
+      "religious_source_ids": [],
+      "restriction_status": "clean", "qa_status": "PENDING"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "concept_id": "concept_charity",
+  "name": "Charity (Zakat and Sadaqah)",
+  "definition_by_age": {
+    "4": "Giving something to someone who needs it.",
+    "6": "Charity means giving what you can to help others, a practice Islam highly values.",
+    "8": "Zakat is obligatory giving, and sadaqah is voluntary charity — both are ways Islam asks us to care for those in need."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can name one way to help someone who has less.",
+  "related_quran": [
+    "qv_011"
+  ],
+  "related_hadith": [
+    "hd_010"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [
+    "vocab_022"
+  ],
+  "related_conflicts": [
+    "cf_034",
+    "cf_056",
+    "cf_058"
+  ],
+  "recommended_age_range": [
+    6,
+    8
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_034",
+    "pattern_id": "pattern_004",
+    "hook_id": "hook_004",
+    "ending_id": "end_004",
+    "emotion": "joy",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_012). Helping->Blessing fits charity directly — moved off pattern_012 to resolve its collision with concept_community."
+  },
+  "semantic_support": {
+    "hd_010": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly defines charity broadly including a smile.",
+      "scholarly_reviewed": false
+    },
+    "qv_011": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "The core charity/spending verse.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_004",
+      "conflict_id": "cf_056",
+      "reasoning": "Donating a valued toy (not surplus) is a real helping/blessing shape."
+    },
+    {
+      "pattern_id": "pattern_013",
+      "conflict_id": "cf_058",
+      "reasoning": "Giving what little you have during a collection is a natural-lesson shape, no adult mediation needed."
+    }
+  ]
+}

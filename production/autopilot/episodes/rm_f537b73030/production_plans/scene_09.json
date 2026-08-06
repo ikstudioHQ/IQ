@@ -1,0 +1,409 @@
+{
+  "schema_version": "2.68",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "episode",
+  "parent_id": "rm_f537b73030",
+  "source_scene_id": "scene_09",
+  "generation_units": [
+    {
+      "generation_unit_id": "rm_f537b73030_scene_09_u01",
+      "parent_scene_id": "scene_09",
+      "start_seconds": 0.0,
+      "end_seconds": 7.5,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "performance": [
+        {
+          "character_id": "char_004_baba_ahmad",
+          "type": "dialogue",
+          "text": "Baba Ahmad (with cap + rumal): I want to remember this the next time I have a choice.",
+          "start_seconds": 0.0,
+          "end_seconds": 7.2,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear callback action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_f537b73030_scene_09_u02",
+      "parent_scene_id": "scene_09",
+      "start_seconds": 7.5,
+      "end_seconds": 15.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "Zayd: I want to remember this the next time I have a choice.",
+          "start_seconds": 7.5,
+          "end_seconds": 12.7,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_004_baba_ahmad",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_004_baba_ahmad"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear callback action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_f537b73030_scene_09_u03",
+      "parent_scene_id": "scene_09",
+      "start_seconds": 15.0,
+      "end_seconds": 22.5,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "performance": [
+        {
+          "character_id": "char_004_baba_ahmad",
+          "type": "dialogue",
+          "text": "Baba Ahmad (with cap + rumal): I want to remember this the next time I have a choice.",
+          "start_seconds": 15.0,
+          "end_seconds": 22.2,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear callback action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_f537b73030_scene_09_u04",
+      "parent_scene_id": "scene_09",
+      "start_seconds": 22.5,
+      "end_seconds": 30.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "Zayd: I want to remember this the next time I have a choice.",
+          "start_seconds": 22.5,
+          "end_seconds": 27.7,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_004_baba_ahmad",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_004_baba_ahmad"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear callback action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_f537b73030_scene_09_u05",
+      "parent_scene_id": "scene_09",
+      "start_seconds": 30.0,
+      "end_seconds": 37.5,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "performance": [
+        {
+          "character_id": "char_004_baba_ahmad",
+          "type": "dialogue",
+          "text": "Baba Ahmad (with cap + rumal): I want to remember this the next time I have a choice.",
+          "start_seconds": 30.0,
+          "end_seconds": 37.2,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear callback action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_f537b73030_scene_09_u06",
+      "parent_scene_id": "scene_09",
+      "start_seconds": 37.5,
+      "end_seconds": 45.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "Zayd: I want to remember this the next time I have a choice.",
+          "start_seconds": 37.5,
+          "end_seconds": 42.7,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_004_baba_ahmad",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_004_baba_ahmad"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear callback action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_f537b73030_scene_09_u07",
+      "parent_scene_id": "scene_09",
+      "start_seconds": 45.0,
+      "end_seconds": 52.5,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "performance": [
+        {
+          "character_id": "char_004_baba_ahmad",
+          "type": "dialogue",
+          "text": "Baba Ahmad (with cap + rumal): I want to remember this the next time I have a choice.",
+          "start_seconds": 45.0,
+          "end_seconds": 52.2,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear callback action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_f537b73030_scene_09_u08",
+      "parent_scene_id": "scene_09",
+      "start_seconds": 52.5,
+      "end_seconds": 60.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "Zayd: I want to remember this the next time I have a choice.",
+          "start_seconds": 52.5,
+          "end_seconds": 57.7,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_004_baba_ahmad",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_004_baba_ahmad"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "hopeful",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear callback action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    }
+  ]
+}

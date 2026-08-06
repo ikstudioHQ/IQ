@@ -1,0 +1,5 @@
+{"schema_version":"1.0","episode_id":"test_multiclip_scene",
+"note":"Export-readiness test only -- no actual Gemini generation was run, per instruction (P29/multi-clip test: testing export readiness, not producing video). All entries below are the SCHEMA proof, not real generation attempts.",
+"clips":[
+{"clip_id":"CLIP_001","generation_mode":"NOT_YET_GENERATED","prompt_version":"1.0","character_asset_versions":{"char_001_zayd":"1.0","char_002_amira":"1.0"},"voice_profile_versions":{},"input_image":null,"generation_attempt":0,"selected_output":null,"rejected_outputs":[],"rejection_reason":null,"manual_adjustment":null,"final_approved":false,"notes":"Schema-ready, awaiting real asset/voice approval before actual generation."}
+]}

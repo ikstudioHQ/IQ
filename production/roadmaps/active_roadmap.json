@@ -1,0 +1,1194 @@
+{
+  "schema_version": "2.69",
+  "roadmap_id": "roadmap_main",
+  "roadmap_version": 1,
+  "requested_episode_count": 30,
+  "status": "ROADMAP_DRAFT",
+  "provenance_class": "AUTHORED_CREATIVE_STORY_PLAN",
+  "episodes": [
+    {
+      "order": 1,
+      "episode_id": "rm_ced56ce5ae",
+      "title": "Learning Charity: The Day 1 Choice",
+      "topic_id": "topic_001",
+      "curriculum_topic_reference": "topic_001",
+      "concept": "concept_charity",
+      "evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale school choice makes children can name one way to help someone who has less visible through consequence and repair.",
+      "story_objective": "Children can name one way to help someone who has less.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "school"
+      ],
+      "conflict_id": "cf_034",
+      "arc_id": "arc_01",
+      "dependencies": [],
+      "opening_state": {
+        "inherits_from": null
+      },
+      "ending_state": {
+        "lesson_progress": "concept_charity",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 2,
+      "episode_id": "rm_1c729b4802",
+      "title": "Learning Forgiveness: The Day 2 Choice",
+      "topic_id": "topic_008",
+      "curriculum_topic_reference": "topic_008",
+      "concept": "concept_forgiveness",
+      "evidence_ids": [
+        "qv_008"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe forgiving a friend after a small mistake visible through consequence and repair.",
+      "story_objective": "Children can describe forgiving a friend after a small mistake.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_019",
+      "arc_id": "arc_01",
+      "dependencies": [
+        "rm_ced56ce5ae"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_ced56ce5ae.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_forgiveness",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 3,
+      "episode_id": "rm_f537b73030",
+      "title": "Learning Trustworthiness: The Day 3 Choice",
+      "topic_id": "topic_015",
+      "curriculum_topic_reference": "topic_015",
+      "concept": "concept_trustworthiness",
+      "evidence_ids": [
+        "qv_009"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe returning a borrowed item carefully visible through consequence and repair.",
+      "story_objective": "Children can describe returning a borrowed item carefully.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_019",
+      "arc_id": "arc_01",
+      "dependencies": [
+        "rm_1c729b4802"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_1c729b4802.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_trustworthiness",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 4,
+      "episode_id": "rm_efc2c3ee01",
+      "title": "Learning Courage: The Day 4 Choice",
+      "topic_id": "topic_022",
+      "curriculum_topic_reference": "topic_022",
+      "concept": "concept_courage",
+      "evidence_ids": [
+        "qv_013"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe trying something new even though it felt scary visible through consequence and repair.",
+      "story_objective": "Children can describe trying something new even though it felt scary.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_045",
+      "arc_id": "arc_02",
+      "dependencies": [
+        "rm_f537b73030"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_f537b73030.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_courage",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": {
+        "song_id": "song_001",
+        "policy": "canonical reference only; episode staging authored later"
+      },
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 5,
+      "episode_id": "rm_3e67eaed9b",
+      "title": "Learning Humility: The Day 5 Choice",
+      "topic_id": "topic_029",
+      "curriculum_topic_reference": "topic_029",
+      "concept": "concept_humility",
+      "evidence_ids": [
+        "qv_014"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale playground choice makes children can describe being humble after doing well at something visible through consequence and repair.",
+      "story_objective": "Children can describe being humble after doing well at something.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "playground"
+      ],
+      "conflict_id": "cf_031",
+      "arc_id": "arc_single_005",
+      "dependencies": [
+        "rm_efc2c3ee01"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_efc2c3ee01.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_humility",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 6,
+      "episode_id": "rm_3be12ce9df",
+      "title": "Learning Compassion for Animals: The Day 6 Choice",
+      "topic_id": "topic_036",
+      "curriculum_topic_reference": "topic_036",
+      "concept": "concept_compassion_for_animals",
+      "evidence_ids": [
+        "hd_011"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe a kind way to treat an animal visible through consequence and repair.",
+      "story_objective": "Children can describe a kind way to treat an animal.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_038",
+      "arc_id": "arc_02",
+      "dependencies": [
+        "rm_3e67eaed9b"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_3e67eaed9b.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_compassion_for_animals",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 7,
+      "episode_id": "rm_9f5d2f44c9",
+      "title": "Learning Justice: The Day 7 Choice",
+      "topic_id": "topic_043",
+      "curriculum_topic_reference": "topic_043",
+      "concept": "concept_justice",
+      "evidence_ids": [
+        "qv_006",
+        "hd_013"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe a fair way to solve a disagreement visible through consequence and repair.",
+      "story_objective": "Children can describe a fair way to solve a disagreement.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_003",
+      "arc_id": "arc_03",
+      "dependencies": [
+        "rm_3be12ce9df"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_3be12ce9df.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_justice",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 8,
+      "episode_id": "rm_743b0f92f3",
+      "title": "Learning Patience: The Day 8 Choice",
+      "topic_id": "topic_006",
+      "curriculum_topic_reference": "topic_006",
+      "concept": "concept_patience",
+      "evidence_ids": [
+        "qv_007"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale mosque/market choice makes children can wait their turn calmly and name it as sabr visible through consequence and repair.",
+      "story_objective": "Children can wait their turn calmly and name it as sabr.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "mosque/market"
+      ],
+      "conflict_id": "cf_054",
+      "arc_id": "arc_03",
+      "dependencies": [
+        "rm_9f5d2f44c9"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_9f5d2f44c9.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_patience",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 9,
+      "episode_id": "rm_0db60cc2e8",
+      "title": "Learning Mercy: The Day 9 Choice",
+      "topic_id": "topic_013",
+      "curriculum_topic_reference": "topic_013",
+      "concept": "concept_mercy",
+      "evidence_ids": [
+        "hd_014",
+        "hd_003"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe showing gentleness to someone who was upset visible through consequence and repair.",
+      "story_objective": "Children can describe showing gentleness to someone who was upset.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_017",
+      "arc_id": "arc_03",
+      "dependencies": [
+        "rm_743b0f92f3"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_743b0f92f3.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_mercy",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 10,
+      "episode_id": "rm_f02501054d",
+      "title": "Learning Perseverance: The Day 10 Choice",
+      "topic_id": "topic_020",
+      "curriculum_topic_reference": "topic_020",
+      "concept": "concept_perseverance",
+      "evidence_ids": [
+        "qv_015"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale school choice makes children can describe trying again after not succeeding the first time visible through consequence and repair.",
+      "story_objective": "Children can describe trying again after not succeeding the first time.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "school"
+      ],
+      "conflict_id": "cf_046",
+      "arc_id": "arc_single_010",
+      "dependencies": [
+        "rm_0db60cc2e8"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_0db60cc2e8.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_perseverance",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 11,
+      "episode_id": "rm_9ed7ae1958",
+      "title": "Learning Tawakkul: The Day 11 Choice",
+      "topic_id": "topic_027",
+      "curriculum_topic_reference": "topic_027",
+      "concept": "concept_tawakkul",
+      "evidence_ids": [
+        "qv_004",
+        "qv_005",
+        "dua_005",
+        "dua_006"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can say a trust-in-allah dua after trying their best at something hard visible through consequence and repair.",
+      "story_objective": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_001",
+      "arc_id": "arc_04",
+      "dependencies": [
+        "rm_f02501054d"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_f02501054d.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_tawakkul",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": {
+        "song_id": "song_002",
+        "policy": "canonical reference only; episode staging authored later"
+      },
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 12,
+      "episode_id": "rm_9478b34584",
+      "title": "Learning Generosity: The Day 12 Choice",
+      "topic_id": "topic_034",
+      "curriculum_topic_reference": "topic_034",
+      "concept": "concept_generosity",
+      "evidence_ids": [
+        "hd_007"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can name something they shared and how it felt visible through consequence and repair.",
+      "story_objective": "Children can name something they shared and how it felt.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_006",
+      "arc_id": "arc_04",
+      "dependencies": [
+        "rm_9ed7ae1958"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_9ed7ae1958.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_generosity",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 13,
+      "episode_id": "rm_4e7f5b0716",
+      "title": "Learning Gratitude: The Day 13 Choice",
+      "topic_id": "topic_041",
+      "curriculum_topic_reference": "topic_041",
+      "concept": "concept_gratitude",
+      "evidence_ids": [
+        "qv_001",
+        "dua_003",
+        "dua_002"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can name one thing they're grateful for and say alhamdulillah visible through consequence and repair.",
+      "story_objective": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_005",
+      "arc_id": "arc_05",
+      "dependencies": [
+        "rm_9478b34584"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_9478b34584.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_gratitude",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 14,
+      "episode_id": "rm_be422433bd",
+      "title": "Learning Good Speech: The Day 14 Choice",
+      "topic_id": "topic_004",
+      "curriculum_topic_reference": "topic_004",
+      "concept": "concept_good_speech",
+      "evidence_ids": [
+        "hd_002"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home/mosque choice makes children can pause and choose a kind word instead of an unkind one in a moment of frustration visible through consequence and repair.",
+      "story_objective": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home/mosque"
+      ],
+      "conflict_id": "cf_035",
+      "arc_id": "arc_05",
+      "dependencies": [
+        "rm_4e7f5b0716"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_4e7f5b0716.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_good_speech",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 15,
+      "episode_id": "rm_edb2d76831",
+      "title": "Learning Honesty: The Day 15 Choice",
+      "topic_id": "topic_011",
+      "curriculum_topic_reference": "topic_011",
+      "concept": "concept_honesty",
+      "evidence_ids": [
+        "hd_005",
+        "hd_002"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe a moment when telling the truth was the right, brave choice visible through consequence and repair.",
+      "story_objective": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_003",
+      "arc_id": "arc_single_015",
+      "dependencies": [
+        "rm_be422433bd"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_be422433bd.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_honesty",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 16,
+      "episode_id": "rm_4cd48bf022",
+      "title": "Learning Prayer: The Day 16 Choice",
+      "topic_id": "topic_018",
+      "curriculum_topic_reference": "topic_018",
+      "concept": "concept_prayer",
+      "evidence_ids": [
+        "qv_012"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can name one of the five daily prayers visible through consequence and repair.",
+      "story_objective": "Children can name one of the five daily prayers.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_051",
+      "arc_id": "arc_06",
+      "dependencies": [
+        "rm_edb2d76831"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_edb2d76831.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_prayer",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 17,
+      "episode_id": "rm_02a4f001a3",
+      "title": "Learning Respect for Parents: The Day 17 Choice",
+      "topic_id": "topic_025",
+      "curriculum_topic_reference": "topic_025",
+      "concept": "concept_respect_for_parents",
+      "evidence_ids": [
+        "hd_001",
+        "hd_004"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe one way they helped a parent this week visible through consequence and repair.",
+      "story_objective": "Children can describe one way they helped a parent this week.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_005",
+      "arc_id": "arc_06",
+      "dependencies": [
+        "rm_4cd48bf022"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_4cd48bf022.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_respect_for_parents",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 18,
+      "episode_id": "rm_40c3ced993",
+      "title": "Learning Self-Control: The Day 18 Choice",
+      "topic_id": "topic_032",
+      "curriculum_topic_reference": "topic_032",
+      "concept": "concept_self_control",
+      "evidence_ids": [
+        "hd_006",
+        "hd_002"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale school/playground choice makes children can describe staying calm during a frustrating moment visible through consequence and repair.",
+      "story_objective": "Children can describe staying calm during a frustrating moment.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "school/playground"
+      ],
+      "conflict_id": "cf_048",
+      "arc_id": "arc_06",
+      "dependencies": [
+        "rm_02a4f001a3"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_02a4f001a3.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_self_control",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": {
+        "song_id": "song_003",
+        "policy": "canonical reference only; episode staging authored later"
+      },
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 19,
+      "episode_id": "rm_838022f546",
+      "title": "Learning Cleanliness: The Day 19 Choice",
+      "topic_id": "topic_039",
+      "curriculum_topic_reference": "topic_039",
+      "concept": "concept_cleanliness",
+      "evidence_ids": [
+        "qv_010",
+        "hd_009"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe washing hands before eating and why visible through consequence and repair.",
+      "story_objective": "Children can describe washing hands before eating and why.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_033",
+      "arc_id": "arc_07",
+      "dependencies": [
+        "rm_40c3ced993"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_40c3ced993.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_cleanliness",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 20,
+      "episode_id": "rm_9d6c91e5ff",
+      "title": "Learning Charity: The Day 20 Choice",
+      "topic_id": "topic_002",
+      "curriculum_topic_reference": "topic_002",
+      "concept": "concept_charity",
+      "evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can name one way to help someone who has less visible through consequence and repair.",
+      "story_objective": "Children can name one way to help someone who has less.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_056",
+      "arc_id": "arc_single_020",
+      "dependencies": [
+        "rm_838022f546"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_838022f546.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_charity",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 21,
+      "episode_id": "rm_7aea6bad78",
+      "title": "Learning Community: The Day 21 Choice",
+      "topic_id": "topic_009",
+      "curriculum_topic_reference": "topic_009",
+      "concept": "concept_community",
+      "evidence_ids": [
+        "qv_016",
+        "hd_012"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe helping someone outside their immediate family visible through consequence and repair.",
+      "story_objective": "Children can describe helping someone outside their immediate family.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_040",
+      "arc_id": "arc_07",
+      "dependencies": [
+        "rm_9d6c91e5ff"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_9d6c91e5ff.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_community",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 22,
+      "episode_id": "rm_2d85b7659b",
+      "title": "Learning Trustworthiness: The Day 22 Choice",
+      "topic_id": "topic_016",
+      "curriculum_topic_reference": "topic_016",
+      "concept": "concept_trustworthiness",
+      "evidence_ids": [
+        "qv_009"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale playground/school choice makes children can describe returning a borrowed item carefully visible through consequence and repair.",
+      "story_objective": "Children can describe returning a borrowed item carefully.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "playground/school"
+      ],
+      "conflict_id": "cf_050",
+      "arc_id": "arc_08",
+      "dependencies": [
+        "rm_7aea6bad78"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_7aea6bad78.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_trustworthiness",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 23,
+      "episode_id": "rm_851104989b",
+      "title": "Learning Friendship / Brotherhood: The Day 23 Choice",
+      "topic_id": "topic_023",
+      "curriculum_topic_reference": "topic_023",
+      "concept": "concept_friendship",
+      "evidence_ids": [
+        "hd_008"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale school choice makes children can describe one way to be a good friend when a friend is having a hard time visible through consequence and repair.",
+      "story_objective": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "school"
+      ],
+      "conflict_id": "cf_036",
+      "arc_id": "arc_08",
+      "dependencies": [
+        "rm_2d85b7659b"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_2d85b7659b.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_friendship",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 24,
+      "episode_id": "rm_20569526d0",
+      "title": "Learning Humility: The Day 24 Choice",
+      "topic_id": "topic_030",
+      "curriculum_topic_reference": "topic_030",
+      "concept": "concept_humility",
+      "evidence_ids": [
+        "qv_014"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe being humble after doing well at something visible through consequence and repair.",
+      "story_objective": "Children can describe being humble after doing well at something.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_049",
+      "arc_id": "arc_08",
+      "dependencies": [
+        "rm_851104989b"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_851104989b.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_humility",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 25,
+      "episode_id": "rm_20be1f06f9",
+      "title": "Learning Kindness: The Day 25 Choice",
+      "topic_id": "topic_037",
+      "curriculum_topic_reference": "topic_037",
+      "concept": "concept_kindness",
+      "evidence_ids": [
+        "hd_001",
+        "hd_003"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe one kind thing they did for someone visible through consequence and repair.",
+      "story_objective": "Children can describe one kind thing they did for someone.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_009",
+      "arc_id": "arc_single_025",
+      "dependencies": [
+        "rm_20569526d0"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_20569526d0.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_kindness",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": {
+        "song_id": "song_004",
+        "policy": "canonical reference only; episode staging authored later"
+      },
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 26,
+      "episode_id": "rm_6bcb895dc0",
+      "title": "Learning Justice: The Day 26 Choice",
+      "topic_id": "topic_044",
+      "curriculum_topic_reference": "topic_044",
+      "concept": "concept_justice",
+      "evidence_ids": [
+        "qv_006",
+        "hd_013"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe a fair way to solve a disagreement visible through consequence and repair.",
+      "story_objective": "Children can describe a fair way to solve a disagreement.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_053",
+      "arc_id": "arc_09",
+      "dependencies": [
+        "rm_20be1f06f9"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_20be1f06f9.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_justice",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 27,
+      "episode_id": "rm_bd47fcf53d",
+      "title": "Learning Forgiveness: The Day 27 Choice",
+      "topic_id": "topic_007",
+      "curriculum_topic_reference": "topic_007",
+      "concept": "concept_forgiveness",
+      "evidence_ids": [
+        "qv_008"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe forgiving a friend after a small mistake visible through consequence and repair.",
+      "story_objective": "Children can describe forgiving a friend after a small mistake.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_025",
+      "arc_id": "arc_09",
+      "dependencies": [
+        "rm_6bcb895dc0"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_6bcb895dc0.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_forgiveness",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 28,
+      "episode_id": "rm_639234cded",
+      "title": "Learning Mercy: The Day 28 Choice",
+      "topic_id": "topic_014",
+      "curriculum_topic_reference": "topic_014",
+      "concept": "concept_mercy",
+      "evidence_ids": [
+        "hd_014",
+        "hd_003"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale playground choice makes children can describe showing gentleness to someone who was upset visible through consequence and repair.",
+      "story_objective": "Children can describe showing gentleness to someone who was upset.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "playground"
+      ],
+      "conflict_id": "cf_055",
+      "arc_id": "arc_10",
+      "dependencies": [
+        "rm_bd47fcf53d"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_bd47fcf53d.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_mercy",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 29,
+      "episode_id": "rm_4ca2c57d8e",
+      "title": "Learning Courage: The Day 29 Choice",
+      "topic_id": "topic_021",
+      "curriculum_topic_reference": "topic_021",
+      "concept": "concept_courage",
+      "evidence_ids": [
+        "qv_013"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can describe trying something new even though it felt scary visible through consequence and repair.",
+      "story_objective": "Children can describe trying something new even though it felt scary.",
+      "character_focus": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_026",
+      "arc_id": "arc_10",
+      "dependencies": [
+        "rm_639234cded"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_639234cded.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_courage",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Continue accepted state into next episode.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    },
+    {
+      "order": 30,
+      "episode_id": "rm_2e3d674aa1",
+      "title": "Learning Tawakkul: The Day 30 Choice",
+      "topic_id": "topic_028",
+      "curriculum_topic_reference": "topic_028",
+      "concept": "concept_tawakkul",
+      "evidence_ids": [
+        "qv_004",
+        "qv_005",
+        "dua_005",
+        "dua_006"
+      ],
+      "source_review_state": "INHERIT_EXISTING_EVIDENCE_REVIEW_STATE",
+      "story_premise": "A child-scale home choice makes children can say a trust-in-allah dua after trying their best at something hard visible through consequence and repair.",
+      "story_objective": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "character_focus": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "locations": [
+        "home"
+      ],
+      "conflict_id": "cf_004",
+      "arc_id": "arc_single_030",
+      "dependencies": [
+        "rm_4ca2c57d8e"
+      ],
+      "opening_state": {
+        "inherits_from": "rm_4ca2c57d8e.ending_state"
+      },
+      "ending_state": {
+        "lesson_progress": "concept_tawakkul",
+        "memory_note": "Persist only accepted consequences/relationship changes after production review."
+      },
+      "next_episode_hook": "Season ending; future extension may begin from accepted snapshot.",
+      "song_placement": null,
+      "status": "ROADMAP_DRAFT",
+      "production_status": "NOT_STARTED",
+      "review_status": "REVIEW_REQUIRED"
+    }
+  ],
+  "history": [
+    {
+      "version": 1,
+      "action": "created",
+      "episode_count": 30
+    }
+  ]
+}

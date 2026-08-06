@@ -1,0 +1,57 @@
+{
+  "concept_id": "concept_perseverance",
+  "name": "Perseverance",
+  "definition_by_age": {
+    "4": "Trying again after something doesn't work.",
+    "6": "Perseverance means continuing to try, even after a setback.",
+    "8": "Perseverance is steady effort over time, trusting the process even when results take a while."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe trying again after not succeeding the first time.",
+  "related_quran": [
+    "qv_015"
+  ],
+  "related_hadith": [],
+  "related_duas": [],
+  "related_prophets": [
+    "prophet_nuh"
+  ],
+  "related_vocabulary": [
+    "vocab_002"
+  ],
+  "related_conflicts": [
+    "cf_023",
+    "cf_046"
+  ],
+  "recommended_age_range": [
+    6,
+    8
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": true,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_023",
+    "pattern_id": "pattern_003",
+    "hook_id": "hook_004",
+    "ending_id": "end_004",
+    "emotion": "worry",
+    "note": "Retrieval ranking (retrieval_ranking.md) starts from this combination and diversity-penalizes away from it on repeat use, per recommended_story_combinations.md."
+  },
+  "semantic_support": {
+    "qv_015": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "The most famous, directly on-topic perseverance-through-hardship verse.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_002",
+      "conflict_id": "cf_023",
+      "reasoning": "Losing a game and trying again fits mistake-reflection-correction."
+    }
+  ]
+}

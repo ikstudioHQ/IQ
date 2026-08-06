@@ -1,0 +1,44 @@
+repository:
+  name: Islamic Kids Studio AI Knowledge Repository
+  version: 2.72
+  brand: Islamic Kids Studio
+  handle: '@IslamicKidsHQ'
+  logo_text: Islamic Kids Studio
+  watermark: IK Studio
+  last_updated: '2026-07-30T14:00:00+05:30'
+  future_proofing:
+    new_ai_models: Supported without structural change
+    new_tts_engines: Supported via tts_dictionary.json updates
+    new_image_models: Supported via image_prompt.md updates
+    localization: Supported via languages.yaml expansion
+    new_curricula: Supported via available_topics.json and topic_graph.json updates
+    new_characters: Supported via knowledge_characters.json updates
+    new_languages: Supported via pronunciation_dictionary.json and arabic_words.json
+      updates
+    additional_episodes: Supported — no file restructuring required
+    version_compatibility: Backward compatible with v1.0-v1.1
+channel:
+  display_name: Islamic Kids Studio
+  youtube_handle: '@IslamicKidsHQ'
+  primary_keywords:
+  - Islamic Kids
+  - Islamic Stories
+  - Muslim Kids
+  - Quran for Kids
+  - Dua for Kids
+  target_age: 2-8
+  language: English (with Arabic terms)
+  upload_frequency: Weekly
+  episode_length_target_seconds: 210
+ai_system:
+  pipeline_version: v1.0
+  primary_model: gpt-4o
+  secondary_model: claude-sonnet
+  tts_engine: amazon_polly
+  image_model: dall-e-3
+  animation_engine: after-effects-scripted
+content_policy:
+  safe_for_children: true
+  parent_approval_required: true
+  islamic_accuracy_check: true
+  scholarly_review_for_disputed_opinions: true

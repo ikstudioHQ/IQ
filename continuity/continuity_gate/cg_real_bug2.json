@@ -1,0 +1,15 @@
+{
+  "season_id": "cg_real_bug2",
+  "status": "BLOCKED",
+  "episode_count": 3,
+  "findings": [
+    {
+      "episode_id": "ep03",
+      "thread_id": "thread_ep02_lesson_0",
+      "issue": "thread_referenced_before_created",
+      "message": "Episode ep03 references/resolves thread 'thread_ep02_lesson_0' but the real Story State system (StoryStateRepo) never actually created a thread with that ID from any earlier episode. Verified against the real ID assignment algorithm, not a re-simulation of it.",
+      "severity": "error"
+    }
+  ],
+  "checked_at": "2026-08-06T12:48:04.124957+00:00"
+}

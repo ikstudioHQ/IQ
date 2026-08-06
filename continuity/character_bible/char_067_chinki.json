@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_067_chinki",
+  "canonical_name": "Chinki (Bakri — Female Goat)",
+  "aliases": [],
+  "role_relation": "Farm/Eid-season companion, gentle caring sidekick, Chintu's pair",
+  "age": "young animal",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Chinki — a small stylized chibi female goat character, soft cream-white coat with light-grey patches over one ear and the tail, small short nubby horns, big round hazel eyes with bright glossy catchlights and soft lashes, stubby chibi-proportioned legs with black hooves, wearing a pink woven neck cord with a small brass bell and a tiny flower charm. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, all four legs visible, no text, no watermark.",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Chinki, exact same canonical identity: soft cream-white coat with light-grey patches over one ear and the tail, small short nubby horns, big round hazel eyes with bright glossy catchlights and soft lashes, stubby chibi-proportioned legs with black hooves, wearing a pink woven neck cord with a small brass bell and a tiny flower charm. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep coat pattern, horn shape, proportions and accessories identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "expression_prompt": "Chinki, exact same canonical identity: soft cream-white coat with light-grey patches over one ear and the tail, small short nubby horns, big round hazel eyes with bright glossy catchlights and soft lashes, stubby chibi-proportioned legs with black hooves, wearing a pink woven neck cord with a small brass bell and a tiny flower charm. Expression sheet with neutral, happy, excited, curious, gentle, surprised, playful, calm, proud, sleepy. Head-and-shoulders grid, identical identity, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "NON-DIALOGUE — soft bleats, gentle contented sounds",
+    "voice_master": {
+      "voice_identity_id": "VOICE_067_CHINKI",
+      "voice_profile_version": "2.0",
+      "voice_status": "PROFILE_DEFINED",
+      "fingerprint": {
+        "vocal_age_band": "adult",
+        "gender_presentation": "unspecified",
+        "pitch_band": "medium",
+        "pace_baseline": "medium",
+        "source_description": "NON-DIALOGUE — soft bleats, gentle contented sounds",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "adult",
+        "gender_presentation": "unspecified",
+        "pitch_band": "medium",
+        "core_timbre": "NON-DIALOGUE — soft bleats, gentle contented sounds"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 3,
+        "age_band": "adult",
+        "gender_voice_class": "unspecified",
+        "pace": "medium",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "bleats",
+          "contented",
+          "dialogue",
+          "non",
+          "sounds"
+        ],
+        "raw_source": "NON-DIALOGUE — soft bleats, gentle contented sounds"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null
+    }
+  },
+  "restrictions": null,
+  "production_priority": "SUPPORTING",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_067_chinki_approved_reference",
+      "path": "sources/characters/reference_images/67. Chinki (Bakri #U2014 Female Goat).png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

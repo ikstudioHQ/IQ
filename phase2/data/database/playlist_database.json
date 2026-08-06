@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "playlists": [
+    {
+      "playlist_id": "pl_intro",
+      "title": "Welcome to Islamic Kids Studio",
+      "description": "Start here! Welcome, introductions, and first duas.",
+      "video_ids": [
+        "pv_001"
+      ],
+      "series_ids": [
+        "welcome_series"
+      ],
+      "order": 1
+    },
+    {
+      "playlist_id": "pl_duas",
+      "title": "Daily Duas for Kids",
+      "description": "Beautiful duas for every part of the day.",
+      "video_ids": [
+        "pv_002"
+      ],
+      "series_ids": [
+        "daily_duas"
+      ],
+      "order": 2
+    },
+    {
+      "playlist_id": "pl_manners",
+      "title": "Good Manners (Akhlaq)",
+      "description": "Learn kindness, respect, and Islamic manners.",
+      "video_ids": [
+        "pv_003"
+      ],
+      "series_ids": [
+        "good_manners"
+      ],
+      "order": 3
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ"
+  }
+}

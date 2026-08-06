@@ -1,0 +1,46 @@
+{
+  "generated_from": [
+    "sources/production/location_library.json",
+    "sources/production/wardrobe_library.json",
+    "sources/production/prop_registry.json"
+  ],
+  "generated_at": "2026-08-05T00:00:00",
+  "repository_version": "2.72",
+  "schema_version": "1.0",
+  "checksum": "466d0c276a9db085",
+  "generator": "tools/compile_runtime.py v1.0",
+  "locations": [
+    {
+      "id": "loc_family_living_room",
+      "name": "Zayd & Amira's Family Living Room"
+    },
+    {
+      "id": "loc_family_kitchen",
+      "name": "Zayd & Amira's Family Kitchen"
+    },
+    {
+      "id": "loc_school_classroom",
+      "name": "School Classroom"
+    },
+    {
+      "id": "loc_neighborhood_park",
+      "name": "Neighborhood Park/Playground"
+    }
+  ],
+  "wardrobes": [
+    {
+      "id": "wardrobe_zayd_default",
+      "character": "char_001_zayd"
+    },
+    {
+      "id": "wardrobe_amira_default",
+      "character": "char_002_amira"
+    }
+  ],
+  "props": [
+    {
+      "id": "prop_grocery_bag_01",
+      "owner": "char_001_zayd"
+    }
+  ]
+}

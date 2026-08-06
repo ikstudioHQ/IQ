@@ -1,0 +1,69 @@
+ISLAMIC KIDS STUDIO v2.68 — VALIDATION REPORT
+Date: 2026-08-05
+
+BASELINE v2.67
+SHA-256: 97ed340064a6607a792e9afb78e13e9c01446a75f827fbaa7ea019c28139a627
+Files: 2590
+pytest: 46/46 PASS
+validator: PASS
+distribution preflight: PASS
+runtime compile: PASS
+
+V2.68 IMPLEMENTATION
+Added deterministic tools/episode_autopilot.py with generate-one, generate-range, validate, and stage-aware regenerate operator commands.
+Pipeline: canonical roadmap -> AUTHORED_CREATIVE_STORY draft -> 10 logical scenes -> AUTHORED_PRODUCTION_DIRECTION -> <=10s units -> ready-to-paste Gemini prompts -> QA -> manifest.
+Expanded Gemini prompt contract with explicit prompt heading, source scene/unit identity, exact dialogue/lyrics section, reference-image lock, canonical identity/voice locks, IN/OUT state and duplication lock.
+
+VERTICAL SLICES
+Completed: ep_001, ep_004, ep_005, ep_006.
+Each: 10 logical scenes, 80 generation units, 80 Gemini prompts.
+Total new Autopilot units/prompts: 320.
+Maximum duration: 7.5 seconds.
+ep_004 references canonical song_002; canonical lyrics are not copied into the episode story source.
+All generated content is DRAFT and classified as authored creative/production direction, not religious evidence.
+
+90-DAY STATUS
+Canonical roadmap: 90/90 retained.
+Detailed Autopilot production packages: 4/90.
+Remaining detailed scripts/scenes/units/prompts: 86 episodes AUTHORING_REQUIRED.
+No low-quality bulk 90-episode fill was performed.
+
+ISLAMIC SAFETY
+citation_verified=false: 7/59 remain unresolved.
+scholarly_reviewed=false: 59/59 remain unresolved.
+No Islamic verification, semantic support, human approval, or scholar approval was fabricated.
+CONTENT PUBLICATION STATUS: NOT READY.
+
+TESTS / GATES
+Focused + full pytest: 52/52 PASS.
+Repository validator: PASS.
+Distribution preflight: PASS.
+Runtime compiler: PASS.
+Logical songs: 20/20 compiler completes; legacy source-granularity diagnostics remain truthful and are not publication approval.
+Existing logical episodes: 2/2, 10/10 scenes compile.
+Autopilot deterministic regeneration hash: PASS.
+Unknown roadmap and malformed generation-unit adversarial checks: fail closed.
+Existing Islamic FINAL fail-closed regression suite: PASS within full pytest.
+
+READINESS
+SOFTWARE/PIPELINE STATUS: PASS
+NEW EPISODE AUTOPILOT: PASS for deterministic draft production packages
+SCRIPT GENERATION: PARTIAL — deterministic authored draft engine proven on four slices; human creative review required
+CHARACTER/VOICE CONSISTENCY: PARTIAL — canonical locks enforced; unresolved human voice/reference approvals remain
+CAMERA/ACTION/CONTINUITY: PARTIAL — structured/prompt-level validation passes; rendered-video review required
+EXISTING SONG GENERATION: READY at existing authored-plan level; human render/religious review remains
+EXISTING CARTOON GENERATION: PARTIAL pending human assets/render review
+SONG+CARTOON INTEGRATION: PASS at canonical-reference architecture/vertical-slice level
+90-DAY ROADMAP: COMPLETE
+90-DAY SCRIPT AUTHORING: PARTIAL (4/90 draft packages)
+90-DAY GEMINI GENERATION: PARTIAL (4/90; 320 new prompts)
+ISLAMIC CONTENT PUBLICATION: NOT READY
+
+HUMAN REVIEW REQUIRED
+Story quality, rendered character identity, reference images, voices, lip-sync, duplicate visual artifacts, staging, camera continuity, animation quality.
+
+SCHOLAR REVIEW REQUIRED
+59/59 Islamic reference entries remain scholarly_reviewed=false.
+
+MASTER_PROMPT
+No authoritative compatible MASTER_PROMPT was supplied. No local-only v2.68 MASTER was fabricated.

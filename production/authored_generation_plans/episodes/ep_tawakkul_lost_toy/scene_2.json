@@ -1,0 +1,357 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "episode",
+  "parent_id": "ep_tawakkul_lost_toy",
+  "logical_scene_id": "scene_2",
+  "generation_units": [
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_2_u01",
+      "parent_scene_id": "scene_2",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 7.857,
+      "exact_character_count": 1,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "silent_characters": [],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "Time for bed, little camel... camel?",
+          "start_seconds": 0.0,
+          "end_seconds": 2.143
+        }
+      ],
+      "primary_action": "Authored staging beat 1/7 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_2_u02",
+      "parent_scene_id": "scene_2",
+      "sequence": 2,
+      "start_seconds": 7.857,
+      "end_seconds": 15.714,
+      "exact_character_count": 1,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "silent_characters": [],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "Not here... Not here either...",
+          "start_seconds": 7.857,
+          "end_seconds": 9.643
+        }
+      ],
+      "primary_action": "Authored staging beat 2/7 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_2_u03",
+      "parent_scene_id": "scene_2",
+      "sequence": 3,
+      "start_seconds": 15.714,
+      "end_seconds": 23.571,
+      "exact_character_count": 1,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "performance": [],
+      "primary_action": "Authored staging beat 3/7 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_2_u04",
+      "parent_scene_id": "scene_2",
+      "sequence": 4,
+      "start_seconds": 23.571,
+      "end_seconds": 31.429,
+      "exact_character_count": 1,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "performance": [],
+      "primary_action": "Authored staging beat 4/7 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_2_u05",
+      "parent_scene_id": "scene_2",
+      "sequence": 5,
+      "start_seconds": 31.429,
+      "end_seconds": 39.286,
+      "exact_character_count": 1,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "performance": [],
+      "primary_action": "Authored staging beat 5/7 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_2_u06",
+      "parent_scene_id": "scene_2",
+      "sequence": 6,
+      "start_seconds": 39.286,
+      "end_seconds": 47.143,
+      "exact_character_count": 1,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "performance": [],
+      "primary_action": "Authored staging beat 6/7 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_2_u07",
+      "parent_scene_id": "scene_2",
+      "sequence": 7,
+      "start_seconds": 47.143,
+      "end_seconds": 55.0,
+      "exact_character_count": 1,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "performance": [],
+      "primary_action": "Authored staging beat 7/7 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

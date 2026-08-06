@@ -1,0 +1,337 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "song",
+  "parent_id": "song_015",
+  "logical_scene_id": "scene_03",
+  "generation_units": [
+    {
+      "generation_unit_id": "song_015_scene_03_u01",
+      "parent_scene_id": "scene_03",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 7.6,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_010_yusuf",
+        "char_014_hamza"
+      ],
+      "silent_characters": [
+        "char_010_yusuf",
+        "char_014_hamza"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "singing",
+          "text": "A win can be a gift from Allah, Not something made to boast,",
+          "start_seconds": 0.0,
+          "end_seconds": 5.909
+        }
+      ],
+      "primary_action": "Zayd offers a second run together and Hamza claps as both boys reset at the starting line. Authored beat 1/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "brighter, more energetic daylight (effort_action); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "brighter, more energetic daylight (effort_action)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_010_yusuf": "stable slot 2",
+          "char_014_hamza": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_010_yusuf": "toward shared action focus",
+          "char_014_hamza": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "begin scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_010_yusuf": "stable slot 2",
+          "char_014_hamza": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_010_yusuf": "toward shared action focus",
+          "char_014_hamza": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_015_scene_03_u02",
+      "parent_scene_id": "scene_03",
+      "sequence": 2,
+      "start_seconds": 7.6,
+      "end_seconds": 15.2,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_010_yusuf",
+        "char_014_hamza"
+      ],
+      "silent_characters": [
+        "char_010_yusuf",
+        "char_014_hamza"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "singing",
+          "text": "I can cheer a friend and share a grin, That matters almost most. Walk gently,",
+          "start_seconds": 7.6,
+          "end_seconds": 14.418
+        }
+      ],
+      "primary_action": "Zayd offers a second run together and Hamza claps as both boys reset at the starting line. Authored beat 2/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "brighter, more energetic daylight (effort_action); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "brighter, more energetic daylight (effort_action)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_010_yusuf": "stable slot 2",
+          "char_014_hamza": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_010_yusuf": "toward shared action focus",
+          "char_014_hamza": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_010_yusuf": "stable slot 2",
+          "char_014_hamza": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_010_yusuf": "toward shared action focus",
+          "char_014_hamza": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_015_scene_03_u03",
+      "parent_scene_id": "scene_03",
+      "sequence": 3,
+      "start_seconds": 15.2,
+      "end_seconds": 22.8,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_010_yusuf",
+        "char_014_hamza"
+      ],
+      "silent_characters": [
+        "char_010_yusuf",
+        "char_014_hamza"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "singing",
+          "text": "speak gently, Keep peaceful words nearby, When something good comes into my hands,",
+          "start_seconds": 15.2,
+          "end_seconds": 21.109
+        }
+      ],
+      "primary_action": "Zayd offers a second run together and Hamza claps as both boys reset at the starting line. Authored beat 3/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "brighter, more energetic daylight (effort_action); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "brighter, more energetic daylight (effort_action)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_010_yusuf": "stable slot 2",
+          "char_014_hamza": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_010_yusuf": "toward shared action focus",
+          "char_014_hamza": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_010_yusuf": "stable slot 2",
+          "char_014_hamza": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_010_yusuf": "toward shared action focus",
+          "char_014_hamza": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_015_scene_03_u04",
+      "parent_scene_id": "scene_03",
+      "sequence": 4,
+      "start_seconds": 22.8,
+      "end_seconds": 30.4,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_010_yusuf",
+        "char_014_hamza"
+      ],
+      "silent_characters": [
+        "char_010_yusuf",
+        "char_014_hamza"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "singing",
+          "text": "I smile and still stay kind.",
+          "start_seconds": 22.8,
+          "end_seconds": 25.527
+        }
+      ],
+      "primary_action": "Zayd offers a second run together and Hamza claps as both boys reset at the starting line. Authored beat 4/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "brighter, more energetic daylight (effort_action); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "brighter, more energetic daylight (effort_action)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_010_yusuf": "stable slot 2",
+          "char_014_hamza": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_010_yusuf": "toward shared action focus",
+          "char_014_hamza": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_010_yusuf": "stable slot 2",
+          "char_014_hamza": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_010_yusuf": "toward shared action focus",
+          "char_014_hamza": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_015_scene_03_u05",
+      "parent_scene_id": "scene_03",
+      "sequence": 5,
+      "start_seconds": 30.4,
+      "end_seconds": 38.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_010_yusuf",
+        "char_014_hamza"
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_010_yusuf",
+        "char_014_hamza"
+      ],
+      "performance": [],
+      "primary_action": "Zayd offers a second run together and Hamza claps as both boys reset at the starting line. Authored beat 5/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "brighter, more energetic daylight (effort_action); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "brighter, more energetic daylight (effort_action)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_010_yusuf": "stable slot 2",
+          "char_014_hamza": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_010_yusuf": "toward shared action focus",
+          "char_014_hamza": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_010_yusuf": "stable slot 2",
+          "char_014_hamza": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_010_yusuf": "toward shared action focus",
+          "char_014_hamza": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "scene action settled"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

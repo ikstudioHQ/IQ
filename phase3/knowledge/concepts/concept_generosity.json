@@ -1,0 +1,57 @@
+{
+  "concept_id": "concept_generosity",
+  "name": "Generosity",
+  "definition_by_age": {
+    "4": "Sharing happily with others.",
+    "6": "Generosity means giving to others even when you could keep something for yourself.",
+    "8": "Generosity is giving time, things, or help to others sincerely, without expecting anything back."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can name something they shared and how it felt.",
+  "related_quran": [],
+  "related_hadith": [
+    "hd_007"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [
+    "vocab_022"
+  ],
+  "related_conflicts": [
+    "cf_006",
+    "cf_018"
+  ],
+  "recommended_age_range": [
+    3,
+    6
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [
+    "mann_005"
+  ],
+  "recommended_default": {
+    "conflict_id": "cf_018",
+    "pattern_id": "pattern_004",
+    "hook_id": "hook_005",
+    "ending_id": "end_004",
+    "emotion": "joy",
+    "note": "Retrieval ranking (retrieval_ranking.md) starts from this combination and diversity-penalizes away from it on repeat use, per recommended_story_combinations.md."
+  },
+  "semantic_support": {
+    "hd_007": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly on-topic generosity hadith — the giving hand is better than the taking hand.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_012",
+      "conflict_id": "cf_018",
+      "reasoning": "Not wanting to share the last snack is a genuine two-wants-collide negotiation."
+    }
+  ]
+}

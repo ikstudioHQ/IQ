@@ -1,0 +1,51 @@
+{
+  "schema_version": "2.66",
+  "parent_type": "episode",
+  "parent_id": "ep_honesty_wallet_assisted",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "generation_ready": true,
+  "units": [
+    {
+      "generation_unit_id": "ep_honesty_wallet_assisted_scene_4_u01",
+      "prompt": "ep_honesty_wallet_assisted_scene_4_u01.md",
+      "duration_seconds": 7.143,
+      "exact_character_count": 2
+    },
+    {
+      "generation_unit_id": "ep_honesty_wallet_assisted_scene_4_u02",
+      "prompt": "ep_honesty_wallet_assisted_scene_4_u02.md",
+      "duration_seconds": 7.143,
+      "exact_character_count": 2
+    },
+    {
+      "generation_unit_id": "ep_honesty_wallet_assisted_scene_4_u03",
+      "prompt": "ep_honesty_wallet_assisted_scene_4_u03.md",
+      "duration_seconds": 7.142999999999999,
+      "exact_character_count": 2
+    },
+    {
+      "generation_unit_id": "ep_honesty_wallet_assisted_scene_4_u04",
+      "prompt": "ep_honesty_wallet_assisted_scene_4_u04.md",
+      "duration_seconds": 7.142000000000003,
+      "exact_character_count": 2
+    },
+    {
+      "generation_unit_id": "ep_honesty_wallet_assisted_scene_4_u05",
+      "prompt": "ep_honesty_wallet_assisted_scene_4_u05.md",
+      "duration_seconds": 7.142999999999997,
+      "exact_character_count": 2
+    },
+    {
+      "generation_unit_id": "ep_honesty_wallet_assisted_scene_4_u06",
+      "prompt": "ep_honesty_wallet_assisted_scene_4_u06.md",
+      "duration_seconds": 7.143000000000001,
+      "exact_character_count": 2
+    },
+    {
+      "generation_unit_id": "ep_honesty_wallet_assisted_scene_4_u07",
+      "prompt": "ep_honesty_wallet_assisted_scene_4_u07.md",
+      "duration_seconds": 7.143000000000001,
+      "exact_character_count": 2
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "schema_version": "1.0",
+  "note": "Derived from character_master_library.json's role_relation field -- not independently maintained. Empty relations mean role_relation text didn't name another registered character, not that no relationship exists. KNOWN BUG found immediately after building (2026-08-05): parent/child DIRECTION is unreliable -- simple keyword matching on role_relation text cannot reliably tell whether char_A IS the parent named in char_Bs text, or IS the child. Example real error: char_004_baba_ahmad shows child_of char_001_zayd, backwards (he is Zayds father). sibling_of and friend_of edges appear directionally symmetric and safer to trust; parent_of/child_of edges need human verification before use, not treated as reliable derived fact.",
+  "edges": [
+    {
+      "source": "char_001_zayd",
+      "relation": "sibling_of",
+      "target": "char_002_amira",
+      "derived_from": "role_relation text: 'Core lead; Amira's older brother'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_002_amira",
+      "relation": "sibling_of",
+      "target": "char_001_zayd",
+      "derived_from": "role_relation text: 'Core lead; Zayd's younger sister'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_003_ummi_layla",
+      "relation": "parent_of",
+      "target": "char_001_zayd",
+      "derived_from": "role_relation text: 'Mother of Zayd and Amira'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_003_ummi_layla",
+      "relation": "parent_of",
+      "target": "char_002_amira",
+      "derived_from": "role_relation text: 'Mother of Zayd and Amira'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_004_baba_ahmad",
+      "relation": "child_of",
+      "target": "char_001_zayd",
+      "derived_from": "role_relation text: 'Father of Zayd and Amira, husband of Ummi Layla — head of household, everyday-life and family-lesson episodes'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_004_baba_ahmad",
+      "relation": "child_of",
+      "target": "char_002_amira",
+      "derived_from": "role_relation text: 'Father of Zayd and Amira, husband of Ummi Layla — head of household, everyday-life and family-lesson episodes'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_004_baba_ahmad",
+      "relation": "child_of",
+      "target": "char_003_ummi_layla",
+      "derived_from": "role_relation text: 'Father of Zayd and Amira, husband of Ummi Layla — head of household, everyday-life and family-lesson episodes'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_004_baba_ahmad",
+      "relation": "child_of",
+      "target": "char_060_layla",
+      "derived_from": "role_relation text: 'Father of Zayd and Amira, husband of Ummi Layla — head of household, everyday-life and family-lesson episodes'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_007_maryam",
+      "relation": "related_to",
+      "target": "char_001_zayd",
+      "derived_from": "role_relation text: 'Zayd and Amira's older cousin'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_007_maryam",
+      "relation": "related_to",
+      "target": "char_002_amira",
+      "derived_from": "role_relation text: 'Zayd and Amira's older cousin'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_009_hana",
+      "relation": "friend_of",
+      "target": "char_002_amira",
+      "derived_from": "role_relation text: 'Amira's best friend'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_010_yusuf",
+      "relation": "friend_of",
+      "target": "char_001_zayd",
+      "derived_from": "role_relation text: 'Zayd's school friend'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_020_ibrahim",
+      "relation": "related_to",
+      "target": "char_057_neighbor_auntie_ruqayyah",
+      "derived_from": "role_relation text: 'Kind neighborhood boy'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_020_ibrahim",
+      "relation": "related_to",
+      "target": "char_058_neighbor_uncle_dawud",
+      "derived_from": "role_relation text: 'Kind neighborhood boy'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_027_imam_harun",
+      "relation": "related_to",
+      "target": "char_057_neighbor_auntie_ruqayyah",
+      "derived_from": "role_relation text: 'Neighborhood imam; ordinary contemporary adult, not a sacred historical figure'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_027_imam_harun",
+      "relation": "related_to",
+      "target": "char_058_neighbor_uncle_dawud",
+      "derived_from": "role_relation text: 'Neighborhood imam; ordinary contemporary adult, not a sacred historical figure'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_032_pharmacist_yasir",
+      "relation": "related_to",
+      "target": "char_057_neighbor_auntie_ruqayyah",
+      "derived_from": "role_relation text: 'Neighborhood pharmacist'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_032_pharmacist_yasir",
+      "relation": "related_to",
+      "target": "char_058_neighbor_uncle_dawud",
+      "derived_from": "role_relation text: 'Neighborhood pharmacist'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_036_chef_salma",
+      "relation": "related_to",
+      "target": "char_037_baker_uncle_tariq",
+      "derived_from": "role_relation text: 'Neighborhood cook/baker'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_036_chef_salma",
+      "relation": "related_to",
+      "target": "char_057_neighbor_auntie_ruqayyah",
+      "derived_from": "role_relation text: 'Neighborhood cook/baker'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_036_chef_salma",
+      "relation": "related_to",
+      "target": "char_058_neighbor_uncle_dawud",
+      "derived_from": "role_relation text: 'Neighborhood cook/baker'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_039_farmer_musa",
+      "relation": "related_to",
+      "target": "char_040_gardener_auntie_zainab",
+      "derived_from": "role_relation text: 'Local farmer/gardener'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_052_delivery_brother_saeed",
+      "relation": "related_to",
+      "target": "char_057_neighbor_auntie_ruqayyah",
+      "derived_from": "role_relation text: 'Neighborhood delivery worker'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_052_delivery_brother_saeed",
+      "relation": "related_to",
+      "target": "char_058_neighbor_uncle_dawud",
+      "derived_from": "role_relation text: 'Neighborhood delivery worker'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_056_shopkeeper_sister_samira",
+      "relation": "related_to",
+      "target": "char_057_neighbor_auntie_ruqayyah",
+      "derived_from": "role_relation text: 'Small neighborhood shop owner'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_056_shopkeeper_sister_samira",
+      "relation": "related_to",
+      "target": "char_058_neighbor_uncle_dawud",
+      "derived_from": "role_relation text: 'Small neighborhood shop owner'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_057_neighbor_auntie_ruqayyah",
+      "relation": "related_to",
+      "target": "char_058_neighbor_uncle_dawud",
+      "derived_from": "role_relation text: 'Kind elderly neighbor'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_058_neighbor_uncle_dawud",
+      "relation": "related_to",
+      "target": "char_057_neighbor_auntie_ruqayyah",
+      "derived_from": "role_relation text: 'Helpful elderly neighbor'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_063_tuffy",
+      "relation": "related_to",
+      "target": "char_057_neighbor_auntie_ruqayyah",
+      "derived_from": "role_relation text: 'Loyal neighborhood/farm companion — playful comic-relief sidekick'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_063_tuffy",
+      "relation": "related_to",
+      "target": "char_058_neighbor_uncle_dawud",
+      "derived_from": "role_relation text: 'Loyal neighborhood/farm companion — playful comic-relief sidekick'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_067_chinki",
+      "relation": "child_of",
+      "target": "char_066_chintu",
+      "derived_from": "role_relation text: 'Farm/Eid-season companion, gentle caring sidekick, Chintu's pair'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_070_farhan",
+      "relation": "sibling_of",
+      "target": "char_001_zayd",
+      "derived_from": "role_relation text: 'Zayd's older teenage cousin/big-brother figure — light stubble marks his transition to young adulthood, sports/activity episodes, role-model-for-older-kids content'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_071_khala_bano",
+      "relation": "child_of",
+      "target": "char_057_neighbor_auntie_ruqayyah",
+      "derived_from": "role_relation text: 'Beloved plump warm-hearted aunty — the neighborhood/family's biggest hugs, comfort food, and comic warmth; cooking episodes, hospitality-lesson episodes'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_071_khala_bano",
+      "relation": "child_of",
+      "target": "char_058_neighbor_uncle_dawud",
+      "derived_from": "role_relation text: 'Beloved plump warm-hearted aunty — the neighborhood/family's biggest hugs, comfort food, and comic warmth; cooking episodes, hospitality-lesson episodes'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_073_dadi_khadija",
+      "relation": "parent_of",
+      "target": "char_001_zayd",
+      "derived_from": "role_relation text: 'Grandmother of Zayd and Amira (Baba Ahmad's mother) — spiritual anchor of the family, namaz/Quran/dua teaching episodes'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_073_dadi_khadija",
+      "relation": "parent_of",
+      "target": "char_002_amira",
+      "derived_from": "role_relation text: 'Grandmother of Zayd and Amira (Baba Ahmad's mother) — spiritual anchor of the family, namaz/Quran/dua teaching episodes'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_073_dadi_khadija",
+      "relation": "parent_of",
+      "target": "char_004_baba_ahmad",
+      "derived_from": "role_relation text: 'Grandmother of Zayd and Amira (Baba Ahmad's mother) — spiritual anchor of the family, namaz/Quran/dua teaching episodes'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_074_chacha_rasheed",
+      "relation": "friend_of",
+      "target": "char_005_dada_yusuf",
+      "derived_from": "role_relation text: 'Dada Yusuf's close friend and neighborhood elder — masjid/community episodes, storytelling duo with Dada Yusuf'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_074_chacha_rasheed",
+      "relation": "friend_of",
+      "target": "char_010_yusuf",
+      "derived_from": "role_relation text: 'Dada Yusuf's close friend and neighborhood elder — masjid/community episodes, storytelling duo with Dada Yusuf'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_074_chacha_rasheed",
+      "relation": "friend_of",
+      "target": "char_057_neighbor_auntie_ruqayyah",
+      "derived_from": "role_relation text: 'Dada Yusuf's close friend and neighborhood elder — masjid/community episodes, storytelling duo with Dada Yusuf'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_074_chacha_rasheed",
+      "relation": "friend_of",
+      "target": "char_058_neighbor_uncle_dawud",
+      "derived_from": "role_relation text: 'Dada Yusuf's close friend and neighborhood elder — masjid/community episodes, storytelling duo with Dada Yusuf'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_076_misha_the_cow",
+      "relation": "child_of",
+      "target": "char_020_ibrahim",
+      "derived_from": "role_relation text: 'Farm animal companion — farm-song episodes, \"Old Ibrahim's'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_082_mamu_tariq",
+      "relation": "sibling_of",
+      "target": "char_003_ummi_layla",
+      "derived_from": "role_relation text: 'Blood-relative uncle — Ummi Layla's younger brother'",
+      "confidence": "inferred_from_text"
+    },
+    {
+      "source": "char_082_mamu_tariq",
+      "relation": "sibling_of",
+      "target": "char_060_layla",
+      "derived_from": "role_relation text: 'Blood-relative uncle — Ummi Layla's younger brother'",
+      "confidence": "inferred_from_text"
+    }
+  ]
+}

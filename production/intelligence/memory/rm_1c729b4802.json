@@ -1,0 +1,21 @@
+{
+  "schema_version": "2.71",
+  "episode_id": "rm_1c729b4802",
+  "status": "ACCEPTED",
+  "ending_state": {
+    "lesson_progress": "concept_forgiveness",
+    "memory_note": "Persist only accepted consequences/relationship changes after production review."
+  },
+  "characters": [
+    "char_002_amira",
+    "char_003_ummi_layla"
+  ],
+  "learned_concept": "concept_forgiveness",
+  "active_goals": [
+    "Continue accepted state into next episode."
+  ],
+  "persistent_props": [],
+  "arc_id": "arc_01",
+  "song_id": null,
+  "source_story_hash": "8629ced54355ea5a69e1973a9d3f35fe16bde7ef41650b830f5c76c0617ecf0d"
+}

@@ -1,0 +1,1 @@
+1. qv_008 — Quran 24:22, DIRECT_SUPPORT

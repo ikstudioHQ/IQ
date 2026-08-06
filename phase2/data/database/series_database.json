@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "series": [
+    {
+      "series_id": "welcome_series",
+      "name": "Welcome Series",
+      "description": "Introductory episodes for new viewers",
+      "season_start": 1,
+      "episode_count": 1,
+      "status": "completed"
+    },
+    {
+      "series_id": "daily_duas",
+      "name": "Daily Duas",
+      "description": "Short morning, eating, sleeping, and travel duas",
+      "season_start": 1,
+      "episode_count": 12,
+      "status": "active"
+    },
+    {
+      "series_id": "good_manners",
+      "name": "Good Manners (Akhlaq)",
+      "description": "Teaching kindness, respect, and beautiful Islamic manners",
+      "season_start": 2,
+      "episode_count": 8,
+      "status": "active"
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ"
+  }
+}

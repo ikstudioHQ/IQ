@@ -1,0 +1,65 @@
+{
+  "concept_id": "concept_kindness",
+  "name": "Kindness",
+  "definition_by_age": {
+    "4": "Being gentle and nice to others.",
+    "6": "Kindness means helping and caring for others, even in small ways.",
+    "8": "Kindness is choosing to help and be gentle with others, expecting nothing in return."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe one kind thing they did for someone.",
+  "related_quran": [],
+  "related_hadith": [
+    "hd_001",
+    "hd_003"
+  ],
+  "related_duas": [],
+  "related_prophets": [
+    "prophet_muh"
+  ],
+  "related_vocabulary": [],
+  "related_conflicts": [
+    "cf_014",
+    "cf_009"
+  ],
+  "recommended_age_range": [
+    3,
+    5
+  ],
+  "version": "v1.0",
+  "citation_verified": false,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [
+    "mann_001",
+    "mann_005",
+    "mann_006"
+  ],
+  "recommended_default": {
+    "conflict_id": "cf_009",
+    "pattern_id": "pattern_004",
+    "hook_id": "hook_001",
+    "ending_id": "end_004",
+    "emotion": "joy",
+    "note": "Retrieval ranking (retrieval_ranking.md) starts from this combination and diversity-penalizes away from it on repeat use, per recommended_story_combinations.md."
+  },
+  "semantic_support": {
+    "hd_001": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly about being best to family, a form of kindness.",
+      "scholarly_reviewed": false
+    },
+    "hd_003": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly commands mercy to young ones.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_006",
+      "conflict_id": "cf_014",
+      "reasoning": "Wanting a toy that isn't yours is a temptation/choice shape testing kindness toward the store owner."
+    }
+  ]
+}

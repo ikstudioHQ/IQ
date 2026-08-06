@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_080_ayan",
+  "canonical_name": "Ayan",
+  "aliases": [],
+  "role_relation": "Kid-friend peer — gentle, mildly-careless-but-lovable",
+  "age": "6",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Ayan — warm olive-tan skin, messy tousled dark-brown hair falling slightly over one eyebrow, round curious dark eyes, small gap-tooth smile; rust-orange short-sleeve kurta, olive-green trousers, brown sandals, a scuffed friendship bracelet on one wrist. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark.",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Ayan, exact same canonical identity: warm olive-tan skin, messy tousled dark-brown hair, round curious dark eyes, gap-tooth smile; rust-orange kurta, olive-green trousers, brown sandals, friendship bracelet. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep face, hair messiness, proportions, clothing colors identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "expression_prompt": "Ayan, exact same canonical identity: warm olive-tan skin, messy tousled dark-brown hair, round curious dark eyes, gap-tooth smile, rust-orange kurta. Expression sheet with neutral, happy, excited, sheepish-realizing-mistake, thoughtful, sorry-apologetic, surprised, relieved, proud-of-growth, joyful. Head-and-shoulders grid, identical identity and clothing, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "cheerful, slightly scattered boy; medium pitch; quick",
+    "voice_master": {
+      "voice_identity_id": "VOICE_080_AYAN",
+      "voice_profile_version": "2.0",
+      "voice_status": "PROFILE_DEFINED",
+      "fingerprint": {
+        "vocal_age_band": "child",
+        "gender_presentation": "male",
+        "pitch_band": "medium",
+        "pace_baseline": "medium",
+        "source_description": "cheerful, slightly scattered boy; medium pitch; quick",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "child",
+        "gender_presentation": "male",
+        "pitch_band": "medium",
+        "core_timbre": "cheerful, slightly scattered boy; medium pitch; quick"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 3,
+        "age_band": "child",
+        "gender_voice_class": "male",
+        "pace": "medium",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "cheerful",
+          "medium",
+          "quick",
+          "scattered",
+          "slightly"
+        ],
+        "raw_source": "cheerful, slightly scattered boy; medium pitch; quick"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null
+    }
+  },
+  "restrictions": null,
+  "production_priority": "RECURRING",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_080_ayan_approved_reference",
+      "path": "sources/characters/reference_images/80. Ayan.png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

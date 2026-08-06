@@ -1,0 +1,55 @@
+{
+  "concept_id": "concept_humility",
+  "name": "Humility (Tawadu)",
+  "definition_by_age": {
+    "4": "Not bragging about good things you did.",
+    "6": "Tawadu means staying humble and kind, even when you do something great.",
+    "8": "Tawadu is recognizing that all our gifts come from Allah, so we stay humble instead of boastful."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe being humble after doing well at something.",
+  "related_quran": [
+    "qv_014"
+  ],
+  "related_hadith": [],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [
+    "vocab_021"
+  ],
+  "related_conflicts": [
+    "cf_031",
+    "cf_049"
+  ],
+  "recommended_age_range": [
+    6,
+    8
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": true,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_031",
+    "pattern_id": "pattern_006",
+    "hook_id": "hook_004",
+    "ending_id": "end_002",
+    "emotion": "worry",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_010). Temptation to brag->Inner Conflict->Choice fits cf_031 (bragging after winning) directly."
+  },
+  "semantic_support": {
+    "qv_014": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly describes humble walking and peaceful response to rudeness — the concept's core definition.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_010",
+      "conflict_id": "cf_049",
+      "reasoning": "A sibling praised for the same quiet deed fits comparison->gratitude-shift directly."
+    }
+  ]
+}

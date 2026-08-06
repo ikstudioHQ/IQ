@@ -1,0 +1,60 @@
+{
+  "concept_id": "concept_good_speech",
+  "name": "Good Speech (Qawl Sadid / Kalima Tayyiba)",
+  "definition_by_age": {
+    "4": "Using kind words when you talk.",
+    "6": "Good speech means choosing words that are true, kind, and helpful before you speak.",
+    "8": "Qawl sadid means speaking words that are honest, kind, and correct — thinking before speaking so your words help rather than hurt."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+  "related_quran": [],
+  "related_hadith": [
+    "hd_002"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [],
+  "related_conflicts": [
+    "cf_035",
+    "cf_039",
+    "cf_025"
+  ],
+  "related_manners": [],
+  "recommended_age_range": [
+    4,
+    8
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": true,
+  "scholarly_reviewed": false,
+  "notes": "New concept file created 2026-08-05 — confirmed via search that no existing concept (self_control, respect_for_parents, kindness) covers general good-speech as its own topic before creating this. No evidence attached yet at creation time, per instruction: create the concept first, attach only independently verified evidence after.",
+  "semantic_support": {
+    "hd_002": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "This hadith IS the good-speech hadith itself ('speak good or remain silent') — it was previously misapplied to concept_honesty as a stretch; here it's a perfect direct match, no new ingestion needed, just correct relinking.",
+      "scholarly_reviewed": false
+    }
+  },
+  "recommended_default": {
+    "conflict_id": "cf_025",
+    "pattern_id": "pattern_002",
+    "hook_id": "hook_004",
+    "ending_id": "end_002",
+    "emotion": "worry",
+    "note": "Added during v2.17 pilot-production-validation run — real thematic match found in existing conflict_library.json, not fabricated."
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_006",
+      "conflict_id": "cf_039",
+      "reasoning": "Deciding whether to repeat gossip is a live temptation/choice moment."
+    },
+    {
+      "pattern_id": "pattern_008",
+      "conflict_id": "cf_025",
+      "reasoning": "An unkind word by accident fits misunderstanding->conversation->reconciliation too."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_005_dada_yusuf",
+  "canonical_name": "Dada Yusuf",
+  "aliases": [],
+  "role_relation": "Grandfather",
+  "age": "older adult",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Dada Yusuf — warm tan skin, thick white beard, wire-rimmed glasses, gentle smile-lines; mustard cardigan over cream long-sleeve kurta-style shirt, brown trousers, wooden cane with carved handle. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark.",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Dada Yusuf, exact same canonical identity: warm tan skin, thick white beard, wire-rimmed glasses, gentle smile-lines; mustard cardigan over cream long-sleeve kurta-style shirt, brown trousers, wooden cane with carved handle. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep face, proportions, clothing colors, hairstyle/hijab and accessories identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "expression_prompt": "Dada Yusuf, exact same canonical identity: warm tan skin, thick white beard, wire-rimmed glasses, gentle smile-lines; mustard cardigan over cream long-sleeve kurta-style shirt, brown trousers, wooden cane with carved handle. Expression sheet with neutral, happy, excited, thoughtful, worried, sad, surprised, apologetic, relieved, joyful. Head-and-shoulders grid, identical identity and clothing, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "gentle elderly man; low pitch; slow, warm, storytelling cadence",
+    "voice_master": {
+      "voice_identity_id": "VOICE_005_DADA_YUSUF",
+      "voice_profile_version": "2.0",
+      "voice_status": "AUDITION_REQUIRED",
+      "fingerprint": {
+        "vocal_age_band": "elder",
+        "gender_presentation": "male",
+        "pitch_band": "low",
+        "pace_baseline": "slow",
+        "source_description": "gentle elderly man; low pitch; slow, warm, storytelling cadence",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "elder",
+        "gender_presentation": "male",
+        "pitch_band": "low",
+        "core_timbre": "gentle elderly man; low pitch; slow, warm, storytelling cadence"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 1,
+        "age_band": "elder",
+        "gender_voice_class": "male",
+        "pace": "slow",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "cadence",
+          "elderly",
+          "low",
+          "slow",
+          "storytelling"
+        ],
+        "raw_source": "gentle elderly man; low pitch; slow, warm, storytelling cadence"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null,
+      "audition_pack": {
+        "A_neutral": "Come, sit with me a while.",
+        "B_happy": "It does my heart good to see you smile.",
+        "C_concerned": "Something troubling you, little one?",
+        "D_excited": "Ah, I have a wonderful story for you today!",
+        "E_calm": "Patience, patience. Good things take time.",
+        "F_storytelling": "Long ago, in a small village, there lived a kind old gardener...",
+        "G_question": "Would you like to hear how that story ends?",
+        "H_exclamation": "Ah, wonderful, wonderful!",
+        "I_pronunciation": "Subhanallah, what a beautiful thing to see. Alhamdulillah.",
+        "J_singing_optional": "Slow, storytelling cadence, not song-forward -- narration style only."
+      }
+    }
+  },
+  "restrictions": null,
+  "production_priority": "CORE",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_005_dada_yusuf_approved_reference",
+      "path": "sources/characters/reference_images/5. Dada Yusuf.png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

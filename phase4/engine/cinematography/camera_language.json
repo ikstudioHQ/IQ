@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.1",
+  "updated_at": "2026-08-03T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Structured camera/lens/lighting/composition/movement rules per scene-type and emotion, so image and video generation tools (Gemini, Meta AI, Kling, Runway) receive concrete direction instead of vague adjectives. Feeds camera_directions.md, image_prompts.md, and animation_directions.md directly.",
+  "scene_types": [
+    {
+      "scene_type": "intimate_emotional_moment",
+      "example_use": "Child making dua, a quiet realization, a hug",
+      "camera": "close-up",
+      "lens": "50mm equivalent (natural, non-distorted facial proportions)",
+      "lighting": "warm, soft key light, golden-hour tone",
+      "composition": "rule of thirds, character's eyes on the upper third line",
+      "mood": "hope, warmth, safety",
+      "movement": "slow push-in, or static — never a whip or fast pan here",
+      "color_palette": "Warm cream, soft gold, dusty rose — low saturation, high warmth",
+      "depth_of_field": "Shallow — soft-focused background, character in sharp focus"
+    },
+    {
+      "scene_type": "conflict_introduction",
+      "example_use": "Character first notices the problem (e.g. toy is missing)",
+      "camera": "medium shot",
+      "lens": "35mm equivalent (slightly wider, shows character + immediate environment)",
+      "lighting": "neutral daylight, slightly cooler than the resolution beat to signal mild tension",
+      "composition": "character slightly off-center, negative space toward whatever is causing the problem",
+      "mood": "concern, curiosity",
+      "movement": "static or very slow drift — stability keeps this from reading as scary, per DESIGN_PRINCIPLES.md's no-fear rule",
+      "color_palette": "Muted sage green, cool cream, soft grey undertones",
+      "depth_of_field": "Medium — background readable but not competing for attention"
+    },
+    {
+      "scene_type": "effort_action",
+      "example_use": "Character actively searching, trying, or working at something",
+      "camera": "medium-wide, tracking",
+      "lens": "35mm equivalent",
+      "lighting": "brighter, more energetic daylight",
+      "composition": "character in motion, rule of thirds with movement direction leading into open space",
+      "mood": "determination, energy",
+      "movement": "gentle tracking shot following the character's movement",
+      "color_palette": "Bright peach, warm mint, sunlit cream",
+      "depth_of_field": "Medium-deep — environment visible to show the search/effort in context"
+    },
+    {
+      "scene_type": "resolution_relief",
+      "example_use": "Problem resolves, character relaxes, family reunites",
+      "camera": "medium-close, widening slightly from the conflict beat's close framing",
+      "lens": "50mm equivalent",
+      "lighting": "warm, golden, slightly brighter than the conflict beat",
+      "composition": "centered or rule-of-thirds, more open space around the character showing calm",
+      "mood": "relief, gratitude, joy",
+      "movement": "slow pull-back or static — lets the moment breathe",
+      "color_palette": "Golden amber, warm cream, soft lavender",
+      "depth_of_field": "Shallow — mirrors the intimate_emotional_moment's focus pull inward"
+    },
+    {
+      "scene_type": "group_family_moment",
+      "example_use": "Family together, dua said as a group, closing beat",
+      "camera": "wide-medium",
+      "lens": "35mm equivalent",
+      "lighting": "warm, even, soft — no harsh shadows",
+      "composition": "characters grouped closely, symmetrical or gently rule-of-thirds balanced",
+      "mood": "belonging, warmth",
+      "movement": "static — group stillness reinforces the calm-close pattern from ending_styles.json's family/dua endings",
+      "color_palette": "Full warm palette — cream, peach, sage, lavender balanced evenly",
+      "depth_of_field": "Deep — everyone and the room both in focus, nothing isolated"
+    },
+    {
+      "scene_type": "curiosity_hook_opening",
+      "example_use": "The first 3-8 seconds of an episode or Short",
+      "camera": "close-up or extreme close-up on a single detail (an eye, a hand reaching, an empty spot where the toy should be)",
+      "lens": "50mm equivalent",
+      "lighting": "matches the scene's actual time of day, slightly higher contrast to grab attention",
+      "composition": "tight, off-center, deliberately incomplete (viewer wants to see more)",
+      "mood": "curiosity",
+      "movement": "very slow push-in or static — the tightness itself creates the hook, not motion",
+      "color_palette": "High-contrast single accent color against neutral cream background",
+      "depth_of_field": "Very shallow — near-macro focus on the single detail"
+    }
+  ],
+  "selection_rule": "camera_directions.md and image_prompts.md select scene_type per beat by matching the beat's role (per STORY.md's 5 beats and emotion_database.json's emotion for that beat), then inline this file's camera/lens/lighting/composition/mood/movement fields directly into the self-contained prompt block — same 'inline, never reference' rule as image_prompts.md's locked character blocks.",
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "total_scene_types": 6
+  }
+}

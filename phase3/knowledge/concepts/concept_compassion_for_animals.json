@@ -1,0 +1,55 @@
+{
+  "concept_id": "concept_compassion_for_animals",
+  "name": "Compassion for Animals",
+  "definition_by_age": {
+    "4": "Being gentle with animals.",
+    "6": "Islam teaches us to be kind and gentle to all animals.",
+    "8": "Compassion for animals is a real responsibility in Islam — caring for their needs and treating them gently."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe a kind way to treat an animal.",
+  "related_quran": [],
+  "related_hadith": [
+    "hd_011"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [],
+  "related_conflicts": [
+    "cf_029",
+    "cf_038"
+  ],
+  "recommended_age_range": [
+    4,
+    7
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": true,
+  "scholarly_reviewed": false,
+  "related_manners": [
+    "mann_006"
+  ],
+  "recommended_default": {
+    "conflict_id": "cf_029",
+    "pattern_id": "pattern_011",
+    "hook_id": "hook_001",
+    "ending_id": "end_004",
+    "emotion": "gratitude",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_004). Responsibility->Repair fits the pet-care conflicts (cf_038/cf_028) this concept already links — moved off shared pattern_004 to reduce cluster size."
+  },
+  "semantic_support": {
+    "hd_011": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly and specifically about mercy to a thirsty animal — a perfect match.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_002",
+      "conflict_id": "cf_038",
+      "reasoning": "Delaying pet care is a real mistake-reflection-correction shape distinct from the responsibility-repair primary."
+    }
+  ]
+}

@@ -1,0 +1,2283 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-01T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Structured vocabulary teaching (meaning, age, usage) — different from pronunciation_dictionary.json which covers HOW to say a word, not WHAT it means or WHEN to teach it.",
+  "words": [
+    {
+      "vocab_id": "vocab_001",
+      "word": "Tawakkul",
+      "meaning_simple": "Trusting Allah while still doing your best effort.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Zayd tried his best to find his toy, and then trusted Allah for the rest.",
+      "related_words": [
+        "vocab_002_sabr"
+      ],
+      "related_concept": "concept_tawakkul",
+      "story_usage": [
+        "Lost toy",
+        "Waiting for results",
+        "Facing something scary"
+      ],
+      "primary_source": "en_Hisn_El_Muslim.pdf",
+      "version": "v1.0",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_002",
+      "word": "Sabr",
+      "meaning_simple": "Being patient, even when something is hard.",
+      "age_group": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Prophet Nuh showed sabr while he built the boat for many years.",
+      "related_words": [
+        "vocab_001"
+      ],
+      "related_concept": "concept_tawakkul",
+      "story_usage": [
+        "Waiting your turn",
+        "Building something slowly",
+        "A hard day"
+      ],
+      "primary_source": "phase2/data/islamic/prophets.json (prophet_nuh)",
+      "version": "v1.0",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_003",
+      "word": "Shukr",
+      "meaning_simple": "Saying thank you to Allah for the good things He gives.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Amira said Alhamdulillah to show shukr after her meal.",
+      "related_words": [
+        "vocab_004"
+      ],
+      "related_concept": "concept_gratitude",
+      "story_usage": [
+        "After eating",
+        "Receiving a gift",
+        "A sunny day"
+      ],
+      "primary_source": "phase2/data/islamic/duas.json (dua_003)",
+      "version": "v1.0",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_004",
+      "word": "Alhamdulillah",
+      "meaning_simple": "All praise and thanks belong to Allah.",
+      "age_group": [
+        2,
+        3,
+        4
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Alhamdulillah, we had a lovely day at the park.",
+      "related_words": [
+        "vocab_003"
+      ],
+      "related_concept": "concept_gratitude",
+      "story_usage": [
+        "Good news",
+        "After a meal",
+        "A happy surprise"
+      ],
+      "primary_source": "phase2/data/islamic/duas.json (dua_003)",
+      "version": "v1.0",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_005",
+      "word": "Amanah",
+      "meaning_simple": "Taking good care of something you've been trusted with.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Zayd returned his friend's toy carefully because it was an amanah.",
+      "related_words": [
+        "vocab_006"
+      ],
+      "related_concept": "concept_honesty",
+      "story_usage": [
+        "Borrowing something",
+        "Keeping a promise",
+        "Looking after a pet"
+      ],
+      "primary_source": "phase1/docs/rules/RULES.md (general Islamic values)",
+      "version": "v1.0",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_006",
+      "word": "Sidq",
+      "meaning_simple": "Always telling the truth.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd told the truth even though it was a little hard, because of sidq.",
+      "related_words": [
+        "vocab_005"
+      ],
+      "related_concept": "concept_honesty",
+      "story_usage": [
+        "Admitting a mistake",
+        "Telling a friend the truth",
+        "A broken toy"
+      ],
+      "primary_source": "phase1/docs/rules/RULES.md (general Islamic values)",
+      "version": "v1.0",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_007",
+      "word": "Jannah",
+      "meaning_simple": "The beautiful garden Allah promises to good people.",
+      "age_group": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Being kind to parents is a path to Jannah.",
+      "related_words": [],
+      "related_concept": "concept_gratitude",
+      "story_usage": [
+        "Talking about kindness rewards",
+        "End-of-episode reflection"
+      ],
+      "primary_source": "phase3/knowledge/curriculum/knowledge_curriculum.json (age 5)",
+      "version": "v1.0",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_008",
+      "word": "Bismillah",
+      "meaning_simple": "Saying 'in the name of Allah' before starting something good.",
+      "age_group": [
+        2,
+        3
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd said Bismillah before he started eating.",
+      "related_words": [],
+      "related_concept": "concept_gratitude",
+      "story_usage": [
+        "Before eating",
+        "Starting a new task",
+        "Beginning a journey"
+      ],
+      "primary_source": "phase2/data/islamic/duas.json (dua_002)",
+      "version": "v1.0",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_009",
+      "word": "Salam",
+      "meaning_simple": "Peace — used as a greeting.",
+      "age_group": [
+        2,
+        3
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd said Salam to his neighbor.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_010",
+      "word": "Insha'Allah",
+      "meaning_simple": "If Allah wills — said when talking about something in the future.",
+      "age_group": [
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Insha'Allah, we will visit Dada Yusuf this weekend.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_011",
+      "word": "Mashallah",
+      "meaning_simple": "What Allah has willed — said when noticing something good or beautiful.",
+      "age_group": [
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Mashallah, your garden is so beautiful!",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_012",
+      "word": "Subhanallah",
+      "meaning_simple": "Glory be to Allah — said in wonder or amazement.",
+      "age_group": [
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Subhanallah, look at that rainbow!",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_013",
+      "word": "Astaghfirullah",
+      "meaning_simple": "I seek Allah's forgiveness — said after a mistake.",
+      "age_group": [
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Astaghfirullah, I shouldn't have said that.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_014",
+      "word": "Jazakallah Khair",
+      "meaning_simple": "May Allah reward you with good — a way to say thank you.",
+      "age_group": [
+        5,
+        6
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Jazakallah Khair for helping me find my toy.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_015",
+      "word": "Wudu",
+      "meaning_simple": "Washing before prayer.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Baba Ahmad showed Zayd how to make wudu.",
+      "related_words": [],
+      "related_concept": "concept_prayer",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_016",
+      "word": "Salah",
+      "meaning_simple": "The five daily prayers.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "The family prayed Salah together.",
+      "related_words": [],
+      "related_concept": "concept_prayer",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_017",
+      "word": "Adhan",
+      "meaning_simple": "The call to prayer.",
+      "age_group": [
+        5,
+        6
+      ],
+      "difficulty": "medium",
+      "example_sentence": "They heard the Adhan from the masjid.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_018",
+      "word": "Masjid",
+      "meaning_simple": "A mosque, where Muslims pray together.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "They walked to the masjid for Friday prayer.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_019",
+      "word": "Imam",
+      "meaning_simple": "The person who leads the prayer.",
+      "age_group": [
+        5,
+        6
+      ],
+      "difficulty": "medium",
+      "example_sentence": "The imam led the prayer at the masjid.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_020",
+      "word": "Quran",
+      "meaning_simple": "The holy book of Islam.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Dada Yusuf reads the Quran every evening.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_021",
+      "word": "Sunnah",
+      "meaning_simple": "The way and habits of Prophet Muhammad (peace be upon him).",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Smiling at others is part of the Sunnah.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_022",
+      "word": "Hadith",
+      "meaning_simple": "A saying or teaching of Prophet Muhammad (peace be upon him).",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Dada Yusuf shared a hadith about kindness.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_023",
+      "word": "Iman",
+      "meaning_simple": "Faith and belief in Allah.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Iman grows when we remember Allah often.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_024",
+      "word": "Taqwa",
+      "meaning_simple": "Being mindful and careful to please Allah.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Taqwa means thinking of Allah in everything we do.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_025",
+      "word": "Rahma",
+      "meaning_simple": "Mercy and gentle kindness.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Allah's rahma is bigger than anything.",
+      "related_words": [],
+      "related_concept": "concept_mercy",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_026",
+      "word": "Adl",
+      "meaning_simple": "Fairness and justice.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Being fair with friends is a kind of adl.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_027",
+      "word": "Ihsan",
+      "meaning_simple": "Doing things in the best, most beautiful way.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Ihsan means doing your best, even when no one is watching.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_028",
+      "word": "Hilm",
+      "meaning_simple": "Staying calm and gentle, even when upset.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Zayd showed hilm by staying calm when his tower fell.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_029",
+      "word": "Tawadu",
+      "meaning_simple": "Humility — not boasting or feeling better than others.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Tawadu means being humble, even when you did something great.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_030",
+      "word": "Zakat",
+      "meaning_simple": "Giving a share of wealth to those in need.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Baba Ahmad explained how Zakat helps others.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_031",
+      "word": "Sawm",
+      "meaning_simple": "Fasting, especially during Ramadan.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Amira learned about Sawm before Ramadan.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_032",
+      "word": "Hajj",
+      "meaning_simple": "The pilgrimage to Makkah.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Dada Yusuf told stories about his Hajj journey.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_033",
+      "word": "Ummah",
+      "meaning_simple": "The worldwide community of Muslims.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "We are part of one big Ummah.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_034",
+      "word": "Barakah",
+      "meaning_simple": "Blessing — extra goodness from Allah.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "There is barakah in sharing food together.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_035",
+      "word": "Fitrah",
+      "meaning_simple": "The natural, good nature Allah gave every person.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Kindness is part of our fitrah.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_036",
+      "word": "Akhirah",
+      "meaning_simple": "The next life, after this world.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Good deeds help us in the Akhirah.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_037",
+      "word": "Fajr",
+      "meaning_simple": "The dawn prayer.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "The family woke up gently for Fajr.",
+      "related_words": [],
+      "related_concept": "concept_prayer",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_038",
+      "word": "Maghrib",
+      "meaning_simple": "The sunset prayer.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "They prayed Maghrib as the sun went down.",
+      "related_words": [],
+      "related_concept": "concept_prayer",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_039",
+      "word": "Isha",
+      "meaning_simple": "The night prayer.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Isha is the last prayer of the day.",
+      "related_words": [],
+      "related_concept": "concept_prayer",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_040",
+      "word": "Ramadan",
+      "meaning_simple": "The blessed month of fasting.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Ramadan is a time for prayer and kindness.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_041",
+      "word": "Eid",
+      "meaning_simple": "A joyful celebration day in Islam.",
+      "age_group": [
+        2,
+        3,
+        4
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Eid morning is full of hugs and sweets.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_042",
+      "word": "Qiblah",
+      "meaning_simple": "The direction Muslims face during prayer, toward the Ka'bah.",
+      "age_group": [
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "They checked the Qiblah before praying.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_043",
+      "word": "Halal",
+      "meaning_simple": "Something allowed or permitted in Islam.",
+      "age_group": [
+        4,
+        5,
+        6
+      ],
+      "difficulty": "easy",
+      "example_sentence": "This food is halal for us to eat.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_044",
+      "word": "Haram",
+      "meaning_simple": "Something not allowed in Islam.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Lying is haram because it hurts trust.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_045",
+      "word": "Niyyah",
+      "meaning_simple": "Intention — the reason in your heart for doing something.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Zayd made a good niyyah before helping his friend.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_046",
+      "word": "Khushu",
+      "meaning_simple": "Calm focus and humility during prayer.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Amira tried to pray with khushu, slowly and calmly.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_047",
+      "word": "Istighfar",
+      "meaning_simple": "Asking Allah for forgiveness.",
+      "age_group": [
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Saying istighfar helps our hearts feel light again.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_048",
+      "word": "Tasbih",
+      "meaning_simple": "Glorifying Allah, often said with prayer beads.",
+      "age_group": [
+        6,
+        7
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Dada Yusuf said tasbih quietly after prayer.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_049",
+      "word": "Rizq",
+      "meaning_simple": "The provision and blessings Allah gives us.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Our food and home are part of our rizq from Allah.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_050",
+      "word": "Ikhlas",
+      "meaning_simple": "Sincerity — doing good only for Allah's sake.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Ikhlas means helping others without wanting anything back.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_051",
+      "word": "Adab",
+      "meaning_simple": "Good manners and respectful behavior.",
+      "age_group": [
+        4,
+        5,
+        6
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd showed good adab by greeting the elders first.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_052",
+      "word": "Afw",
+      "meaning_simple": "Forgiveness — letting go of anger toward someone.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Amira chose afw instead of staying upset.",
+      "related_words": [],
+      "related_concept": "concept_forgiveness",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_053",
+      "word": "Amal",
+      "meaning_simple": "A good deed or action.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Sharing your toy is a small amal.",
+      "related_words": [],
+      "related_concept": "concept_generosity",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_054",
+      "word": "Asr",
+      "meaning_simple": "The afternoon prayer.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "The family prayed Asr together before playing outside.",
+      "related_words": [],
+      "related_concept": "concept_prayer",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_055",
+      "word": "Ayah",
+      "meaning_simple": "A single verse from the Quran.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Ummi read one ayah before bedtime.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_056",
+      "word": "Dua",
+      "meaning_simple": "A personal prayer or supplication to Allah.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd made a small dua before the test.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_057",
+      "word": "Ghayrah",
+      "meaning_simple": "A protective, caring sense of responsibility for family.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "Zayd's ghayrah made him check on his little sister.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_058",
+      "word": "Hayaa",
+      "meaning_simple": "Modesty and a sense of shame that stops you from doing wrong.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Hayaa kept Amira from saying something unkind.",
+      "related_words": [],
+      "related_concept": "concept_humility",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_059",
+      "word": "Hikmah",
+      "meaning_simple": "Wisdom — knowing the right thing to do.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Ummi Layla's hikmah helped solve the disagreement.",
+      "related_words": [],
+      "related_concept": "concept_justice",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_060",
+      "word": "Ibadah",
+      "meaning_simple": "Worship — anything done sincerely for Allah's sake.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Even smiling kindly can be a small ibadah.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_061",
+      "word": "Ikhwa",
+      "meaning_simple": "Brotherhood — the bond between believers.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "The two boys showed real ikhwa by helping each other.",
+      "related_words": [],
+      "related_concept": "concept_friendship",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_062",
+      "word": "Jaza",
+      "meaning_simple": "A reward or recompense.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Being kind brings its own quiet jaza.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_063",
+      "word": "Jumu'ah",
+      "meaning_simple": "Friday, the day of the special congregational prayer.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Baba Ahmad wears his best clothes for Jumu'ah.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_064",
+      "word": "Khayr",
+      "meaning_simple": "Goodness; something good.",
+      "age_group": [
+        4,
+        5,
+        6
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Sharing your snack is a form of khayr.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_065",
+      "word": "Maghfirah",
+      "meaning_simple": "Allah's forgiveness.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Zayd asked Allah for maghfirah after his mistake.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_066",
+      "word": "Malaikah",
+      "meaning_simple": "Angels — Allah's obedient creations.",
+      "age_group": [
+        4,
+        5,
+        6
+      ],
+      "difficulty": "easy",
+      "example_sentence": "The malaikah always obey Allah.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_067",
+      "word": "Mizan",
+      "meaning_simple": "The scale that weighs good and bad deeds.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "Even a smile adds weight to the mizan.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_068",
+      "word": "Nasihah",
+      "meaning_simple": "Sincere advice given with good intention.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Dada Yusuf gave Zayd gentle nasihah.",
+      "related_words": [],
+      "related_concept": "concept_good_speech",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_069",
+      "word": "Qanaah",
+      "meaning_simple": "Contentment with what you have.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "Amira felt qanaah even without the newest toy.",
+      "related_words": [],
+      "related_concept": "concept_gratitude",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_070",
+      "word": "Rahim",
+      "meaning_simple": "Merciful — one of Allah's names, and a quality to show others.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Allah is Ar-Rahim, the Merciful.",
+      "related_words": [],
+      "related_concept": "concept_mercy",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_071",
+      "word": "Sabr Jamil",
+      "meaning_simple": "Beautiful patience — enduring difficulty without complaint.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "Zayd showed sabr jamil while waiting.",
+      "related_words": [],
+      "related_concept": "concept_patience",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_072",
+      "word": "Sadaqah",
+      "meaning_simple": "Voluntary charity — giving without being required to.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "A smile can count as sadaqah.",
+      "related_words": [],
+      "related_concept": "concept_charity",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_073",
+      "word": "Salaam",
+      "meaning_simple": "Peace — also a greeting Muslims use.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Amira said salaam to her new classmate.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_074",
+      "word": "Shahadah",
+      "meaning_simple": "The declaration of faith in Islam.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "The shahadah is the first pillar of Islam.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_075",
+      "word": "Shukran",
+      "meaning_simple": "Thank you.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd said shukran for the gift.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_076",
+      "word": "Silah Rahim",
+      "meaning_simple": "Keeping family ties strong, especially with relatives.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "Visiting grandparents is a way of silah rahim.",
+      "related_words": [],
+      "related_concept": "concept_community",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_077",
+      "word": "Taharah",
+      "meaning_simple": "Cleanliness and purity, especially before prayer.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Wudu is part of taharah.",
+      "related_words": [],
+      "related_concept": "concept_cleanliness",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_078",
+      "word": "Tarbiyah",
+      "meaning_simple": "Upbringing and gentle guidance from parents.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "Ummi Layla's tarbiyah shaped Zayd's kindness.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_079",
+      "word": "Tawbah",
+      "meaning_simple": "Sincere repentance — turning back to Allah after a mistake.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Zayd made tawbah after being unkind.",
+      "related_words": [],
+      "related_concept": "concept_forgiveness",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_080",
+      "word": "Ukhuwwah",
+      "meaning_simple": "Brotherhood/sisterhood among believers.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Their ukhuwwah meant they always helped each other.",
+      "related_words": [],
+      "related_concept": "concept_friendship",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_081",
+      "word": "Waqt",
+      "meaning_simple": "Time — a resource to be used wisely.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Zayd learned to use his waqt for both play and duty.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_082",
+      "word": "Yaqeen",
+      "meaning_simple": "Certainty — a firm, unwavering belief.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "Amira's yaqeen in Allah gave her comfort.",
+      "related_words": [],
+      "related_concept": "concept_tawakkul",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_083",
+      "word": "Zuhr",
+      "meaning_simple": "The midday prayer.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "They paused their game for Zuhr.",
+      "related_words": [],
+      "related_concept": "concept_prayer",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_084",
+      "word": "Fajir",
+      "meaning_simple": "Dishonest or deceitful (opposite of sidq).",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "Being fajir breaks the trust between friends.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_085",
+      "word": "Ghadab",
+      "meaning_simple": "Anger — a strong feeling that needs self-control.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Zayd felt ghadab but chose to breathe instead.",
+      "related_words": [],
+      "related_concept": "concept_self_control",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_086",
+      "word": "Husn al-Khuluq",
+      "meaning_simple": "Beautiful character — having excellent manners overall.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "The Prophet was known for husn al-khuluq.",
+      "related_words": [],
+      "related_concept": "concept_kindness",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_087",
+      "word": "Karam",
+      "meaning_simple": "Generosity — giving freely and warmly.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Baba Ahmad's karam meant guests always felt welcome.",
+      "related_words": [],
+      "related_concept": "concept_generosity",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_088",
+      "word": "Muhsin",
+      "meaning_simple": "One who does good with excellence (ihsan).",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "A muhsin does even small tasks with care.",
+      "related_words": [],
+      "related_concept": "concept_kindness",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_089",
+      "word": "Sunan",
+      "meaning_simple": "The plural of Sunnah — the Prophet's practiced traditions.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "Saying Bismillah before eating is one of the sunan.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_090",
+      "word": "Wafa",
+      "meaning_simple": "Faithfulness — keeping your word and promises.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "hard",
+      "example_sentence": "Zayd's wafa meant he always kept his promises.",
+      "related_words": [],
+      "related_concept": "concept_trustworthiness",
+      "story_usage": [],
+      "primary_source": "General Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_091",
+      "word": "Neighbor",
+      "meaning_simple": "Someone who lives near you.",
+      "age_group": [
+        4,
+        5,
+        6
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd waved to his neighbor.",
+      "related_words": [],
+      "related_concept": "concept_community",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_092",
+      "word": "Guest",
+      "meaning_simple": "Someone visiting your home who should be welcomed warmly.",
+      "age_group": [
+        4,
+        5,
+        6
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Ummi Layla always makes guests feel special.",
+      "related_words": [],
+      "related_concept": "concept_community",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_093",
+      "word": "Teamwork",
+      "meaning_simple": "Working together with others toward the same goal.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Good teamwork helped them finish faster.",
+      "related_words": [],
+      "related_concept": "concept_friendship",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_094",
+      "word": "Gentle",
+      "meaning_simple": "Soft and careful, not rough.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Amira was gentle with the kitten.",
+      "related_words": [],
+      "related_concept": "concept_kindness",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_095",
+      "word": "Promise",
+      "meaning_simple": "Something you say you will definitely do.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd kept his promise to help clean up.",
+      "related_words": [],
+      "related_concept": "concept_trustworthiness",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_096",
+      "word": "Apology",
+      "meaning_simple": "Saying sorry sincerely for a mistake.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Amira's apology made things better.",
+      "related_words": [],
+      "related_concept": " concept_forgiveness",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_097",
+      "word": "Responsibility",
+      "meaning_simple": "Something you're trusted to take care of.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Feeding the cat is Zayd's responsibility.",
+      "related_words": [],
+      "related_concept": "concept_trustworthiness",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_098",
+      "word": "Mockery",
+      "meaning_simple": "Making fun of someone unkindly.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Good manners mean avoiding mockery.",
+      "related_words": [],
+      "related_concept": "concept_good_speech",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_099",
+      "word": "Jealousy",
+      "meaning_simple": "Wanting what someone else has, in an unhappy way.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Amira noticed her jealousy and let it go.",
+      "related_words": [],
+      "related_concept": "concept_gratitude",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_100",
+      "word": "Permission",
+      "meaning_simple": "Asking before doing or taking something.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd asked permission before entering.",
+      "related_words": [],
+      "related_concept": "concept_respect_for_parents",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_101",
+      "word": "Privacy",
+      "meaning_simple": "Respecting someone's own space and things.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Knocking first shows respect for privacy.",
+      "related_words": [],
+      "related_concept": "concept_respect_for_parents",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_102",
+      "word": "Welcome",
+      "meaning_simple": "Greeting someone warmly.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "They gave the new student a warm welcome.",
+      "related_words": [],
+      "related_concept": "concept_friendship",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_103",
+      "word": "Volunteer",
+      "meaning_simple": "Helping without being asked or paid.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Baba Ahmad likes to volunteer at the masjid.",
+      "related_words": [],
+      "related_concept": "concept_charity",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_104",
+      "word": "Doctor",
+      "meaning_simple": "A helper who takes care of people who are sick.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "The doctor checked on Ummi Layla kindly.",
+      "related_words": [],
+      "related_concept": "concept_community",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_105",
+      "word": "Grateful",
+      "meaning_simple": "Feeling and showing thanks.",
+      "age_group": [
+        4,
+        5,
+        6
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd felt grateful for his family.",
+      "related_words": [],
+      "related_concept": "concept_gratitude",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_106",
+      "word": "Honest",
+      "meaning_simple": "Telling the truth always.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Being honest made Zayd feel proud.",
+      "related_words": [],
+      "related_concept": "concept_honesty",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_107",
+      "word": "Trustworthy",
+      "meaning_simple": "Someone people can depend on.",
+      "age_group": [
+        6,
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "A trustworthy friend keeps their word.",
+      "related_words": [],
+      "related_concept": "concept_trustworthiness",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_108",
+      "word": "Considerate",
+      "meaning_simple": "Thinking about how your actions affect others.",
+      "age_group": [
+        7,
+        8
+      ],
+      "difficulty": "medium",
+      "example_sentence": "Being considerate means noticing others' feelings.",
+      "related_words": [],
+      "related_concept": "concept_kindness",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_109",
+      "word": "Patience",
+      "meaning_simple": "Waiting calmly without complaining.",
+      "age_group": [
+        4,
+        5,
+        6
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Patience helped Zayd wait his turn.",
+      "related_words": [],
+      "related_concept": "concept_patience",
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_110",
+      "word": "Nature",
+      "meaning_simple": "The outdoors — trees, animals, sky, and water.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "They admired Allah's creation in nature.",
+      "related_words": [],
+      "related_concept": null,
+      "story_usage": [],
+      "primary_source": "General Islamic/English vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_111",
+      "word": "Bravery",
+      "meaning_simple": "Doing something hard even when you feel scared.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Zayd's bravery helped him try again.",
+      "related_words": [],
+      "related_concept": "concept_courage",
+      "story_usage": [],
+      "primary_source": "General English/Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_112",
+      "word": "Effort",
+      "meaning_simple": "Trying your best, even when it's difficult.",
+      "age_group": [
+        5,
+        6,
+        7
+      ],
+      "difficulty": "easy",
+      "example_sentence": "His effort paid off after many tries.",
+      "related_words": [],
+      "related_concept": "concept_perseverance",
+      "story_usage": [],
+      "primary_source": "General English/Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "vocab_id": "vocab_113",
+      "word": "Creature",
+      "meaning_simple": "Any living animal.",
+      "age_group": [
+        3,
+        4,
+        5
+      ],
+      "difficulty": "easy",
+      "example_sentence": "Every creature deserves gentle care.",
+      "related_words": [],
+      "related_concept": "concept_compassion_for_animals",
+      "story_usage": [],
+      "primary_source": "General English/Islamic vocabulary, standard usage",
+      "version": "v1.0",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "total_words": 113,
+    "note": "Expanded 50->90 (2026-08-05), checked against existing 50 for duplicates first. Standard vocabulary usage, citation_verified honestly left false (general usage, not scripture-cited) except where a word already appears in a cited Quran/Hadith/Dua record."
+  }
+}

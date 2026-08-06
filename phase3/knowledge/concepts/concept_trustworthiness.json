@@ -1,0 +1,56 @@
+{
+  "concept_id": "concept_trustworthiness",
+  "name": "Trustworthiness (Amanah)",
+  "definition_by_age": {
+    "4": "Taking good care of things you borrow.",
+    "6": "Amanah means being someone people can trust with their things or their secrets.",
+    "8": "Amanah is faithfully honoring the trust others place in you, in words, actions, and belongings."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe returning a borrowed item carefully.",
+  "related_quran": [
+    "qv_009"
+  ],
+  "related_hadith": [],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [
+    "vocab_005"
+  ],
+  "related_conflicts": [
+    "cf_019",
+    "cf_050",
+    "cf_044"
+  ],
+  "recommended_age_range": [
+    6,
+    8
+  ],
+  "version": "v1.0",
+  "citation_verified": false,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_019",
+    "pattern_id": "pattern_002",
+    "hook_id": "hook_004",
+    "ending_id": "end_003",
+    "emotion": "relief",
+    "note": "Retrieval ranking (retrieval_ranking.md) starts from this combination and diversity-penalizes away from it on repeat use, per recommended_story_combinations.md."
+  },
+  "semantic_support": {
+    "qv_009": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly commands returning trusts (amanat) to their owners — names the exact concept.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_013",
+      "conflict_id": "cf_044",
+      "reasoning": "Forgetting to pack something important fits natural-consequence learning."
+    }
+  ]
+}

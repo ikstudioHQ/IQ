@@ -1,0 +1,210 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "song",
+  "parent_id": "song_004",
+  "logical_scene_id": "scene_05",
+  "generation_units": [
+    {
+      "generation_unit_id": "song_004_scene_05_u01",
+      "parent_scene_id": "scene_05",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 7.333,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "Fresh start, new page — We forgive and we are friends again.",
+          "start_seconds": 0.0,
+          "end_seconds": 5.455
+        }
+      ],
+      "primary_action": "The three friends sit together on the bench, smiling. Authored beat 1/3: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "begin scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_004_scene_05_u02",
+      "parent_scene_id": "scene_05",
+      "sequence": 2,
+      "start_seconds": 7.333,
+      "end_seconds": 14.667,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "Chorus and bridge tie to qv_008 ('let them pardon and overlook.",
+          "start_seconds": 7.333,
+          "end_seconds": 12.333
+        }
+      ],
+      "primary_action": "The three friends sit together on the bench, smiling. Authored beat 2/3: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_004_scene_05_u03",
+      "parent_scene_id": "scene_05",
+      "sequence": 3,
+      "start_seconds": 14.667,
+      "end_seconds": 22.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "Would you not like that Allah should forgive you?') — the song's registered evidence.",
+          "start_seconds": 14.667,
+          "end_seconds": 21.031
+        }
+      ],
+      "primary_action": "The three friends sit together on the bench, smiling. Authored beat 3/3: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "scene action settled"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "provider_id": "veo-3.1-fast",
+  "model_id": "veo-3.1-fast-generate-preview",
+  "max_reference_images": 3,
+  "supports_reference_images": true,
+  "supports_image_to_video": true,
+  "supports_last_frame_interpolation": true,
+  "supports_video_extension": true,
+  "extension": {
+    "max_calls": 20,
+    "seconds_per_call": 7,
+    "input_cap_seconds": 141,
+    "combined_output_cap_seconds": 148,
+    "resolution_limit": "720p"
+  },
+  "duration_options_seconds": [4, 6, 8],
+  "duration_forced_to_8_when": [
+    "reference_images_used",
+    "resolution_1080p_or_4k",
+    "extension_used"
+  ],
+  "resolution_options": ["720p", "1080p", "4k"],
+  "aspect_ratios": ["16:9", "9:16"],
+  "frame_rate_fps": 24,
+  "max_prompt_tokens": 1024,
+  "videos_per_request": 1,
+  "video_retention_days": 2,
+  "person_generation_modes": {
+    "text_to_video": ["allow_all"],
+    "image_to_video_or_interpolation_or_reference": ["allow_adult"]
+  },
+  "region_restrictions": {
+    "EU_UK_CH_MENA": "allow_adult only, all modes"
+  },
+  "language_support": "English fully evaluated; other languages may vary",
+  "supports_style_reference_image": false,
+  "notes": "Same feature set as veo-3.1, optimized for speed/cost. Preferred default for high-volume batch season generation."
+}

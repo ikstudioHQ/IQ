@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "location_id": "loc_neighborhood_park",
+  "display_name": "Neighborhood Park/Playground",
+  "canonical_description": "Friendly neighborhood playground, used in playground-setting conflicts.",
+  "layout": "Open grassy area, playground equipment.",
+  "architecture": "Outdoor park.",
+  "materials": "Grass, playground equipment (swings, etc.).",
+  "colour_palette": "bright natural greens, blue sky, warm sunlight",
+  "furniture": [
+    "swing set",
+    "bench"
+  ],
+  "important_objects": [],
+  "lighting_default": {
+    "baseline": "bright natural daylight",
+    "time_variants": {},
+    "needs_review": false
+  },
+  "weather_default": {
+    "value": null,
+    "needs_review": true,
+    "note": "Not tracked in v2.72 source data (interior location); flagged for episodes involving weather/exterior continuity."
+  },
+  "reference_images": [],
+  "continuity_notes": "Friendly neighborhood park, grassy area, playground swings, bright natural daylight, family-friendly 3D animated exterior.",
+  "approval_status": "DRAFT",
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/production/location_library.json"
+}

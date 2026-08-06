@@ -1,0 +1,692 @@
+{
+  "generated_from": [
+    "sources/characters/character_master_library.json"
+  ],
+  "generated_at": "2026-08-05T00:00:00",
+  "repository_version": "2.72",
+  "schema_version": "1.0",
+  "checksum": "a62ca16b68976a88",
+  "generator": "tools/compile_runtime.py v1.0",
+  "characters": [
+    {
+      "id": "char_001_zayd",
+      "name": "Zayd",
+      "role": "Core lead; Amira's older brother",
+      "speaking": true,
+      "voice_id": "VOICE_001_ZAYD",
+      "tier": "CORE"
+    },
+    {
+      "id": "char_002_amira",
+      "name": "Amira",
+      "role": "Core lead; Zayd's younger sister",
+      "speaking": true,
+      "voice_id": "VOICE_002_AMIRA",
+      "tier": "CORE"
+    },
+    {
+      "id": "char_003_ummi_layla",
+      "name": "Ummi Layla",
+      "role": "Mother of Zayd and Amira",
+      "speaking": true,
+      "voice_id": "VOICE_003_UMMI_LAYLA",
+      "tier": "CORE"
+    },
+    {
+      "id": "char_004_baba_ahmad",
+      "name": "Baba Ahmad (with cap + rumal)",
+      "role": "Father of Zayd and Amira, husband of Ummi Layla — head of household, everyday-life and family-lesson episodes",
+      "speaking": true,
+      "voice_id": "VOICE_004_BABA_AHMAD",
+      "tier": "CORE"
+    },
+    {
+      "id": "char_005_dada_yusuf",
+      "name": "Dada Yusuf",
+      "role": "Grandfather",
+      "speaking": true,
+      "voice_id": "VOICE_005_DADA_YUSUF",
+      "tier": "CORE"
+    },
+    {
+      "id": "char_006_nuri",
+      "name": "Nuri",
+      "role": "Family cat; non-speaking recurring companion",
+      "speaking": false,
+      "voice_id": null,
+      "tier": null
+    },
+    {
+      "id": "char_007_maryam",
+      "name": "Maryam",
+      "role": "Zayd and Amira's older cousin",
+      "speaking": true,
+      "voice_id": "VOICE_007_MARYAM",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_008_omar",
+      "name": "Omar",
+      "role": "Cousin and energetic playmate",
+      "speaking": true,
+      "voice_id": "VOICE_008_OMAR",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_009_hana",
+      "name": "Hana",
+      "role": "Amira's best friend",
+      "speaking": true,
+      "voice_id": "VOICE_009_HANA",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_010_yusuf",
+      "name": "Yusuf",
+      "role": "Zayd's school friend",
+      "speaking": true,
+      "voice_id": "VOICE_010_YUSUF",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_011_bilal",
+      "name": "Bilal",
+      "role": "Funny school friend",
+      "speaking": true,
+      "voice_id": "VOICE_011_BILAL",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_012_sara",
+      "name": "Sara",
+      "role": "Classmate who loves books",
+      "speaking": true,
+      "voice_id": "VOICE_012_SARA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_013_amina",
+      "name": "Amina",
+      "role": "Helpful younger classmate",
+      "speaking": true,
+      "voice_id": "VOICE_013_AMINA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_014_hamza",
+      "name": "Hamza",
+      "role": "Sports-loving friend",
+      "speaking": true,
+      "voice_id": "VOICE_014_HAMZA",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_015_noor",
+      "name": "Noor",
+      "role": "Creative art-loving friend",
+      "speaking": true,
+      "voice_id": "VOICE_015_NOOR",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_016_rayyan",
+      "name": "Rayyan",
+      "role": "Quiet observant friend",
+      "speaking": true,
+      "voice_id": "VOICE_016_RAYYAN",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_017_fatimah",
+      "name": "Fatimah",
+      "role": "Responsible older student/helper",
+      "speaking": true,
+      "voice_id": "VOICE_017_FATIMAH",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_018_adam",
+      "name": "Adam",
+      "role": "Curious science-loving friend",
+      "speaking": true,
+      "voice_id": "VOICE_018_ADAM",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_019_lina",
+      "name": "Lina",
+      "role": "Nature-loving friend",
+      "speaking": true,
+      "voice_id": "VOICE_019_LINA",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_020_ibrahim",
+      "name": "Ibrahim",
+      "role": "Kind neighborhood boy",
+      "speaking": true,
+      "voice_id": "VOICE_020_IBRAHIM",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_021_ms_safiya",
+      "name": "Ms. Safiya",
+      "role": "Primary school teacher",
+      "speaking": true,
+      "voice_id": "VOICE_021_MS_SAFIYA",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_022_mr_kareem",
+      "name": "Mr. Kareem",
+      "role": "Male school teacher",
+      "speaking": true,
+      "voice_id": "VOICE_022_MR_KAREEM",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_023_principal_nadia",
+      "name": "Principal Nadia",
+      "role": "School principal",
+      "speaking": true,
+      "voice_id": "VOICE_023_PRINCIPAL_NADIA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_024_coach_imran",
+      "name": "Coach Imran",
+      "role": "Children's sports coach",
+      "speaking": true,
+      "voice_id": "VOICE_024_COACH_IMRAN",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_025_ustadh_kareem",
+      "name": "Ustadh Kareem",
+      "role": "Children's Islamic studies teacher",
+      "speaking": true,
+      "voice_id": "VOICE_025_USTADH_KAREEM",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_026_ustadha_mariam",
+      "name": "Ustadha Mariam",
+      "role": "Female Islamic studies teacher",
+      "speaking": true,
+      "voice_id": "VOICE_026_USTADHA_MARIAM",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_027_imam_harun",
+      "name": "Imam Harun",
+      "role": "Neighborhood imam; ordinary contemporary adult, not a sacred historical figure",
+      "speaking": true,
+      "voice_id": "VOICE_027_IMAM_HARUN",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_028_dr_samir",
+      "name": "Dr. Samir",
+      "role": "Family doctor",
+      "speaking": true,
+      "voice_id": "VOICE_028_DR_SAMIR",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_029_dr_aisha",
+      "name": "Dr. Aisha",
+      "role": "Pediatric doctor",
+      "speaking": true,
+      "voice_id": "VOICE_029_DR_AISHA",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_030_nurse_huda",
+      "name": "Nurse Huda",
+      "role": "Clinic nurse",
+      "speaking": true,
+      "voice_id": "VOICE_030_NURSE_HUDA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_031_dentist_farah",
+      "name": "Dentist Farah",
+      "role": "Children's dentist",
+      "speaking": true,
+      "voice_id": "VOICE_031_DENTIST_FARAH",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_032_pharmacist_yasir",
+      "name": "Pharmacist Yasir",
+      "role": "Neighborhood pharmacist",
+      "speaking": true,
+      "voice_id": "VOICE_032_PHARMACIST_YASIR",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_033_officer_khalid",
+      "name": "Officer Khalid",
+      "role": "Community police officer",
+      "speaking": true,
+      "voice_id": "VOICE_033_OFFICER_KHALID",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_034_firefighter_mariam",
+      "name": "Firefighter Mariam",
+      "role": "Firefighter and safety educator",
+      "speaking": true,
+      "voice_id": "VOICE_034_FIREFIGHTER_MARIAM",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_035_paramedic_hasan",
+      "name": "Paramedic Hasan",
+      "role": "Emergency medical responder",
+      "speaking": true,
+      "voice_id": "VOICE_035_PARAMEDIC_HASAN",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_036_chef_salma",
+      "name": "Chef Salma",
+      "role": "Neighborhood cook/baker",
+      "speaking": true,
+      "voice_id": "VOICE_036_CHEF_SALMA",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_037_baker_uncle_tariq",
+      "name": "Baker Uncle Tariq",
+      "role": "Bakery owner",
+      "speaking": true,
+      "voice_id": "VOICE_037_BAKER_UNCLE_TARIQ",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_038_grocer_uncle_rashid",
+      "name": "Grocer Uncle Rashid",
+      "role": "Market grocer",
+      "speaking": true,
+      "voice_id": "VOICE_038_GROCER_UNCLE_RASHID",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_039_farmer_musa",
+      "name": "Farmer Musa",
+      "role": "Local farmer/gardener",
+      "speaking": true,
+      "voice_id": "VOICE_039_FARMER_MUSA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_040_gardener_auntie_zainab",
+      "name": "Gardener Auntie Zainab",
+      "role": "Community garden caretaker",
+      "speaking": true,
+      "voice_id": "VOICE_040_GARDENER_AUNTIE_ZAINAB",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_041_librarian_sister_reem",
+      "name": "Librarian Sister Reem",
+      "role": "Library guide",
+      "speaking": true,
+      "voice_id": "VOICE_041_LIBRARIAN_SISTER_REEM",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_042_bookshop_uncle_faisal",
+      "name": "Bookshop Uncle Faisal",
+      "role": "Bookshop owner",
+      "speaking": true,
+      "voice_id": "VOICE_042_BOOKSHOP_UNCLE_FAISAL",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_043_engineer_hiba",
+      "name": "Engineer Hiba",
+      "role": "Civil engineer / STEM role model",
+      "speaking": true,
+      "voice_id": "VOICE_043_ENGINEER_HIBA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_044_architect_nabil",
+      "name": "Architect Nabil",
+      "role": "Architect / design role model",
+      "speaking": true,
+      "voice_id": "VOICE_044_ARCHITECT_NABIL",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_045_scientist_dr_leena",
+      "name": "Scientist Dr. Leena",
+      "role": "Science educator",
+      "speaking": true,
+      "voice_id": "VOICE_045_SCIENTIST_DR_LEENA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_046_astronomer_dr_yusuf",
+      "name": "Astronomer Dr. Yusuf",
+      "role": "Astronomy educator",
+      "speaking": true,
+      "voice_id": "VOICE_046_ASTRONOMER_DR_YUSUF",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_047_pilot_captain_hana",
+      "name": "Pilot Captain Hana",
+      "role": "Airline pilot / career role model",
+      "speaking": true,
+      "voice_id": "VOICE_047_PILOT_CAPTAIN_HANA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_048_bus_driver_uncle_majid",
+      "name": "Bus Driver Uncle Majid",
+      "role": "School/community bus driver",
+      "speaking": true,
+      "voice_id": "VOICE_048_BUS_DRIVER_UNCLE_MAJID",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_049_mechanic_farid",
+      "name": "Mechanic Farid",
+      "role": "Bicycle/car mechanic",
+      "speaking": true,
+      "voice_id": "VOICE_049_MECHANIC_FARID",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_050_carpenter_hamid",
+      "name": "Carpenter Hamid",
+      "role": "Woodworker / maker",
+      "speaking": true,
+      "voice_id": "VOICE_050_CARPENTER_HAMID",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_051_tailor_sister_iman",
+      "name": "Tailor Sister Iman",
+      "role": "Tailor/seamstress",
+      "speaking": true,
+      "voice_id": "VOICE_051_TAILOR_SISTER_IMAN",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_052_delivery_brother_saeed",
+      "name": "Delivery Brother Saeed",
+      "role": "Neighborhood delivery worker",
+      "speaking": true,
+      "voice_id": "VOICE_052_DELIVERY_BROTHER_SAEED",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_053_cleaner_auntie_khadija",
+      "name": "Cleaner Auntie Khadija",
+      "role": "School/community cleaner; dignity-of-work role",
+      "speaking": true,
+      "voice_id": "VOICE_053_CLEANER_AUNTIE_KHADIJA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_054_recycling_worker_brother_ali",
+      "name": "Recycling Worker Brother Ali",
+      "role": "Community recycling worker",
+      "speaking": true,
+      "voice_id": "VOICE_054_RECYCLING_WORKER_BROTHER_ALI",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_055_veterinarian_dr_amal",
+      "name": "Veterinarian Dr. Amal",
+      "role": "Animal doctor",
+      "speaking": true,
+      "voice_id": "VOICE_055_VETERINARIAN_DR_AMAL",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_056_shopkeeper_sister_samira",
+      "name": "Shopkeeper Sister Samira",
+      "role": "Small neighborhood shop owner",
+      "speaking": true,
+      "voice_id": "VOICE_056_SHOPKEEPER_SISTER_SAMIRA",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_057_neighbor_auntie_ruqayyah",
+      "name": "Neighbor Auntie Ruqayyah",
+      "role": "Kind elderly neighbor",
+      "speaking": true,
+      "voice_id": "VOICE_057_NEIGHBOR_AUNTIE_RUQAYYAH",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_058_neighbor_uncle_dawud",
+      "name": "Neighbor Uncle Dawud",
+      "role": "Helpful elderly neighbor",
+      "speaking": true,
+      "voice_id": "VOICE_058_NEIGHBOR_UNCLE_DAWUD",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_059_baby_sami",
+      "name": "Baby Sami",
+      "role": "Toddler sibling/cousin for family scenes",
+      "speaking": true,
+      "voice_id": "VOICE_059_BABY_SAMI",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_060_layla",
+      "name": "Layla",
+      "role": "Teen helper / older cousin role model",
+      "speaking": true,
+      "voice_id": "VOICE_060_LAYLA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_061_barq",
+      "name": "Barq (Horse)",
+      "role": "Journey/adventure companion — pulls carts, carries characters to Madinah-style journey songs",
+      "speaking": true,
+      "voice_id": "VOICE_061_BARQ",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_062_fili",
+      "name": "Fili (Elephant)",
+      "role": "Gentle giant friend — strength/kindness lesson episodes, counting songs",
+      "speaking": true,
+      "voice_id": "VOICE_062_FILI",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_063_tuffy",
+      "name": "Tuffy (Dog)",
+      "role": "Loyal neighborhood/farm companion — playful comic-relief sidekick",
+      "speaking": true,
+      "voice_id": "VOICE_063_TUFFY",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_064_kiki",
+      "name": "Kiki (Parrot)",
+      "role": "Chatty word-repeating sidekick — vocabulary/word-learning episodes",
+      "speaking": true,
+      "voice_id": "VOICE_064_KIKI",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_065_nunu",
+      "name": "Nunu (Pigeon)",
+      "role": "Gentle rooftop/masjid-courtyard friend — peace/calm-themed songs, messenger role in stories",
+      "speaking": true,
+      "voice_id": "VOICE_065_NUNU",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_066_chintu",
+      "name": "Chintu (Bakra — Male Goat)",
+      "role": "Farm/Eid-season companion, playful energetic sidekick",
+      "speaking": true,
+      "voice_id": "VOICE_066_CHINTU",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_067_chinki",
+      "name": "Chinki (Bakri — Female Goat)",
+      "role": "Farm/Eid-season companion, gentle caring sidekick, Chintu's pair",
+      "speaking": true,
+      "voice_id": "VOICE_067_CHINKI",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_068_sahara",
+      "name": "Sahara (Camel)",
+      "role": "Desert-journey companion — Madinah/Hajj-themed journey songs, patient wise-friend role",
+      "speaking": true,
+      "voice_id": "VOICE_068_SAHARA",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_069_molana_abdul_qadir",
+      "name": "Molana Abdul Qadir",
+      "role": "Respected Islamic scholar/teacher — Qur'an lessons, wisdom episodes, gentle moral guidance",
+      "speaking": true,
+      "voice_id": "VOICE_069_MOLANA_ABDUL_QADIR",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_070_farhan",
+      "name": "Farhan",
+      "role": "Zayd's older teenage cousin/big-brother figure — light stubble marks his transition to young adulthood, sports/activity episodes, role-model-for-older-kids content",
+      "speaking": true,
+      "voice_id": "VOICE_070_FARHAN",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_071_khala_bano",
+      "name": "Khala Bano (\"Moti Khala\")",
+      "role": "Beloved plump warm-hearted aunty — the neighborhood/family's biggest hugs, comfort food, and comic warmth; cooking episodes, hospitality-lesson episodes",
+      "speaking": true,
+      "voice_id": "VOICE_071_KHALA_BANO",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_072_chacha_jolly",
+      "name": "Chacha Jolly",
+      "role": "Goofy, lovable comic-relief uncle — slapstick-light comedy episodes, silly songs, always making the kids laugh",
+      "speaking": true,
+      "voice_id": "VOICE_072_CHACHA_JOLLY",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_073_dadi_khadija",
+      "name": "Dadi Khadija",
+      "role": "Grandmother of Zayd and Amira (Baba Ahmad's mother) — spiritual anchor of the family, namaz/Quran/dua teaching episodes",
+      "speaking": true,
+      "voice_id": "VOICE_073_DADI_KHADIJA",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_074_chacha_rasheed",
+      "name": "Chacha Rasheed (Dada Yusuf's Friend)",
+      "role": "Dada Yusuf's close friend and neighborhood elder — masjid/community episodes, storytelling duo with Dada Yusuf",
+      "speaking": true,
+      "voice_id": "VOICE_074_CHACHA_RASHEED",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_075_sameer_patel",
+      "name": "Sameer Patel (with unique cap)",
+      "role": "Stylish young community member — fashion/style-conscious role model, confidence and self-presentation episodes",
+      "speaking": true,
+      "voice_id": "VOICE_075_SAMEER_PATEL",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_076_misha_the_cow",
+      "name": "Misha the Cow",
+      "role": "Farm animal companion — farm-song episodes, \"Old Ibrahim's",
+      "speaking": true,
+      "voice_id": "VOICE_076_MISHA_THE_COW",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_077_fifi_the_duck",
+      "name": "Fifi the Duck",
+      "role": "Farm animal companion — \"Five Little Ducks\"-style song",
+      "speaking": true,
+      "voice_id": "VOICE_077_FIFI_THE_DUCK",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_078_rooster_rafiq",
+      "name": "Rooster Rafiq",
+      "role": "Farm animal companion — classic farm-song staple, morning/",
+      "speaking": true,
+      "voice_id": "VOICE_078_ROOSTER_RAFIQ",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_079_bunbun_the_rabbit",
+      "name": "Bun-Bun the Rabbit",
+      "role": "Farm/garden animal companion — versatile garden and story",
+      "speaking": true,
+      "voice_id": "VOICE_079_BUNBUN_THE_RABBIT",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_080_ayan",
+      "name": "Ayan",
+      "role": "Kid-friend peer — gentle, mildly-careless-but-lovable",
+      "speaking": true,
+      "voice_id": "VOICE_080_AYAN",
+      "tier": "RECURRING"
+    },
+    {
+      "id": "char_081_idris",
+      "name": "Idris",
+      "role": "New kid at school — recurring character for welcoming/",
+      "speaking": true,
+      "voice_id": "VOICE_081_IDRIS",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_082_mamu_tariq",
+      "name": "Mamu Tariq",
+      "role": "Blood-relative uncle — Ummi Layla's younger brother",
+      "speaking": true,
+      "voice_id": "VOICE_082_MAMU_TARIQ",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_083_booboo",
+      "name": "Boo-Boo (OPTIONAL — confirm before finalizing)",
+      "role": "Comfort/bedtime plush-toy companion — generic bedtime/",
+      "speaking": false,
+      "voice_id": null,
+      "tier": null
+    },
+    {
+      "id": "char_084_wooly_the_sheep",
+      "name": "Wooly the Sheep",
+      "role": "Farm animal companion — classic farm-song staple, gentle/counting-sheep bedtime episodes possible crossover",
+      "speaking": true,
+      "voice_id": "VOICE_084_WOOLY_THE_SHEEP",
+      "tier": "SUPPORTING"
+    },
+    {
+      "id": "char_085_market_stall_owner",
+      "name": "Market Stall Owner",
+      "role": "Recurring-capable supporting market merchant; first appears in ep_honesty_wallet_assisted scene_4",
+      "speaking": true,
+      "voice_id": null,
+      "tier": "SUPPORTING"
+    }
+  ]
+}

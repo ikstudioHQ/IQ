@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_033_officer_khalid",
+  "canonical_name": "Officer Khalid",
+  "aliases": [],
+  "role_relation": "Community police officer",
+  "age": "adult",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Officer Khalid — medium-brown skin; friendly modest police uniform, cap held at side in indoor scenes. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark.",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Officer Khalid, exact same canonical identity: medium-brown skin; friendly modest police uniform, cap held at side in indoor scenes. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep face, proportions, clothing colors, hairstyle/hijab and accessories identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "expression_prompt": "Officer Khalid, exact same canonical identity: medium-brown skin; friendly modest police uniform, cap held at side in indoor scenes. Expression sheet with neutral, happy, excited, thoughtful, worried, sad, surprised, apologetic, relieved, joyful. Head-and-shoulders grid, identical identity and clothing, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "steady reassuring man; medium-low pitch; calm authority",
+    "voice_master": {
+      "voice_identity_id": "VOICE_033_OFFICER_KHALID",
+      "voice_profile_version": "2.0",
+      "voice_status": "PROFILE_DEFINED",
+      "fingerprint": {
+        "vocal_age_band": "adult",
+        "gender_presentation": "male",
+        "pitch_band": "low",
+        "pace_baseline": "medium",
+        "source_description": "steady reassuring man; medium-low pitch; calm authority",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "adult",
+        "gender_presentation": "male",
+        "pitch_band": "low",
+        "core_timbre": "steady reassuring man; medium-low pitch; calm authority"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 3,
+        "age_band": "adult",
+        "gender_voice_class": "male",
+        "pace": "medium",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "authority",
+          "low",
+          "medium"
+        ],
+        "raw_source": "steady reassuring man; medium-low pitch; calm authority"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null
+    }
+  },
+  "restrictions": null,
+  "production_priority": "SUPPORTING",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_033_officer_khalid_approved_reference",
+      "path": "sources/characters/reference_images/33. Officer Khalid.png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

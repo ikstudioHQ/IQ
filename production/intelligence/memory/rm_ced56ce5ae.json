@@ -1,0 +1,21 @@
+{
+  "schema_version": "2.71",
+  "episode_id": "rm_ced56ce5ae",
+  "status": "ACCEPTED",
+  "ending_state": {
+    "lesson_progress": "concept_charity",
+    "memory_note": "Persist only accepted consequences/relationship changes after production review."
+  },
+  "characters": [
+    "char_001_zayd",
+    "char_002_amira"
+  ],
+  "learned_concept": "concept_charity",
+  "active_goals": [
+    "Continue accepted state into next episode."
+  ],
+  "persistent_props": [],
+  "arc_id": "arc_01",
+  "song_id": null,
+  "source_story_hash": "c33d89736fde7113e05bf1455d401ea369138c44f64614ba2eff8d9af8983521"
+}

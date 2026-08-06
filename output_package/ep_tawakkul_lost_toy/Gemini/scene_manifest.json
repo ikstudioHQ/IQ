@@ -1,0 +1,125 @@
+{
+  "episode_id": "ep_tawakkul_lost_toy",
+  "scene_count": 5,
+  "actual_scene_files": 5,
+  "build_metadata": {
+    "compiler_version": "2.0",
+    "source_content_hash": "a1b11fbe7594602f",
+    "schema": "scene_contract.json v1.0 (human-structured migration; per-event certainty varies -- see each event's own confidence field, not this schema label)"
+  },
+  "scenes": [
+    {
+      "scene_id": "scene_1",
+      "duration": 15,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_006_nuri"
+      ],
+      "speaking_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "gemini_prompt_file": "scene_1.md",
+      "scene_contract_hash": "2d70b59e74e23367",
+      "performance_confidence_summary": [
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "INFERRED_FROM_ORDER_AND_CONTENT"
+      ],
+      "has_unresolved_performance_ambiguity": false,
+      "all_performance_events_inferred": true,
+      "requires_resolution_before_final": true,
+      "long_scene_single_shot": false
+    },
+    {
+      "scene_id": "scene_2",
+      "duration": 55,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "speaking_characters": [
+        "char_001_zayd"
+      ],
+      "gemini_prompt_file": "scene_2.md",
+      "scene_contract_hash": "2fff5c2bbc43a1c4",
+      "performance_confidence_summary": [
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "INFERRED_FROM_ORDER_AND_CONTENT"
+      ],
+      "has_unresolved_performance_ambiguity": false,
+      "all_performance_events_inferred": true,
+      "requires_resolution_before_final": true,
+      "long_scene_single_shot": true
+    },
+    {
+      "scene_id": "scene_3",
+      "duration": 60,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "speaking_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "gemini_prompt_file": "scene_3.md",
+      "scene_contract_hash": "1eee76c1d60b3a1d",
+      "performance_confidence_summary": [
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "CONFIRMED",
+        "CONFIRMED"
+      ],
+      "has_unresolved_performance_ambiguity": false,
+      "all_performance_events_inferred": false,
+      "requires_resolution_before_final": false,
+      "long_scene_single_shot": true
+    },
+    {
+      "scene_id": "scene_4",
+      "duration": 40,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "speaking_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "gemini_prompt_file": "scene_4.md",
+      "scene_contract_hash": "b7f9064aabaee5d8",
+      "performance_confidence_summary": [
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "INFERRED_FROM_ORDER_AND_CONTENT"
+      ],
+      "has_unresolved_performance_ambiguity": false,
+      "all_performance_events_inferred": true,
+      "requires_resolution_before_final": true,
+      "long_scene_single_shot": true
+    },
+    {
+      "scene_id": "scene_5",
+      "duration": 30,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "speaking_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "gemini_prompt_file": "scene_5.md",
+      "scene_contract_hash": "e0d113d29ff60230",
+      "performance_confidence_summary": [
+        "CONFIRMED",
+        "CONFIRMED"
+      ],
+      "has_unresolved_performance_ambiguity": false,
+      "all_performance_events_inferred": false,
+      "requires_resolution_before_final": false,
+      "long_scene_single_shot": false
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "concept_id": "concept_respect_for_parents",
+  "name": "Respect for Parents",
+  "definition_by_age": {
+    "4": "Listening to and helping Mama and Baba.",
+    "6": "Respecting parents means listening, helping, and speaking gently to them.",
+    "8": "Respect for parents means honoring their guidance and caring for them, a path Islam values highly."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe one way they helped a parent this week.",
+  "related_quran": [],
+  "related_hadith": [
+    "hd_001",
+    "hd_004"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [],
+  "related_conflicts": [
+    "cf_053",
+    "cf_057",
+    "cf_005"
+  ],
+  "recommended_age_range": [
+    4,
+    6
+  ],
+  "version": "v1.0",
+  "citation_verified": false,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [
+    "mann_003"
+  ],
+  "recommended_default": {
+    "conflict_id": "cf_005",
+    "pattern_id": "pattern_011",
+    "hook_id": "hook_003",
+    "ending_id": "end_003",
+    "emotion": "gratitude",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_004). Responsibility->Repair->Trust Rebuilt fits obedience/responsibility to parents better than generic helping pattern_004."
+  },
+  "semantic_support": {
+    "hd_001": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly about being best to parents.",
+      "scholarly_reviewed": false
+    },
+    "hd_004": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly commands respecting parents.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_002",
+      "conflict_id": "cf_057",
+      "reasoning": "Reluctantly helping when asked, then reflecting, fits mistake-reflection."
+    },
+    {
+      "pattern_id": "pattern_012",
+      "conflict_id": "cf_053",
+      "reasoning": "Feeling a parental 'no' is unfair fits negotiation/compromise."
+    }
+  ]
+}

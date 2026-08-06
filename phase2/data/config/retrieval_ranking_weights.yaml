@@ -1,0 +1,39 @@
+# Retrieval Ranking — Configurable Weights
+# Tune these to change selection behavior without touching any code or
+# prompt logic. Weights should sum to 100; the ranking engine normalizes
+# if they don't, but keeping them at 100 makes each score read as a
+# direct percentage contribution.
+schema_version: "1.0"
+updated_at: "2026-08-02T10:00:00+05:30"
+brand: "Islamic Kids Studio"
+handle: "@IslamicKidsHQ"
+
+ranking:
+  topic_relevance: 35
+  age_match: 20
+  educational_value: 15
+  authenticity: 10
+  diversity: 15
+  source_confidence: 5
+
+notes:
+  topic_relevance: "How directly the candidate (verse/hadith/dua/conflict/hook/ending/pattern) matches the resolved concept and topic."
+  age_match: "How well the candidate's age_range/age_appropriate field fits the episode's target age band."
+  educational_value: "Whether the candidate has a clear, stated learning_objective or key_lesson."
+  authenticity: "Source strength — see source_confidence table below; kept separate from source_confidence weight because a well-cited-but-unreviewed source still scores here, while source_confidence specifically rewards scholarly_reviewed: true."
+  diversity: "Penalty-based — see diversity_penalty section. Higher weight here means recently-used items get pushed down harder."
+  source_confidence: "Small deliberate weight — scholarly_reviewed: true adds full credit here, false adds none. Kept low so an excellent but not-yet-reviewed source can still win on merit, per review_workflow.md not being a content-quality gate by itself."
+
+diversity_penalty:
+  # Applied as a percentage REDUCTION to a candidate's combined score
+  # before final ranking, based on how recently/often it was used —
+  # read from world_state.json's episode_chronology and the relevant
+  # per-item usage counters (recurring_locations_used, concepts_taught,
+  # or a candidate's own use in the last N episodes for hooks/endings/
+  # patterns/conflicts).
+  used_in_last_episode: -40
+  used_in_last_3_episodes: -25
+  used_3_plus_times_total: -15
+  never_used: 0
+
+override_policy: "A human or agent may override the ranked #1 choice at any time — this engine produces a ranked shortlist (top 3, per retrieval_ranking.md), not a forced selection. See MASTER_PROMPT.md Silent Drift Prevention: a ranking suggestion is not an instruction."

@@ -1,0 +1,476 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "episode",
+  "parent_id": "ep_tawakkul_lost_toy",
+  "logical_scene_id": "scene_3",
+  "generation_units": [
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_3_u01",
+      "parent_scene_id": "scene_3",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 7.5,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "dialogue",
+          "text": "You've looked so hard already, habibi.",
+          "start_seconds": 0.0,
+          "end_seconds": 2.143
+        }
+      ],
+      "primary_action": "Authored staging beat 1/8 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_3_u02",
+      "parent_scene_id": "scene_3",
+      "sequence": 2,
+      "start_seconds": 7.5,
+      "end_seconds": 15.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "I looked everywhere, Ummi. What if it's really gone?",
+          "start_seconds": 7.5,
+          "end_seconds": 10.714
+        }
+      ],
+      "primary_action": "Authored staging beat 2/8 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_3_u03",
+      "parent_scene_id": "scene_3",
+      "sequence": 3,
+      "start_seconds": 15.0,
+      "end_seconds": 22.5,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "dialogue",
+          "text": "You did your best. Now — let's ask Allah to help us, and keep looking together, calmly. Hasbunallahu wa ni'mal",
+          "start_seconds": 15.0,
+          "end_seconds": 22.143
+        }
+      ],
+      "primary_action": "Authored staging beat 3/8 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_3_u04",
+      "parent_scene_id": "scene_3",
+      "sequence": 4,
+      "start_seconds": 22.5,
+      "end_seconds": 30.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "dialogue",
+          "text": "wakeel.",
+          "start_seconds": 22.5,
+          "end_seconds": 22.857
+        }
+      ],
+      "primary_action": "Authored staging beat 4/8 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_3_u05",
+      "parent_scene_id": "scene_3",
+      "sequence": 5,
+      "start_seconds": 30.0,
+      "end_seconds": 37.5,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "Hasbunallahu wa ni'mal wakeel.",
+          "start_seconds": 30.0,
+          "end_seconds": 31.429
+        }
+      ],
+      "primary_action": "Authored staging beat 5/8 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_3_u06",
+      "parent_scene_id": "scene_3",
+      "sequence": 6,
+      "start_seconds": 37.5,
+      "end_seconds": 45.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "performance": [],
+      "primary_action": "Authored staging beat 6/8 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_3_u07",
+      "parent_scene_id": "scene_3",
+      "sequence": 7,
+      "start_seconds": 45.0,
+      "end_seconds": 52.5,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "performance": [],
+      "primary_action": "Authored staging beat 7/8 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_3_u08",
+      "parent_scene_id": "scene_3",
+      "sequence": 8,
+      "start_seconds": 52.5,
+      "end_seconds": 60.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "performance": [],
+      "primary_action": "Authored staging beat 8/8 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (Zayd's bedroom)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (Zayd's bedroom)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_003_ummi_layla": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

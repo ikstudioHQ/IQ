@@ -1,0 +1,52 @@
+{
+  "schema_version": "2.71",
+  "script_quality": {
+    "categories": {
+      "STORY_STRUCTURE": "PASS",
+      "CHILD_DIALOGUE": "PASS",
+      "CHARACTER_CONSISTENCY": "PASS",
+      "ARC_ALIGNMENT": "PASS",
+      "MEMORY_ALIGNMENT": "PASS",
+      "CURRICULUM_ALIGNMENT": "PASS",
+      "RELIGIOUS_SOURCE_SAFETY": "REVIEW_REQUIRED",
+      "SONG_INTEGRATION": "NOT_APPLICABLE",
+      "DURATION": "PASS",
+      "SCENE_PLAYABILITY": "PASS",
+      "CONTINUITY": "PASS",
+      "PRODUCTION_READINESS": "PASS"
+    },
+    "defects": [],
+    "memory_facts_consumed": [
+      "rm_1c729b4802"
+    ]
+  },
+  "episode_id": "rm_f537b73030",
+  "categories": {
+    "STORY": "PASS",
+    "CHARACTERS": "PASS",
+    "DIALOGUE": "PASS",
+    "PRODUCTION": "PASS",
+    "CONTINUITY": "PASS",
+    "SONG": "NOT_APPLICABLE",
+    "RELIGIOUS": "REVIEW_REQUIRED",
+    "GEMINI": "PASS"
+  },
+  "generation_units": 80,
+  "max_unit_duration": 7.5,
+  "shorts_candidates": [
+    {
+      "type": "hook",
+      "source_scene": "scene_01"
+    },
+    {
+      "type": "moral choice",
+      "source_scene": "scene_03"
+    },
+    {
+      "type": "lesson reveal",
+      "source_scene": "scene_06"
+    }
+  ],
+  "publication_status": "NOT_READY",
+  "human_render_review": "REQUIRED"
+}

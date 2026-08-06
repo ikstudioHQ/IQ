@@ -1,0 +1,4 @@
+{"schema_version":"1.0","episode_id":"test_song_scene","clips":[
+{"clip_id":"CLIP_001","sequence_number":1,"start_time":"00:00","end_time":"00:10","duration":10.0,"character_ids":["char_001_zayd","char_002_amira"],"speaker_ids":["char_002_amira"],"lyrics":"Alhamdulillah, thank you today","location":"loc_family_kitchen","religious_source_ids":["dua_002","dua_003"],"restriction_status":"clean","qa_status":"PASS"},
+{"clip_id":"CLIP_002","sequence_number":2,"start_time":"00:10","end_time":"00:20","duration":10.0,"character_ids":["char_001_zayd","char_002_amira"],"speaker_ids":["char_001_zayd","char_002_amira"],"lyrics":"For the food, for the sun, for the friends at play","location":"loc_family_kitchen","religious_source_ids":[],"restriction_status":"clean","qa_status":"PASS"}
+]}

@@ -1,0 +1,14 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "current_episode": "ep_003",
+  "current_series": "good_manners",
+  "current_season": 2,
+  "current_topic": "t_parents",
+  "current_age_target": 5,
+  "generation_status": "published",
+  "next_episode_id": "ep_004",
+  "next_topic": "t_eating_dua"
+}

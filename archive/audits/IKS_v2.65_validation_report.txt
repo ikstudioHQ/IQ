@@ -1,0 +1,33 @@
+ISLAMIC KIDS STUDIO v2.65 VALIDATION REPORT
+Date: 2026-08-05
+
+Architecture: first-class AUTHORED_PRODUCTION_DIRECTION layer between canonical logical scenes and <=10s Gemini generation units.
+Canonical creative source is not rewritten or falsely inferred. Missing unit plans remain AUTHORING_REQUIRED/SOURCE_DATA_INSUFFICIENT.
+
+Implemented:
+- distribution/local MASTER_PROMPT validation profiles; MASTER remains local-only
+- active char_zayd/char_amira migration to canonical IDs
+- canonical character/song foreign-key validation primitives
+- <=10s generation-unit validation
+- exact character-count and duplicate-character protection
+- speaker/singer/silent/lip-sync ownership validation
+- explicit IN_STATE/OUT_STATE continuity validation
+- authored timing feasibility validation without invented BPM/timestamps
+- authored song and episode vertical-slice fixtures
+- duplication-resistant Gemini prompt locks
+
+Vertical slices:
+- song_001 scene_02: 18s logical scene -> 2 authored 9s units; canonical chorus text unchanged
+- ep_tawakkul_lost_toy scene_1: 15s logical scene -> 2 authored 7.5s units; existing dialogue unchanged
+
+Legacy content:
+- 20 songs remain logically compilable.
+- Legacy long song scenes without authored unit plans are not generation-ready; status is AUTHORING_REQUIRED, not a software failure.
+- Both existing episodes compile at logical-scene level.
+
+Islamic publication state:
+- 7/59 Islamic references remain citation_verified=false.
+- 59/59 remain scholarly_reviewed=false.
+- No false approval was introduced. FINAL publication remains fail-closed under existing tests.
+
+Expected non-release blockers remaining: creative authoring plans for legacy scenes and human/scholar review. These are content-readiness states, not v2.65 software-release defects.

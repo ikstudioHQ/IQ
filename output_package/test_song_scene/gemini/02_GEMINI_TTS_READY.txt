@@ -1,0 +1,7 @@
+CLIP_ID: CLIP_001 | CHARACTER_ID: char_002_amira | VOICE_ID: null
+START_TIME: 0s | END_TIME: 10s | EMOTION: warm, grateful | DELIVERY: sung, gentle
+TEXT: Alhamdulillah, thank you today
+
+CLIP_ID: CLIP_002 | CHARACTER_ID: char_001_zayd,char_002_amira | VOICE_ID: null,null
+START_TIME: 0s | END_TIME: 10s | EMOTION: warm, joyful | DELIVERY: sung together, gentle
+TEXT: For the food, for the sun, for the friends at play

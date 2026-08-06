@@ -1,0 +1,78 @@
+{
+  "concept_id": "concept_gratitude",
+  "name": "Gratitude (Shukr)",
+  "definition_by_age": {
+    "4": "Saying thank you to Allah for nice things.",
+    "6": "Gratitude means noticing the good things Allah gives us and saying Alhamdulillah for them.",
+    "8": "Shukr means recognizing a blessing, feeling thankful for it in your heart, and showing that thanks through words and actions."
+  },
+  "common_misconceptions": [
+    "Gratitude is only for big things — wrong: small everyday things (food, family, a sunny day) count too."
+  ],
+  "learning_objective": "Children can name one thing they're grateful for and say Alhamdulillah.",
+  "related_quran": [
+    "qv_001"
+  ],
+  "related_hadith": [],
+  "related_duas": [
+    "dua_003",
+    "dua_002"
+  ],
+  "related_prophets": [],
+  "related_vocabulary": [
+    "vocab_003",
+    "vocab_004",
+    "vocab_007",
+    "vocab_008"
+  ],
+  "related_conflicts": [
+    "cf_005",
+    "cf_008",
+    "cf_009",
+    "cf_012"
+  ],
+  "recommended_age_range": [
+    3,
+    5
+  ],
+  "version": "v1.0",
+  "citation_verified": false,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [
+    "mann_002",
+    "mann_007"
+  ],
+  "recommended_default": {
+    "conflict_id": "cf_005",
+    "pattern_id": "pattern_010",
+    "hook_id": "hook_003",
+    "ending_id": "end_003",
+    "emotion": "gratitude",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_004). Comparison->Reflection->Gratitude Shift is the pattern built for gratitude specifically — was on pattern_004 (helping), a weaker fit."
+  },
+  "semantic_support": {
+    "dua_002": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "The before-eating dua embodies grateful acknowledgment.",
+      "scholarly_reviewed": false
+    },
+    "dua_003": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "The after-eating dua of thanks is directly gratitude.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_004",
+      "conflict_id": "cf_005",
+      "reasoning": "Helping a grandparent fits helping->unexpected blessing."
+    },
+    {
+      "pattern_id": "pattern_003",
+      "conflict_id": "cf_008",
+      "reasoning": "Meeting a new friend fits question->discovery->practice->reward."
+    }
+  ]
+}

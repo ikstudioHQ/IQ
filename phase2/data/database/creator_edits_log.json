@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-01T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "status": "dormant — logging only, no automated learning active",
+  "purpose": "Records what the creator manually changed after generation (a different ending picked, a hook rewritten, a title swapped) so a future feedback-learning step has real data to learn from. Does NOT currently feed back into generation automatically — see activation_criteria below.",
+  "edits": [],
+  "activation_criteria": "Do not wire this into MASTER_PROMPT.md's generation logic until at least 20-30 logged episodes exist with edits recorded. Below that volume, patterns drawn from this data would be noise, not signal, and risk pulling generation away from DESIGN_PRINCIPLES.md's fixed rules based on a handful of anecdotal preferences. When volume is sufficient, any derived preference must still be checked against DESIGN_PRINCIPLES.md and never override a non-negotiable rule — per important_safety_reminders on this pattern generally: a feedback loop must not erode fixed quality/safety standards over time.",
+  "entry_schema_when_used": {
+    "episode_id": "string",
+    "field_changed": "string (e.g. 'ending_style', 'thumbnail_composition', 'title')",
+    "generated_value": "string",
+    "creator_final_value": "string",
+    "date": "string"
+  },
+  "metadata": {"channel": "Islamic Kids Studio", "handle": "@IslamicKidsHQ"}
+}

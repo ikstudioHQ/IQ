@@ -1,0 +1,525 @@
+{
+  "schema_version": "2.68",
+  "episode_id": "ep_006",
+  "provenance_class": "AUTHORED_CREATIVE_STORY",
+  "roadmap_day": 6,
+  "title": "Learning Patience \u2014 Waiting your turn in a long line at the mosque or store",
+  "curriculum_topic_reference": "topic_006",
+  "evidence_ids": [
+    "qv_007"
+  ],
+  "religious_claim_policy": "Only repository evidence IDs are referenced; no quotation/authentication/approval is invented.",
+  "previous_dependencies": [
+    "ep_005"
+  ],
+  "story_objective": "Children can wait their turn calmly and name it as sabr.",
+  "cast": [
+    "char_002_amira",
+    "char_003_ummi_layla"
+  ],
+  "opening_state": {
+    "inherits_from": "ep_005.ending_state",
+    "arc": "arc_01"
+  },
+  "ending_state": {
+    "lesson_progress": "concept_patience",
+    "relationship_effect": "carry forward consequence/callback",
+    "arc": "arc_01"
+  },
+  "next_episode_hook": "Carry one consequence, prop, lesson callback, or relationship beat into ep_007.",
+  "song_reference": null,
+  "review_state": "DRAFT; RELIGIOUS/HUMAN/SCHOLAR REVIEW INHERITED/REQUIRED AS APPLICABLE",
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "narrative_purpose": "hook",
+      "purpose_description": "A small everyday surprise creates an immediate question.",
+      "estimated_duration_seconds": 60.0,
+      "location": "mosque/market",
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "source_evidence_ids": [
+        "qv_007"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_02",
+      "narrative_purpose": "setup",
+      "purpose_description": "The children understand the practical situation.",
+      "estimated_duration_seconds": 60.0,
+      "location": "mosque/market",
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "source_evidence_ids": [
+        "qv_007"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Let's look carefully before we decide."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_03",
+      "narrative_purpose": "choice",
+      "purpose_description": "A child must choose what to do next.",
+      "estimated_duration_seconds": 60.0,
+      "location": "mosque/market",
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "source_evidence_ids": [
+        "qv_007"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I think I know what I want to do, but I should think first."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_04",
+      "narrative_purpose": "consequence",
+      "purpose_description": "The first choice creates a visible consequence.",
+      "estimated_duration_seconds": 60.0,
+      "location": "mosque/market",
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "source_evidence_ids": [
+        "qv_007"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Oh. My choice changed what happened next."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_05",
+      "narrative_purpose": "reflection",
+      "purpose_description": "The children pause, notice feelings, and reconsider.",
+      "estimated_duration_seconds": 60.0,
+      "location": "mosque/market",
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "source_evidence_ids": [
+        "qv_007"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: How would I feel if I were on the other side of this?"
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_06",
+      "narrative_purpose": "discovery",
+      "purpose_description": "They connect the experience to the supported lesson.",
+      "estimated_duration_seconds": 60.0,
+      "location": "mosque/market",
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "source_evidence_ids": [
+        "qv_007"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I understand the lesson better when I see what my choice does."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_07",
+      "narrative_purpose": "practice",
+      "purpose_description": "They try a better action in a concrete child-scale way.",
+      "estimated_duration_seconds": 60.0,
+      "location": "mosque/market",
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "source_evidence_ids": [
+        "qv_007"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's try the kinder, wiser choice together."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_08",
+      "narrative_purpose": "payoff",
+      "purpose_description": "The better choice changes the situation and relationships.",
+      "estimated_duration_seconds": 60.0,
+      "location": "mosque/market",
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "source_evidence_ids": [
+        "qv_007"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: That feels better\u2014and it helped someone too."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_09",
+      "narrative_purpose": "callback",
+      "purpose_description": "A light callback shows the lesson being remembered.",
+      "estimated_duration_seconds": 60.0,
+      "location": "mosque/market",
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "source_evidence_ids": [
+        "qv_007"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I want to remember this the next time I have a choice."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_10",
+      "narrative_purpose": "handoff",
+      "purpose_description": "The episode closes warmly and preserves a next-day hook.",
+      "estimated_duration_seconds": 60.0,
+      "location": "mosque/market",
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "source_evidence_ids": [
+        "qv_007"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "text": "Ummi Layla: Tomorrow, let's see if we can remember what we learned today."
+        }
+      ]
+    }
+  ],
+  "song_integration": null
+}

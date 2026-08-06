@@ -1,0 +1,42 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "entries": [
+    {
+      "generation_id": "gen_001",
+      "episode_id": "ep_001",
+      "prompt_version": "v1.2",
+      "model": "gpt-4o",
+      "generated_at": "2026-05-20T11:00:00+05:30",
+      "quality_score": 9.2,
+      "status": "published",
+      "errors": []
+    },
+    {
+      "generation_id": "gen_002",
+      "episode_id": "ep_002",
+      "prompt_version": "v1.2",
+      "model": "gpt-4o",
+      "generated_at": "2026-05-25T11:15:00+05:30",
+      "quality_score": 9.5,
+      "status": "published",
+      "errors": []
+    },
+    {
+      "generation_id": "gen_003",
+      "episode_id": "ep_003",
+      "prompt_version": "v1.2",
+      "model": "gpt-4o",
+      "generated_at": "2026-06-20T11:05:00+05:30",
+      "quality_score": 9.1,
+      "status": "published",
+      "errors": []
+    }
+  ],
+  "metadata": {
+    "total_generations": 3,
+    "last_updated": "2026-07-30T10:00:00+05:30"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "test_gemini_scene",
+  "clip_states": {
+    "CLIP_001": {
+      "location": "loc_zayd_home_living_room (informal, not yet a registered location record)",
+      "time_of_day": "afternoon",
+      "character_ids": ["char_001_zayd", "char_002_amira"],
+      "wardrobe": {"char_001_zayd": "default", "char_002_amira": "default"},
+      "accessories": {}, "held_objects": {"char_001_zayd": "grocery bag (being set down)"},
+      "props": ["grocery bag"], "object_positions": {"grocery bag": "moving from Zayd's hand to floor"},
+      "character_positions": {"char_001_zayd": "left-of-center", "char_002_amira": "right-of-center, facing Zayd"},
+      "emotional_state": {"char_001_zayd": "neutral, attentive", "char_002_amira": "warm, grateful"},
+      "camera_ending_state": "medium shot, eye-level, static, Amira mid-smile",
+      "lighting": "warm interior afternoon", "weather": "n/a (interior)",
+      "cleanliness_damage_wetness_state": "none", "previous_action": null,
+      "next_action": "Zayd responds"
+    },
+    "CLIP_002": {
+      "location": "loc_zayd_home_living_room", "time_of_day": "afternoon (continuous from CLIP_001)",
+      "character_ids": ["char_001_zayd", "char_002_amira"],
+      "wardrobe": {"char_001_zayd": "default", "char_002_amira": "default"},
+      "accessories": {}, "held_objects": {},
+      "props": ["grocery bag (now resting on floor beside Zayd)"],
+      "object_positions": {"grocery bag": "floor, beside Zayd"},
+      "character_positions": {"char_001_zayd": "left-of-center", "char_002_amira": "right-of-center, facing Zayd"},
+      "emotional_state": {"char_001_zayd": "warm, content", "char_002_amira": "soft smile, listening"},
+      "camera_ending_state": "medium-close, eye-level, static, both smiling, fading out",
+      "lighting": "warm interior afternoon, continuous", "weather": "n/a (interior)",
+      "cleanliness_damage_wetness_state": "none", "previous_action": "Amira thanked Zayd",
+      "next_action": "scene ends"
+    }
+  }
+}

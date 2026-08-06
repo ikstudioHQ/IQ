@@ -1,0 +1,30 @@
+Day 01 | rm_ced56ce5ae | Learning Charity: The Day 1 Choice | char_001_zayd, char_002_amira | concept_charity | arc_01 | song=- | prev=- | REVIEW_REQUIRED
+Day 02 | rm_1c729b4802 | Learning Forgiveness: The Day 2 Choice | char_002_amira, char_003_ummi_layla | concept_forgiveness | arc_01 | song=- | prev=rm_ced56ce5ae | REVIEW_REQUIRED
+Day 03 | rm_f537b73030 | Learning Trustworthiness: The Day 3 Choice | char_001_zayd, char_004_baba_ahmad | concept_trustworthiness | arc_01 | song=- | prev=rm_1c729b4802 | REVIEW_REQUIRED
+Day 04 | rm_efc2c3ee01 | Learning Courage: The Day 4 Choice | char_001_zayd, char_002_amira, char_003_ummi_layla | concept_courage | arc_02 | song=song_001 | prev=rm_f537b73030 | REVIEW_REQUIRED
+Day 05 | rm_3e67eaed9b | Learning Humility: The Day 5 Choice | char_001_zayd, char_002_amira | concept_humility | arc_single_005 | song=- | prev=rm_efc2c3ee01 | REVIEW_REQUIRED
+Day 06 | rm_3be12ce9df | Learning Compassion for Animals: The Day 6 Choice | char_002_amira, char_003_ummi_layla | concept_compassion_for_animals | arc_02 | song=- | prev=rm_3e67eaed9b | REVIEW_REQUIRED
+Day 07 | rm_9f5d2f44c9 | Learning Justice: The Day 7 Choice | char_001_zayd, char_004_baba_ahmad | concept_justice | arc_03 | song=- | prev=rm_3be12ce9df | REVIEW_REQUIRED
+Day 08 | rm_743b0f92f3 | Learning Patience: The Day 8 Choice | char_001_zayd, char_002_amira, char_003_ummi_layla | concept_patience | arc_03 | song=- | prev=rm_9f5d2f44c9 | REVIEW_REQUIRED
+Day 09 | rm_0db60cc2e8 | Learning Mercy: The Day 9 Choice | char_001_zayd, char_002_amira | concept_mercy | arc_03 | song=- | prev=rm_743b0f92f3 | REVIEW_REQUIRED
+Day 10 | rm_f02501054d | Learning Perseverance: The Day 10 Choice | char_002_amira, char_003_ummi_layla | concept_perseverance | arc_single_010 | song=- | prev=rm_0db60cc2e8 | REVIEW_REQUIRED
+Day 11 | rm_9ed7ae1958 | Learning Tawakkul: The Day 11 Choice | char_001_zayd, char_004_baba_ahmad | concept_tawakkul | arc_04 | song=song_002 | prev=rm_f02501054d | REVIEW_REQUIRED
+Day 12 | rm_9478b34584 | Learning Generosity: The Day 12 Choice | char_001_zayd, char_002_amira, char_003_ummi_layla | concept_generosity | arc_04 | song=- | prev=rm_9ed7ae1958 | REVIEW_REQUIRED
+Day 13 | rm_4e7f5b0716 | Learning Gratitude: The Day 13 Choice | char_001_zayd, char_002_amira | concept_gratitude | arc_05 | song=- | prev=rm_9478b34584 | REVIEW_REQUIRED
+Day 14 | rm_be422433bd | Learning Good Speech: The Day 14 Choice | char_002_amira, char_003_ummi_layla | concept_good_speech | arc_05 | song=- | prev=rm_4e7f5b0716 | REVIEW_REQUIRED
+Day 15 | rm_edb2d76831 | Learning Honesty: The Day 15 Choice | char_001_zayd, char_004_baba_ahmad | concept_honesty | arc_single_015 | song=- | prev=rm_be422433bd | REVIEW_REQUIRED
+Day 16 | rm_4cd48bf022 | Learning Prayer: The Day 16 Choice | char_001_zayd, char_002_amira, char_003_ummi_layla | concept_prayer | arc_06 | song=- | prev=rm_edb2d76831 | REVIEW_REQUIRED
+Day 17 | rm_02a4f001a3 | Learning Respect for Parents: The Day 17 Choice | char_001_zayd, char_002_amira | concept_respect_for_parents | arc_06 | song=- | prev=rm_4cd48bf022 | REVIEW_REQUIRED
+Day 18 | rm_40c3ced993 | Learning Self-Control: The Day 18 Choice | char_002_amira, char_003_ummi_layla | concept_self_control | arc_06 | song=song_003 | prev=rm_02a4f001a3 | REVIEW_REQUIRED
+Day 19 | rm_838022f546 | Learning Cleanliness: The Day 19 Choice | char_001_zayd, char_004_baba_ahmad | concept_cleanliness | arc_07 | song=- | prev=rm_40c3ced993 | REVIEW_REQUIRED
+Day 20 | rm_9d6c91e5ff | Learning Charity: The Day 20 Choice | char_001_zayd, char_002_amira, char_003_ummi_layla | concept_charity | arc_single_020 | song=- | prev=rm_838022f546 | REVIEW_REQUIRED
+Day 21 | rm_7aea6bad78 | Learning Community: The Day 21 Choice | char_001_zayd, char_002_amira | concept_community | arc_07 | song=- | prev=rm_9d6c91e5ff | REVIEW_REQUIRED
+Day 22 | rm_2d85b7659b | Learning Trustworthiness: The Day 22 Choice | char_002_amira, char_003_ummi_layla | concept_trustworthiness | arc_08 | song=- | prev=rm_7aea6bad78 | REVIEW_REQUIRED
+Day 23 | rm_851104989b | Learning Friendship / Brotherhood: The Day 23 Choice | char_001_zayd, char_004_baba_ahmad | concept_friendship | arc_08 | song=- | prev=rm_2d85b7659b | REVIEW_REQUIRED
+Day 24 | rm_20569526d0 | Learning Humility: The Day 24 Choice | char_001_zayd, char_002_amira, char_003_ummi_layla | concept_humility | arc_08 | song=- | prev=rm_851104989b | REVIEW_REQUIRED
+Day 25 | rm_20be1f06f9 | Learning Kindness: The Day 25 Choice | char_001_zayd, char_002_amira | concept_kindness | arc_single_025 | song=song_004 | prev=rm_20569526d0 | REVIEW_REQUIRED
+Day 26 | rm_6bcb895dc0 | Learning Justice: The Day 26 Choice | char_002_amira, char_003_ummi_layla | concept_justice | arc_09 | song=- | prev=rm_20be1f06f9 | REVIEW_REQUIRED
+Day 27 | rm_bd47fcf53d | Learning Forgiveness: The Day 27 Choice | char_001_zayd, char_004_baba_ahmad | concept_forgiveness | arc_09 | song=- | prev=rm_6bcb895dc0 | REVIEW_REQUIRED
+Day 28 | rm_639234cded | Learning Mercy: The Day 28 Choice | char_001_zayd, char_002_amira, char_003_ummi_layla | concept_mercy | arc_10 | song=- | prev=rm_bd47fcf53d | REVIEW_REQUIRED
+Day 29 | rm_4ca2c57d8e | Learning Courage: The Day 29 Choice | char_001_zayd, char_002_amira | concept_courage | arc_10 | song=- | prev=rm_639234cded | REVIEW_REQUIRED
+Day 30 | rm_2e3d674aa1 | Learning Tawakkul: The Day 30 Choice | char_002_amira, char_003_ummi_layla | concept_tawakkul | arc_single_030 | song=- | prev=rm_4ca2c57d8e | REVIEW_REQUIRED

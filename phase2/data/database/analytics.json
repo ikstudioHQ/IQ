@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "period": "last_30_days",
+  "metrics": {
+    "total_views": 145130,
+    "total_subscribers": 12400,
+    "average_watch_time_seconds": 142,
+    "click_through_rate_percent": 6.8,
+    "top_countries": [
+      "IN",
+      "PK",
+      "GB",
+      "AE",
+      "US"
+    ],
+    "top_age_groups": [
+      "2-4",
+      "5-8"
+    ]
+  },
+  "episode_analytics": [
+    {
+      "video_id": "pv_001",
+      "views": 45230,
+      "watch_time_avg": 140,
+      "likes": 3200,
+      "comments": 180
+    },
+    {
+      "video_id": "pv_002",
+      "views": 67800,
+      "watch_time_avg": 150,
+      "likes": 5100,
+      "comments": 240
+    },
+    {
+      "video_id": "pv_003",
+      "views": 32100,
+      "watch_time_avg": 130,
+      "likes": 2100,
+      "comments": 95
+    }
+  ]
+}

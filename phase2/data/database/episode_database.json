@@ -1,0 +1,85 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "episodes": [
+    {
+      "episode_id": "ep_001",
+      "title": "Assalamu Alaikum — Welcome to Islamic Kids Studio",
+      "series_id": "welcome_series",
+      "season": 1,
+      "episode_number": 1,
+      "topic_id": "t_intro",
+      "age_target": 2,
+      "duration_target": 210,
+      "lesson_type": "introduction",
+      "moral": "Islam is a beautiful, welcoming religion",
+      "quran_reference": null,
+      "hadith_reference": null,
+      "prerequisites": [],
+      "completion_status": "completed",
+      "generation_date": "2026-05-20",
+      "quality_score": 9.2,
+      "confidence": "verified",
+      "source": "curriculum/knowledge_curriculum.json",
+      "reviewed": true,
+      "last_updated": "2026-07-30"
+    },
+    {
+      "episode_id": "ep_002",
+      "title": "Morning Dua for Kids — Start Your Day with Allah",
+      "series_id": "daily_duas",
+      "season": 1,
+      "episode_number": 2,
+      "topic_id": "t_morning_dua",
+      "age_target": 3,
+      "duration_target": 180,
+      "lesson_type": "dua",
+      "moral": "Remembering Allah brings peace",
+      "quran_reference": "Quran 33:41-42",
+      "hadith_reference": "Sahih Muslim 2750 (simplified)",
+      "prerequisites": [
+        "t_intro"
+      ],
+      "completion_status": "completed",
+      "generation_date": "2026-05-25",
+      "quality_score": 9.5,
+      "confidence": "verified",
+      "source": "curriculum/knowledge_curriculum.json",
+      "reviewed": true,
+      "last_updated": "2026-07-30"
+    },
+    {
+      "episode_id": "ep_003",
+      "title": "Kindness to Parents — A Beautiful Story",
+      "series_id": "good_manners",
+      "season": 2,
+      "episode_number": 1,
+      "topic_id": "t_parents",
+      "age_target": 5,
+      "duration_target": 240,
+      "lesson_type": "moral_story",
+      "moral": "Kindness to parents is a path to Jannah",
+      "quran_reference": "Quran 17:23-24",
+      "hadith_reference": "Sahih al-Bukhari 5632 (simplified)",
+      "prerequisites": [
+        "t_intro",
+        "t_good_manners_intro"
+      ],
+      "completion_status": "completed",
+      "generation_date": "2026-06-20",
+      "quality_score": 9.1,
+      "confidence": "verified",
+      "source": "curriculum/knowledge_curriculum.json",
+      "reviewed": true,
+      "last_updated": "2026-07-30"
+    }
+  ],
+  "metadata": {
+    "total_episodes": 3,
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "confidence_system": "v1.1",
+    "all_entries_verified": true
+  }
+}

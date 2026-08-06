@@ -1,0 +1,21 @@
+{
+  "schema_version": "2.71",
+  "episode_id": "rm_f537b73030",
+  "status": "ACCEPTED",
+  "ending_state": {
+    "lesson_progress": "concept_trustworthiness",
+    "memory_note": "Persist only accepted consequences/relationship changes after production review."
+  },
+  "characters": [
+    "char_001_zayd",
+    "char_004_baba_ahmad"
+  ],
+  "learned_concept": "concept_trustworthiness",
+  "active_goals": [
+    "Continue accepted state into next episode."
+  ],
+  "persistent_props": [],
+  "arc_id": "arc_01",
+  "song_id": null,
+  "source_story_hash": "4d44173c62230807d265d621d56f11246dc032ad04c6e9c3c550093c4d6b52e0"
+}

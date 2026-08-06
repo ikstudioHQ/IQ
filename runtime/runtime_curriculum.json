@@ -1,0 +1,251 @@
+{
+  "generated_from": [
+    "phase3/knowledge/concepts/concept_charity.json",
+    "phase3/knowledge/concepts/concept_cleanliness.json",
+    "phase3/knowledge/concepts/concept_community.json",
+    "phase3/knowledge/concepts/concept_compassion_for_animals.json",
+    "phase3/knowledge/concepts/concept_courage.json",
+    "phase3/knowledge/concepts/concept_forgiveness.json",
+    "phase3/knowledge/concepts/concept_friendship.json",
+    "phase3/knowledge/concepts/concept_generosity.json",
+    "phase3/knowledge/concepts/concept_good_speech.json",
+    "phase3/knowledge/concepts/concept_gratitude.json",
+    "phase3/knowledge/concepts/concept_honesty.json",
+    "phase3/knowledge/concepts/concept_humility.json",
+    "phase3/knowledge/concepts/concept_justice.json",
+    "phase3/knowledge/concepts/concept_kindness.json",
+    "phase3/knowledge/concepts/concept_mercy.json",
+    "phase3/knowledge/concepts/concept_patience.json",
+    "phase3/knowledge/concepts/concept_perseverance.json",
+    "phase3/knowledge/concepts/concept_prayer.json",
+    "phase3/knowledge/concepts/concept_respect_for_parents.json",
+    "phase3/knowledge/concepts/concept_self_control.json",
+    "phase3/knowledge/concepts/concept_tawakkul.json",
+    "phase3/knowledge/concepts/concept_trustworthiness.json"
+  ],
+  "generated_at": "2026-08-05T00:00:00",
+  "repository_version": "2.72",
+  "schema_version": "1.0",
+  "checksum": "6f1ec839731f2977",
+  "generator": "tools/compile_runtime.py v1.0",
+  "concepts": [
+    {
+      "id": "concept_charity",
+      "quran": [
+        "qv_011"
+      ],
+      "hadith": [
+        "hd_010"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_004"
+    },
+    {
+      "id": "concept_cleanliness",
+      "quran": [
+        "qv_010"
+      ],
+      "hadith": [
+        "hd_009"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_003"
+    },
+    {
+      "id": "concept_community",
+      "quran": [
+        "qv_016"
+      ],
+      "hadith": [
+        "hd_012"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_012"
+    },
+    {
+      "id": "concept_compassion_for_animals",
+      "quran": [],
+      "hadith": [
+        "hd_011"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_011"
+    },
+    {
+      "id": "concept_courage",
+      "quran": [
+        "qv_013"
+      ],
+      "hadith": [],
+      "duas": [],
+      "primary_pattern": "pattern_007"
+    },
+    {
+      "id": "concept_forgiveness",
+      "quran": [
+        "qv_008"
+      ],
+      "hadith": [],
+      "duas": [],
+      "primary_pattern": "pattern_008"
+    },
+    {
+      "id": "concept_friendship",
+      "quran": [],
+      "hadith": [
+        "hd_008"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_008"
+    },
+    {
+      "id": "concept_generosity",
+      "quran": [],
+      "hadith": [
+        "hd_007"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_004"
+    },
+    {
+      "id": "concept_good_speech",
+      "quran": [],
+      "hadith": [
+        "hd_002"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_002"
+    },
+    {
+      "id": "concept_gratitude",
+      "quran": [
+        "qv_001"
+      ],
+      "hadith": [],
+      "duas": [
+        "dua_003",
+        "dua_002"
+      ],
+      "primary_pattern": "pattern_010"
+    },
+    {
+      "id": "concept_honesty",
+      "quran": [],
+      "hadith": [
+        "hd_005",
+        "hd_002"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_006"
+    },
+    {
+      "id": "concept_humility",
+      "quran": [
+        "qv_014"
+      ],
+      "hadith": [],
+      "duas": [],
+      "primary_pattern": "pattern_006"
+    },
+    {
+      "id": "concept_justice",
+      "quran": [
+        "qv_006"
+      ],
+      "hadith": [
+        "hd_013"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_012"
+    },
+    {
+      "id": "concept_kindness",
+      "quran": [],
+      "hadith": [
+        "hd_001",
+        "hd_003"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_004"
+    },
+    {
+      "id": "concept_mercy",
+      "quran": [],
+      "hadith": [
+        "hd_014",
+        "hd_003"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_002"
+    },
+    {
+      "id": "concept_patience",
+      "quran": [
+        "qv_007"
+      ],
+      "hadith": [],
+      "duas": [],
+      "primary_pattern": "pattern_009"
+    },
+    {
+      "id": "concept_perseverance",
+      "quran": [
+        "qv_015"
+      ],
+      "hadith": [],
+      "duas": [],
+      "primary_pattern": "pattern_003"
+    },
+    {
+      "id": "concept_prayer",
+      "quran": [
+        "qv_012"
+      ],
+      "hadith": [],
+      "duas": [],
+      "primary_pattern": "pattern_009"
+    },
+    {
+      "id": "concept_respect_for_parents",
+      "quran": [],
+      "hadith": [
+        "hd_001",
+        "hd_004"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_011"
+    },
+    {
+      "id": "concept_self_control",
+      "quran": [],
+      "hadith": [
+        "hd_006",
+        "hd_002"
+      ],
+      "duas": [],
+      "primary_pattern": "pattern_013"
+    },
+    {
+      "id": "concept_tawakkul",
+      "quran": [
+        "qv_004",
+        "qv_005"
+      ],
+      "hadith": [],
+      "duas": [
+        "dua_005",
+        "dua_006"
+      ],
+      "primary_pattern": "pattern_001"
+    },
+    {
+      "id": "concept_trustworthiness",
+      "quran": [
+        "qv_009"
+      ],
+      "hadith": [],
+      "duas": [],
+      "primary_pattern": "pattern_002"
+    }
+  ]
+}

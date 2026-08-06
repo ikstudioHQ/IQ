@@ -1,0 +1,10 @@
+{
+  "note": "REAL, COMPUTED from actual compiled prompt text. NOT a real Gemini API cost quote -- this repository has no live pricing/quota data to verify against. Use as a relative sizing estimate only.",
+  "total_scenes": 50,
+  "total_songs": 10,
+  "avg_prompt_chars_per_scene": 5018,
+  "avg_prompt_words_per_scene": 698,
+  "est_avg_tokens_per_scene": 908,
+  "total_est_tokens_all_50_scenes": 45400,
+  "real_generation_status": "REAL_GENERATION_PROOF: FALSE -- no actual video/image output exists anywhere in this repository or the 3 uploaded batches (confirmed byte-identical to already-compiled prompt text, not generated media)."
+}

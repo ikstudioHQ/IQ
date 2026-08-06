@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_084_wooly_the_sheep",
+  "canonical_name": "Wooly the Sheep",
+  "aliases": [],
+  "role_relation": "Farm animal companion — classic farm-song staple, gentle/counting-sheep bedtime episodes possible crossover",
+  "age": "n/a (young adult farm animal)",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Wooly the Sheep — thick fluffy cream-white wool covering the body in soft rounded clumps, small warm-pink face and ears free of wool, large round dark eyes with long lashes, small black hooves, wearing a tiny sky-blue ribbon tied in a bow on one ear. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark. 6-VIEW TURNAROUND PROMPT:",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Wooly the Sheep, exact same canonical identity: thick fluffy cream-white wool in soft rounded clumps, warm-pink face and ears, large round dark eyes with long lashes, small black hooves, sky-blue ear ribbon. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep wool texture, face shape, ribbon placement identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. EXPRESSION SHEET PROMPT:",
+  "expression_prompt": "Wooly the Sheep, exact same canonical identity: thick fluffy cream-white wool, warm-pink face, large round dark eyes with long lashes, sky-blue ear ribbon. Expression sheet with neutral, happy, excited, curious, sleepy, surprised, content-grazing, playful, gentle-smile, relaxed-yawn. Head-and-shoulders grid, identical identity and markings, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Kept the design distinct from Bun-Bun the Rabbit (#79) and Misha the Cow (#76) — different silhouette (wool clumps vs. smooth fur/hide), different face-color approach (pink bare skin vs. patched fur), and a different accessory (ear ribbon vs. neck kerchief/collar) so all the farm animals stay visually distinguishable in group scenes.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "soft, slow, gentle \"baa\" vocalizations; calm, mellow, unhurried farm-animal character sound design",
+    "voice_master": {
+      "voice_identity_id": "VOICE_084_WOOLY_THE_SHEEP",
+      "voice_profile_version": "2.0",
+      "voice_status": "PROFILE_DEFINED",
+      "fingerprint": {
+        "vocal_age_band": "adult",
+        "gender_presentation": "unspecified",
+        "pitch_band": "low",
+        "pace_baseline": "slow",
+        "source_description": "soft, slow, gentle \"baa\" vocalizations; calm, mellow, unhurried farm-animal character sound design",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "adult",
+        "gender_presentation": "unspecified",
+        "pitch_band": "low",
+        "core_timbre": "soft, slow, gentle \"baa\" vocalizations; calm, mellow, unhurried farm-animal character sound design"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 1,
+        "age_band": "adult",
+        "gender_voice_class": "unspecified",
+        "pace": "slow",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "animal",
+          "baa",
+          "character",
+          "design",
+          "farm",
+          "mellow",
+          "slow",
+          "sound",
+          "unhurried",
+          "vocalizations"
+        ],
+        "raw_source": "soft, slow, gentle \"baa\" vocalizations; calm, mellow, unhurried farm-animal character sound design"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null
+    }
+  },
+  "restrictions": null,
+  "production_priority": "SUPPORTING",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_084_wooly_the_sheep_approved_reference",
+      "path": "sources/characters/reference_images/84. Wooly the Sheep.png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

@@ -1,0 +1,15 @@
+{
+  "season_id": "cg_season3",
+  "status": "BLOCKED",
+  "episode_count": 1,
+  "findings": [
+    {
+      "episode_id": "cg_ep01",
+      "thread_id": "thread_that_never_existed",
+      "issue": "thread_referenced_before_created",
+      "message": "Episode cg_ep01 references/resolves thread 'thread_that_never_existed' but the real Story State system (StoryStateRepo) never actually created a thread with that ID from any earlier episode. Verified against the real ID assignment algorithm, not a re-simulation of it.",
+      "severity": "error"
+    }
+  ],
+  "checked_at": "2026-08-06T12:48:04.115484+00:00"
+}

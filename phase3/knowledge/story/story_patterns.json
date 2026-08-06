@@ -1,0 +1,140 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-01T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Reusable narrative SHAPES (the order lessons unfold in), distinct from conflict_library.json (WHAT happens) and STORY.md (the fixed 5-beat timing template). All episodes still fit the 5-beat timing; a pattern determines which of the 5 beats carries the 'turn' and how the lesson lands within it.",
+  "patterns": [
+    {
+      "pattern_id": "pattern_001",
+      "name": "Problem → Dua → Effort → Lesson",
+      "shape": "Character hits a problem, turns to a dua/Allah early, then still puts in effort, and the lesson lands through the combination (not the dua alone) — reinforces tawakkul-adjacent teaching without implying passivity.",
+      "best_for_concepts": [
+        "concept_tawakkul"
+      ],
+      "turn_lands_in_beat": "character_response"
+    },
+    {
+      "pattern_id": "pattern_002",
+      "name": "Mistake → Reflection → Correction → Happy Ending",
+      "shape": "Character makes a small mistake, has a quiet reflective moment (often with a parent/elder), corrects course, resolution follows naturally.",
+      "best_for_concepts": [
+        "concept_honesty"
+      ],
+      "turn_lands_in_beat": "resolution"
+    },
+    {
+      "pattern_id": "pattern_003",
+      "name": "Question → Discovery → Practice → Reward",
+      "shape": "Character asks a genuine question, discovers the answer through a small experience (not a lecture), practices it once on-screen, and feels the natural reward.",
+      "best_for_concepts": [
+        "concept_gratitude"
+      ],
+      "turn_lands_in_beat": "conflict"
+    },
+    {
+      "pattern_id": "pattern_004",
+      "name": "Helping Someone → Unexpected Blessing",
+      "shape": "Character helps another without expecting anything back; something good happens afterward that isn't a direct 'reward' but reads as a gentle blessing — avoids a transactional 'be good, get stuff' framing.",
+      "best_for_concepts": [
+        "concept_gratitude",
+        "concept_honesty"
+      ],
+      "turn_lands_in_beat": "resolution"
+    },
+    {
+      "pattern_id": "pattern_005",
+      "name": "Curiosity → Learning → Sharing",
+      "shape": "Character notices something curious, learns about it (often from an elder character), then shares the new knowledge with a peer — models both learning and teaching.",
+      "best_for_concepts": [
+        "concept_gratitude"
+      ],
+      "turn_lands_in_beat": "character_response"
+    },
+    {
+      "pattern_id": "pattern_006",
+      "name": "Temptation → Inner Conflict → Choice → Consequence",
+      "shape": "Character faces a real temptation (not a mistake already made — a live choice point), wrestles with it visibly, chooses, and lives with what follows. Distinct from pattern_002: the turn is the CHOICE itself, not correcting an error after the fact.",
+      "best_for_concepts": [
+        "concept_honesty",
+        "concept_trustworthiness"
+      ],
+      "turn_lands_in_beat": "conflict"
+    },
+    {
+      "pattern_id": "pattern_007",
+      "name": "Fear → Small Brave Step → Support → Confidence",
+      "shape": "Character is afraid of something concrete, takes one small step despite the fear (not a full leap), receives support mid-step, and gains real confidence. Distinct from other patterns: fear is the driving emotion throughout, not a byproduct.",
+      "best_for_concepts": [
+        "concept_courage"
+      ],
+      "turn_lands_in_beat": "character_response"
+    },
+    {
+      "pattern_id": "pattern_008",
+      "name": "Misunderstanding → Deepens → Clarifying Conversation → Reconciliation",
+      "shape": "Two characters misread each other, the gap widens through further (small) misunderstanding, then a real conversation — not a single apology line — clears it up. Two-party, dialogue-driven; distinct from single-character-journey patterns.",
+      "best_for_concepts": [
+        "concept_forgiveness",
+        "concept_friendship"
+      ],
+      "turn_lands_in_beat": "character_response"
+    },
+    {
+      "pattern_id": "pattern_009",
+      "name": "Waiting → Restlessness → Reframe → Patient Acceptance",
+      "shape": "No mistake, no help given or received — purely a character sitting with an uncomfortable wait, until an internal reframe (not an external event) shifts restlessness into peace. Distinct from other patterns: nothing external resolves it.",
+      "best_for_concepts": [
+        "concept_patience"
+      ],
+      "turn_lands_in_beat": "character_response"
+    },
+    {
+      "pattern_id": "pattern_010",
+      "name": "Comparison → Self-Reflection → Gratitude Shift → Contentment",
+      "shape": "Character compares themselves unfavorably to someone else, has a private reflective beat, and the comparison itself resolves into gratitude for what they have. Distinct from pattern_003 (which is question-driven, not comparison-driven).",
+      "best_for_concepts": [
+        "concept_gratitude",
+        "concept_humility"
+      ],
+      "turn_lands_in_beat": "resolution"
+    },
+    {
+      "pattern_id": "pattern_011",
+      "name": "Responsibility Forgotten → Consequence Discovered → Repair → Trust Rebuilt",
+      "shape": "Character neglects a duty (not an active mistake — an omission), discovers the consequence later (not immediately), actively repairs it, and trust is specifically rebuilt as the resolution beat — distinct from pattern_002's single-scene correction.",
+      "best_for_concepts": [
+        "concept_trustworthiness",
+        "concept_self_control"
+      ],
+      "turn_lands_in_beat": "resolution"
+    },
+    {
+      "pattern_id": "pattern_012",
+      "name": "Two Wants Collide → Negotiation → Fair Compromise → Shared Joy",
+      "shape": "Two characters each want something legitimate at the same time (not one character helping another) — the turn is an active, mutual negotiation (not one-sided sacrifice) landing on a compromise both are glad about. Distinct from pattern_004 (one-directional helping).",
+      "best_for_concepts": [
+        "concept_justice",
+        "concept_generosity"
+      ],
+      "turn_lands_in_beat": "conflict"
+    },
+    {
+      "pattern_id": "pattern_013",
+      "name": "Warning Ignored → Difficulty Happens → Experiential Lesson → Wisdom Gained",
+      "shape": "Character is told something and doesn't fully absorb it, a real (age-appropriate, non-scary) difficulty results from that, and the lesson lands through direct experience rather than reflection with an elder or a dua. No adult mediates the realization.",
+      "best_for_concepts": [
+        "concept_self_control",
+        "concept_perseverance"
+      ],
+      "turn_lands_in_beat": "resolution"
+    }
+  ],
+  "selection_rule": "story_prompt.md selects a pattern per episode based on the resolved concept's best_for_concepts match, then teaching_strategy.json's method for the target age informs how much the 'turn' beat is dramatized vs. stated. Never default to pattern_001 for every episode just because it's listed first — check world_state.json chronology to avoid repeating the same pattern_id in consecutive episodes, same rule as curiosity_hooks.json and ending_styles.json.",
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "total_patterns": 13,
+    "note": "Expanded from 5 to 13 (2026-08-05) — each new pattern verified structurally distinct (turn-location, emotional driver, and party-count all checked against existing patterns before adding) per instruction, not cosmetic variation. Story patterns are creative structural data, not religious evidence — no web research needed or used."
+  }
+}

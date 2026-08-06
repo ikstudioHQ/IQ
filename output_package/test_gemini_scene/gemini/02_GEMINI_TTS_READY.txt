@@ -1,0 +1,9 @@
+CLIP_ID: CLIP_001 | CHARACTER_ID: char_002_amira | CHARACTER_NAME: Amira
+VOICE_ID: null (not yet assigned -- provider/voice_id not supplied)
+START_TIME: 2.5s | END_TIME: 5.8s | EMOTION: grateful, warm | DELIVERY: soft, sincere, unhurried
+TEXT: Alhamdulillah, thank you for helping me carry these!
+
+CLIP_ID: CLIP_002 | CHARACTER_ID: char_001_zayd | CHARACTER_NAME: Zayd
+VOICE_ID: null (not yet assigned -- provider/voice_id not supplied)
+START_TIME: 2.0s | END_TIME: 5.2s | EMOTION: warm, content | DELIVERY: bright, easy, natural pace
+TEXT: Of course! That's what family is for.

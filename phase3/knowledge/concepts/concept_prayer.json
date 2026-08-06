@@ -1,0 +1,56 @@
+{
+  "concept_id": "concept_prayer",
+  "name": "Prayer (Salah)",
+  "definition_by_age": {
+    "4": "Talking to Allah at special times of day.",
+    "6": "Salah is how Muslims pray five times a day to connect with Allah.",
+    "8": "Salah is a structured, five-times-daily act of worship that connects us to Allah with focus and calm (khushu)."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can name one of the five daily prayers.",
+  "related_quran": [
+    "qv_012"
+  ],
+  "related_hadith": [],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [
+    "vocab_008",
+    "vocab_038"
+  ],
+  "related_conflicts": [
+    "cf_051",
+    "cf_032"
+  ],
+  "recommended_age_range": [
+    5,
+    7
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": true,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_032",
+    "pattern_id": "pattern_009",
+    "hook_id": "hook_004",
+    "ending_id": "end_002",
+    "emotion": "worry",
+    "note": "Added 2026-08-05 during conflict/pattern expansion — real conflict now exists for this concept, closing a prior retrieval-diversity gap."
+  },
+  "semantic_support": {
+    "qv_012": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Direct verse about establishing prayer.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_006",
+      "conflict_id": "cf_051",
+      "reasoning": "Skipping prayer to keep watching something is a live temptation/choice."
+    }
+  ]
+}

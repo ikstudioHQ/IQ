@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.72",
+  "episode_id": "rm_ced56ce5ae",
+  "provenance_class": "AUTHORED_CREATIVE_STORY",
+  "roadmap_day": 1,
+  "title": "Learning Charity: The Day 1 Choice",
+  "curriculum_topic_reference": "topic_001",
+  "evidence_ids": [
+    "qv_011",
+    "hd_010"
+  ],
+  "religious_claim_policy": "Only repository evidence IDs are referenced; no quotation/authentication/approval is invented.",
+  "previous_dependencies": [],
+  "story_objective": "Children can name one way to help someone who has less.",
+  "cast": [
+    "char_001_zayd",
+    "char_002_amira"
+  ],
+  "opening_state": {
+    "inherits_from": null
+  },
+  "ending_state": {
+    "lesson_progress": "concept_charity",
+    "memory_note": "Persist only accepted consequences/relationship changes after production review."
+  },
+  "next_episode_hook": "Continue accepted state into next episode.",
+  "song_reference": null,
+  "review_state": "DRAFT; RELIGIOUS/HUMAN/SCHOLAR REVIEW INHERITED/REQUIRED AS APPLICABLE",
+  "memory_context": {
+    "facts": [],
+    "consumed_episode_ids": []
+  },
+  "arc_context": {
+    "arc_id": "arc_01"
+  },
+  "song_plan": {
+    "decision": "NO_SONG"
+  },
+  "song_integration": null
+}

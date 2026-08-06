@@ -1,0 +1,21 @@
+{
+  "episode_id": "ep_005",
+  "stage_levels": {
+    "roadmap": "COMPLETE",
+    "script": "DRAFT_COMPLETE",
+    "logical_scenes": "DRAFT_COMPLETE",
+    "production_plans": "DRAFT_COMPLETE",
+    "generation_units": "DRAFT_COMPLETE",
+    "gemini_prompts": "DRAFT_COMPLETE",
+    "automated_qa": "COMPLETE"
+  },
+  "files": {
+    "script": "story_script.json",
+    "qa": "qa_report.json"
+  },
+  "determinism_hash": "9a94ba43bc2f3998eb6e99da1717350e771af1f090506b21ab236183965a50c0",
+  "review_requirements": [
+    "HUMAN_CREATIVE_RENDER_REVIEW",
+    "ISLAMIC_REVIEW_AS_GOVERNED_BY_REFERENCED_EVIDENCE"
+  ]
+}

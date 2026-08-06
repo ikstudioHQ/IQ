@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-07-30",
+  "status": "template_not_yet_populated",
+  "instructions": "Fill this in with real data pulled from the target competitor channel before relying on COMPETITOR_STRATEGY.md's Step 1-2 adjustments. Until populated, the pipeline falls back to phase1/docs/seo/SEO.md and settings.yaml defaults (210 sec duration target) instead of competitor-matched values.",
+  "competitor_channel_name": "",
+  "benchmark_videos": [],
+  "average_length_seconds": null,
+  "common_title_pattern": "",
+  "common_tags": [],
+  "upload_days_observed": []
+}

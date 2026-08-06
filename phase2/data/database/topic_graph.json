@@ -1,0 +1,85 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "nodes": [
+    {
+      "topic_id": "t_intro",
+      "label": "Introduction",
+      "category": "welcome"
+    },
+    {
+      "topic_id": "t_morning_dua",
+      "label": "Morning Dua",
+      "category": "duas"
+    },
+    {
+      "topic_id": "t_eating_dua",
+      "label": "Eating Dua",
+      "category": "duas"
+    },
+    {
+      "topic_id": "t_parents",
+      "label": "Kindness to Parents",
+      "category": "good_manners"
+    },
+    {
+      "topic_id": "t_prophets_intro",
+      "label": "Prophets Intro",
+      "category": "prophets"
+    },
+    {
+      "topic_id": "t_prophet_nuh",
+      "label": "Prophet Nuh",
+      "category": "prophets"
+    },
+    {
+      "topic_id": "t_tawakkul",
+      "label": "Trust in Allah",
+      "category": "islamic_concepts"
+    }
+  ],
+  "edges": [
+    {
+      "from": "t_intro",
+      "to": "t_morning_dua",
+      "type": "prerequisite"
+    },
+    {
+      "from": "t_intro",
+      "to": "t_eating_dua",
+      "type": "prerequisite"
+    },
+    {
+      "from": "t_intro",
+      "to": "t_parents",
+      "type": "prerequisite"
+    },
+    {
+      "from": "t_intro",
+      "to": "t_prophets_intro",
+      "type": "prerequisite"
+    },
+    {
+      "from": "t_prophets_intro",
+      "to": "t_prophet_nuh",
+      "type": "prerequisite"
+    },
+    {
+      "from": "t_intro",
+      "to": "t_good_manners_intro",
+      "type": "prerequisite"
+    },
+    {
+      "from": "t_prophets_intro",
+      "to": "t_tawakkul",
+      "type": "prerequisite"
+    },
+    {
+      "from": "t_prophet_nuh",
+      "to": "t_tawakkul",
+      "type": "prerequisite"
+    }
+  ]
+}

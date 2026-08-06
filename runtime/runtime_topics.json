@@ -1,0 +1,345 @@
+{
+  "generated_from": [
+    "phase5/orchestration/planning/episode_topic_bank.json",
+    "phase5/orchestration/planning/song_topic_bank.json"
+  ],
+  "generated_at": "2026-08-05T00:00:00",
+  "repository_version": "2.72",
+  "schema_version": "1.0",
+  "checksum": "4f22c7d9580c49e2",
+  "generator": "tools/compile_runtime.py v1.0",
+  "episode_topics": [
+    {
+      "id": "topic_001",
+      "concept": "concept_charity",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_002",
+      "concept": "concept_charity",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_003",
+      "concept": "concept_good_speech",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_004",
+      "concept": "concept_good_speech",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_005",
+      "concept": "concept_patience",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_006",
+      "concept": "concept_patience",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_007",
+      "concept": "concept_forgiveness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_008",
+      "concept": "concept_forgiveness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_009",
+      "concept": "concept_community",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_010",
+      "concept": "concept_community",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_011",
+      "concept": "concept_honesty",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_012",
+      "concept": "concept_honesty",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_013",
+      "concept": "concept_mercy",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_014",
+      "concept": "concept_mercy",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_015",
+      "concept": "concept_trustworthiness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_016",
+      "concept": "concept_trustworthiness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_017",
+      "concept": "concept_prayer",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_018",
+      "concept": "concept_prayer",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_019",
+      "concept": "concept_perseverance",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_020",
+      "concept": "concept_perseverance",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_021",
+      "concept": "concept_courage",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_022",
+      "concept": "concept_courage",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_023",
+      "concept": "concept_friendship",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_024",
+      "concept": "concept_friendship",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_025",
+      "concept": "concept_respect_for_parents",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_026",
+      "concept": "concept_respect_for_parents",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_027",
+      "concept": "concept_tawakkul",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_028",
+      "concept": "concept_tawakkul",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_029",
+      "concept": "concept_humility",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_030",
+      "concept": "concept_humility",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_031",
+      "concept": "concept_self_control",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_032",
+      "concept": "concept_self_control",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_033",
+      "concept": "concept_generosity",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_034",
+      "concept": "concept_generosity",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_035",
+      "concept": "concept_compassion_for_animals",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_036",
+      "concept": "concept_compassion_for_animals",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_037",
+      "concept": "concept_kindness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_038",
+      "concept": "concept_kindness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_039",
+      "concept": "concept_cleanliness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_040",
+      "concept": "concept_cleanliness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_041",
+      "concept": "concept_gratitude",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_042",
+      "concept": "concept_gratitude",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_043",
+      "concept": "concept_justice",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "topic_044",
+      "concept": "concept_justice",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    }
+  ],
+  "song_topics": [
+    {
+      "id": "song_001",
+      "concept": "concept_charity",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_002",
+      "concept": "concept_good_speech",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_003",
+      "concept": "concept_patience",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_004",
+      "concept": "concept_forgiveness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_005",
+      "concept": "concept_community",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_006",
+      "concept": "concept_honesty",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_007",
+      "concept": "concept_mercy",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_008",
+      "concept": "concept_trustworthiness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_009",
+      "concept": "concept_prayer",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_010",
+      "concept": "concept_perseverance",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_011",
+      "concept": "concept_courage",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_012",
+      "concept": "concept_friendship",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_013",
+      "concept": "concept_respect_for_parents",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_014",
+      "concept": "concept_tawakkul",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_015",
+      "concept": "concept_humility",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_016",
+      "concept": "concept_self_control",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_017",
+      "concept": "concept_generosity",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_018",
+      "concept": "concept_compassion_for_animals",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_019",
+      "concept": "concept_kindness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_020",
+      "concept": "concept_cleanliness",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_021",
+      "concept": "concept_gratitude",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    },
+    {
+      "id": "song_022",
+      "concept": "concept_justice",
+      "readiness": "READY_AFTER_CHARACTER_IMPORT"
+    }
+  ]
+}

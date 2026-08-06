@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "characters": [
+    {
+      "character_id": "char_001_zayd",
+      "reference_image": "sources/characters/reference_images/1. Zayd.png",
+      "front_view": null, "three_quarter_view": null, "profile_view": null, "back_view": null,
+      "expression_sheet": null, "approved_asset": false, "asset_version": null
+    },
+    {
+      "character_id": "char_002_amira",
+      "reference_image": "sources/characters/reference_images/02_Amira_turnaround_sheet.jpeg",
+      "front_view": null, "three_quarter_view": null, "profile_view": null, "back_view": null,
+      "expression_sheet": null, "approved_asset": false, "asset_version": null
+    }
+  ]
+}

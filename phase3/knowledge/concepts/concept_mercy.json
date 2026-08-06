@@ -1,0 +1,68 @@
+{
+  "concept_id": "concept_mercy",
+  "name": "Mercy (Rahma)",
+  "definition_by_age": {
+    "4": "Being gentle with someone who made a mistake.",
+    "6": "Rahma means being gentle and caring, especially to those who are struggling.",
+    "8": "Rahma is mercy and compassion, a quality of Allah that we're asked to show to others too."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe showing gentleness to someone who was upset.",
+  "related_quran": [],
+  "related_hadith": [
+    "hd_014",
+    "hd_003"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [
+    "vocab_017"
+  ],
+  "related_conflicts": [
+    "cf_017",
+    "cf_055",
+    "cf_052",
+    "cf_060"
+  ],
+  "recommended_age_range": [
+    5,
+    7
+  ],
+  "version": "v1.0",
+  "citation_verified": false,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_017",
+    "pattern_id": "pattern_002",
+    "hook_id": "hook_004",
+    "ending_id": "end_003",
+    "emotion": "worry",
+    "note": "Retrieval ranking (retrieval_ranking.md) starts from this combination and diversity-penalizes away from it on repeat use, per recommended_story_combinations.md."
+  },
+  "semantic_support": {
+    "hd_003": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly and explicitly about mercy to the young.",
+      "scholarly_reviewed": false
+    },
+    "hd_014": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly and foundationally about mercy/reciprocity.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_011",
+      "conflict_id": "cf_060",
+      "reasoning": "Helping an elderly neighbor fits responsibility/follow-through."
+    },
+    {
+      "pattern_id": "pattern_008",
+      "conflict_id": "cf_055",
+      "reasoning": "Standing up for a smaller child fits conversation/reconciliation."
+    }
+  ]
+}

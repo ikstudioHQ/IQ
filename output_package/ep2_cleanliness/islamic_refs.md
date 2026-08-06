@@ -1,0 +1,2 @@
+1. hd_009 — Sahih Muslim 223, DIRECT_SUPPORT
+2. qv_010 — Quran 2:222, DIRECT_SUPPORT

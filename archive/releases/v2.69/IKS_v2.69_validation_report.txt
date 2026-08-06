@@ -1,0 +1,59 @@
+ISLAMIC KIDS STUDIO v2.69 VALIDATION REPORT
+Date: 2026-08-05
+
+BASELINE v2.68
+SHA-256: f465ad6f10ef626f0ec238192db3d909c9431509e53fae2b7dc8086fcbfef1a7
+Files: 2967
+pytest: 52/52 PASS
+
+IMPLEMENTATION
+Fixed 90-day active roadmap retired to production/roadmaps/archive/canonical_90_day_roadmap_v2.67_ARCHIVED.json.
+Legacy v2.68 vertical-slice outputs retired under production/autopilot/archive_v268/.
+Active roadmap: production/roadmaps/active_roadmap.json
+Active episode count: 30
+Dynamic lengths independently tested: 1, 7, 30, 90, 365; 0 and negative fail closed.
+Dynamic operations tested: create, validate, preview, extend, shorten, insert, replace, reorder, lock protection, impact analysis.
+Immutable active episode IDs are independent of display order.
+Active 30-day roadmap dependency errors: 0.
+New v2.69 vertical slices: rm_ced56ce5ae, rm_efc2c3ee01, rm_3e67eaed9b, rm_3be12ce9df
+New vertical-slice generation units: 320
+New vertical-slice Gemini prompts: 320
+Maximum unit duration: 7.5s
+30-day full scripts are intentionally on-demand; remaining episodes are AUTHORING_REQUIRED.
+
+ISLAMIC REVIEW
+No verification/review flags were promoted. FINAL publication remains fail-closed.
+Unresolved counts remain governed by repository validator (historically 7/59 citation_verified=false and 59/59 scholarly_reviewed=false).
+
+TESTS
+pytest: 66/66 PASS
+repository validator: PASS
+distribution preflight: PASS
+runtime compile: PASS
+logical songs: 20/20 PASS
+logical episodes: 2/2 PASS
+dynamic roadmap validator: PASS
+
+STATUS
+SOFTWARE/PIPELINE STATUS: PASS
+DYNAMIC ROADMAP ENGINE: PASS
+ROADMAP LENGTH: DYNAMIC
+30-DAY ROADMAP: COMPLETE at roadmap level
+ROADMAP VERSIONING/LOCKING: PASS for implemented create/revise/lock/impact contracts
+STORY ARC ENGINE: PARTIAL (roadmap arc planning present; advanced semantic arc QA remains future work)
+EPISODE MEMORY: PARTIAL (ending/opening state contract present; accepted-state snapshot automation remains future work)
+CHARACTER DEVELOPMENT: PARTIAL
+CURRICULUM/TOPIC PLANNING: PASS at supported topic-bank distribution level
+SONG PLANNER: PARTIAL
+NEW EPISODE AUTOPILOT: PASS for on-demand deterministic draft production
+SCRIPT QUALITY: PARTIAL; human creative review required
+CHARACTER/VOICE CONSISTENCY: PARTIAL; canonical locks enforced, human asset/render review remains
+CAMERA/ACTION: PARTIAL; structured direction generated, rendered QA required
+CONTINUITY: PARTIAL; unit continuity enforced, richer accepted cross-episode memory remains future work
+<=10s GEMINI GENERATION: READY at structured prompt level
+DUPLICATE-CHARACTER PROTECTION: PASS
+GEMINI FAILURE RECOVERY: PARTIAL
+PRODUCTION TRACKING: PASS at manifest/status level
+SHORTS DERIVATION: PASS at derived-candidate level
+ISLAMIC CONTENT PUBLICATION: NOT READY
+HUMAN RENDER REVIEW: REQUIRED

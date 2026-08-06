@@ -1,0 +1,54 @@
+{
+  "concept_id": "concept_friendship",
+  "name": "Friendship / Brotherhood (Ukhuwwah)",
+  "definition_by_age": {
+    "4": "Being a good friend and playing nicely together.",
+    "6": "Friendship means caring about your friends and treating them the way you want to be treated.",
+    "8": "Ukhuwwah means the bond between believers — supporting, forgiving, and standing by your friends, especially when it's hard."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe one way to be a good friend when a friend is having a hard time.",
+  "related_quran": [],
+  "related_hadith": [
+    "hd_008"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [],
+  "related_conflicts": [
+    "cf_047",
+    "cf_036"
+  ],
+  "related_manners": [],
+  "recommended_age_range": [
+    4,
+    8
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": true,
+  "scholarly_reviewed": false,
+  "notes": "New concept file created 2026-08-05 — confirmed via search that concept_community covers the global Ummah, not personal peer friendship, before creating this as distinct. No evidence attached yet at creation time.",
+  "semantic_support": {
+    "hd_008": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "The foundational, most-cited friendship/brotherhood hadith.",
+      "scholarly_reviewed": false
+    }
+  },
+  "recommended_default": {
+    "conflict_id": "cf_036",
+    "pattern_id": "pattern_008",
+    "hook_id": "hook_004",
+    "ending_id": "end_003",
+    "emotion": "worry",
+    "note": "Added 2026-08-05 during conflict/pattern expansion — real conflict now exists for this concept, closing a prior retrieval-diversity gap."
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_012",
+      "conflict_id": "cf_047",
+      "reasoning": "Two friends wanting to lead fits negotiation/compromise directly."
+    }
+  ]
+}

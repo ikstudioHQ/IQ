@@ -1,0 +1,26 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "exceptions": [
+    {
+      "word": "Assalamu Alaikum",
+      "exception": "Always pronounce with warm greeting tone, slightly slower than standard speech.",
+      "context": "Greeting scenes"
+    },
+    {
+      "word": "Alhamdulillah",
+      "exception": "Pronounce with gentle smile and slight upward intonation.",
+      "context": "Gratitude scenes"
+    },
+    {
+      "word": "Insha Allah",
+      "exception": "Pronounce with hopeful, trusting tone.",
+      "context": "Future planning scenes"
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ"
+  }
+}

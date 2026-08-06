@@ -1,0 +1,551 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "brand": "Islamic Kids Studio",
+  "total_song_topics": 22,
+  "note": "Planning records only — no full lyrics written here. Any religious claim in the eventual lyrics must resolve to the listed religious_evidence_ids, per verification_pipeline.md, exactly as story scripts are checked. Uses the SAME character IDs/role types as episodes — no separate song-character system.",
+  "song_topics": [
+    {
+      "song_topic_id": "song_001",
+      "working_title": "A Song About Charity",
+      "primary_concept": "concept_charity",
+      "age_band": [
+        6,
+        8
+      ],
+      "learning_goal": "Children can name one way to help someone who has less.",
+      "religious_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_002",
+      "working_title": "A Song About Good Speech",
+      "primary_concept": "concept_good_speech",
+      "age_band": [
+        4,
+        8
+      ],
+      "learning_goal": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "religious_evidence_ids": [
+        "hd_002"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_003",
+      "working_title": "A Song About Patience",
+      "primary_concept": "concept_patience",
+      "age_band": [
+        6,
+        7
+      ],
+      "learning_goal": "Children can wait their turn calmly and name it as sabr.",
+      "religious_evidence_ids": [
+        "qv_007"
+      ],
+      "song_style_function": "slow build, repeated calming refrain",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_004",
+      "working_title": "A Song About Forgiveness",
+      "primary_concept": "concept_forgiveness",
+      "age_band": [
+        5,
+        7
+      ],
+      "learning_goal": "Children can describe forgiving a friend after a small mistake.",
+      "religious_evidence_ids": [
+        "qv_008"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_005",
+      "working_title": "A Song About Community",
+      "primary_concept": "concept_community",
+      "age_band": [
+        6,
+        8
+      ],
+      "learning_goal": "Children can describe helping someone outside their immediate family.",
+      "religious_evidence_ids": [
+        "qv_016",
+        "hd_012"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_006",
+      "working_title": "A Song About Honesty",
+      "primary_concept": "concept_honesty",
+      "age_band": [
+        5,
+        7
+      ],
+      "learning_goal": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "religious_evidence_ids": [
+        "hd_005",
+        "hd_002"
+      ],
+      "song_style_function": "upbeat chant, call-and-response",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "high",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_007",
+      "working_title": "A Song About Mercy",
+      "primary_concept": "concept_mercy",
+      "age_band": [
+        5,
+        7
+      ],
+      "learning_goal": "Children can describe showing gentleness to someone who was upset.",
+      "religious_evidence_ids": [
+        "hd_014",
+        "hd_003"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_008",
+      "working_title": "A Song About Trustworthiness",
+      "primary_concept": "concept_trustworthiness",
+      "age_band": [
+        6,
+        8
+      ],
+      "learning_goal": "Children can describe returning a borrowed item carefully.",
+      "religious_evidence_ids": [
+        "qv_009"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_009",
+      "working_title": "A Song About Prayer",
+      "primary_concept": "concept_prayer",
+      "age_band": [
+        5,
+        7
+      ],
+      "learning_goal": "Children can name one of the five daily prayers.",
+      "religious_evidence_ids": [
+        "qv_012"
+      ],
+      "song_style_function": "structured verse per prayer time, gentle",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_010",
+      "working_title": "A Song About Perseverance",
+      "primary_concept": "concept_perseverance",
+      "age_band": [
+        6,
+        8
+      ],
+      "learning_goal": "Children can describe trying again after not succeeding the first time.",
+      "religious_evidence_ids": [
+        "qv_015"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_011",
+      "working_title": "A Song About Courage",
+      "primary_concept": "concept_courage",
+      "age_band": [
+        3,
+        6
+      ],
+      "learning_goal": "Children can describe trying something new even though it felt scary.",
+      "religious_evidence_ids": [
+        "qv_013"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_012",
+      "working_title": "A Song About Friendship / Brotherhood",
+      "primary_concept": "concept_friendship",
+      "age_band": [
+        4,
+        8
+      ],
+      "learning_goal": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "religious_evidence_ids": [
+        "hd_008"
+      ],
+      "song_style_function": "duet/two-character call-and-response",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "high",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_013",
+      "working_title": "A Song About Respect for Parents",
+      "primary_concept": "concept_respect_for_parents",
+      "age_band": [
+        4,
+        6
+      ],
+      "learning_goal": "Children can describe one way they helped a parent this week.",
+      "religious_evidence_ids": [
+        "hd_001",
+        "hd_004"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_014",
+      "working_title": "A Song About Tawakkul",
+      "primary_concept": "concept_tawakkul",
+      "age_band": [
+        6,
+        7
+      ],
+      "learning_goal": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "religious_evidence_ids": [
+        "qv_004",
+        "qv_005",
+        "dua_005",
+        "dua_006"
+      ],
+      "song_style_function": "solo-then-group chorus, the dua itself as the hook",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "high",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_015",
+      "working_title": "A Song About Humility",
+      "primary_concept": "concept_humility",
+      "age_band": [
+        6,
+        8
+      ],
+      "learning_goal": "Children can describe being humble after doing well at something.",
+      "religious_evidence_ids": [
+        "qv_014"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_016",
+      "working_title": "A Song About Self-Control",
+      "primary_concept": "concept_self_control",
+      "age_band": [
+        7,
+        8
+      ],
+      "learning_goal": "Children can describe staying calm during a frustrating moment.",
+      "religious_evidence_ids": [
+        "hd_006",
+        "hd_002"
+      ],
+      "song_style_function": "calm-down song, breathing-paced repetition",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_017",
+      "working_title": "A Song About Generosity",
+      "primary_concept": "concept_generosity",
+      "age_band": [
+        3,
+        6
+      ],
+      "learning_goal": "Children can name something they shared and how it felt.",
+      "religious_evidence_ids": [
+        "hd_007"
+      ],
+      "song_style_function": "group chorus, sharing-themed repetition",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_018",
+      "working_title": "A Song About Compassion for Animals",
+      "primary_concept": "concept_compassion_for_animals",
+      "age_band": [
+        4,
+        7
+      ],
+      "learning_goal": "Children can describe a kind way to treat an animal.",
+      "religious_evidence_ids": [
+        "hd_011"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_019",
+      "working_title": "A Song About Kindness",
+      "primary_concept": "concept_kindness",
+      "age_band": [
+        3,
+        5
+      ],
+      "learning_goal": "Children can describe one kind thing they did for someone.",
+      "religious_evidence_ids": [
+        "hd_001",
+        "hd_003"
+      ],
+      "song_style_function": "gentle lullaby-style, solo with group echo",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_020",
+      "working_title": "A Song About Cleanliness",
+      "primary_concept": "concept_cleanliness",
+      "age_band": [
+        3,
+        5
+      ],
+      "learning_goal": "Children can describe washing hands before eating and why.",
+      "religious_evidence_ids": [
+        "qv_010",
+        "hd_009"
+      ],
+      "song_style_function": "routine/habit song, repetition-friendly (wash, wash, clean and bright)",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_021",
+      "working_title": "A Song About Gratitude",
+      "primary_concept": "concept_gratitude",
+      "age_band": [
+        3,
+        5
+      ],
+      "learning_goal": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "religious_evidence_ids": [
+        "qv_001",
+        "dua_003",
+        "dua_002"
+      ],
+      "song_style_function": "chorus-repetition, call-and-response (thank you for X / thank you for Y)",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "high",
+      "call_and_response_suitability": "high",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    },
+    {
+      "song_topic_id": "song_022",
+      "working_title": "A Song About Justice",
+      "primary_concept": "concept_justice",
+      "age_band": [
+        6,
+        8
+      ],
+      "learning_goal": "Children can describe a fair way to solve a disagreement.",
+      "religious_evidence_ids": [
+        "qv_006",
+        "hd_013"
+      ],
+      "song_style_function": "gentle chorus-repetition, standard house style",
+      "possible_chorus_concept": "A short, repeatable line built from the concept's own real evidence (e.g. the exact dua text where a Dua exists, or a simple restatement of the concept's age-4 definition — never an invented religious claim)",
+      "character_role_types": [
+        "child protagonist",
+        "sibling or friend"
+      ],
+      "visual_setting": "matches the concept's linked real conflict setting",
+      "repetition_suitability": "medium",
+      "call_and_response_suitability": "medium",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": []
+    }
+  ]
+}

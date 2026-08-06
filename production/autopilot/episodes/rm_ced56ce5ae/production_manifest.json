@@ -1,0 +1,31 @@
+{
+  "schema_version": "2.72",
+  "episode_id": "rm_ced56ce5ae",
+  "production_state": "GEMINI_READY",
+  "memory_consumed": [],
+  "stage_levels": {
+    "roadmap": "COMPLETE",
+    "script": "DRAFT_COMPLETE",
+    "logical_scenes": "DRAFT_COMPLETE",
+    "production_plans": "DRAFT_COMPLETE",
+    "generation_units": "DRAFT_COMPLETE",
+    "gemini_prompts": "DRAFT_COMPLETE",
+    "automated_qa": "COMPLETE"
+  },
+  "files": {
+    "script": "story_script.json",
+    "scenes": "logical_scenes.json",
+    "qa": "qa_report.json"
+  },
+  "lineage": {
+    "last_regenerated_stage": "full",
+    "script_hash": "dd100b36e15ad4c1735b67235915d561df82beafc8232519330e71081df93162",
+    "scenes_hash": "642a834272e81164df8d1e3440c1efd37f43f60174bcd29f1c6ab075cac9779d",
+    "units_hash": "42abad61e65f7d43ea4a7d5af58fac850c2d43e942a8cd3c15aa9949799a578d"
+  },
+  "determinism_hash": "97f0a1c64b182de3551bfff883754fb0f34b993841015761861a6dde1461f88b",
+  "review_requirements": [
+    "HUMAN_CREATIVE_RENDER_REVIEW",
+    "ISLAMIC_REVIEW_AS_GOVERNED_BY_REFERENCED_EVIDENCE"
+  ]
+}

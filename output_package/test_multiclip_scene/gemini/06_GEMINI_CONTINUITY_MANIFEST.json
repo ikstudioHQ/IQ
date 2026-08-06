@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "test_multiclip_scene",
+  "clip_states": {
+    "CLIP_001": {
+      "location_id": "loc_family_living_room", "time_of_day": "afternoon",
+      "characters": {
+        "char_001_zayd": {"wardrobe_id": "wardrobe_zayd_default", "held_props": ["prop_grocery_bag_01"],
+          "screen_position_start": "off-frame left", "screen_position_end": "left-of-center",
+          "body_orientation": "facing right/center", "expression": "tired-but-cheerful", "emotion": "neutral-positive"},
+        "char_002_amira": {"wardrobe_id": "wardrobe_amira_default", "held_props": [],
+          "screen_position_start": "right-of-center", "screen_position_end": "right-of-center",
+          "body_orientation": "facing left/center", "expression": "neutral, curious", "emotion": "neutral"}
+      },
+      "camera_ending_state": "wide, eye-level, static, Zayd entering frame",
+      "camera_axis": "standard, screen-left to screen-right conversation axis established",
+      "previous_action": null, "next_action": "Zayd sets bag down"
+    },
+    "CLIP_002": {
+      "location_id": "loc_family_living_room", "time_of_day": "afternoon (continuous)",
+      "characters": {
+        "char_001_zayd": {"wardrobe_id": "wardrobe_zayd_default", "held_props": [],
+          "screen_position_start": "left-of-center", "screen_position_end": "left-of-center",
+          "body_orientation": "facing right/center", "expression": "neutral, attentive", "emotion": "neutral"},
+        "char_002_amira": {"wardrobe_id": "wardrobe_amira_default", "held_props": [],
+          "screen_position_start": "right-of-center", "screen_position_end": "right-of-center",
+          "body_orientation": "facing left/center", "expression": "warm smile", "emotion": "grateful"}
+      },
+      "camera_ending_state": "medium, eye-level, static, Amira mid-smile after speaking",
+      "camera_axis": "unchanged from CLIP_001", "previous_action": "Zayd arrived with groceries",
+      "next_action": "Zayd responds"
+    },
+    "CLIP_003": {
+      "location_id": "loc_family_living_room", "time_of_day": "afternoon (continuous)",
+      "characters": {
+        "char_001_zayd": {"wardrobe_id": "wardrobe_zayd_default", "held_props": [],
+          "screen_position_start": "left-of-center", "screen_position_end": "left-of-center",
+          "body_orientation": "facing right/center", "expression": "bright open smile", "emotion": "warm, content"},
+        "char_002_amira": {"wardrobe_id": "wardrobe_amira_default", "held_props": [],
+          "screen_position_start": "right-of-center", "screen_position_end": "right-of-center",
+          "body_orientation": "facing left/center", "expression": "soft smile, listening", "emotion": "content"}
+      },
+      "camera_ending_state": "medium-close, eye-level, static, both smiling",
+      "camera_axis": "unchanged", "previous_action": "Amira thanked Zayd",
+      "next_action": "scene transitions to kitchen (explicit location change)"
+    },
+    "CLIP_004": {
+      "location_id": "loc_family_kitchen", "time_of_day": "afternoon (continuous, new room)",
+      "characters": {
+        "char_001_zayd": {"wardrobe_id": "wardrobe_zayd_default", "held_props": ["prop_grocery_bag_01"],
+          "screen_position_start": "entering frame", "screen_position_end": "center, near counter",
+          "body_orientation": "walking toward counter", "expression": "neutral, purposeful", "emotion": "neutral"},
+        "char_002_amira": {"wardrobe_id": "wardrobe_amira_default", "held_props": [],
+          "screen_position_start": "entering frame beside Zayd", "screen_position_end": "center, beside Zayd",
+          "body_orientation": "walking alongside Zayd", "expression": "neutral, content", "emotion": "content"}
+      },
+      "camera_ending_state": "wide, eye-level, slow pan complete, both at kitchen counter",
+      "camera_axis": "NEW scene, axis re-established for the kitchen -- explicit location change per instruction, not an error",
+      "previous_action": "walked from living room to kitchen", "next_action": "sit to eat"
+    },
+    "CLIP_005": {
+      "location_id": "loc_family_kitchen", "time_of_day": "afternoon (continuous)",
+      "characters": {
+        "char_001_zayd": {"wardrobe_id": "wardrobe_zayd_default", "held_props": [],
+          "screen_position_start": "seated left", "screen_position_end": "seated left",
+          "body_orientation": "facing table/camera", "expression": "calm", "emotion": "calm"},
+        "char_002_amira": {"wardrobe_id": "wardrobe_amira_default", "held_props": [],
+          "screen_position_start": "seated right", "screen_position_end": "seated right",
+          "body_orientation": "facing table/camera", "expression": "calm", "emotion": "calm"}
+      },
+      "camera_ending_state": "medium, eye-level, static, both seated",
+      "camera_axis": "unchanged from CLIP_004", "previous_action": "sat down at table",
+      "next_action": "finish eating"
+    },
+    "CLIP_006": {
+      "location_id": "loc_family_kitchen", "time_of_day": "afternoon (continuous)",
+      "characters": {
+        "char_001_zayd": {"wardrobe_id": "wardrobe_zayd_default", "held_props": [],
+          "screen_position_start": "seated left", "screen_position_end": "seated left",
+          "body_orientation": "facing table/camera", "expression": "content", "emotion": "content"},
+        "char_002_amira": {"wardrobe_id": "wardrobe_amira_default", "held_props": [],
+          "screen_position_start": "seated right", "screen_position_end": "seated right",
+          "body_orientation": "facing table/camera", "expression": "content smile", "emotion": "grateful"}
+      },
+      "camera_ending_state": "medium-close, eye-level, static, fading with music swell",
+      "camera_axis": "unchanged", "previous_action": "said Bismillah, ate", "next_action": "scene ends"
+    }
+  }
+}

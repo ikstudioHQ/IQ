@@ -1,0 +1,68 @@
+{
+  "concept_id": "concept_cleanliness",
+  "name": "Cleanliness (Taharah)",
+  "definition_by_age": {
+    "4": "Keeping your hands and things clean.",
+    "6": "Taharah means keeping your body, clothes, and space clean as part of faith.",
+    "8": "Taharah is physical and spiritual cleanliness, an important part of preparing for prayer and daily life."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe washing hands before eating and why.",
+  "related_quran": [
+    "qv_010"
+  ],
+  "related_hadith": [
+    "hd_009"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [],
+  "related_conflicts": [
+    "cf_033",
+    "cf_037",
+    "cf_006"
+  ],
+  "recommended_age_range": [
+    3,
+    5
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": true,
+  "scholarly_reviewed": false,
+  "related_manners": [
+    "mann_008"
+  ],
+  "recommended_default": {
+    "conflict_id": "cf_033",
+    "pattern_id": "pattern_003",
+    "hook_id": "hook_004",
+    "ending_id": "end_002",
+    "emotion": "worry",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_002). Question->Discovery->Practice->Reward fits learning WHY cleanliness matters through discovery, better than generic mistake-reflection."
+  },
+  "semantic_support": {
+    "hd_009": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly and famously about cleanliness/faith.",
+      "scholarly_reviewed": false
+    },
+    "qv_010": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly commands/praises purification.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_013",
+      "conflict_id": "cf_037",
+      "reasoning": "Frustration during wudu resolving through natural experience, not adult correction."
+    },
+    {
+      "pattern_id": "pattern_002",
+      "conflict_id": "cf_006",
+      "reasoning": "Not cleaning up is a genuine mistake-reflection-correction shape."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "note": "Only continuity-important recurring props get IDs, per instruction -- not every background object. Currently 1, from the real existing test scene.",
+  "total_props": 1,
+  "props": [
+    {
+      "prop_id": "prop_grocery_bag_01",
+      "name": "Small grocery bag",
+      "owner": "char_001_zayd",
+      "canonical_appearance": "Small brown paper grocery bag, simple, family-friendly design.",
+      "color": "brown paper",
+      "size": "small, one-hand carryable",
+      "material": "paper",
+      "reference_asset": null,
+      "version": "1.0",
+      "source": "Introduced in the real test_gemini_scene from v2.31 -- registered now for continuity, not invented speculatively."
+    }
+  ]
+}

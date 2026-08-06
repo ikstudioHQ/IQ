@@ -1,0 +1,70 @@
+ISLAMIC KIDS STUDIO v2.71 — VALIDATION / CLEANUP REPORT
+Date: 2026-08-05
+
+V2.70 BASELINE
+Input SHA-256: ecb78c417eef80faa2eb093ca81879b3a423c37de3c2232033261556a6ef997a
+Input packaged files: 3,568
+Baseline pytest: 73/73 PASS
+Baseline validator/preflight/runtime: PASS
+
+CLEANUP FINDINGS / FILE INVENTORY
+Every baseline file is recorded with path, size, SHA-256 and classification in docs/validation/v270_file_inventory.json.
+Root items before: 51
+Root items after cleanup: 36
+Historical root files moved: 16
+Files deleted: 54 (23 cache/bytecode artifacts + 31 rebuildable nested output-package ZIPs)
+Cache directories found: 3; final: 0
+PYC/PYO files found: 18; final: 0
+Temp/editor files found: 0; final: 0
+Unknown/unclassified final files: 0 under the implemented classification policy.
+Exact duplicate groups baseline: 624; final: 626. Duplicate content is largely intentional repeated production/template/assets; it was not blindly removed. Final duplicate bytes: 2,708,402.
+
+REPOSITORY HYGIENE
+Historical v2.68/v2.69/v2.70 usage/status/validation material is separated under archive/.
+Current operational docs are under docs/current/.
+MASTER_PROMPT.md remains local-only and is excluded by packaging.
+.gitignore and deterministic packaging exclude caches, bytecode, temp/editor files, .env, local venv/build outputs, local MASTER and nested ZIPs.
+Active bare-reference defects identified for guest_appearances.json, github_workflow.md and human_review_pipeline.md were clarified as conceptual/former historical references rather than fabricated files.
+knowledge_index references to AUDIT_REPORT.md were updated to its archived path.
+Historical audit reports retain historical broken/path references as preserved evidence; validator warnings are not treated as active defects.
+Religious review warnings remain separate and unchanged: 7/59 citation_verified=false; 59/59 scholarly_reviewed=false.
+
+IMPORT / VALIDATION HARDENING
+Added tools/validate_release.py: repository-root anchored, PYTHONPATH isolated, pytest cache disabled, cross-platform Python-only orchestration.
+Added tools/release_hygiene.py and tools/package_release.py.
+Added v2.71 hygiene/import-origin regression tests.
+Current full pytest: 77/77 PASS.
+One-command release validation: PASS.
+Repository validator: PASS.
+Distribution preflight: PASS.
+Runtime compiler: PASS.
+Existing song compiler: 20/20 package completeness preserved.
+Existing logical episode compiler: both canonical examples compile.
+Active roadmap: 30 episodes preserved.
+Maximum measured generation-unit duration: 9.0 seconds (hard <=10s contract preserved).
+
+POST-TEST HYGIENE
+.pytest_cache: 0
+__pycache__: 0
+.pyc/.pyo: 0
+Prohibited temp/editor files: 0
+Malformed JSON detected by release hygiene scan: 0
+
+V2.70 FEATURE REGRESSION
+Dynamic roadmap, immutable IDs, story arcs, accepted-only memory, character development, canonical song planning, script QA, dynamic range, failure repair, <=10s units, duplicate-character protection, continuity, production status and Shorts candidate behavior remain covered by the full regression suite.
+Canonical lyrics were not modified by cleanup/version hardening.
+
+ISLAMIC SAFETY
+No citation_verified, scholarly_reviewed, semantic-support, human-review or scholar-review state was promoted. FINAL publication remains fail-closed.
+
+REMAINING WARNINGS
+Historical archived reports intentionally preserve old missing paths and absolute development paths. Older v1.1 mentions in legacy active documentation remain compatibility/historical wording. Religious review warnings remain unresolved by design and are not software defects.
+
+FINAL STATUS
+SOFTWARE/PIPELINE: PASS
+REPOSITORY HYGIENE: PASS for prohibited distribution categories
+ONE-COMMAND VALIDATION: PASS
+ACTIVE 30-DAY ROADMAP: PASS
+<=10s CONTRACT: PASS
+ISLAMIC PUBLICATION: NOT READY
+HUMAN RENDER QA: REQUIRED

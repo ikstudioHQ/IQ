@@ -1,0 +1,299 @@
+{
+  "schema_version": "2.71",
+  "arcs": [
+    {
+      "arc_id": "arc_01",
+      "episode_ids": [
+        "rm_ced56ce5ae",
+        "rm_1c729b4802",
+        "rm_f537b73030"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "objective": "concept_charity",
+      "setup_events": [
+        "rm_ced56ce5ae"
+      ],
+      "payoff_events": [
+        "rm_f537b73030"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_02",
+      "episode_ids": [
+        "rm_efc2c3ee01",
+        "rm_3be12ce9df"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "objective": "concept_courage",
+      "setup_events": [
+        "rm_efc2c3ee01"
+      ],
+      "payoff_events": [
+        "rm_3be12ce9df"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_single_005",
+      "episode_ids": [
+        "rm_3e67eaed9b"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "objective": "concept_humility",
+      "setup_events": [],
+      "payoff_events": [],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_03",
+      "episode_ids": [
+        "rm_9f5d2f44c9",
+        "rm_743b0f92f3",
+        "rm_0db60cc2e8"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "objective": "concept_justice",
+      "setup_events": [
+        "rm_9f5d2f44c9"
+      ],
+      "payoff_events": [
+        "rm_0db60cc2e8"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_single_010",
+      "episode_ids": [
+        "rm_f02501054d"
+      ],
+      "characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "objective": "concept_perseverance",
+      "setup_events": [],
+      "payoff_events": [],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_04",
+      "episode_ids": [
+        "rm_9ed7ae1958",
+        "rm_9478b34584"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "objective": "concept_tawakkul",
+      "setup_events": [
+        "rm_9ed7ae1958"
+      ],
+      "payoff_events": [
+        "rm_9478b34584"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_05",
+      "episode_ids": [
+        "rm_4e7f5b0716",
+        "rm_be422433bd"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "objective": "concept_gratitude",
+      "setup_events": [
+        "rm_4e7f5b0716"
+      ],
+      "payoff_events": [
+        "rm_be422433bd"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_single_015",
+      "episode_ids": [
+        "rm_edb2d76831"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_004_baba_ahmad"
+      ],
+      "objective": "concept_honesty",
+      "setup_events": [],
+      "payoff_events": [],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_06",
+      "episode_ids": [
+        "rm_4cd48bf022",
+        "rm_02a4f001a3",
+        "rm_40c3ced993"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "objective": "concept_prayer",
+      "setup_events": [
+        "rm_4cd48bf022"
+      ],
+      "payoff_events": [
+        "rm_40c3ced993"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_07",
+      "episode_ids": [
+        "rm_838022f546",
+        "rm_7aea6bad78"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_004_baba_ahmad"
+      ],
+      "objective": "concept_cleanliness",
+      "setup_events": [
+        "rm_838022f546"
+      ],
+      "payoff_events": [
+        "rm_7aea6bad78"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_single_020",
+      "episode_ids": [
+        "rm_9d6c91e5ff"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "objective": "concept_charity",
+      "setup_events": [],
+      "payoff_events": [],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_08",
+      "episode_ids": [
+        "rm_2d85b7659b",
+        "rm_851104989b",
+        "rm_20569526d0"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "objective": "concept_trustworthiness",
+      "setup_events": [
+        "rm_2d85b7659b"
+      ],
+      "payoff_events": [
+        "rm_20569526d0"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_single_025",
+      "episode_ids": [
+        "rm_20be1f06f9"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "objective": "concept_kindness",
+      "setup_events": [],
+      "payoff_events": [],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_09",
+      "episode_ids": [
+        "rm_6bcb895dc0",
+        "rm_bd47fcf53d"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_004_baba_ahmad"
+      ],
+      "objective": "concept_justice",
+      "setup_events": [
+        "rm_6bcb895dc0"
+      ],
+      "payoff_events": [
+        "rm_bd47fcf53d"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_10",
+      "episode_ids": [
+        "rm_639234cded",
+        "rm_4ca2c57d8e"
+      ],
+      "characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "objective": "concept_mercy",
+      "setup_events": [
+        "rm_639234cded"
+      ],
+      "payoff_events": [
+        "rm_4ca2c57d8e"
+      ],
+      "status": "ACTIVE"
+    },
+    {
+      "arc_id": "arc_single_030",
+      "episode_ids": [
+        "rm_2e3d674aa1"
+      ],
+      "characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "objective": "concept_tawakkul",
+      "setup_events": [],
+      "payoff_events": [],
+      "status": "ACTIVE"
+    }
+  ]
+}

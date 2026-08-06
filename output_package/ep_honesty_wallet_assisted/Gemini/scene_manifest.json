@@ -1,0 +1,124 @@
+{
+  "episode_id": "ep_honesty_wallet_assisted",
+  "scene_count": 5,
+  "actual_scene_files": 5,
+  "build_metadata": {
+    "compiler_version": "2.0",
+    "source_content_hash": "d05f0155a3e08eea",
+    "schema": "scene_contract.json v1.0 (human-structured migration; per-event certainty varies -- see each event's own confidence field, not this schema label)"
+  },
+  "scenes": [
+    {
+      "scene_id": "scene_1",
+      "duration": 15,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "speaking_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "gemini_prompt_file": "scene_1.md",
+      "scene_contract_hash": "10940d7a6b063c31",
+      "performance_confidence_summary": [
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "CONFIRMED_FROM_COMPLETE_SCRIPT_SCENE_BOUNDARY"
+      ],
+      "has_unresolved_performance_ambiguity": false,
+      "all_performance_events_inferred": false,
+      "requires_resolution_before_final": false,
+      "long_scene_single_shot": false
+    },
+    {
+      "scene_id": "scene_2",
+      "duration": 45,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "speaking_characters": [
+        "char_001_zayd"
+      ],
+      "gemini_prompt_file": "scene_2.md",
+      "scene_contract_hash": "fed1e81be4921b28",
+      "performance_confidence_summary": [
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "INFERRED_FROM_ORDER_AND_CONTENT"
+      ],
+      "has_unresolved_performance_ambiguity": false,
+      "all_performance_events_inferred": true,
+      "requires_resolution_before_final": true,
+      "long_scene_single_shot": true
+    },
+    {
+      "scene_id": "scene_3",
+      "duration": 75,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "speaking_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "gemini_prompt_file": "scene_3.md",
+      "scene_contract_hash": "19f0c95470b5863a",
+      "performance_confidence_summary": [
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "CONFIRMED",
+        "INFERRED_FROM_ORDER_AND_CONTENT"
+      ],
+      "has_unresolved_performance_ambiguity": false,
+      "all_performance_events_inferred": false,
+      "requires_resolution_before_final": false,
+      "long_scene_single_shot": true
+    },
+    {
+      "scene_id": "scene_4",
+      "duration": 50,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_085_market_stall_owner"
+      ],
+      "speaking_characters": [
+        "char_001_zayd",
+        "char_085_market_stall_owner"
+      ],
+      "gemini_prompt_file": "scene_4.md",
+      "scene_contract_hash": "e40e376a37744e57",
+      "performance_confidence_summary": [
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "CONFIRMED",
+        "INFERRED_FROM_ORDER_AND_CONTENT"
+      ],
+      "has_unresolved_performance_ambiguity": false,
+      "all_performance_events_inferred": false,
+      "requires_resolution_before_final": false,
+      "long_scene_single_shot": true
+    },
+    {
+      "scene_id": "scene_5",
+      "duration": 30,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "speaking_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "gemini_prompt_file": "scene_5.md",
+      "scene_contract_hash": "fecd4ce91935c51b",
+      "performance_confidence_summary": [
+        "INFERRED_FROM_ORDER_AND_CONTENT",
+        "INFERRED_FROM_ORDER_AND_CONTENT"
+      ],
+      "has_unresolved_performance_ambiguity": false,
+      "all_performance_events_inferred": true,
+      "requires_resolution_before_final": true,
+      "long_scene_single_shot": false
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "generated_from": [
+    "phase2/data/safety/content_scene_safety_registry.json"
+  ],
+  "generated_at": "2026-08-05T00:00:00",
+  "repository_version": "2.72",
+  "schema_version": "1.0",
+  "checksum": "a8e3cd1f5b57c41b",
+  "generator": "tools/compile_runtime.py v1.0",
+  "rules": [
+    {
+      "id": "safety_001",
+      "category": "SEXUAL_CONTENT",
+      "decision": "BLOCK"
+    },
+    {
+      "id": "safety_002",
+      "category": "LANGUAGE_SAFETY",
+      "decision": "BLOCK"
+    },
+    {
+      "id": "safety_003",
+      "category": "GRAPHIC_VIOLENCE",
+      "decision": "BLOCK"
+    },
+    {
+      "id": "safety_004",
+      "category": "SELF_HARM_SUICIDE",
+      "decision": "BLOCK"
+    },
+    {
+      "id": "safety_005",
+      "category": "SUBSTANCE_GLORIFICATION",
+      "decision": "BLOCK"
+    },
+    {
+      "id": "safety_006",
+      "category": "GAMBLING_GLORIFICATION",
+      "decision": "BLOCK"
+    },
+    {
+      "id": "safety_007",
+      "category": "CRIME_GLORIFICATION",
+      "decision": "BLOCK"
+    },
+    {
+      "id": "safety_008",
+      "category": "DANGEROUS_IMITABLE_BEHAVIOR",
+      "decision": "REVIEW_REQUIRED"
+    },
+    {
+      "id": "safety_009",
+      "category": "HATE_DISCRIMINATION",
+      "decision": "BLOCK"
+    },
+    {
+      "id": "safety_010",
+      "category": "EXTREMISM_TERRORISM",
+      "decision": "BLOCK"
+    },
+    {
+      "id": "safety_011",
+      "category": "ANIMAL_CRUELTY",
+      "decision": "BLOCK"
+    },
+    {
+      "id": "safety_012",
+      "category": "DEPICTION_FOR_LESSON_ALLOWANCE",
+      "decision": "ALLOW"
+    },
+    {
+      "id": "safety_013",
+      "category": "BULLYING_GLORIFIED",
+      "decision": "BLOCK"
+    }
+  ]
+}

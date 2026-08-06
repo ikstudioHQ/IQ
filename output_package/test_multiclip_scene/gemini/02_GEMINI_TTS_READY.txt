@@ -1,0 +1,23 @@
+CLIP_ID: CLIP_001 | SPEAKER: none | DIALOGUE: none | TARGET_DURATION: n/a
+
+CLIP_ID: CLIP_002 | SPEAKER: char_002_amira | EMOTION: grateful, warm | PACE: slow-medium
+PRONUNCIATION NOTES: "Alhamdulillah" -- four syllables, al-ham-du-lil-lah, natural flow, not rushed
+TARGET_DURATION: 2.5s-5.8s (3.3s window)
+TEXT: Alhamdulillah, thank you for helping me carry these!
+
+CLIP_ID: CLIP_003 | SPEAKER: char_001_zayd | EMOTION: warm, content | PACE: medium
+PRONUNCIATION NOTES: none special
+TARGET_DURATION: 2.0s-5.2s (3.2s window)
+TEXT: Of course! That's what family is for.
+
+CLIP_ID: CLIP_004 | SPEAKER: none | DIALOGUE: none | TARGET_DURATION: n/a
+
+CLIP_ID: CLIP_005 | SPEAKER: char_001_zayd, char_002_amira (together) | EMOTION: calm, sincere | PACE: unhurried
+PRONUNCIATION NOTES: "Bismillah" -- bis-mil-lah, said together, synchronized
+TARGET_DURATION: 2.0s-3.5s (1.5s window)
+TEXT: Bismillah.
+
+CLIP_ID: CLIP_006 | SPEAKER: char_002_amira | EMOTION: content, grateful | PACE: slow-medium
+PRONUNCIATION NOTES: "Alhamdulillah" -- same as CLIP_002
+TARGET_DURATION: 2.0s-4.0s (2.0s window)
+TEXT: Alhamdulillah, that was good.

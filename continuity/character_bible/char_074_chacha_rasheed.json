@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_074_chacha_rasheed",
+  "canonical_name": "Chacha Rasheed (Dada Yusuf's Friend)",
+  "aliases": [],
+  "role_relation": "Dada Yusuf's close friend and neighborhood elder — masjid/community episodes, storytelling duo with Dada Yusuf",
+  "age": "older adult (similar age to Dada Yusuf)",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Chacha Rasheed — warm medium-brown skin with soft smile-lines (stylized, not aged-harsh), lively round dark eyes with warm glossy catchlights, short grey hair peeking from under his cap, a light thin sparse beard (short and patchy, clearly less full than a typical elder beard — mostly along the jawline and chin, not thick or long), wearing a warm maroon-brown robe (jubbah) with subtle tonal stripe trim at the cuffs, simple cream-white crochet kufi cap, warm rounded body build with an upright energetic posture, soft brown leather sandals, cheerful open smile. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark. 6-VIEW TURNAROUND PROMPT:",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Chacha Rasheed, exact same canonical identity: warm medium-brown skin with soft smile-lines, lively round dark eyes with warm glossy catchlights, short grey hair under cap, light thin sparse beard along the jawline and chin, warm maroon-brown robe with tonal stripe trim, cream-white crochet kufi cap, warm rounded upright body build, soft brown leather sandals. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep face, beard thinness, proportions, robe color and cap identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. EXPRESSION SHEET PROMPT:",
+  "expression_prompt": "Chacha Rasheed, exact same canonical identity: warm medium-brown skin, lively round dark eyes with warm glossy catchlights, light thin sparse beard, warm maroon-brown robe, cream-white crochet kufi cap. Expression sheet with neutral, happy, big-laugh, teasing-grin, thoughtful, surprised, proud, storytelling-animated, warm-smile, playful-wink. Head-and-shoulders grid, identical identity and clothing, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "warm chatty older man; medium pitch; slightly faster/livelier pace than Dada Yusuf — playful banter energy",
+    "voice_master": {
+      "voice_identity_id": "VOICE_074_CHACHA_RASHEED",
+      "voice_profile_version": "2.0",
+      "voice_status": "PROFILE_DEFINED",
+      "fingerprint": {
+        "vocal_age_band": "adult",
+        "gender_presentation": "male",
+        "pitch_band": "medium",
+        "pace_baseline": "fast",
+        "source_description": "warm chatty older man; medium pitch; slightly faster/livelier pace than Dada Yusuf — playful banter energy",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "adult",
+        "gender_presentation": "male",
+        "pitch_band": "medium",
+        "core_timbre": "warm chatty older man; medium pitch; slightly faster/livelier pace than Dada Yusuf — playful banter energy"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 3,
+        "age_band": "adult",
+        "gender_voice_class": "male",
+        "pace": "fast",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "banter",
+          "chatty",
+          "dada",
+          "energy",
+          "faster",
+          "livelier",
+          "medium",
+          "older",
+          "playful",
+          "slightly",
+          "than",
+          "yusuf"
+        ],
+        "raw_source": "warm chatty older man; medium pitch; slightly faster/livelier pace than Dada Yusuf — playful banter energy"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null
+    }
+  },
+  "restrictions": null,
+  "production_priority": "RECURRING",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_074_chacha_rasheed_approved_reference",
+      "path": "sources/characters/reference_images/74. Chacha Rasheed (Dada Yusuf's Friend).png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

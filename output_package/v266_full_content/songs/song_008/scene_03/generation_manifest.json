@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.66",
+  "parent_type": "song",
+  "parent_id": "song_008",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "generation_ready": true,
+  "units": [
+    {
+      "generation_unit_id": "song_008_scene_03_u01",
+      "prompt": "song_008_scene_03_u01.md",
+      "duration_seconds": 7.6,
+      "exact_character_count": 2
+    },
+    {
+      "generation_unit_id": "song_008_scene_03_u02",
+      "prompt": "song_008_scene_03_u02.md",
+      "duration_seconds": 7.6,
+      "exact_character_count": 2
+    },
+    {
+      "generation_unit_id": "song_008_scene_03_u03",
+      "prompt": "song_008_scene_03_u03.md",
+      "duration_seconds": 7.600000000000001,
+      "exact_character_count": 2
+    },
+    {
+      "generation_unit_id": "song_008_scene_03_u04",
+      "prompt": "song_008_scene_03_u04.md",
+      "duration_seconds": 7.599999999999998,
+      "exact_character_count": 2
+    },
+    {
+      "generation_unit_id": "song_008_scene_03_u05",
+      "prompt": "song_008_scene_03_u05.md",
+      "duration_seconds": 7.600000000000001,
+      "exact_character_count": 2
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+═══════════════════════════════════════════════════════════════════
+ISLAMIC KIDS STUDIO (@IslamicKidsHQ)
+FIXED CHARACTER DESIGN PROMPT SYSTEM v2
+Style Reference: Pixar/Illumination-grade 3D animation (competitor-informed)
+═══════════════════════════════════════════════════════════════════
+
+HOW TO USE THIS FILE:
+1. Generate each character's MASTER TURNAROUND PROMPT first — this locks
+   the design. Save the resulting image(s) as your permanent reference.
+2. For every future scene/video, copy that character's LOCKED DESCRIPTION
+   BLOCK word-for-word into your scene prompt (same as your DSLR system
+   for Bible Story Network — identical text = identical character).
+3. Every prompt below already has the universal render suffix baked in
+   full — no placeholders, nothing to remember to add separately.
+
+UNIVERSAL RENDER SUFFIX (now fully written into every prompt below):
+"Pixar-style 3D animated character render, Blender Cycles / Octane
+render quality, soft global illumination, warm key light with cool
+rim light, subsurface scattering skin shading, glossy catchlight eyes,
+clean studio-neutral background, centered composition, 16:9 aspect
+ratio, ultra high detail, 8K render quality, smooth soft shadows,
+kid-friendly warm color grading, no text, no watermark"
+
+═══════════════════════════════════════════════════════════════════
+CHARACTER 1: ZAYD (Lead Boy)
+═══════════════════════════════════════════════════════════════════
+
+LOCKED DESCRIPTION BLOCK (paste identically into every scene):
+"Zayd, a cheerful 5-year-old Muslim boy character, warm honey-brown
+skin tone, large round dark-brown eyes with bright glossy catchlights,
+soft rounded cheeks, short dark curly hair peeking from under a white
+embroidered topi (kufi cap), wearing a sage-green thobe with subtle
+gold thread trim at the collar and cuffs, small gold crescent-moon
+button detail at the neckline, stocky toddler-proportioned 3D animated
+body build (head-to-body ratio approximately 1:2.5), soft-soled tan
+sandals, default expression: bright open-mouth smile with visible
+excitement, energetic forward-leaning pose"
+
+MASTER TURNAROUND PROMPT (generate this first to lock the design):
+"Character turnaround sheet, three views (front, 3/4 side, full profile)
+of Zayd, a cheerful 5-year-old Muslim boy character, warm honey-brown
+skin tone, large round dark-brown eyes with bright glossy catchlights,
+soft rounded cheeks, short dark curly hair peeking from under a white
+embroidered topi (kufi cap), wearing a sage-green thobe with subtle
+gold thread trim at the collar and cuffs, small gold crescent-moon
+button detail at the neckline, stocky toddler-proportioned 3D animated
+body build, soft-soled tan sandals, neutral T-pose in front view, arms
+relaxed at sides in side views, Pixar-style 3D animated character
+render, Blender Cycles / Octane render quality, soft global
+illumination, warm key light with cool rim light, subsurface
+scattering skin shading, glossy catchlight eyes, clean studio-neutral
+background, centered composition, 16:9 aspect ratio, ultra high
+detail, 8K render quality, smooth soft shadows, kid-friendly warm
+color grading, no text, no watermark"
+
+HERO PORTRAIT PROMPT (for thumbnails/marketing):
+"Zayd, a cheerful 5-year-old Muslim boy character, warm honey-brown
+skin tone, large round dark-brown eyes with bright glossy catchlights,
+soft rounded cheeks, short dark curly hair peeking from under a white
+embroidered topi (kufi cap), wearing a sage-green thobe with subtle
+gold thread trim at the collar and cuffs, small gold crescent-moon
+button detail at the neckline, stocky toddler-proportioned 3D animated
+body build, soft-soled tan sandals, bright open-mouth smile with
+visible excitement, joyful pose mid-jump with arms raised, dynamic
+camera angle slightly low, blurred warm-toned Islamic courtyard
+background with soft bokeh domes, Pixar-style 3D animated character
+render, Blender Cycles / Octane render quality, soft global
+illumination, warm key light with cool rim light, subsurface
+scattering skin shading, glossy catchlight eyes, clean studio-neutral
+background, centered composition, 16:9 aspect ratio, ultra high
+detail, 8K render quality, smooth soft shadows, kid-friendly warm
+color grading, no text, no watermark"
+
+═══════════════════════════════════════════════════════════════════
+CHARACTER 2: AMIRA (Lead Girl)
+═══════════════════════════════════════════════════════════════════
+
+LOCKED DESCRIPTION BLOCK:
+"Amira, a warm and gentle 5-year-old Muslim girl character, light
+warm-tan skin tone, large round hazel-brown eyes with bright glossy
+catchlights and soft lashes, rosy rounded cheeks, wearing a dusty-rose
+pink hijab with a white under-scarf trim framing her face, coordinated
+dusty-rose dress with small embroidered gold star pattern along the
+hem, stocky toddler-proportioned 3D animated body build (head-to-body
+ratio approximately 1:2.5), soft white flat shoes, default expression:
+warm gentle closed-mouth smile with slightly tilted head, calm curious
+posture"
+
+MASTER TURNAROUND PROMPT:
+"Character turnaround sheet, three views (front, 3/4 side, full profile)
+of Amira, a warm and gentle 5-year-old Muslim girl character, light
+warm-tan skin tone, large round hazel-brown eyes with bright glossy
+catchlights and soft lashes, rosy rounded cheeks, wearing a dusty-rose
+pink hijab with a white under-scarf trim framing her face, coordinated
+dusty-rose dress with small embroidered gold star pattern along the
+hem, stocky toddler-proportioned 3D animated body build, soft white
+flat shoes, neutral T-pose in front view, arms relaxed at sides in
+side views, Pixar-style 3D animated character render, Blender Cycles /
+Octane render quality, soft global illumination, warm key light with
+cool rim light, subsurface scattering skin shading, glossy catchlight
+eyes, clean studio-neutral background, centered composition, 16:9
+aspect ratio, ultra high detail, 8K render quality, smooth soft
+shadows, kid-friendly warm color grading, no text, no watermark"
+
+HERO PORTRAIT PROMPT:
+"Amira, a warm and gentle 5-year-old Muslim girl character, light
+warm-tan skin tone, large round hazel-brown eyes with bright glossy
+catchlights and soft lashes, rosy rounded cheeks, wearing a dusty-rose
+pink hijab with a white under-scarf trim framing her face, coordinated
+dusty-rose dress with small embroidered gold star pattern along the
+hem, stocky toddler-proportioned 3D animated body build, soft white
+flat shoes, warm gentle closed-mouth smile with slightly tilted head,
+gentle wave pose with one hand raised, soft 3/4 camera angle, blurred
+warm-toned Islamic garden background with soft bokeh flowers,
+Pixar-style 3D animated character render, Blender Cycles / Octane
+render quality, soft global illumination, warm key light with cool
+rim light, subsurface scattering skin shading, glossy catchlight eyes,
+clean studio-neutral background, centered composition, 16:9 aspect
+ratio, ultra high detail, 8K render quality, smooth soft shadows,
+kid-friendly warm color grading, no text, no watermark"
+
+═══════════════════════════════════════════════════════════════════
+CHARACTER 3: DADA YUSUF (Elder / Recurring Grandfather)
+═══════════════════════════════════════════════════════════════════
+
+LOCKED DESCRIPTION BLOCK:
+"Dada Yusuf, a kind elderly Muslim grandfather character, warm
+weathered tan skin with soft smile-lines (stylized, not aged-harsh),
+gentle round dark eyes with warm glossy catchlights, full silver-white
+beard neatly trimmed, wearing a deep teal robe (jubbah) with subtle
+darker teal geometric trim pattern at the cuffs, cream-white turban
+wrapped neatly, warm rounded 3D animated body build with slightly
+stooped gentle posture, wooden walking cane with rounded top held in
+one hand, soft brown leather sandals, default expression: warm
+crinkly-eyed smile, calm wise demeanor"
+
+MASTER TURNAROUND PROMPT:
+"Character turnaround sheet, three views (front, 3/4 side, full profile)
+of Dada Yusuf, a kind elderly Muslim grandfather character, warm
+weathered tan skin with soft smile-lines (stylized, not aged-harsh),
+gentle round dark eyes with warm glossy catchlights, full silver-white
+beard neatly trimmed, wearing a deep teal robe (jubbah) with subtle
+darker teal geometric trim pattern at the cuffs, cream-white turban
+wrapped neatly, warm rounded 3D animated body build with slightly
+stooped gentle posture, wooden walking cane with rounded top, soft
+brown leather sandals, neutral standing pose in front view, arms
+relaxed in side views, Pixar-style 3D animated character render,
+Blender Cycles / Octane render quality, soft global illumination, warm
+key light with cool rim light, subsurface scattering skin shading,
+glossy catchlight eyes, clean studio-neutral background, centered
+composition, 16:9 aspect ratio, ultra high detail, 8K render quality,
+smooth soft shadows, kid-friendly warm color grading, no text, no
+watermark"
+
+HERO PORTRAIT PROMPT:
+"Dada Yusuf, a kind elderly Muslim grandfather character, warm
+weathered tan skin with soft smile-lines (stylized, not aged-harsh),
+gentle round dark eyes with warm glossy catchlights, full silver-white
+beard neatly trimmed, wearing a deep teal robe (jubbah) with subtle
+darker teal geometric trim pattern at the cuffs, cream-white turban
+wrapped neatly, warm rounded 3D animated body build with slightly
+stooped gentle posture, wooden walking cane with rounded top, soft
+brown leather sandals, warm crinkly-eyed smile, seated warmly on a low
+wooden stool gesturing as if telling a story, soft warm-toned
+farm/courtyard background with bokeh, golden-hour lighting,
+Pixar-style 3D animated character render, Blender Cycles / Octane
+render quality, soft global illumination, warm key light with cool
+rim light, subsurface scattering skin shading, glossy catchlight eyes,
+clean studio-neutral background, centered composition, 16:9 aspect
+ratio, ultra high detail, 8K render quality, smooth soft shadows,
+kid-friendly warm color grading, no text, no watermark"
+
+═══════════════════════════════════════════════════════════════════
+CHARACTER 4: BABA AHMAD (Father)
+═══════════════════════════════════════════════════════════════════
+
+LOCKED DESCRIPTION BLOCK:
+"Baba Ahmad, a warm and calm Muslim father character, medium-tan skin
+tone, kind dark-brown eyes with soft glossy catchlights, short neatly
+trimmed dark beard, wearing a navy-blue thobe with subtle tonal
+stripe-weave texture, simple white embroidered cap, tall
+broad-shouldered 3D animated adult body build with gentle rounded
+proportions (friendly, not muscular), soft dark-brown sandals, default
+expression: calm warm closed-mouth smile, steady reassuring posture
+with hands relaxed"
+
+MASTER TURNAROUND PROMPT:
+"Character turnaround sheet, three views (front, 3/4 side, full profile)
+of Baba Ahmad, a warm and calm Muslim father character, medium-tan skin
+tone, kind dark-brown eyes with soft glossy catchlights, short neatly
+trimmed dark beard, wearing a navy-blue thobe with subtle tonal
+stripe-weave texture, simple white embroidered cap, tall
+broad-shouldered 3D animated adult body build with gentle rounded
+proportions, soft dark-brown sandals, neutral standing pose in front
+view, arms relaxed in side views, Pixar-style 3D animated character
+render, Blender Cycles / Octane render quality, soft global
+illumination, warm key light with cool rim light, subsurface
+scattering skin shading, glossy catchlight eyes, clean studio-neutral
+background, centered composition, 16:9 aspect ratio, ultra high
+detail, 8K render quality, smooth soft shadows, kid-friendly warm
+color grading, no text, no watermark"
+
+HERO PORTRAIT PROMPT:
+"Baba Ahmad, a warm and calm Muslim father character, medium-tan skin
+tone, kind dark-brown eyes with soft glossy catchlights, short neatly
+trimmed dark beard, wearing a navy-blue thobe with subtle tonal
+stripe-weave texture, simple white embroidered cap, tall
+broad-shouldered 3D animated adult body build with gentle rounded
+proportions, soft dark-brown sandals, calm warm closed-mouth smile,
+kneeling down to child's eye-level with one hand gently extended,
+warm-toned indoor home background with soft bokeh, evening lamp
+lighting, Pixar-style 3D animated character render, Blender Cycles /
+Octane render quality, soft global illumination, warm key light with
+cool rim light, subsurface scattering skin shading, glossy catchlight
+eyes, clean studio-neutral background, centered composition, 16:9
+aspect ratio, ultra high detail, 8K render quality, smooth soft
+shadows, kid-friendly warm color grading, no text, no watermark"
+
+═══════════════════════════════════════════════════════════════════
+CHARACTER 5: UMMI LAYLA (Mother)
+═══════════════════════════════════════════════════════════════════
+
+LOCKED DESCRIPTION BLOCK:
+"Ummi Layla, a gentle and nurturing Muslim mother character, soft
+warm-tan skin tone, large soft brown eyes with warm glossy catchlights
+and gentle lashes, wearing a lavender hijab with a delicate white lace
+trim framing her face, flowing lavender abaya with subtle floral
+embroidery at the sleeves, graceful 3D animated adult female body
+build with soft rounded proportions, soft cream flat shoes, default
+expression: warm serene smile, calm nurturing posture with hands
+gently clasped"
+
+MASTER TURNAROUND PROMPT:
+"Character turnaround sheet, three views (front, 3/4 side, full profile)
+of Ummi Layla, a gentle and nurturing Muslim mother character, soft
+warm-tan skin tone, large soft brown eyes with warm glossy catchlights
+and gentle lashes, wearing a lavender hijab with a delicate white lace
+trim framing her face, flowing lavender abaya with subtle floral
+embroidery at the sleeves, graceful 3D animated adult female body
+build with soft rounded proportions, soft cream flat shoes, neutral
+standing pose in front view, arms relaxed in side views, Pixar-style
+3D animated character render, Blender Cycles / Octane render quality,
+soft global illumination, warm key light with cool rim light,
+subsurface scattering skin shading, glossy catchlight eyes, clean
+studio-neutral background, centered composition, 16:9 aspect ratio,
+ultra high detail, 8K render quality, smooth soft shadows,
+kid-friendly warm color grading, no text, no watermark"
+
+HERO PORTRAIT PROMPT:
+"Ummi Layla, a gentle and nurturing Muslim mother character, soft
+warm-tan skin tone, large soft brown eyes with warm glossy catchlights
+and gentle lashes, wearing a lavender hijab with a delicate white lace
+trim framing her face, flowing lavender abaya with subtle floral
+embroidery at the sleeves, graceful 3D animated adult female body
+build with soft rounded proportions, soft cream flat shoes, warm
+serene smile, sitting on a bed tucking in a blanket with a tender
+expression, soft warm-toned bedroom background with moonlight through
+a window, soft bokeh, Pixar-style 3D animated character render,
+Blender Cycles / Octane render quality, soft global illumination, warm
+key light with cool rim light, subsurface scattering skin shading,
+glossy catchlight eyes, clean studio-neutral background, centered
+composition, 16:9 aspect ratio, ultra high detail, 8K render quality,
+smooth soft shadows, kid-friendly warm color grading, no text, no
+watermark"
+
+═══════════════════════════════════════════════════════════════════
+CHARACTER 6: NURI (Recurring Mascot — Lamb)
+═══════════════════════════════════════════════════════════════════
+
+LOCKED DESCRIPTION BLOCK:
+"Nuri, a small fluffy white lamb mascot character, rounded soft cotton-
+textured wool body, large round dark eyes with bright glossy
+catchlights, small pink nose, short stubby legs with small black
+hooves, wearing a sky-blue collar with a small gold crescent-moon
+charm pendant, stylized chibi-proportioned 3D animated body build
+(oversized head-to-body ratio approximately 1:1.5), default expression:
+joyful open-mouth smile, bouncy energetic posture"
+
+MASTER TURNAROUND PROMPT:
+"Character turnaround sheet, three views (front, 3/4 side, full profile)
+of Nuri, a small fluffy white lamb mascot character, rounded soft
+cotton-textured wool body, large round dark eyes with bright glossy
+catchlights, small pink nose, short stubby legs with small black
+hooves, wearing a sky-blue collar with a small gold crescent-moon
+charm pendant, stylized chibi-proportioned 3D animated body build,
+neutral standing pose in front view, side views showing full body
+profile, Pixar-style 3D animated character render, Blender Cycles /
+Octane render quality, soft global illumination, warm key light with
+cool rim light, subsurface scattering skin shading, glossy catchlight
+eyes, clean studio-neutral background, centered composition, 16:9
+aspect ratio, ultra high detail, 8K render quality, smooth soft
+shadows, kid-friendly warm color grading, no text, no watermark"
+
+HERO PORTRAIT PROMPT:
+"Nuri, a small fluffy white lamb mascot character, rounded soft cotton-
+textured wool body, large round dark eyes with bright glossy
+catchlights, small pink nose, short stubby legs with small black
+hooves, wearing a sky-blue collar with a small gold crescent-moon
+charm pendant, stylized chibi-proportioned 3D animated body build,
+joyful open-mouth smile, mid-hop playful pose with ears bouncing,
+blurred warm-toned meadow background with soft bokeh flowers,
+golden-hour lighting, Pixar-style 3D animated character render,
+Blender Cycles / Octane render quality, soft global illumination, warm
+key light with cool rim light, subsurface scattering skin shading,
+glossy catchlight eyes, clean studio-neutral background, centered
+composition, 16:9 aspect ratio, ultra high detail, 8K render quality,
+smooth soft shadows, kid-friendly warm color grading, no text, no
+watermark"
+
+═══════════════════════════════════════════════════════════════════
+CONSISTENCY RULES (apply across all future scene prompts)
+═══════════════════════════════════════════════════════════════════
+
+1. Never shorten or paraphrase a LOCKED DESCRIPTION BLOCK — copy it
+   character-for-character every time, exactly as you do for your
+   Bible Story Network DSLR system.
+2. When multiple characters appear in one scene, stack their locked
+   blocks back-to-back separated by "and", then add the scene action,
+   then close with the universal render suffix exactly once at the end
+   (not once per character).
+3. Generate each MASTER TURNAROUND PROMPT first and lock it as your
+   reference sheet before producing any scene image — this is your
+   single source of truth for that character going forward.
+4. Keep the render-style suffix identical across every character and
+   every scene — this is what makes the whole channel look like one
+   unified show, the same way Old Ibrahim looks identical across all
+   of the competitor's videos.

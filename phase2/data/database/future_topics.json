@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "topics": [
+    {
+      "topic_id": "t_good_manners_intro",
+      "title": "Introduction to Good Manners",
+      "category": "good_manners",
+      "planned_age": 3,
+      "priority": 1
+    },
+    {
+      "topic_id": "t_ramadan_intro",
+      "title": "What is Ramadan?",
+      "category": "festivals",
+      "planned_age": 4,
+      "priority": 3
+    },
+    {
+      "topic_id": "t_salah_intro",
+      "title": "Introduction to Prayer",
+      "category": "worship",
+      "planned_age": 6,
+      "priority": 5
+    },
+    {
+      "topic_id": "t_zakat_intro",
+      "title": "Sharing with Others",
+      "category": "values",
+      "planned_age": 6,
+      "priority": 6
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "total_planned": 4
+  }
+}

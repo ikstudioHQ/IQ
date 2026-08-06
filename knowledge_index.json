@@ -1,0 +1,261 @@
+{
+  "schema_version": "2.1",
+  "version": "2.72",
+  "updated_at": "2026-08-05T18:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "description": "Fast AI retrieval index mapping concepts to files",
+  "confidence_system": "verified",
+  "entries": {
+    "dua": [
+      "phase2/data/islamic/duas.json",
+      "phase1/docs/islamic/ISLAMIC.md"
+    ],
+    "ramadan": [
+      "phase3/knowledge/curriculum/knowledge_curriculum.json",
+      "phase2/data/islamic/festivals.json",
+      "sources/islamic/islamic_sources.md"
+    ],
+    "eid": [
+      "phase2/data/islamic/festivals.json",
+      "phase3/knowledge/curriculum/knowledge_curriculum.json"
+    ],
+    "good_manners": [
+      "phase2/data/islamic/good_manners.json",
+      "phase3/knowledge/curriculum/knowledge_curriculum.json",
+      "phase1/docs/islamic/ISLAMIC.md"
+    ],
+    "prophets": [
+      "phase2/data/islamic/prophets.json",
+      "phase1/docs/islamic/ISLAMIC.md"
+    ],
+    "characters": [
+      "sources/characters/character_index.json",
+      "sources/characters/character_system.md",
+      "sources/characters/character_schema.json",
+      "sources/characters/characters/zayd.md",
+      "sources/characters/characters/amira.md",
+      "sources/characters/characters/dada_yusuf.md",
+      "sources/characters/characters/baba_ahmad.md",
+      "sources/characters/characters/ummi_layla.md",
+      "sources/characters/characters/nuri.md",
+      "sources/characters/character_generation_rules.md",
+      "sources/characters/character_render_rules.md",
+      "sources/characters/character_consistency_rules.md",
+      "phase3/knowledge/characters/knowledge_characters.json",
+      "phase2/data/database/character_relationships.json",
+      "phase2/data/database/character_versions.json"
+    ],
+    "world": [
+      "phase3/knowledge/world/knowledge_world.json",
+      "phase1/docs/world/WORLD.md"
+    ],
+    "curriculum": [
+      "phase3/knowledge/curriculum/knowledge_curriculum.json",
+      "phase2/data/database/available_topics.json",
+      "phase2/data/database/learning_progress.json",
+      "phase1/docs/curriculum/CHILD_DEVELOPMENT_MATRIX.md",
+      "phase3/knowledge/curriculum/knowledge_coverage_matrix.md",
+      "phase5/orchestration/planning/episode_topic_bank.json",
+      "phase5/orchestration/planning/song_topic_bank.json"
+    ],
+    "language": [
+      "phase2/data/language/pronunciation_dictionary.json",
+      "phase2/data/language/arabic_words.json",
+      "phase2/data/language/islamic_names.json"
+    ],
+    "education": [
+      "phase3/knowledge/education/knowledge_education.json",
+      "phase3/knowledge/curriculum/knowledge_curriculum.json"
+    ],
+    "story": [
+      "phase3/knowledge/story/knowledge_story.json",
+      "phase1/docs/story/STORY.md",
+      "phase3/knowledge/story/conflict_library.json",
+      "phase3/knowledge/story/curiosity_hooks.json",
+      "phase3/knowledge/story/ending_styles.json",
+      "phase3/knowledge/story/emotion_database.json",
+      "phase3/knowledge/story/story_patterns.json"
+    ],
+    "psychology": [
+      "psychology/knowledge/psychology_knowledge.md",
+      "psychology/attention/attention_spans.md",
+      "psychology/motivation/motivation_notes.md"
+    ],
+    "seo": [
+      "phase2/data/seo/keyword_database.csv",
+      "phase1/docs/seo/SEO.md",
+      "phase1/docs/seo/COMPETITOR_STRATEGY.md",
+      "phase2/data/database/competitor_benchmark.json"
+    ],
+    "voice": [
+      "phase2/data/language/tts_dictionary.json",
+      "phase2/data/language/pronunciation_dictionary.json",
+      "phase1/docs/voice/VOICE.md"
+    ],
+    "animation": [
+      "phase1/docs/animation/ANIMATION.md",
+      "phase4/engine/animation/style_template.md"
+    ],
+    "brand": [
+      "phase1/docs/brand/BRAND.md",
+      "DESIGN_PRINCIPLES.md",
+      "sources/business/business_sources.md"
+    ],
+    "rules": [
+      "phase1/docs/rules/RULES.md",
+      "DESIGN_PRINCIPLES.md"
+    ],
+    "memory": [
+      "phase2/data/database/current_state.json",
+      "phase2/data/database/last_episode.json",
+      "phase2/data/database/world_state.json",
+      "phase2/data/database/generation_log.json",
+      "phase1/docs/memory/MEMORY.md"
+    ],
+    "pipeline": [
+      "phase5/orchestration/pipelines/ai_pipeline.md",
+      "phase5/orchestration/workflows/generation_workflow.md"
+    ],
+    "quality": [
+      "phase5/orchestration/quality/quality_workflow.md",
+      "phase4/engine/checklists/qa_checklist.md",
+      "phase4/engine/quality/rubric.md",
+      "phase3/knowledge/failures/repeated_story.md",
+      "phase3/knowledge/failures/weak_thumbnail.md",
+      "phase3/knowledge/failures/confusing_dialogue.md",
+      "phase3/knowledge/failures/pacing_problem.md",
+      "archive/audits/AUDIT_REPORT.md"
+    ],
+    "research": [
+      "research/claude/claude_research_notes.md",
+      "research/kimi/kimi_research_notes.md",
+      "research/market/market_research_notes.md",
+      "research/competitors/competitor_analysis.md",
+      "research/youtube/youtube_research_notes.md"
+    ],
+    "sources": [
+      "sources/market/source_database.md",
+      "sources/psychology/psychology_sources.md",
+      "sources/youtube/youtube_source_notes.md",
+      "sources/education/education_sources.md",
+      "sources/islamic/islamic_sources.md",
+      "sources/business/business_sources.md"
+    ],
+    "asset_registry_expanded": [
+      "phase2/data/database/asset_registry.json"
+    ],
+    "decisions": [
+      "phase1/docs/decisions/DECISION.md",
+      "phase1/docs/decisions/adr/ADR_001_character_system.md",
+      "phase1/docs/decisions/adr/ADR_002_visual_style.md",
+      "phase1/docs/decisions/adr/ADR_003_curriculum_order.md",
+      "phase1/docs/decisions/adr/ADR_004_prompt_strategy.md",
+      "archive/audits/AUDIT_REPORT.md"
+    ],
+    "concepts": [
+      "phase3/knowledge/concepts/concept_tawakkul.json",
+      "phase3/knowledge/concepts/concept_gratitude.json",
+      "phase3/knowledge/concepts/concept_honesty.json",
+      "phase3/knowledge/concepts/concept_patience.json",
+      "phase3/knowledge/concepts/concept_kindness.json",
+      "phase3/knowledge/concepts/concept_forgiveness.json",
+      "phase3/knowledge/concepts/concept_generosity.json",
+      "phase3/knowledge/concepts/concept_humility.json",
+      "phase3/knowledge/concepts/concept_prayer.json",
+      "phase3/knowledge/concepts/concept_respect_for_parents.json",
+      "phase3/knowledge/concepts/concept_cleanliness.json",
+      "phase3/knowledge/concepts/concept_courage.json",
+      "phase3/knowledge/concepts/concept_community.json",
+      "phase3/knowledge/concepts/concept_mercy.json",
+      "phase3/knowledge/concepts/concept_justice.json",
+      "phase3/knowledge/concepts/concept_self_control.json",
+      "phase3/knowledge/concepts/concept_trustworthiness.json",
+      "phase3/knowledge/concepts/concept_perseverance.json",
+      "phase3/knowledge/concepts/concept_compassion_for_animals.json",
+      "phase3/knowledge/concepts/concept_charity.json"
+    ],
+    "vocabulary": [
+      "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "phase2/data/language/pronunciation_dictionary.json",
+      "phase2/data/language/arabic_words.json"
+    ],
+    "planning": [
+      "phase5/orchestration/planning/topic_planner.md",
+      "phase5/orchestration/planning/knowledge_builder_pipeline.md",
+      "phase5/orchestration/planning/retrieval_ranking.md",
+      "phase5/orchestration/planning/recommended_story_combinations.md",
+      "phase5/orchestration/planning/execution_modes.md",
+      "tools/preflight_check.py",
+      "tools/episode_consistency_check.py",
+      "phase4/engine/teaching/teaching_strategy.json",
+      "phase2/data/config/retrieval_ranking_weights.yaml",
+      "phase2/data/database/hijri_calendar_schedule.json",
+      "phase2/data/database/creator_edits_log.json"
+    ],
+    "community": [
+      "phase1/docs/community/MODERATION.md",
+      "phase1/docs/community/PARENT_TRUST_PAGE.md",
+      "phase1/docs/community/SPONSORSHIP_POLICY.md",
+      "phase1/docs/governance/dispute_response.md",
+      "sources/characters/GUEST_CHARACTERS.md"
+    ],
+    "shorts": [
+      "phase4/engine/prompts/shorts_prompt.md"
+    ],
+    "governance": [
+      "phase1/docs/governance/authority_rules.md",
+      "phase1/docs/governance/conflict_resolution.md",
+      "phase1/docs/governance/review_workflow.md",
+      "phase1/docs/governance/deprecation_policy.md",
+      "phase1/docs/governance/versioning_policy.md",
+      "phase1/docs/governance/change_log_policy.md",
+      "phase1/docs/governance/dispute_response.md",
+      "phase1/docs/governance/verification_pipeline.md",
+      "phase1/docs/governance/religious_data_integrity_audit.md",
+      "phase1/docs/governance/human_review_queue.md",
+      "phase1/docs/governance/religious_production_allowlist.json",
+      "phase1/docs/governance/religious_production_blocklist.json",
+      "phase2/data/safety/review_resolutions.json"
+    ],
+    "character_module": [
+      "sources/characters/README.md",
+      "sources/characters/character_system.md",
+      "sources/characters/character_index.json",
+      "sources/characters/character_schema.json",
+      "sources/characters/character_generation_rules.md",
+      "sources/characters/character_render_rules.md",
+      "sources/characters/character_consistency_rules.md",
+      "sources/characters/character_master_library.json"
+    ],
+    "islamic": [
+      "phase2/data/islamic/duas.json",
+      "phase2/data/islamic/hadith.json",
+      "phase2/data/islamic/quran_verses.json",
+      "phase2/data/islamic/prophets.json",
+      "phase2/data/islamic/companions.json",
+      "phase2/data/islamic/good_manners.json",
+      "phase2/data/islamic/daily_sunnah.json",
+      "phase2/data/islamic/festivals.json",
+      "sources/islamic_books/CATALOG.md",
+      "phase1/docs/islamic/ISLAMIC.md"
+    ],
+    "production": [
+      "sources/production/location_library.json",
+      "sources/production/wardrobe_library.json",
+      "sources/production/prop_registry.json"
+    ],
+    "generated": [
+      "generated/repository_fingerprint.json",
+      "generated/source_of_truth_registry.json",
+      "generated/feature_registry.json",
+      "generated/task_router.json",
+      "generated/relationship_graph.json",
+      "generated/production_registry.json",
+      "runtime/runtime_manifest.json",
+      "tools/compile_runtime.py"
+    ]
+  },
+  "search_instructions": "Load this index first. Use the array under each concept key to find relevant files. Confirm file exists before using. Reference DESIGN_PRINCIPLES.md for all quality and brand rules.",
+  "version_note": "v1.1 \u2014 Added source references, confidence links, psychology module integration, research archive links."
+}

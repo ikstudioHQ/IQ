@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_083_booboo",
+  "canonical_name": "Boo-Boo (OPTIONAL — confirm before finalizing)",
+  "aliases": [],
+  "role_relation": "Comfort/bedtime plush-toy companion — generic bedtime/",
+  "age": "n/a (plush toy)",
+  "is_speaking": false,
+  "appearance": {
+    "canonical_description": "Boo-Boo — a soft round plush teddy bear, warm honey-brown fuzzy fur texture, oversized rounded ears, simple stitched button eyes, small stitched smile, wearing a tiny cream-knit scarf, well-loved slightly worn plush texture with one small visible stitched patch on one paw. 3D animated children's feature-film style, soft rounded shapes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, cozy huggable proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, no text, no watermark.",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Boo-Boo, exact same canonical identity: warm honey-brown fuzzy plush fur, oversized rounded ears, stitched button eyes, stitched smile, cream-knit scarf, stitched patch on one paw. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep fur color, stitching details, scarf and patch identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, cozy huggable proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "expression_prompt": "Boo-Boo, exact same canonical identity: warm honey-brown fuzzy plush fur, stitched button eyes, stitched smile, cream-knit scarf. Expression sheet with neutral-resting, happy-hug-pose, sleepy-eyes-closing, being- held, tucked-in-bedtime, gentle-tilt, cozy-content, peeking-curious, settled-still, dreamy. Head-and-shoulders/full-body grid as appropriate, identical identity, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, cozy huggable proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "n/a (typically non-speaking, or very soft simple sounds",
+    "voice_master": null
+  },
+  "restrictions": null,
+  "production_priority": null,
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_083_booboo_approved_reference",
+      "path": "sources/characters/reference_images/83. Boo-Boo.png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

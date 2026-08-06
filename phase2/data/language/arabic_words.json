@@ -1,0 +1,48 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "words": [
+    {
+      "arabic_script": "السلام عليكم",
+      "transliteration": "Assalamu Alaikum",
+      "meaning_english": "Peace be upon you",
+      "category": "greeting",
+      "usage_level": "beginner"
+    },
+    {
+      "arabic_script": "الحمد لله",
+      "transliteration": "Alhamdulillah",
+      "meaning_english": "All praise is for Allah",
+      "category": "praise",
+      "usage_level": "beginner"
+    },
+    {
+      "arabic_script": "بسم الله",
+      "transliteration": "Bismillah",
+      "meaning_english": "In the name of Allah",
+      "category": "invocation",
+      "usage_level": "beginner"
+    },
+    {
+      "arabic_script": "إن شاء الله",
+      "transliteration": "Insha Allah",
+      "meaning_english": "If Allah wills",
+      "category": "expression",
+      "usage_level": "intermediate"
+    },
+    {
+      "arabic_script": "جزاك الله خيرا",
+      "transliteration": "Jazakallahu Khairan",
+      "meaning_english": "May Allah reward you with good",
+      "category": "thanks",
+      "usage_level": "advanced"
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "total_words": 5
+  }
+}

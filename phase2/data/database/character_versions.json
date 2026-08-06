@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "versions": [
+    {
+      "character_id": "char_001_zayd",
+      "version_id": "v2.0",
+      "description": "Canonical visual identity resolves from sources/characters/character_master_library.json; no duplicate inline wardrobe authority.",
+      "created_at": "2026-07-30",
+      "status": "active",
+      "asset_path": "assets/characters/zayd_turnaround.jpeg"
+    },
+    {
+      "character_id": "char_002_amira",
+      "version_id": "v2.0",
+      "description": "Canonical visual identity resolves from sources/characters/character_master_library.json; no duplicate inline wardrobe authority.",
+      "created_at": "2026-07-30",
+      "status": "active",
+      "asset_path": "assets/characters/amira_turnaround.jpeg"
+    },
+    {
+      "character_id": "char_dada_yusuf",
+      "version_id": "v2.0",
+      "description": "Locked design — teal jubbah, white turban (sources/characters/characters/dada_yusuf.md)",
+      "created_at": "2026-07-30",
+      "status": "active",
+      "asset_path": "assets/characters/dada_yusuf_turnaround.jpeg"
+    },
+    {
+      "character_id": "char_baba_ahmad",
+      "version_id": "v2.0",
+      "description": "Locked design — navy-blue thobe (sources/characters/characters/baba_ahmad.md)",
+      "created_at": "2026-07-30",
+      "status": "active",
+      "asset_path": "assets/characters/baba_ahmad_turnaround.jpeg"
+    },
+    {
+      "character_id": "char_ummi_layla",
+      "version_id": "v2.0",
+      "description": "Locked design — lavender hijab and abaya (sources/characters/characters/ummi_layla.md)",
+      "created_at": "2026-07-30",
+      "status": "active",
+      "asset_path": "assets/characters/ummi_layla_turnaround.jpeg"
+    },
+    {
+      "character_id": "char_nuri",
+      "version_id": "v2.0",
+      "description": "Locked design — white lamb mascot, sky-blue collar (sources/characters/characters/nuri.md)",
+      "created_at": "2026-07-30",
+      "status": "active",
+      "asset_path": "assets/characters/nuri_turnaround.jpeg"
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ"
+  }
+}

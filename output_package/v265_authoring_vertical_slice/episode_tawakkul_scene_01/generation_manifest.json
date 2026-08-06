@@ -1,0 +1,21 @@
+{
+  "schema_version": "2.65",
+  "parent_type": "episode",
+  "parent_id": "ep_tawakkul_lost_toy",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "generation_ready": true,
+  "units": [
+    {
+      "generation_unit_id": "ep_tawakkul_s01_u01",
+      "prompt": "ep_tawakkul_s01_u01.md",
+      "duration_seconds": 7.5,
+      "exact_character_count": 3
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_s01_u02",
+      "prompt": "ep_tawakkul_s01_u02.md",
+      "duration_seconds": 7.5,
+      "exact_character_count": 3
+    }
+  ]
+}

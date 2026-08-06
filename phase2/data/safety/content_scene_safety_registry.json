@@ -1,0 +1,266 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "note": "Content & Scene Safety Policy -- general child-safety rules distinct from phase2/data/safety/content_restrictions.json's Islamic-specific restrictions. Wired into the SAME check_content_restrictions() enforcement path (episode_consistency_check.py), not a parallel checker. Every BLOCK/REVIEW_REQUIRED here is a channel/child-safety policy decision, never a claimed Islamic ruling (those remain in content_restrictions.json with real evidence).",
+  "total_rules": 13,
+  "rules": [
+    {
+      "rule_id": "safety_001",
+      "category": "SEXUAL_CONTENT",
+      "description": "Pornographic, sexualized, or sexually suggestive content of any kind, especially involving minors.",
+      "decision": "BLOCK",
+      "context_allowed": false,
+      "applies_to": [
+        "script",
+        "lyrics",
+        "image_prompt",
+        "animation_prompt"
+      ],
+      "aliases": [
+        "nude",
+        "naked",
+        "sexual",
+        "sexually",
+        "sex scene",
+        "erotic",
+        "seductive",
+        "provocative pose",
+        "revealing outfit",
+        "pornographic",
+        "nudity",
+        "sexualized",
+        "sexualize",
+        "sexualization"
+      ],
+      "review_required": false,
+      "notes": "Zero tolerance, no context exception. Existing critical_child_safety rules elsewhere in this system already govern this absolutely; this registry entry ensures the same production-packaging gate enforces it."
+    },
+    {
+      "rule_id": "safety_002",
+      "category": "LANGUAGE_SAFETY",
+      "description": "Profanity, obscenity, slurs, degrading insults, threats.",
+      "decision": "BLOCK",
+      "context_allowed": true,
+      "applies_to": [
+        "script",
+        "lyrics",
+        "tts"
+      ],
+      "aliases": [
+        "stupid and worthless",
+        "i hate you",
+        "you are worthless",
+        "shut up idiot",
+        "you are useless",
+        "damn",
+        "hell no",
+        "bullshit",
+        "damn it",
+        "goddamn"
+      ],
+      "review_required": false,
+      "notes": "Context matters: an educational mention of 'bad words exist, don't use them' is different from a character actually saying one. This registry flags literal use only; discussion-about-language is not blocked. Real word list populated after adversarial testing found the placeholder was never filled in -- this list remains intentionally small/conservative (severe, unambiguous cases only) since children's-show conflict dialogue legitimately includes mild friction ('that's not fair!') that must not be blocked."
+    },
+    {
+      "rule_id": "safety_003",
+      "category": "GRAPHIC_VIOLENCE",
+      "description": "Gore, torture, graphic injury, glorified fighting/weapons used aggressively.",
+      "decision": "BLOCK",
+      "context_allowed": false,
+      "applies_to": [
+        "script",
+        "image_prompt",
+        "animation_prompt"
+      ],
+      "aliases": [
+        "blood",
+        "gore",
+        "torture",
+        "tortured",
+        "torturing",
+        "stab",
+        "stabbed",
+        "shoot to kill",
+        "graphic wound",
+        "brutally"
+      ],
+      "review_required": false,
+      "notes": "Reuses/aligns with existing restriction_005 (violence) in content_restrictions.json -- not a duplicate ruling, a parallel enforcement surface for the same policy."
+    },
+    {
+      "rule_id": "safety_004",
+      "category": "SELF_HARM_SUICIDE",
+      "description": "Self-harm or suicide content involving children.",
+      "decision": "BLOCK",
+      "context_allowed": false,
+      "applies_to": [
+        "script",
+        "lyrics"
+      ],
+      "aliases": [
+        "self-harm",
+        "suicide",
+        "kill myself"
+      ],
+      "review_required": false,
+      "notes": "Absolute block, no exceptions for this channel's audience."
+    },
+    {
+      "rule_id": "safety_005",
+      "category": "SUBSTANCE_GLORIFICATION",
+      "description": "Drug use, intoxicant/alcohol promotion, smoking/vaping shown positively.",
+      "decision": "BLOCK",
+      "context_allowed": true,
+      "applies_to": [
+        "script",
+        "image_prompt"
+      ],
+      "aliases": [
+        "get drunk",
+        "smoking is cool",
+        "drugs are fun"
+      ],
+      "review_required": false,
+      "notes": "Islamic ruling on alcohol lives in restriction_007 (content_restrictions.json, VERIFIED_ISLAMIC_RESTRICTION). This entry is the separate CHILD_SAFETY_POLICY layer -- glorification/promotion is blocked as child-safety regardless of the religious ruling."
+    },
+    {
+      "rule_id": "safety_006",
+      "category": "GAMBLING_GLORIFICATION",
+      "description": "Gambling shown positively/glamorously.",
+      "decision": "BLOCK",
+      "context_allowed": true,
+      "applies_to": [
+        "script",
+        "image_prompt"
+      ],
+      "aliases": [
+        "betting is exciting",
+        "casino",
+        "lottery win glorified"
+      ],
+      "review_required": false,
+      "notes": "Parallels restriction_008 (Islamic ruling) with a CHILD_SAFETY_POLICY layer -- glorification blocked regardless of religious classification."
+    },
+    {
+      "rule_id": "safety_007",
+      "category": "CRIME_GLORIFICATION",
+      "description": "Theft, vandalism, or crime presented positively/rewarded.",
+      "decision": "BLOCK",
+      "context_allowed": true,
+      "applies_to": [
+        "script"
+      ],
+      "aliases": [
+        "stealing is smart",
+        "vandalism is cool",
+        "celebrated how clever",
+        "everyone praised him for stealing",
+        "rewarded for stealing"
+      ],
+      "review_required": false,
+      "notes": "A character making a mistake and facing consequence/learning is NOT this category -- see safety_012 for the distinction. KNOWN LIMITATION found via real adversarial testing: 'he stole the toy and everyone celebrated how clever he was' was NOT caught before this fix, and countless other paraphrases of the same pattern still won't be -- keyword lists cannot achieve full semantic coverage of 'theft framed as admirable' in all its phrasings. This is a genuine, permanent limitation of pattern-based detection, not a bug to be fully closed by adding more phrases. Human review remains necessary for subtler cases."
+    },
+    {
+      "rule_id": "safety_008",
+      "category": "DANGEROUS_IMITABLE_BEHAVIOR",
+      "description": "Dangerous stunts, fire/electrical hazards, reckless behavior presented as imitable by children.",
+      "decision": "REVIEW_REQUIRED",
+      "context_allowed": true,
+      "applies_to": [
+        "script",
+        "image_prompt",
+        "animation_prompt"
+      ],
+      "aliases": [
+        "dangerous stunt",
+        "playing with fire",
+        "reckless"
+      ],
+      "review_required": true,
+      "notes": "REVIEW not BLOCK, since e.g. 'don't play with matches' safety-lesson content legitimately mentions the hazard to teach avoiding it."
+    },
+    {
+      "rule_id": "safety_009",
+      "category": "HATE_DISCRIMINATION",
+      "description": "Hatred or hostility toward a group based on religion, nationality, ethnicity, race, disability, gender, profession, or region; portraying an entire group as inherently bad.",
+      "decision": "BLOCK",
+      "context_allowed": false,
+      "applies_to": [
+        "script",
+        "lyrics"
+      ],
+      "aliases": [
+        "all of them are bad",
+        "that whole group is dishonest",
+        "they are all dangerous",
+        "their entire people are"
+      ],
+      "review_required": false,
+      "notes": "Individual character flaws are fine; attributing them to an entire real-world group is not. Real phrase list populated after adversarial testing found the original aliases were literal unmatchable bracket placeholders ('all [group] are bad'), not real text -- a genuine bug, not just a coverage gap."
+    },
+    {
+      "rule_id": "safety_010",
+      "category": "EXTREMISM_TERRORISM",
+      "description": "Glorification of terrorism, violent extremism, attacks on civilians, incitement to violence.",
+      "decision": "BLOCK",
+      "context_allowed": false,
+      "applies_to": [
+        "script",
+        "lyrics"
+      ],
+      "aliases": [
+        "terrorism",
+        "attack civilians",
+        "join the fighters"
+      ],
+      "review_required": false,
+      "notes": "Absolute block, no context exception for a children's channel."
+    },
+    {
+      "rule_id": "safety_011",
+      "category": "ANIMAL_CRUELTY",
+      "description": "Animal cruelty depicted without clear condemnation.",
+      "decision": "BLOCK",
+      "context_allowed": true,
+      "applies_to": [
+        "script",
+        "image_prompt"
+      ],
+      "aliases": [
+        "hurt the animal",
+        "animal cruelty"
+      ],
+      "review_required": false,
+      "notes": "Real, normal pet/farm/wildlife/educational animal content remains fully allowed -- see phase2/data/safety/animal_policy_registry.json for the structured per-species registry, not a blacklist."
+    },
+    {
+      "rule_id": "safety_012",
+      "category": "DEPICTION_FOR_LESSON_ALLOWANCE",
+      "description": "NOT a restriction -- a documented exception. A mistake shown, then corrected/apologized for, is ALLOW. Bullying shown briefly and clearly condemned is ALLOW_WITH_CONTEXT. Bullying celebrated/unaddressed is BLOCK (see safety_013).",
+      "decision": "ALLOW",
+      "context_allowed": true,
+      "applies_to": [
+        "script"
+      ],
+      "aliases": [],
+      "review_required": false,
+      "notes": "This entry exists so the scanner has an explicit documented carve-out, not an implicit one a future editor might remove by accident."
+    },
+    {
+      "rule_id": "safety_013",
+      "category": "BULLYING_GLORIFIED",
+      "description": "Bullying/cruelty shown as admirable, funny at the victim's expense with no consequence, or encouraged.",
+      "decision": "BLOCK",
+      "context_allowed": false,
+      "applies_to": [
+        "script"
+      ],
+      "aliases": [
+        "bullying is funny",
+        "bully wins"
+      ],
+      "review_required": false,
+      "notes": "Distinct from safety_012's allowed depiction-for-lesson case."
+    }
+  ]
+}

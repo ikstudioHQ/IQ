@@ -1,0 +1,14 @@
+{
+  "season_id": "cg_nuri_season",
+  "status": "PASS",
+  "episode_count": 1,
+  "findings": [
+    {
+      "episode_id": "cg_ep_nuri",
+      "issue": "duplicate_character_in_thread",
+      "message": "Episode cg_ep_nuri's new 'running_joke' thread (\"Nuri the cat and Barq the kitten play together...\") lists character 'char_006_nuri' more than once in involved_characters. All IDs are individually valid, so registry validation alone cannot catch this -- likely a different intended character was meant here and either shares an ID by mistake or was never registered.",
+      "severity": "warning"
+    }
+  ],
+  "checked_at": "2026-08-06T12:48:04.127525+00:00"
+}

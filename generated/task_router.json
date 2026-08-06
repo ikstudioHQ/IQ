@@ -1,0 +1,67 @@
+{
+  "note": "Load ONLY these files for the given task type, instead of scanning the repository.",
+  "SONG": [
+    "phase5/orchestration/planning/song_topic_bank.json",
+    "phase3/knowledge/concepts/",
+    "sources/characters/character_master_library.json",
+    "phase2/data/safety/content_scene_safety_registry.json",
+    "tools/episode_consistency_check.py"
+  ],
+  "EPISODE": [
+    "phase5/orchestration/planning/episode_topic_bank.json",
+    "phase3/knowledge/concepts/",
+    "sources/characters/character_master_library.json",
+    "phase2/data/safety/content_scene_safety_registry.json",
+    "tools/episode_consistency_check.py"
+  ],
+  "VOICE": [
+    "sources/characters/character_master_library.json",
+    "sources/characters/voice_collision_matrix.json",
+    "sources/characters/voice_audition_manifest.json"
+  ],
+  "CHARACTER": [
+    "sources/characters/character_master_library.json",
+    "sources/characters/character_schema.json",
+    "sources/characters/ADD_NEW_CHARACTER.md"
+  ],
+  "CURRICULUM_KNOWLEDGE": [
+    "phase3/knowledge/concepts/",
+    "phase2/data/islamic/",
+    "phase3/knowledge/curriculum/knowledge_coverage_matrix.md"
+  ],
+  "GEMINI_EXPORT": [
+    "output_package/<episode>/gemini/",
+    "sources/production/location_library.json",
+    "sources/production/wardrobe_library.json",
+    "sources/production/prop_registry.json",
+    "tools/validate_dialogue_timing.py"
+  ],
+  "VALIDATOR": [
+    "tools/validate_repo.py",
+    "tools/episode_consistency_check.py"
+  ],
+  "DEVELOPER": [
+    "AI_BOOTSTRAP.md",
+    "AUTHORITY_HIERARCHY.md",
+    "generated/source_of_truth_registry.json"
+  ],
+  "REPOSITORY_MAINTENANCE": [
+    "VERSION_COMPATIBILITY.md",
+    "CHANGELOG.md",
+    "generated/repository_fingerprint.json"
+  ],
+  "PLANNING": [
+    "phase5/orchestration/planning/episode_topic_bank.json",
+    "phase5/orchestration/planning/song_topic_bank.json"
+  ],
+  "PUBLISHING": [
+    "tools/package_episode.py",
+    "phase2/data/safety/review_resolutions.json"
+  ],
+  "REGRESSION_TESTING": [
+    "tools/validate_repo.py",
+    "tools/episode_consistency_check.py",
+    "output_package/test_multiclip_scene/",
+    "output_package/test_song_scene/"
+  ]
+}

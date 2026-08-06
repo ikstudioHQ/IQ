@@ -1,0 +1,26 @@
+{
+  "schema_version": "2.71",
+  "episode_id": "rm_f537b73030",
+  "production_state": "GEMINI_READY",
+  "memory_consumed": [
+    "rm_1c729b4802"
+  ],
+  "stage_levels": {
+    "roadmap": "COMPLETE",
+    "script": "DRAFT_COMPLETE",
+    "logical_scenes": "DRAFT_COMPLETE",
+    "production_plans": "DRAFT_COMPLETE",
+    "generation_units": "DRAFT_COMPLETE",
+    "gemini_prompts": "DRAFT_COMPLETE",
+    "automated_qa": "COMPLETE"
+  },
+  "files": {
+    "script": "story_script.json",
+    "qa": "qa_report.json"
+  },
+  "determinism_hash": "4d44173c62230807d265d621d56f11246dc032ad04c6e9c3c550093c4d6b52e0",
+  "review_requirements": [
+    "HUMAN_CREATIVE_RENDER_REVIEW",
+    "ISLAMIC_REVIEW_AS_GOVERNED_BY_REFERENCED_EVIDENCE"
+  ]
+}

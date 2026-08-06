@@ -1,0 +1,53 @@
+{
+  "concept_id": "concept_forgiveness",
+  "name": "Forgiveness",
+  "definition_by_age": {
+    "4": "Saying it's okay after someone says sorry.",
+    "6": "Forgiveness means letting go of upset feelings when someone makes a mistake and says sorry.",
+    "8": "Forgiveness is choosing to release anger and give someone another chance, the way Allah forgives us."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe forgiving a friend after a small mistake.",
+  "related_quran": [
+    "qv_008"
+  ],
+  "related_hadith": [],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [],
+  "related_conflicts": [
+    "cf_019",
+    "cf_025"
+  ],
+  "recommended_age_range": [
+    5,
+    7
+  ],
+  "version": "v1.0",
+  "citation_verified": false,
+  "source_verified": false,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_025",
+    "pattern_id": "pattern_008",
+    "hook_id": "hook_004",
+    "ending_id": "end_003",
+    "emotion": "relief",
+    "note": "Reassigned 2026-08-05 during pattern-diversity fix (was pattern_002). Misunderstanding->Conversation->Reconciliation is the two-party pattern built for forgiveness — was on generic pattern_002."
+  },
+  "semantic_support": {
+    "qv_008": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Explicit command to pardon and overlook, directly on-topic for forgiveness.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_011",
+      "conflict_id": "cf_019",
+      "reasoning": "A sibling breaking something fits responsibility/trust-rebuild as well as reconciliation."
+    }
+  ]
+}

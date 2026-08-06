@@ -1,0 +1,18 @@
+{
+  "season_id": "cg_season5",
+  "status": "BLOCKED",
+  "episode_count": 1,
+  "findings": [
+    {
+      "source": "id_validation",
+      "id_type": "environment",
+      "invalid_id": "loc_999_fake",
+      "field": "environment_id",
+      "message": "Unknown location_id 'loc_999_fake' -- no matching entry in the Environment Registry (continuity/environment_bible/).",
+      "severity": "error",
+      "episode_id": "cg_ep01",
+      "scene_id": "s1"
+    }
+  ],
+  "checked_at": "2026-08-06T12:48:04.117926+00:00"
+}

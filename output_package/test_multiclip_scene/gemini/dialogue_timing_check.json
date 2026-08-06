@@ -1,0 +1,42 @@
+{
+  "CLIP_002": {
+    "dialogue": "Alhamdulillah, thank you for helping me carry these!",
+    "word_count": 8,
+    "pace": "medium",
+    "target_start": 2.5,
+    "target_end": 5.8,
+    "available_seconds": 3.3,
+    "estimated_speech_duration": 3.2,
+    "timing_status": "PASS"
+  },
+  "CLIP_003": {
+    "dialogue": "Of course! That's what family is for.",
+    "word_count": 7,
+    "pace": "medium",
+    "target_start": 2.0,
+    "target_end": 5.2,
+    "available_seconds": 3.2,
+    "estimated_speech_duration": 2.8,
+    "timing_status": "PASS"
+  },
+  "CLIP_005": {
+    "dialogue": "Bismillah.",
+    "word_count": 1,
+    "pace": "medium",
+    "target_start": 2.0,
+    "target_end": 3.5,
+    "available_seconds": 1.5,
+    "estimated_speech_duration": 0.4,
+    "timing_status": "PASS"
+  },
+  "CLIP_006": {
+    "dialogue": "Alhamdulillah, that was good.",
+    "word_count": 4,
+    "pace": "medium",
+    "target_start": 2.0,
+    "target_end": 4.0,
+    "available_seconds": 2.0,
+    "estimated_speech_duration": 1.6,
+    "timing_status": "PASS"
+  }
+}

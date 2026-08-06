@@ -1,0 +1,13 @@
+keyword_id,keyword,category,monthly_search_volume_est,competition,priority,channel_use,brand_alignment
+kw_001,Islamic Kids,primary,12000,medium,1,channel_name,Islamic Kids Studio
+kw_002,Islamic Stories for Kids,primary,9500,medium,1,content_series,Islamic Kids Studio
+kw_003,Muslim Kids,primary,8200,medium,1,audience,Islamic Kids Studio
+kw_004,Quran for Kids,primary,7800,low,2,content_series,Islamic Kids Studio
+kw_005,Dua for Kids,secondary,6500,low,2,content_series,Islamic Kids Studio
+kw_006,Islamic Cartoons,secondary,5400,medium,3,channel_description,Islamic Kids Studio
+kw_007,Islamic Learning,secondary,4300,low,3,content_series,Islamic Kids Studio
+kw_008,Ramadan for Kids,secondary,6200,medium,4,seasonal,Islamic Kids Studio
+kw_009,Eid for Kids,secondary,4100,low,4,seasonal,Islamic Kids Studio
+kw_010,Prophet Stories,secondary,3400,low,5,content_series,Islamic Kids Studio
+kw_011,Arabic for Kids,secondary,2800,low,5,language_series,Islamic Kids Studio
+kw_012,Good Manners in Islam,tertiary,2100,low,6,content_series,Islamic Kids Studio

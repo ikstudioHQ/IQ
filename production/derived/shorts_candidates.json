@@ -1,0 +1,10 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "DERIVED_OUTPUT_INDEX",
+  "policy": "Pointers only. Shorts never become a competing source of truth.",
+  "candidates": [
+    {"source_type":"song","source_id":"song_001","source_segment":"chorus","candidate_type":"song_chorus"},
+    {"source_type":"episode","source_id":"ep_tawakkul_lost_toy","source_segment":"scene_4","candidate_type":"emotional_moment"},
+    {"source_type":"episode","source_id":"ep_honesty_wallet_assisted","source_segment":"scene_4","candidate_type":"moral_choice"}
+  ]
+}

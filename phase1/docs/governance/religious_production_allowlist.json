@@ -1,0 +1,528 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "note": "Recalculated from real repository state, not asserted. Fail-closed: a record is eligible only if citation_verified AND source_verified are both true.",
+  "total_eligible": 52,
+  "records": [
+    {
+      "record_id": "sun_001",
+      "type": "daily_sunnah",
+      "canonical_reference": "sunnah.com — https://sunnah.com/riyadussalihin:727",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "sun_002",
+      "type": "daily_sunnah",
+      "canonical_reference": "sunnah.com — https://sunnah.com/riyadussalihin:727",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "sun_004",
+      "type": "daily_sunnah",
+      "canonical_reference": "internal — see mann_001",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "sun_005",
+      "type": "daily_sunnah",
+      "canonical_reference": "internal — see hd_010",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "dua_001",
+      "type": "duas",
+      "canonical_reference": "Sahih Muslim 2723 (simplified for children)",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "dua_002",
+      "type": "duas",
+      "canonical_reference": "Sahih al-Bukhari 5376 (simplified)",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "dua_003",
+      "type": "duas",
+      "canonical_reference": "Sahih al-Bukhari 5458 (simplified)",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "dua_004",
+      "type": "duas",
+      "canonical_reference": "Sahih al-Bukhari 6324 (simplified)",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "dua_005",
+      "type": "duas",
+      "canonical_reference": "en_Hisn_El_Muslim.pdf (Hisn al-Muslim / Fortress of the Muslim, Sa'id bin Ali bin Wahf Al-Qahtani)",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "dua_006",
+      "type": "duas",
+      "canonical_reference": "Stories Of The Prophets By Ibn Kathir.pdf",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "dua_007",
+      "type": "duas",
+      "canonical_reference": "cross-confirmed across 8+ independent sources — https://www.deenup.app/blog/dua-for-leaving-home",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "mann_001",
+      "type": "good_manners",
+      "canonical_reference": "https://www.deenup.app/blog/hadith-about-saying-salam",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "mann_002",
+      "type": "good_manners",
+      "canonical_reference": "https://sunnah.com/riyadussalihin:727",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "mann_003",
+      "type": "good_manners",
+      "canonical_reference": "internal — see hd_001/hd_004",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "mann_005",
+      "type": "good_manners",
+      "canonical_reference": "internal — see hd_010",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "mann_006",
+      "type": "good_manners",
+      "canonical_reference": "internal — see hd_011",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "mann_007",
+      "type": "good_manners",
+      "canonical_reference": "internal — see dua_003",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "mann_008",
+      "type": "good_manners",
+      "canonical_reference": "internal — see hd_009",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_001",
+      "type": "hadith",
+      "canonical_reference": "Sunan at-Tirmidhi 3895 (simplified for children)",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_002",
+      "type": "hadith",
+      "canonical_reference": "Sahih al-Bukhari 6018 (simplified)",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_003",
+      "type": "hadith",
+      "canonical_reference": "Sunan at-Tirmidhi 1919 (simplified)",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_004",
+      "type": "hadith",
+      "canonical_reference": "Simplified from multiple authentic sources (scholarly review recommended for direct citation)",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_005",
+      "type": "hadith",
+      "canonical_reference": "sunnah.com (the standard digital hadith reference database) — https://sunnah.com/bukhari:6094",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_006",
+      "type": "hadith",
+      "canonical_reference": "sunnah.com — https://sunnah.com/bukhari:6114",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_007",
+      "type": "hadith",
+      "canonical_reference": "abuaminaelias.com (academic librarian/translator specializing in Quran/Hadith) — cites Sahih al-Bukhari 1429 directly",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_008",
+      "type": "hadith",
+      "canonical_reference": "abuaminaelias.com, cross-confirmed hadeethenc.com — hd_bukhari 13 / hd_muslim 45",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_009",
+      "type": "hadith",
+      "canonical_reference": "sunnah.com — https://sunnah.com/muslim:223",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_010",
+      "type": "hadith",
+      "canonical_reference": "abuaminaelias.com (academic translator)",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_011",
+      "type": "hadith",
+      "canonical_reference": "abuaminaelias.com (academic translator), cross-confirmed across 5+ independent sources",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_012",
+      "type": "hadith",
+      "canonical_reference": "cross-confirmed across multiple independent sources",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_013",
+      "type": "hadith",
+      "canonical_reference": "cross-confirmed across 2 independent pages of the same source + Wikipedia-level general confirmation of Sahih Muslim as a real collection",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "hd_014",
+      "type": "hadith",
+      "canonical_reference": "sunnah.com — https://sunnah.com/abudawud:4941",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "prophet_nuh",
+      "type": "prophets",
+      "canonical_reference": "cross-confirmed across multiple sources — https://nidhe.org/the-story-of-prophet-nuh-noah-quran/",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "prophet_ibr",
+      "type": "prophets",
+      "canonical_reference": "cross-confirmed across multiple sources — https://www.omanobserver.om/article/1135762/features/books/prophet-ibrahim-and-the-fire",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "prophet_muh",
+      "type": "prophets",
+      "canonical_reference": "quran.com (Quran Foundation) — https://quran.com/en/al-ahzab/21",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "prophet_yunus",
+      "type": "prophets",
+      "canonical_reference": "Stories Of The Prophets By Ibn Kathir.pdf, chapter 'Prophet Yunus (Jonah)'",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_001",
+      "type": "quran_verses",
+      "canonical_reference": "cross-confirmed across multiple independent sources (quran411.com, le-coran.com) — https://quran.com/al-fatihah",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_002",
+      "type": "quran_verses",
+      "canonical_reference": "cross-confirmed across multiple independent sources (Wikipedia's own Arabic-with-diacritics rendering, quran.com) — https://quran.com/en/al-ikhlas",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_003",
+      "type": "quran_verses",
+      "canonical_reference": "cross-confirmed across multiple independent sources (quranwbw.com word-by-word, quran.com) — https://quran.com/al-asr",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_004",
+      "type": "quran_verses",
+      "canonical_reference": "en_Hisn_El_Muslim.pdf (Hisn al-Muslim / Fortress of the Muslim, Sa'id bin Ali bin Wahf Al-Qahtani), p.53, footnote 41, citing Surah Aal-e-Imran 3:159",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_005",
+      "type": "quran_verses",
+      "canonical_reference": "Stories Of The Prophets By Ibn Kathir.pdf, chapter 'Prophet Yunus (Jonah)', citing Surah Al-Anbiya 21:87",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_006",
+      "type": "quran_verses",
+      "canonical_reference": "quran.com (Quran Foundation, 501(c)(3) non-profit) — https://quran.com/en/an-nahl/90",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_007",
+      "type": "quran_verses",
+      "canonical_reference": "quran.com (Quran Foundation) — https://quran.com/en/al-baqarah/153",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_008",
+      "type": "quran_verses",
+      "canonical_reference": "quran.com (Quran Foundation) — https://quran.com/an-nur/22",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_009",
+      "type": "quran_verses",
+      "canonical_reference": "quran.com (Quran Foundation) — https://quran.com/en/an-nisa/58",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_010",
+      "type": "quran_verses",
+      "canonical_reference": "cross-confirmed across multiple sources — https://themuslimvibe.com/faith-islam/6-quranic-verses-and-hadith-on-cleanliness",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_011",
+      "type": "quran_verses",
+      "canonical_reference": "cross-confirmed — https://islamqa.info/en/answers/36783",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_012",
+      "type": "quran_verses",
+      "canonical_reference": "cross-confirmed — https://www.aljumuah.com/salah-in-islam-understanding-the-central-pillar-of-worship-part-2/",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_013",
+      "type": "quran_verses",
+      "canonical_reference": "cross-confirmed — https://www.islamicity.org/64940/prophet-muhammads-anxieties/",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_014",
+      "type": "quran_verses",
+      "canonical_reference": "quran.com (Quran Foundation) — https://quran.com/en/al-furqan/63",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_015",
+      "type": "quran_verses",
+      "canonical_reference": "quran.com (Quran Foundation) — https://quran.com/ash-sharh/5",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    },
+    {
+      "record_id": "qv_016",
+      "type": "quran_verses",
+      "canonical_reference": "quran.com (Quran Foundation) — https://quran.com/4/36",
+      "citation_verified": true,
+      "source_verified": true,
+      "scholarly_reviewed": false,
+      "production_eligible": true,
+      "reason": "citation_verified and source_verified both true"
+    }
+  ]
+}

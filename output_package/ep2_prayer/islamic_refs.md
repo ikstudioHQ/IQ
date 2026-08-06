@@ -1,0 +1,1 @@
+1. qv_012 — Quran 2:277, DIRECT_SUPPORT

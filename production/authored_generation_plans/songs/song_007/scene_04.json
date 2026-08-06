@@ -1,0 +1,330 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "song",
+  "parent_id": "song_007",
+  "logical_scene_id": "scene_04",
+  "generation_units": [
+    {
+      "generation_unit_id": "song_007_scene_04_u01",
+      "parent_scene_id": "scene_04",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 6.8,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_059_baby_sami",
+        "char_002_amira"
+      ],
+      "silent_characters": [
+        "char_059_baby_sami",
+        "char_002_amira"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "singing",
+          "text": "Who shows mercy? (I do!) Who is gentle? (Me too!)",
+          "start_seconds": 0.0,
+          "end_seconds": 4.545
+        }
+      ],
+      "primary_action": "Baby Sami giggles and hugs the toy; the room fills with warmth. Authored beat 1/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, golden, slightly brighter than the conflict beat (resolution_relief); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_living_room",
+      "lighting": "warm, golden, slightly brighter than the conflict beat (resolution_relief)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_059_baby_sami": "stable slot 2",
+          "char_002_amira": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_059_baby_sami": "toward shared action focus",
+          "char_002_amira": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "begin scene action"
+      },
+      "out_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_059_baby_sami": "stable slot 2",
+          "char_002_amira": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_059_baby_sami": "toward shared action focus",
+          "char_002_amira": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_007_scene_04_u02",
+      "parent_scene_id": "scene_04",
+      "sequence": 2,
+      "start_seconds": 6.8,
+      "end_seconds": 13.6,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_059_baby_sami",
+        "char_002_amira"
+      ],
+      "silent_characters": [
+        "char_059_baby_sami",
+        "char_002_amira"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "singing",
+          "text": "Soft and kind in all we do. Mercy, mercy, soft and kind,",
+          "start_seconds": 6.8,
+          "end_seconds": 12.255
+        }
+      ],
+      "primary_action": "Baby Sami giggles and hugs the toy; the room fills with warmth. Authored beat 2/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, golden, slightly brighter than the conflict beat (resolution_relief); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_living_room",
+      "lighting": "warm, golden, slightly brighter than the conflict beat (resolution_relief)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_059_baby_sami": "stable slot 2",
+          "char_002_amira": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_059_baby_sami": "toward shared action focus",
+          "char_002_amira": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_059_baby_sami": "stable slot 2",
+          "char_002_amira": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_059_baby_sami": "toward shared action focus",
+          "char_002_amira": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_007_scene_04_u03",
+      "parent_scene_id": "scene_04",
+      "sequence": 3,
+      "start_seconds": 13.6,
+      "end_seconds": 20.4,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_059_baby_sami",
+        "char_002_amira"
+      ],
+      "silent_characters": [
+        "char_059_baby_sami",
+        "char_002_amira"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "singing",
+          "text": "Rahma is the way.",
+          "start_seconds": 13.6,
+          "end_seconds": 15.418
+        }
+      ],
+      "primary_action": "Baby Sami giggles and hugs the toy; the room fills with warmth. Authored beat 3/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, golden, slightly brighter than the conflict beat (resolution_relief); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_living_room",
+      "lighting": "warm, golden, slightly brighter than the conflict beat (resolution_relief)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_059_baby_sami": "stable slot 2",
+          "char_002_amira": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_059_baby_sami": "toward shared action focus",
+          "char_002_amira": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_059_baby_sami": "stable slot 2",
+          "char_002_amira": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_059_baby_sami": "toward shared action focus",
+          "char_002_amira": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_007_scene_04_u04",
+      "parent_scene_id": "scene_04",
+      "sequence": 4,
+      "start_seconds": 20.4,
+      "end_seconds": 27.2,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_059_baby_sami",
+        "char_002_amira"
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_059_baby_sami",
+        "char_002_amira"
+      ],
+      "performance": [],
+      "primary_action": "Baby Sami giggles and hugs the toy; the room fills with warmth. Authored beat 4/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, golden, slightly brighter than the conflict beat (resolution_relief); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_living_room",
+      "lighting": "warm, golden, slightly brighter than the conflict beat (resolution_relief)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_059_baby_sami": "stable slot 2",
+          "char_002_amira": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_059_baby_sami": "toward shared action focus",
+          "char_002_amira": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_059_baby_sami": "stable slot 2",
+          "char_002_amira": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_059_baby_sami": "toward shared action focus",
+          "char_002_amira": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_007_scene_04_u05",
+      "parent_scene_id": "scene_04",
+      "sequence": 5,
+      "start_seconds": 27.2,
+      "end_seconds": 34.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_059_baby_sami",
+        "char_002_amira"
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_059_baby_sami",
+        "char_002_amira"
+      ],
+      "performance": [],
+      "primary_action": "Baby Sami giggles and hugs the toy; the room fills with warmth. Authored beat 5/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, golden, slightly brighter than the conflict beat (resolution_relief); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_living_room",
+      "lighting": "warm, golden, slightly brighter than the conflict beat (resolution_relief)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_059_baby_sami": "stable slot 2",
+          "char_002_amira": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_059_baby_sami": "toward shared action focus",
+          "char_002_amira": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_059_baby_sami": "stable slot 2",
+          "char_002_amira": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_059_baby_sami": "toward shared action focus",
+          "char_002_amira": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "scene action settled"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

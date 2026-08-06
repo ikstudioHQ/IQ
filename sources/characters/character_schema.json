@@ -1,0 +1,79 @@
+{
+  "schema_version": "2.2",
+  "version": "2.0",
+  "updated_at": "2026-07-30T14:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "description": "Schema for Character Knowledge Module entries — defines required fields for every character reference file.",
+  "local_only": true,
+  "status": "production",
+  "confidence_system": "verified",
+  "required_fields": {
+    "name": "Character display name (e.g., Zayd, Amira)",
+    "role": "Character role (e.g., Lead Boy, Lead Girl, Elder / Recurring Grandfather, Father, Mother, Recurring Mascot — Lamb)",
+    "age_description": "Age and type description (e.g., 5-year-old Muslim boy character, small fluffy white lamb mascot character)",
+    "locked_description_block": "Exact text block describing appearance, clothing, expression, and pose. Must be copied word-for-word into any scene prompt. Never modified.",
+    "master_turnaround_prompt": "Full text of the master turnaround prompt used to generate and lock the character design reference.",
+    "hero_portrait_prompt": "Full text of the hero portrait prompt used for thumbnails and marketing.",
+    "version_lock": "Module-level version reference (v2.0 for module; individual character files maintain original design lock)",
+    "render_suffix_reference": "Reference to universal render suffix in character_system.md or character_render_rules.md — must be included unchanged at end of any scene prompt.",
+    "consistency_reference": "Reference to character_consistency_rules.md — all 4 rules must be satisfied in any multi-character scene."
+  },
+  "output_format": {
+    "file_extension": ".md",
+    "structure": "Header delimiter + Character title + Header delimiter + Locked Description Block + Master Turnaround Prompt + Hero Portrait Prompt + Closing delimiter (if present in original). Each section preserved exactly.",
+    "no_rewrite_policy": "Every prompt preserved exactly from original attachment. No simplification, shortening, or rewriting allowed."
+  },
+  "integration_rules": [
+    "MASTER_PROMPT.md loads character files only through this module.",
+    "Only required character files are loaded per episode (via character_index.json).",
+    "Locked description blocks are copied exactly — never paraphrased.",
+    "Turnaround prompts are used only when creating new references; existing references are reused.",
+    "Universal render suffix must close every scene prompt using these characters.",
+    "Consistency rules from character_consistency_rules.md apply to every multi-character scene."
+  ],
+  "future_expansion": [
+    "New characters: Add new .md file in characters/ + update character_index.json + update this schema if fields change.",
+    "New languages: Separate file (e.g., zayd_ar.md) — never overwrite original locked block.",
+    "New render engines: Update character_render_rules.md with new suffix — preserve original suffix.",
+    "Interactive content: Reference locked blocks directly — never alter original .md content."
+  ],
+  "related_repository_files": [
+    "sources/characters/README.md",
+    "sources/characters/character_system.md",
+    "sources/characters/character_index.json",
+    "MASTER_PROMPT.md",
+    "DESIGN_PRINCIPLES.md",
+    "knowledge_index.json",
+    "repository_manifest.json"
+  ],
+  "audit_notes": [
+    "All 6 character files present (zayd.md, amira.md, dada_yusuf.md, baba_ahmad.md, ummi_layla.md, nuri.md).",
+    "All original prompts preserved exactly — zero simplification, zero rewriting.",
+    "Zero broken references: All index entries point to existing files.",
+    "Zero contradictions: Module rules align with DESIGN_PRINCIPLES.md, RULES.md, and MASTER_PROMPT.md.",
+    "Local-only: No remote dependencies required."
+  ],
+  "optional_asset_fields": {
+    "_note": "Added v2.22, extended v2.23 — additive extension for the incoming permanent character asset library. All fields optional, default null/empty until real approved assets exist. Existing required_fields above are unchanged and remain authoritative for visual identity; these fields extend, never override, locked_description_block. When the character master file is supplied, existing canonical repository data + approved asset data must be reconciled explicitly, never silently overwritten on either side.",
+    "age": "Numeric age, if distinct from age_description's prose (null until specified)",
+    "gender": "Where applicable (null until specified)",
+    "profession": "For non-lead/recurring characters with a role (e.g. doctor, teacher) — null until specified",
+    "family_relationships": "Structured family-relationship map (empty until populated)",
+    "social_relationships": "Structured peer/social-relationship map (empty until populated)",
+    "canonical_visual_prompt": "Alias/synonym for locked_description_block in required_fields above — do not duplicate content, reference it",
+    "canonical_negative_constraints": "Explicit 'do not depict X' list per character, derived from content_restrictions.json where applicable (empty until populated)",
+    "approved_reference_images": "empty", "turnaround_assets": "empty",
+    "view_angles": {"front_view": null, "left_view": null, "right_view": null, "three_quarter_view": null, "back_view": null},
+    "expression_sheet": "null", "pose_sheet": "null", "outfit_variants": "empty", "allowed_visual_variants": "empty",
+    "voice_profile": {
+      "tts_provider": null, "tts_model": null, "voice_id": null, "voice_settings": null,
+      "voice_gender_style": null, "voice_age_character": null, "accent": null,
+      "speaking_rate": null, "pitch_profile": null, "emotion_range": null,
+      "pronunciation_dictionary_ref": null,
+      "_note": "All null until a real TTS voice is selected and approved — never guessed or placeholder-filled. Episode-level direction may vary emotion/energy/pace WITHIN this profile's allowed range but must never silently replace voice identity, accent, core pitch, age impression, or pronunciation."
+    },
+    "character_version": null, "approval_status": "not_yet_approved", "notes": ""
+  },
+  "sacred_entity_restriction_note": "Per phase2/data/safety/content_restrictions.json (restriction_002/003): Allah must never become a character/image/voice asset under this schema. Prophets/Messengers must not automatically become reusable face/voice character assets — restriction_003's replacement strategy (narrate, don't depict) applies. This schema's optional_asset_fields must never be populated for those categories."
+}

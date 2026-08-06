@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "prop_id": "prop_grocery_bag_01",
+  "display_name": "Small grocery bag",
+  "appearance": {
+    "canonical_description": "Small brown paper grocery bag, simple, family-friendly design.",
+    "colour": "brown paper",
+    "size": "small, one-hand carryable",
+    "material": "paper"
+  },
+  "ownership": {
+    "belongs_to_character_id": "char_001_zayd"
+  },
+  "default_position": {
+    "needs_review": true,
+    "note": "Not tracked in v2.72 source; set per-scene until a canonical default is authored."
+  },
+  "continuity_rules": [
+    "Must not disappear between clips in the same scene/continuity thread unless the story explicitly removes it.",
+    "Must not duplicate (two instances in frame) unless the story explicitly requires it."
+  ],
+  "reference_images": [],
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/production/prop_registry.json"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "learners": [
+    {
+      "learner_id": "learner_001",
+      "age_group": 3,
+      "current_topic": "t_morning_dua",
+      "completed_topics": [
+        "t_intro"
+      ],
+      "current_series": "daily_duas",
+      "progress_percentage": 40,
+      "last_updated": "2026-07-30T10:00:00+05:30"
+    },
+    {
+      "learner_id": "learner_002",
+      "age_group": 5,
+      "current_topic": "t_parents",
+      "completed_topics": [
+        "t_intro",
+        "t_morning_dua",
+        "t_eating_dua"
+      ],
+      "current_series": "good_manners",
+      "progress_percentage": 65,
+      "last_updated": "2026-07-30T10:00:00+05:30"
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ"
+  }
+}

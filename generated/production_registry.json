@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0",
+  "note": "Real production history. Currently empty because zero episodes/songs have actually been published -- this is honest, not a bug. 18 real TEST packages exist under output_package/ but none are marked published.",
+  "published_episodes": [],
+  "published_songs": [],
+  "test_packages_built": 18,
+  "test_packages_note": "See output_package/ directly for the real list -- not duplicated here since that would be a second source of truth for the same fact."
+}

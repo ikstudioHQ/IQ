@@ -1,0 +1,15 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "completed": [
+    "t_intro",
+    "t_morning_dua",
+    "t_parents"
+  ],
+  "metadata": {
+    "total_completed": 3,
+    "last_completed": "t_parents"
+  }
+}

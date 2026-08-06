@@ -1,0 +1,337 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "song",
+  "parent_id": "song_013",
+  "logical_scene_id": "scene_03",
+  "generation_units": [
+    {
+      "generation_unit_id": "song_013_scene_03_u01",
+      "parent_scene_id": "scene_03",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 7.6,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_005_dada_yusuf"
+      ],
+      "silent_characters": [
+        "char_003_ummi_layla",
+        "char_005_dada_yusuf"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "A folded cloth, a cup of tea, A cushion set just right,",
+          "start_seconds": 0.0,
+          "end_seconds": 5.455
+        }
+      ],
+      "primary_action": "Amira straightens cushions, carries a cup carefully, and smiles while Dada Yusuf watches warmly. Authored beat 1/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "brighter, more energetic daylight (effort_action); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_living_room",
+      "lighting": "brighter, more energetic daylight (effort_action)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_005_dada_yusuf": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_005_dada_yusuf": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "begin scene action"
+      },
+      "out_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_005_dada_yusuf": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_005_dada_yusuf": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_013_scene_03_u02",
+      "parent_scene_id": "scene_03",
+      "sequence": 2,
+      "start_seconds": 7.6,
+      "end_seconds": 15.2,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_005_dada_yusuf"
+      ],
+      "silent_characters": [
+        "char_003_ummi_layla",
+        "char_005_dada_yusuf"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "Small things done with love can make, The whole room feel more bright.",
+          "start_seconds": 7.6,
+          "end_seconds": 13.509
+        }
+      ],
+      "primary_action": "Amira straightens cushions, carries a cup carefully, and smiles while Dada Yusuf watches warmly. Authored beat 2/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "brighter, more energetic daylight (effort_action); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_living_room",
+      "lighting": "brighter, more energetic daylight (effort_action)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_005_dada_yusuf": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_005_dada_yusuf": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_005_dada_yusuf": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_005_dada_yusuf": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_013_scene_03_u03",
+      "parent_scene_id": "scene_03",
+      "sequence": 3,
+      "start_seconds": 15.2,
+      "end_seconds": 22.8,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_005_dada_yusuf"
+      ],
+      "silent_characters": [
+        "char_003_ummi_layla",
+        "char_005_dada_yusuf"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "Helpful hands at home today, Kind words, gentle care, Being best to family each day,",
+          "start_seconds": 15.2,
+          "end_seconds": 22.018
+        }
+      ],
+      "primary_action": "Amira straightens cushions, carries a cup carefully, and smiles while Dada Yusuf watches warmly. Authored beat 3/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "brighter, more energetic daylight (effort_action); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_living_room",
+      "lighting": "brighter, more energetic daylight (effort_action)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_005_dada_yusuf": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_005_dada_yusuf": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_005_dada_yusuf": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_005_dada_yusuf": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_013_scene_03_u04",
+      "parent_scene_id": "scene_03",
+      "sequence": 4,
+      "start_seconds": 22.8,
+      "end_seconds": 30.4,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_005_dada_yusuf"
+      ],
+      "silent_characters": [
+        "char_003_ummi_layla",
+        "char_005_dada_yusuf"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "Puts warm love everywhere.",
+          "start_seconds": 22.8,
+          "end_seconds": 24.618
+        }
+      ],
+      "primary_action": "Amira straightens cushions, carries a cup carefully, and smiles while Dada Yusuf watches warmly. Authored beat 4/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "brighter, more energetic daylight (effort_action); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_living_room",
+      "lighting": "brighter, more energetic daylight (effort_action)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_005_dada_yusuf": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_005_dada_yusuf": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_005_dada_yusuf": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_005_dada_yusuf": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_013_scene_03_u05",
+      "parent_scene_id": "scene_03",
+      "sequence": 5,
+      "start_seconds": 30.4,
+      "end_seconds": 38.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_005_dada_yusuf"
+      ],
+      "silent_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_005_dada_yusuf"
+      ],
+      "performance": [],
+      "primary_action": "Amira straightens cushions, carries a cup carefully, and smiles while Dada Yusuf watches warmly. Authored beat 5/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "brighter, more energetic daylight (effort_action); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_living_room",
+      "lighting": "brighter, more energetic daylight (effort_action)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_005_dada_yusuf": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_005_dada_yusuf": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_living_room",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_005_dada_yusuf": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_005_dada_yusuf": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "scene action settled"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

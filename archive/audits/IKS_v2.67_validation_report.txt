@@ -1,0 +1,52 @@
+ISLAMIC KIDS STUDIO v2.67 VALIDATION REPORT
+Date: 2026-08-05
+
+BASELINE v2.66
+ZIP SHA-256: 425114dec7d5850f55de5a29227f3bc60ee34ed8d9d07c93693b2ed1f95e8470
+Files: 2036
+pytest: 42/42 PASS
+validator: PASS
+preflight: PASS
+runtime: PASS
+
+v2.67 IMPLEMENTATION
+Canonical characters: 85. New char_085_market_stall_owner is DRAFT, no approved reference image, provider voice or human approval fabricated.
+Existing songs: 20 / 100 logical scenes / 400 authored generation units.
+Existing episodes: 2 / 10 logical scenes / 10 authored scene plans.
+Total authored generation units: 455.
+Maximum generation-unit duration: 8.0 seconds.
+Ready-to-paste v2.67 Gemini prompts: 455.
+Canonical 90-day roadmap: 90/90 roadmap entries with unique IDs and previous-episode dependencies.
+90-day scripts/scenes/generation plans/prompts: AUTHORING_REQUIRED; not mass-authored.
+
+TESTS
+pytest: 46/46 PASS
+repository validator: PASS
+preflight distribution: PASS
+runtime compiler: PASS
+logical songs: 20/20 PASS
+logical episodes: 2/2 PASS
+v2.67 authored corpus validation: PASS
+Market stall owner scene_4: authored and contract-valid.
+Duplicate-character, unknown-character, duration, performance, continuity and canonical-song regression tests: PASS.
+
+ISLAMIC SAFETY
+citation_verified=false: 7/59
+scholarly_reviewed=false: 59/59
+No false -> true approval transition was made.
+FINAL publication remains fail-closed under existing tests.
+
+READINESS
+SOFTWARE/PIPELINE STATUS: PASS
+AUTHORING FRAMEWORK STATUS: PASS
+EXISTING SONG GENERATION READINESS: READY at authored-plan/prompt level; human creative/render review required
+EXISTING CARTOON GENERATION READINESS: PARTIAL: 10/10 scenes have plans/prompts, but new supporting character identity/voice assets remain human-review pending
+SONG+CARTOON INTEGRATION: PASS at architecture/demonstration level
+90-DAY ROADMAP: COMPLETE
+90-DAY CONTENT AUTHORING: NOT COMPLETE
+90-DAY GEMINI GENERATION READINESS: NOT READY
+ISLAMIC CONTENT PUBLICATION STATUS: NOT READY
+HUMAN REVIEW REQUIRED: supporting-character visual/voice approval and rendered animation QA
+SCHOLAR REVIEW REQUIRED: 59/59 Islamic reference entries remain unreviewed
+SOURCE_DATA_INSUFFICIENT: legacy logical compiler continues truthful scene-granularity diagnostics; authored production direction is separate
+AUTHORING_REQUIRED: 90-day roadmap scripts/scenes/generation plans; detailed persistent props and song entry/exit staging at script level

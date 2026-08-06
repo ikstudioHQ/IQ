@@ -1,0 +1,325 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-02T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Episode-level and knowledge-batch-level review status tracking. Different from the per-entry citation_verified/source_verified/scholarly_reviewed fields in phase2/data/islamic/*.json (which track individual dua/hadith/verse evidence status) — this tracks whole EPISODES and whole KNOWLEDGE BATCHES through Generated -> Reviewed -> Approved -> Production.",
+  "episodes": [
+    {
+      "episode_id": "ep_tawakkul_lost_toy",
+      "status": "generated",
+      "generated_at": "2026-08-02",
+      "reviewed_at": null,
+      "approved_at": null,
+      "reviewer": null,
+      "notes": "First end-to-end proof episode. Uses only already-reviewed-pending Islamic references (dua_005, qv_004, prophet_yunus material) — none are scholarly_reviewed:true yet, so this episode cannot move past 'reviewed' to 'approved' until those entries are cleared, per review_workflow.md's publication gate. Retroactively tagged execution_mode: production in v2.14 — all cited evidence is citation_verified/source_verified true, so this episode reached PRODUCTION MODE per execution_modes.md. production_ready:true means evidence is complete, which is separate from review_queue status 'approved' (still pending scholarly_reviewed:true on its sources).",
+      "execution_mode": "production",
+      "production_ready": true
+    },
+    {
+      "episode_id": "ep_honesty_wallet_assisted",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-04",
+      "reviewed_at": null,
+      "approved_at": null,
+      "reviewer": null,
+      "notes": "Assisted-mode demonstration (v2.14). Original request ('...Found a Lost Wallet and Learned Why Honesty Pleases Allah') had zero repository evidence for its luqatah/reward claims. Smart Fallback (execution_modes.md) found real evidence for a narrower honesty story instead. See missing_knowledge_report.md and repository_improvement_suggestions.md inside the package for what was excluded and why."
+    },
+    {
+      "episode_id": "ep_blocked_demo",
+      "status": "blocked",
+      "execution_mode": "blocked",
+      "production_ready": false,
+      "generated_at": "2026-08-04",
+      "reviewed_at": null,
+      "approved_at": null,
+      "reviewer": null,
+      "notes": "Deliberately constructed demonstration of execution_modes.md's BLOCKED path for the 3-mode validation requirement (v2.14) — not a real production request. See missing_knowledge_report.md inside the package."
+    },
+    {
+      "episode_id": "ep_fairness_v2_15_regression",
+      "status": "blocked",
+      "execution_mode": "blocked",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "reviewed_at": null,
+      "approved_at": null,
+      "reviewer": null,
+      "notes": "Mandatory P2-28/29 regression run (v2.15 architecture hardening). Real preflight confirmed REPOSITORY_VERIFIED before this ran. Smart Fallback traced against real concept_justice/generosity/self_control/honesty data, found no citable evidence for a fairness-in-sharing story. Correctly BLOCKED rather than fabricated. See missing_knowledge_report.md."
+    },
+    {
+      "episode_id": "ep_patience_pilot_a",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Pilot production validation test — TEST/NOT FINAL FOR PUBLICATION."
+    },
+    {
+      "episode_id": "ep_goodspeech_pilot_b",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Pilot production validation test — TEST/NOT FINAL FOR PUBLICATION."
+    },
+    {
+      "episode_id": "ep_tawakkul_pilot_c",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Pilot production validation test — TEST/NOT FINAL FOR PUBLICATION."
+    },
+    {
+      "episode_id": "ep_stress_charity",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Stress-test episode — TEST/NOT FINAL FOR PUBLICATION."
+    },
+    {
+      "episode_id": "ep_stress_kindness",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Stress-test episode — TEST/NOT FINAL FOR PUBLICATION."
+    },
+    {
+      "episode_id": "ep_stress_selfcontrol",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Stress-test episode — TEST/NOT FINAL FOR PUBLICATION."
+    },
+    {
+      "episode_id": "ep_stress_courage",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Stress-test episode — TEST/NOT FINAL FOR PUBLICATION."
+    },
+    {
+      "episode_id": "ep_stress_community",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Stress-test episode — TEST/NOT FINAL FOR PUBLICATION."
+    },
+    {
+      "episode_id": "ep2_humility",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Post-diversity-fix stress test — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "ep2_forgiveness",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Post-diversity-fix stress test — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "ep2_prayer",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Post-diversity-fix stress test — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "ep2_cleanliness",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Post-diversity-fix stress test — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "ep2_compassion",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Post-diversity-fix stress test — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "final_b_goodmanners",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "P8 final multi-type stress test — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "final_c_song",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "P8 final multi-type stress test — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "final_d_community",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "P8 final multi-type stress test — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "final_e_family",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "P8 final multi-type stress test — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "fresh_1_patience",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Fresh production-pipeline test (post safety-fix validation) — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "fresh_2_goodspeech",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Fresh production-pipeline test (post safety-fix validation) — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "fresh_3_mercy",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Fresh production-pipeline test (post safety-fix validation) — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "fresh_4_gratitude",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Fresh production-pipeline test (post safety-fix validation) — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "fresh_5_community",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Fresh production-pipeline test (post safety-fix validation) — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "fresh_song_1_honesty",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Fresh production-pipeline test (post safety-fix validation) — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "fresh_song_2_trustworthy",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Fresh production-pipeline test (post safety-fix validation) — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "fresh_song_3_selfcontrol",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "Fresh production-pipeline test (post safety-fix validation) — TEST/NOT FINAL."
+    },
+    {
+      "episode_id": "pf_test",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "fail-closed proof test"
+    },
+    {
+      "episode_id": "pf_test",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "fail-closed proof test"
+    },
+    {
+      "episode_id": "pf_test2",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "unsafe image proof"
+    },
+    {
+      "episode_id": "pf_gemini",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "gemini proof"
+    },
+    {
+      "episode_id": "pf_song",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "song proof"
+    },
+    {
+      "episode_id": "gap_proof",
+      "status": "generated",
+      "execution_mode": "assisted",
+      "production_ready": false,
+      "generated_at": "2026-08-05",
+      "notes": "gap reproduction"
+    }
+  ],
+  "knowledge_batches": [
+    {
+      "batch_id": "batch_2026_08_02_vocab_conflicts_concepts",
+      "status": "generated",
+      "generated_at": "2026-08-02",
+      "reviewed_at": null,
+      "approved_at": null,
+      "reviewer": null,
+      "contents_summary": "50 vocabulary entries, 30 story conflicts, 20 concept packages — see CHANGELOG.md v2.9",
+      "notes": "Story conflicts and structural data (patterns, hooks) don't carry religious-accuracy risk and can move to 'approved' on a normal editorial read. Vocabulary and concept entries that cite Islamic sources still need the same review as phase2/data/islamic/*.json entries before 'approved'. Note (added after external audit, v2.12): this batch has no output_package/ or examples/ folder by design — it's data added directly to phase2/data/islamic/, islamic_vocabulary.json, and phase3/knowledge/concepts/*.json, not an episode artifact. 'generated' status here means the data entries exist and are citation_verified/source_verified per-entry (see those files), not that a packaged folder exists — different from how episode entries in this same queue work. Verifiable via: total entry count and citation_verified/scholarly_reviewed counts in REPO_HEALTH_REPORT.md."
+    }
+  ],
+  "status_definitions": {
+    "generated": "AI has produced the content. Nothing has been human-checked yet.",
+    "reviewed": "A human has read it for accuracy/quality and either flagged issues (stays at 'reviewed' with notes, cycles back to a corrected 'generated' state) or found it acceptable.",
+    "approved": "A human has explicitly signed off — this is the only status that permits production/publication use.",
+    "production": "Actually published/in active use.",
+    "blocked": "execution_modes.md's BLOCKED MODE — Smart Fallback found no real evidence for any genuine adjacent story. Only missing_knowledge_report.md exists; no episode files were written. Not a failure state to fix by relaxing evidence standards — it's the correct outcome when nothing real is available."
+  },
+  "rule": "tools/package_episode.py and any publishing step must check this file's status for the given episode_id before treating a package as ready to upload. 'generated' or 'reviewed' status is not sufficient — only 'approved' is.",
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ"
+  }
+}

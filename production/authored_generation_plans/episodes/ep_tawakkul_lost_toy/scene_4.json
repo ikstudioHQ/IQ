@@ -1,0 +1,300 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "episode",
+  "parent_id": "ep_tawakkul_lost_toy",
+  "logical_scene_id": "scene_4",
+  "generation_units": [
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_4_u01",
+      "parent_scene_id": "scene_4",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 8.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "silent_characters": [
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "dialogue",
+          "text": "Wait... did you bring him to the park in your bag?",
+          "start_seconds": 0.0,
+          "end_seconds": 3.929
+        }
+      ],
+      "primary_action": "Authored staging beat 1/5 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (living room)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (living room)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_002_amira": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_002_amira": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (living room)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_002_amira": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_002_amira": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_4_u02",
+      "parent_scene_id": "scene_4",
+      "sequence": 2,
+      "start_seconds": 8.0,
+      "end_seconds": 16.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "silent_characters": [
+        "char_002_amira"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "My park bag!",
+          "start_seconds": 8.0,
+          "end_seconds": 9.071
+        }
+      ],
+      "primary_action": "Authored staging beat 2/5 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (living room)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (living room)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_002_amira": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_002_amira": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (living room)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_002_amira": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_002_amira": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_4_u03",
+      "parent_scene_id": "scene_4",
+      "sequence": 3,
+      "start_seconds": 16.0,
+      "end_seconds": 24.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "silent_characters": [
+        "char_002_amira"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "Alhamdulillah! You were right here the whole time!",
+          "start_seconds": 16.0,
+          "end_seconds": 18.857
+        }
+      ],
+      "primary_action": "Authored staging beat 3/5 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (living room)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (living room)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_002_amira": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_002_amira": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (living room)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_002_amira": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_002_amira": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_4_u04",
+      "parent_scene_id": "scene_4",
+      "sequence": 4,
+      "start_seconds": 24.0,
+      "end_seconds": 32.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "performance": [],
+      "primary_action": "Authored staging beat 4/5 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (living room)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (living room)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_002_amira": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_002_amira": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (living room)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_002_amira": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_002_amira": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "ep_tawakkul_lost_toy_scene_4_u05",
+      "parent_scene_id": "scene_4",
+      "sequence": 5,
+      "start_seconds": 32.0,
+      "end_seconds": 40.0,
+      "exact_character_count": 2,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "performance": [],
+      "primary_action": "Authored staging beat 5/5 for the existing scene; preserve the source story action and use restrained continuity-safe movement.",
+      "secondary_reaction": "Non-speaking visible characters react without lip-sync.",
+      "camera": "stable medium composition; preserve axis; no orbiting camera",
+      "location": "env_home (living room)",
+      "lighting": "preserve source scene lighting and time continuity",
+      "music_continuity": "preserve episode audio continuity",
+      "in_state": {
+        "location": "env_home (living room)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_002_amira": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_002_amira": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "out_state": {
+        "location": "env_home (living room)",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_002_amira": "stable slot 2"
+        },
+        "orientation": {
+          "char_001_zayd": "toward scene focus",
+          "char_002_amira": "toward scene focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "episode beat continuity"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

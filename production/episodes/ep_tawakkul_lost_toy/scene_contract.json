@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "episode_id": "ep_tawakkul_lost_toy",
+  "note": "Structured performance/visibility data. scene_breakdown.md remains the separate, untouched human-readable creative summary -- this file is the machine-authoritative companion, not a replacement.",
+  "migration_method": "Manual, human-structured cross-reference of image_prompts.md (visible-character confirmation via full-lock presence), animation_directions.md (explicit speech/dua statements), and dialogue.md (strict narrative order) -- not automated guessing, not run blindly. Per-event certainty varies -- see each performance_event's own 'confidence' field (CONFIRMED = explicit source statement; INFERRED_FROM_ORDER_AND_CONTENT = reasoned, not independently verified).",
+  "scenes": [
+    {
+      "scene_id": "scene_1",
+      "location": "env_park",
+      "duration_seconds": 15,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_006_nuri"
+      ],
+      "visible_characters_confidence": "CONFIRMED — each character has a full canonical locked description inlined in image_prompts.md Block 1, which only occurs for characters actually rendered in that scene.",
+      "performance_events": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "Nuri, watch — my camel can jump THIS high today!",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — first dialogue.md line, thematically matches animation_directions.md Block 1's 'jump apex' lip-sync note and this scene's own jumping action. Not an explicit source-stated scene assignment."
+        },
+        {
+          "character_id": "char_002_amira",
+          "type": "SPOKEN",
+          "text": "That's the highest yet!",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — same reasoning as above, second line, same scene's joy beat."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_2",
+      "location": "env_home (Zayd's bedroom)",
+      "duration_seconds": 55,
+      "visible_characters": [
+        "char_001_zayd"
+      ],
+      "visible_characters_confidence": "CONFIRMED — image_prompts.md Block 2 inlines only Zayd's full lock; animation_directions.md Block 2 explicitly says 'minimal dialogue, mostly physical performance' with only Zayd described acting.",
+      "performance_events": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "Time for bed, little camel... camel?",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — thematically matches this scene's 'searching' action (toy/bedtime reference); animation explicitly confirms 'minimal dialogue' fits a short line here."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "Not here... Not here either...",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — directly matches animation's described searching sequence (toy basket, under the bed)."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_3",
+      "location": "env_home (Zayd's bedroom)",
+      "duration_seconds": 60,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "visible_characters_confidence": "CONFIRMED — image_prompts.md Block 3 inlines both full locks; animation_directions.md Block 3 explicitly names both.",
+      "performance_events": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "SPOKEN",
+          "text": "You've looked so hard already, habibi.",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches this scene's comforting beat."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "I looked everywhere, Ummi. What if it's really gone?",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — direct reply, same beat."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "SPOKEN",
+          "text": "You did your best. Now — let's ask Allah to help us, and keep looking together, calmly. Hasbunallahu wa ni'mal wakeel.",
+          "confidence": "CONFIRMED — animation_directions.md Block 3 explicitly states 'the dua is said together, lips moving in sync on the Arabic phrase,' directly naming this as a shared dua moment; the dua text itself matches dua_005/dua_006 already cited elsewhere in this repository."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "Hasbunallahu wa ni'mal wakeel.",
+          "confidence": "CONFIRMED — same explicit 'said together' source statement covers both speakers of this shared dua line."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_4",
+      "location": "env_home (living room)",
+      "duration_seconds": 40,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "visible_characters_confidence": "CONFIRMED — image_prompts.md Block 4 inlines both full locks; animation_directions.md Block 4 explicitly names both acting.",
+      "performance_events": [
+        {
+          "character_id": "char_002_amira",
+          "type": "SPOKEN",
+          "text": "Wait... did you bring him to the park in your bag?",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches animation's explicitly-named 'Amira's realization' beat."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "My park bag!",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — direct reaction, matches the 'reveal' beat."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "Alhamdulillah! You were right here the whole time!",
+          "confidence": "INFERRED_FROM_ORDER_AND_CONTENT — matches animation's 'full-body happy bounce' relief/joy beat."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_5",
+      "location": "env_home (living room)",
+      "duration_seconds": 30,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "visible_characters_confidence": "CONFIRMED — scene_breakdown.md's own text says 'Full family' and animation_directions.md Block 5 explicitly says 'all three characters' expressions soften'; cross-referenced with the family composition already established in scenes 3-4 (Zayd, Amira, Ummi Layla are this family's only members appearing anywhere in this episode).",
+      "performance_events": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "SPOKEN",
+          "text": "Hasbunallahu wa ni'mal wakeel.",
+          "confidence": "CONFIRMED — animation_directions.md Block 5 explicitly says 'during the dua line,' and this is the only remaining unassigned dua-text line in dialogue.md's order, spoken solo by Zayd per the earlier-established pattern (Scene 3's dua was shared, this repetition here is his alone, matching this repository's real islamic_refs.md note that this line is said 'solo by Zayd in Scene 5')."
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "SPOKEN",
+          "text": "Allah is always enough for us.",
+          "confidence": "CONFIRMED — final line, matches this scene's closing warmth beat, and voice_instructions.md's own note that this line closes the episode."
+        }
+      ],
+      "note": "This scene's Amira presence is visually CONFIRMED but she has NO performance_event -- dialogue.md contains no further Amira lines after Scene 4. This is correctly reported as silent-but-visible, not SOURCE_DATA_INSUFFICIENT, since her silence here is a real absence of data, not an unresolved question."
+    }
+  ]
+}

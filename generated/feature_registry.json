@@ -1,0 +1,86 @@
+{
+  "note": "Every repository capability, real status only.",
+  "features": [
+    {
+      "name": "Gemini export",
+      "status": "ACTIVE",
+      "version_introduced": "2.32",
+      "owner": "output_package/<name>/gemini/",
+      "depends_on": [
+        "character_master_library.json",
+        "location_library.json"
+      ]
+    },
+    {
+      "name": "Song production",
+      "status": "ACTIVE (planning-only, 0 published)",
+      "version_introduced": "2.24",
+      "owner": "song_topic_bank.json"
+    },
+    {
+      "name": "Episode production",
+      "status": "ACTIVE (planning-only, 0 published)",
+      "version_introduced": "2.24",
+      "owner": "episode_topic_bank.json"
+    },
+    {
+      "name": "Voice lock",
+      "status": "ACTIVE (identity-only, no provider selected)",
+      "version_introduced": "2.34",
+      "owner": "character_master_library.json:voice_master"
+    },
+    {
+      "name": "Publication gate",
+      "status": "ACTIVE, FROZEN",
+      "version_introduced": "2.38",
+      "owner": "package_episode.py --final"
+    },
+    {
+      "name": "Content safety",
+      "status": "ACTIVE, FROZEN",
+      "version_introduced": "2.36",
+      "owner": "content_scene_safety_registry.json"
+    },
+    {
+      "name": "Character lock",
+      "status": "ACTIVE",
+      "version_introduced": "2.0",
+      "owner": "character_master_library.json"
+    },
+    {
+      "name": "Timeline/canon memory",
+      "status": "NOT_BUILT (deferred, no real production history to populate it yet)",
+      "version_introduced": null
+    },
+    {
+      "name": "Animation export",
+      "status": "ACTIVE (schema/test-proven, 0 real generations)",
+      "version_introduced": "2.32"
+    },
+    {
+      "name": "TTS",
+      "status": "SCAFFOLDED (provider fields null pending real audition)",
+      "version_introduced": "2.32"
+    },
+    {
+      "name": "Regression testing",
+      "status": "ACTIVE",
+      "version_introduced": "2.16"
+    },
+    {
+      "name": "Curriculum/concept coverage",
+      "status": "ACTIVE",
+      "version_introduced": "2.7"
+    },
+    {
+      "name": "Topic planning",
+      "status": "ACTIVE",
+      "version_introduced": "2.24"
+    },
+    {
+      "name": "Real production (published output)",
+      "status": "NOT_STARTED",
+      "version_introduced": null
+    }
+  ]
+}

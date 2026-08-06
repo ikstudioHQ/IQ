@@ -1,0 +1,722 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "note": "Pulled from real, already-cited repository terms only (vocabulary.json + duas.json). No pronunciation has been audio-tested -- all NEEDS_REVIEW. Provider-specific overrides remain null until real TTS testing exists.",
+  "total_terms": 119,
+  "terms": [
+    {
+      "term": "Tawakkul",
+      "canonical_pronunciation_note": "Trusting Allah while still doing your best effort.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Sabr",
+      "canonical_pronunciation_note": "Being patient, even when something is hard.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Shukr",
+      "canonical_pronunciation_note": "Saying thank you to Allah for the good things He gives.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Alhamdulillah",
+      "canonical_pronunciation_note": "All praise and thanks belong to Allah.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Amanah",
+      "canonical_pronunciation_note": "Taking good care of something you've been trusted with.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Sidq",
+      "canonical_pronunciation_note": "Always telling the truth.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Jannah",
+      "canonical_pronunciation_note": "The beautiful garden Allah promises to good people.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Bismillah",
+      "canonical_pronunciation_note": "From dua_002, real cited source.",
+      "source": "dua_002",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Salam",
+      "canonical_pronunciation_note": "Peace — used as a greeting.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Insha'Allah",
+      "canonical_pronunciation_note": "If Allah wills — said when talking about something in the future.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Mashallah",
+      "canonical_pronunciation_note": "What Allah has willed — said when noticing something good or beautiful.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Subhanallah",
+      "canonical_pronunciation_note": "Glory be to Allah — said in wonder or amazement.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Astaghfirullah",
+      "canonical_pronunciation_note": "I seek Allah's forgiveness — said after a mistake.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Jazakallah Khair",
+      "canonical_pronunciation_note": "May Allah reward you with good — a way to say thank you.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Wudu",
+      "canonical_pronunciation_note": "Washing before prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Salah",
+      "canonical_pronunciation_note": "The five daily prayers.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Adhan",
+      "canonical_pronunciation_note": "The call to prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Masjid",
+      "canonical_pronunciation_note": "A mosque, where Muslims pray together.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Imam",
+      "canonical_pronunciation_note": "The person who leads the prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Quran",
+      "canonical_pronunciation_note": "The holy book of Islam.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Sunnah",
+      "canonical_pronunciation_note": "The way and habits of Prophet Muhammad (peace be upon him).",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Hadith",
+      "canonical_pronunciation_note": "A saying or teaching of Prophet Muhammad (peace be upon him).",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Iman",
+      "canonical_pronunciation_note": "Faith and belief in Allah.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Taqwa",
+      "canonical_pronunciation_note": "Being mindful and careful to please Allah.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Rahma",
+      "canonical_pronunciation_note": "Mercy and gentle kindness.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Adl",
+      "canonical_pronunciation_note": "Fairness and justice.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Ihsan",
+      "canonical_pronunciation_note": "Doing things in the best, most beautiful way.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Hilm",
+      "canonical_pronunciation_note": "Staying calm and gentle, even when upset.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Tawadu",
+      "canonical_pronunciation_note": "Humility — not boasting or feeling better than others.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Zakat",
+      "canonical_pronunciation_note": "Giving a share of wealth to those in need.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Sawm",
+      "canonical_pronunciation_note": "Fasting, especially during Ramadan.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Hajj",
+      "canonical_pronunciation_note": "The pilgrimage to Makkah.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Ummah",
+      "canonical_pronunciation_note": "The worldwide community of Muslims.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Barakah",
+      "canonical_pronunciation_note": "Blessing — extra goodness from Allah.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Fitrah",
+      "canonical_pronunciation_note": "The natural, good nature Allah gave every person.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Akhirah",
+      "canonical_pronunciation_note": "The next life, after this world.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Fajr",
+      "canonical_pronunciation_note": "The dawn prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Maghrib",
+      "canonical_pronunciation_note": "The sunset prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Isha",
+      "canonical_pronunciation_note": "The night prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Ramadan",
+      "canonical_pronunciation_note": "The blessed month of fasting.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Eid",
+      "canonical_pronunciation_note": "A joyful celebration day in Islam.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Qiblah",
+      "canonical_pronunciation_note": "The direction Muslims face during prayer, toward the Ka'bah.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Halal",
+      "canonical_pronunciation_note": "Something allowed or permitted in Islam.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Haram",
+      "canonical_pronunciation_note": "Something not allowed in Islam.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Niyyah",
+      "canonical_pronunciation_note": "Intention — the reason in your heart for doing something.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Khushu",
+      "canonical_pronunciation_note": "Calm focus and humility during prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Istighfar",
+      "canonical_pronunciation_note": "Asking Allah for forgiveness.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Tasbih",
+      "canonical_pronunciation_note": "Glorifying Allah, often said with prayer beads.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Rizq",
+      "canonical_pronunciation_note": "The provision and blessings Allah gives us.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Ikhlas",
+      "canonical_pronunciation_note": "Sincerity — doing good only for Allah's sake.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Adab",
+      "canonical_pronunciation_note": "Good manners and respectful behavior.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Afw",
+      "canonical_pronunciation_note": "Forgiveness — letting go of anger toward someone.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Amal",
+      "canonical_pronunciation_note": "A good deed or action.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Asr",
+      "canonical_pronunciation_note": "The afternoon prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Ayah",
+      "canonical_pronunciation_note": "A single verse from the Quran.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Dua",
+      "canonical_pronunciation_note": "A personal prayer or supplication to Allah.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Ghayrah",
+      "canonical_pronunciation_note": "A protective, caring sense of responsibility for family.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Hayaa",
+      "canonical_pronunciation_note": "Modesty and a sense of shame that stops you from doing wrong.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Hikmah",
+      "canonical_pronunciation_note": "Wisdom — knowing the right thing to do.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Ibadah",
+      "canonical_pronunciation_note": "Worship — anything done sincerely for Allah's sake.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Ikhwa",
+      "canonical_pronunciation_note": "Brotherhood — the bond between believers.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Jaza",
+      "canonical_pronunciation_note": "A reward or recompense.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Jumu'ah",
+      "canonical_pronunciation_note": "Friday, the day of the special congregational prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Khayr",
+      "canonical_pronunciation_note": "Goodness; something good.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Maghfirah",
+      "canonical_pronunciation_note": "Allah's forgiveness.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Malaikah",
+      "canonical_pronunciation_note": "Angels — Allah's obedient creations.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Mizan",
+      "canonical_pronunciation_note": "The scale that weighs good and bad deeds.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Nasihah",
+      "canonical_pronunciation_note": "Sincere advice given with good intention.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Qanaah",
+      "canonical_pronunciation_note": "Contentment with what you have.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Rahim",
+      "canonical_pronunciation_note": "Merciful — one of Allah's names, and a quality to show others.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Sabr Jamil",
+      "canonical_pronunciation_note": "Beautiful patience — enduring difficulty without complaint.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Sadaqah",
+      "canonical_pronunciation_note": "Voluntary charity — giving without being required to.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Salaam",
+      "canonical_pronunciation_note": "Peace — also a greeting Muslims use.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Shahadah",
+      "canonical_pronunciation_note": "The declaration of faith in Islam.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Shukran",
+      "canonical_pronunciation_note": "Thank you.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Silah Rahim",
+      "canonical_pronunciation_note": "Keeping family ties strong, especially with relatives.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Taharah",
+      "canonical_pronunciation_note": "Cleanliness and purity, especially before prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Tarbiyah",
+      "canonical_pronunciation_note": "Upbringing and gentle guidance from parents.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Tawbah",
+      "canonical_pronunciation_note": "Sincere repentance — turning back to Allah after a mistake.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Ukhuwwah",
+      "canonical_pronunciation_note": "Brotherhood/sisterhood among believers.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Waqt",
+      "canonical_pronunciation_note": "Time — a resource to be used wisely.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Yaqeen",
+      "canonical_pronunciation_note": "Certainty — a firm, unwavering belief.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Zuhr",
+      "canonical_pronunciation_note": "The midday prayer.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Fajir",
+      "canonical_pronunciation_note": "Dishonest or deceitful (opposite of sidq).",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Ghadab",
+      "canonical_pronunciation_note": "Anger — a strong feeling that needs self-control.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Husn al-Khuluq",
+      "canonical_pronunciation_note": "Beautiful character — having excellent manners overall.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Karam",
+      "canonical_pronunciation_note": "Generosity — giving freely and warmly.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Muhsin",
+      "canonical_pronunciation_note": "One who does good with excellence (ihsan).",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Sunan",
+      "canonical_pronunciation_note": "The plural of Sunnah — the Prophet's practiced traditions.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Wafa",
+      "canonical_pronunciation_note": "Faithfulness — keeping your word and promises.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Neighbor",
+      "canonical_pronunciation_note": "Someone who lives near you.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Guest",
+      "canonical_pronunciation_note": "Someone visiting your home who should be welcomed warmly.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Teamwork",
+      "canonical_pronunciation_note": "Working together with others toward the same goal.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Gentle",
+      "canonical_pronunciation_note": "Soft and careful, not rough.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Promise",
+      "canonical_pronunciation_note": "Something you say you will definitely do.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Apology",
+      "canonical_pronunciation_note": "Saying sorry sincerely for a mistake.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Responsibility",
+      "canonical_pronunciation_note": "Something you're trusted to take care of.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Mockery",
+      "canonical_pronunciation_note": "Making fun of someone unkindly.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Jealousy",
+      "canonical_pronunciation_note": "Wanting what someone else has, in an unhappy way.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Permission",
+      "canonical_pronunciation_note": "Asking before doing or taking something.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Privacy",
+      "canonical_pronunciation_note": "Respecting someone's own space and things.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Welcome",
+      "canonical_pronunciation_note": "Greeting someone warmly.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Volunteer",
+      "canonical_pronunciation_note": "Helping without being asked or paid.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Doctor",
+      "canonical_pronunciation_note": "A helper who takes care of people who are sick.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Grateful",
+      "canonical_pronunciation_note": "Feeling and showing thanks.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Honest",
+      "canonical_pronunciation_note": "Telling the truth always.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Trustworthy",
+      "canonical_pronunciation_note": "Someone people can depend on.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Considerate",
+      "canonical_pronunciation_note": "Thinking about how your actions affect others.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Patience",
+      "canonical_pronunciation_note": "Waiting calmly without complaining.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Nature",
+      "canonical_pronunciation_note": "The outdoors — trees, animals, sky, and water.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Bravery",
+      "canonical_pronunciation_note": "Doing something hard even when you feel scared.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Effort",
+      "canonical_pronunciation_note": "Trying your best, even when it's difficult.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Creature",
+      "canonical_pronunciation_note": "Any living animal.",
+      "source": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Asbahna wa asbahal mulku lillah",
+      "canonical_pronunciation_note": "From dua_001, real cited source.",
+      "source": "dua_001",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Alhamdu lillahil ladhi at'amani hadha",
+      "canonical_pronunciation_note": "From dua_003, real cited source.",
+      "source": "dua_003",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Bismikallahumma amutu wa ahya",
+      "canonical_pronunciation_note": "From dua_004, real cited source.",
+      "source": "dua_004",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Hasbunallahu wa ni'mal wakeel",
+      "canonical_pronunciation_note": "From dua_005, real cited source.",
+      "source": "dua_005",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "La ilaha illa Anta, subhanaka, inni kuntu minaz-zalimin",
+      "canonical_pronunciation_note": "From dua_006, real cited source.",
+      "source": "dua_006",
+      "review_status": "NEEDS_REVIEW"
+    },
+    {
+      "term": "Bismillah, tawakkaltu 'alallah, wa la hawla wa la quwwata illa billah",
+      "canonical_pronunciation_note": "From dua_007, real cited source.",
+      "source": "dua_007",
+      "review_status": "NEEDS_REVIEW"
+    }
+  ]
+}

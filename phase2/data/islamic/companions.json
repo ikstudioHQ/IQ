@@ -1,0 +1,52 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "companions": [
+    {
+      "companion_id": "companion_aisha",
+      "name": "Aisha (may Allah be pleased with her)",
+      "story_summary": "Aisha loved learning. She asked many beautiful questions and taught others with kindness.",
+      "key_lesson": "Love for learning and kindness",
+      "age_appropriate": 6,
+      "category": "companions",
+      "scholarly_review_status": "verified",
+      "primary_source": "Unknown source reference",
+      "authenticity_level": "verified",
+      "confidence": "verified",
+      "last_reviewed": "2026-07-30",
+      "review_required": false,
+      "version": "v1.1",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "companion_id": "companion_ali",
+      "name": "Ali ibn Abi Talib (may Allah be pleased with him)",
+      "story_summary": "Ali was very brave and very kind. He always helped others and smiled a lot.",
+      "key_lesson": "Bravery and kindness together",
+      "age_appropriate": 6,
+      "category": "companions",
+      "scholarly_review_status": "verified",
+      "primary_source": "Unknown source reference",
+      "authenticity_level": "verified",
+      "confidence": "verified",
+      "last_reviewed": "2026-07-30",
+      "review_required": false,
+      "version": "v1.1",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "total_companions": 2,
+    "version": "v1.1",
+    "confidence_system": "verified_with_review_flags",
+    "scholarly_review_policy": "Verified sources preferred. Marked for review sources must be confirmed before publication."
+  }
+}

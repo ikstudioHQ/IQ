@@ -1,0 +1,15 @@
+{
+  "repository_version": "2.72",
+  "generated_at": "2026-08-05T00:00:00",
+  "runtime_files": [
+    "runtime_characters.json",
+    "runtime_curriculum.json",
+    "runtime_index.json",
+    "runtime_relationships.json",
+    "runtime_safety.json",
+    "runtime_topics.json",
+    "runtime_world.json"
+  ],
+  "rule": "runtime/ is NEVER hand-edited. Rerun tools/compile_runtime.py after any canonical change. Each file's own 'checksum' field lets a caller detect staleness without re-reading canonical sources.",
+  "files_scanned_for_compilation": 619
+}

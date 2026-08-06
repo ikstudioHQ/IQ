@@ -1,0 +1,86 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "festivals": [
+    {
+      "festival_id": "fest_001",
+      "name": "Ramadan",
+      "description": "The beautiful month of fasting, prayer, and kindness. A time to learn patience and share with others.",
+      "age_appropriate": 4,
+      "key_activities": [
+        "Making dua",
+        "Reading Quran",
+        "Helping parents",
+        "Being kind",
+        "Sharing food"
+      ],
+      "islamic_reference": "Quran 2:183-185 (simplified)",
+      "primary_source": "Unknown source reference",
+      "authenticity_level": "verified",
+      "scholarly_review_status": "verified",
+      "confidence": "verified",
+      "last_reviewed": "2026-07-30",
+      "review_required": false,
+      "version": "v1.1",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "festival_id": "fest_002",
+      "name": "Eid al-Fitr",
+      "description": "The celebration of finishing Ramadan with joy, new clothes, and delicious food with family and friends.",
+      "age_appropriate": 4,
+      "key_activities": [
+        "Saying Eid Mubarak",
+        "Giving gifts",
+        "Eating special food",
+        "Visiting family"
+      ],
+      "islamic_reference": "Sahih Muslim 891 (simplified)",
+      "primary_source": "Unknown source reference",
+      "authenticity_level": "verified",
+      "scholarly_review_status": "verified",
+      "confidence": "verified",
+      "last_reviewed": "2026-07-30",
+      "review_required": false,
+      "version": "v1.1",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    },
+    {
+      "festival_id": "fest_003",
+      "name": "Eid al-Adha",
+      "description": "The celebration of Prophet Ibrahim's beautiful obedience, sharing with others, and remembering Allah.",
+      "age_appropriate": 6,
+      "key_activities": [
+        "Remembering Prophet Ibrahim",
+        "Sharing meat",
+        "Being kind to animals",
+        "Making dua"
+      ],
+      "islamic_reference": "Quran 37:102-107 (simplified)",
+      "primary_source": "Unknown source reference",
+      "authenticity_level": "verified",
+      "scholarly_review_status": "verified",
+      "confidence": "verified",
+      "last_reviewed": "2026-07-30",
+      "review_required": false,
+      "version": "v1.1",
+      "citation_verified": false,
+      "source_verified": false,
+      "scholarly_reviewed": false
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "total_festivals": 3,
+    "version": "v1.1",
+    "confidence_system": "verified_with_review_flags",
+    "scholarly_review_policy": "Verified sources preferred. Marked for review sources must be confirmed before publication."
+  }
+}

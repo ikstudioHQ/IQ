@@ -1,0 +1,70 @@
+{
+  "policy_version": "1.1",
+  "created": "2026-07-30",
+  "usage_policy": "MASTER_PROMPT reads this file instead of embedding execution rules. All phases reference this single policy document.",
+  "execution_order": [
+    "validation_input",
+    "load_configuration",
+    "load_global_rules",
+    "load_brand",
+    "load_design_principles",
+    "read_knowledge_index",
+    "resolve_topic",
+    "determine_dependencies",
+    "load_relevant_knowledge",
+    "verify_continuity",
+    "verify_curriculum",
+    "verify_islamic_accuracy",
+    "verify_pronunciation",
+    "plan_episode",
+    "generate_outputs",
+    "perform_qa",
+    "perform_validation",
+    "package_output"
+  ],
+  "dependency_rules": {
+    "required": [
+      "DESIGN_PRINCIPLES.md",
+      "MASTER.md",
+      "BRAND.md",
+      "knowledge_index.json",
+      "current_state.json"
+    ],
+    "optional": [
+      "asset_registry.json",
+      "analytics.json",
+      "parent_review.md"
+    ],
+    "fallback_behavior": "If optional missing, continue with warning and use default rules from DESIGN_PRINCIPLES.md or BRAND.md. If required missing, stop pipeline and return clear error identifying missing file."
+  },
+  "retry_strategy": {
+    "generation_retry": 1,
+    "failure_handling": "If generation fails, log error in execution_state, return partial output with error details, never fabricate missing content."
+  },
+  "caching_policy": {
+    "cached_documents": [
+      "DESIGN_PRINCIPLES.md",
+      "MASTER.md",
+      "BRAND.md",
+      "RULES.md",
+      "STORY.md",
+      "CHARACTER.md",
+      "WORLD.md",
+      "CURRICULUM.md",
+      "ISLAMIC.md",
+      "LANGUAGE.md",
+      "VOICE.md",
+      "ANIMATION.md",
+      "SEO.md",
+      "MEMORY.md"
+    ],
+    "cache_refresh": "Once per execution. Not refreshed between steps.",
+    "purpose": "Reduce file I/O, improve retrieval speed, ensure consistency."
+  },
+  "failure_policy": {
+    "required_missing": "Stop pipeline. Return error identifying missing file. Log in execution_state.",
+    "optional_missing": "Continue pipeline. Log warning. Use fallback rules from DESIGN_PRINCIPLES.md or BRAND.md.",
+    "conflicting_data": "Stop pipeline. Report conflict (higher authority wins: DESIGN_PRINCIPLES.md > RULES.md > Knowledge > Template > Output). Log in execution_state."
+  },
+  "reference_id": "EXEC_POL_001"
+}

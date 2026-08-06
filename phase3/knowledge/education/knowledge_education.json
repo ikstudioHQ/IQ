@@ -1,0 +1,130 @@
+{
+  "schema_version": "3.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "education_system_description": "Educational content integrates Islamic values, life skills, emotional intelligence, and age-appropriate learning for ages 2-8.",
+  "education_categories": [
+    {
+      "category": "islamic_education",
+      "description": "Learning about Allah, Prophets, duas, manners, values",
+      "ages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "category": "life_skills",
+      "description": "Sharing, cleaning, helping, making choices",
+      "ages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "category": "emotional_skills",
+      "description": "Recognizing feelings, being kind, being patient, asking for help",
+      "ages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "category": "language",
+      "description": "Vocabulary, pronunciation, Arabic words, storytelling",
+      "ages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "category": "social_skills",
+      "description": "Friendship, respect, community, sharing",
+      "ages": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "category": "moral_reasoning",
+      "description": "Making good choices, being honest, being responsible",
+      "ages": [
+        6,
+        7,
+        8
+      ]
+    }
+  ],
+  "teaching_principles": [
+    "Show, don't tell",
+    "Use emotional storytelling",
+    "Keep it simple and warm",
+    "Make it engaging for parents",
+    "Always connect to Islamic values",
+    "Never lecture",
+    "Always use real examples from characters' lives"
+  ],
+  "assessment_approach": {
+    "method": "Observational, not test-based",
+    "indicators": [
+      "Can say the dua",
+      "Can explain the value simply",
+      "Shows the behavior in play",
+      "Expresses the emotion correctly"
+    ],
+    "parent_involvement": "Encourage co-viewing and gentle discussion",
+    "progress_tracking": "Tracked in `learning_progress.json` (Phase 2)"
+  },
+  "future_expansion_notes": "Education system will expand with parent guides, printable materials, interactive elements, and assessment tools.",
+  "metadata": {
+    "retrieval_tags": [
+      "education",
+      "teaching",
+      "assessment",
+      "life_skills",
+      "emotional",
+      "social"
+    ],
+    "difficulty_level": "all",
+    "age_target": "2-8",
+    "curriculum_stage": "all",
+    "search_keywords": [
+      "education",
+      "teaching",
+      "assessment",
+      "life_skills",
+      "emotional",
+      "social",
+      "moral"
+    ],
+    "related_concepts": [
+      "curriculum",
+      "psychology",
+      "islamic"
+    ]
+  }
+}

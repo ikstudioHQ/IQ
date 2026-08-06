@@ -1,0 +1,221 @@
+{
+  "generated_from": [
+    "generated/task_router.json",
+    "generated/feature_registry.json",
+    "generated/repository_fingerprint.json",
+    "generated/source_of_truth_registry.json"
+  ],
+  "generated_at": "2026-08-05T00:00:00",
+  "repository_version": "2.72",
+  "schema_version": "1.0",
+  "checksum": "1c46fdf868e4085b",
+  "generator": "tools/compile_runtime.py v1.0",
+  "task_router": {
+    "note": "Load ONLY these files for the given task type, instead of scanning the repository.",
+    "SONG": [
+      "phase5/orchestration/planning/song_topic_bank.json",
+      "phase3/knowledge/concepts/",
+      "sources/characters/character_master_library.json",
+      "phase2/data/safety/content_scene_safety_registry.json",
+      "tools/episode_consistency_check.py"
+    ],
+    "EPISODE": [
+      "phase5/orchestration/planning/episode_topic_bank.json",
+      "phase3/knowledge/concepts/",
+      "sources/characters/character_master_library.json",
+      "phase2/data/safety/content_scene_safety_registry.json",
+      "tools/episode_consistency_check.py"
+    ],
+    "VOICE": [
+      "sources/characters/character_master_library.json",
+      "sources/characters/voice_collision_matrix.json",
+      "sources/characters/voice_audition_manifest.json"
+    ],
+    "CHARACTER": [
+      "sources/characters/character_master_library.json",
+      "sources/characters/character_schema.json",
+      "sources/characters/ADD_NEW_CHARACTER.md"
+    ],
+    "CURRICULUM_KNOWLEDGE": [
+      "phase3/knowledge/concepts/",
+      "phase2/data/islamic/",
+      "phase3/knowledge/curriculum/knowledge_coverage_matrix.md"
+    ],
+    "GEMINI_EXPORT": [
+      "output_package/<episode>/gemini/",
+      "sources/production/location_library.json",
+      "sources/production/wardrobe_library.json",
+      "sources/production/prop_registry.json",
+      "tools/validate_dialogue_timing.py"
+    ],
+    "VALIDATOR": [
+      "tools/validate_repo.py",
+      "tools/episode_consistency_check.py"
+    ],
+    "DEVELOPER": [
+      "AI_BOOTSTRAP.md",
+      "AUTHORITY_HIERARCHY.md",
+      "generated/source_of_truth_registry.json"
+    ],
+    "REPOSITORY_MAINTENANCE": [
+      "VERSION_COMPATIBILITY.md",
+      "CHANGELOG.md",
+      "generated/repository_fingerprint.json"
+    ],
+    "PLANNING": [
+      "phase5/orchestration/planning/episode_topic_bank.json",
+      "phase5/orchestration/planning/song_topic_bank.json"
+    ],
+    "PUBLISHING": [
+      "tools/package_episode.py",
+      "phase2/data/safety/review_resolutions.json"
+    ],
+    "REGRESSION_TESTING": [
+      "tools/validate_repo.py",
+      "tools/episode_consistency_check.py",
+      "output_package/test_multiclip_scene/",
+      "output_package/test_song_scene/"
+    ]
+  },
+  "features": {
+    "note": "Every repository capability, real status only.",
+    "features": [
+      {
+        "name": "Gemini export",
+        "status": "ACTIVE",
+        "version_introduced": "2.32",
+        "owner": "output_package/<name>/gemini/",
+        "depends_on": [
+          "character_master_library.json",
+          "location_library.json"
+        ]
+      },
+      {
+        "name": "Song production",
+        "status": "ACTIVE (planning-only, 0 published)",
+        "version_introduced": "2.24",
+        "owner": "song_topic_bank.json"
+      },
+      {
+        "name": "Episode production",
+        "status": "ACTIVE (planning-only, 0 published)",
+        "version_introduced": "2.24",
+        "owner": "episode_topic_bank.json"
+      },
+      {
+        "name": "Voice lock",
+        "status": "ACTIVE (identity-only, no provider selected)",
+        "version_introduced": "2.34",
+        "owner": "character_master_library.json:voice_master"
+      },
+      {
+        "name": "Publication gate",
+        "status": "ACTIVE, FROZEN",
+        "version_introduced": "2.38",
+        "owner": "package_episode.py --final"
+      },
+      {
+        "name": "Content safety",
+        "status": "ACTIVE, FROZEN",
+        "version_introduced": "2.36",
+        "owner": "content_scene_safety_registry.json"
+      },
+      {
+        "name": "Character lock",
+        "status": "ACTIVE",
+        "version_introduced": "2.0",
+        "owner": "character_master_library.json"
+      },
+      {
+        "name": "Timeline/canon memory",
+        "status": "NOT_BUILT (deferred, no real production history to populate it yet)",
+        "version_introduced": null
+      },
+      {
+        "name": "Animation export",
+        "status": "ACTIVE (schema/test-proven, 0 real generations)",
+        "version_introduced": "2.32"
+      },
+      {
+        "name": "TTS",
+        "status": "SCAFFOLDED (provider fields null pending real audition)",
+        "version_introduced": "2.32"
+      },
+      {
+        "name": "Regression testing",
+        "status": "ACTIVE",
+        "version_introduced": "2.16"
+      },
+      {
+        "name": "Curriculum/concept coverage",
+        "status": "ACTIVE",
+        "version_introduced": "2.7"
+      },
+      {
+        "name": "Topic planning",
+        "status": "ACTIVE",
+        "version_introduced": "2.24"
+      },
+      {
+        "name": "Real production (published output)",
+        "status": "NOT_STARTED",
+        "version_introduced": null
+      }
+    ]
+  },
+  "fingerprint": {
+    "generated_from": "computed live from canonical sources -- regenerate, never hand-edit",
+    "repository_version": "2.72",
+    "architecture_status": "FROZEN",
+    "content_safety_status": "FROZEN",
+    "publication_gate_status": "FROZEN",
+    "characters_total": 85,
+    "characters_speaking": 83,
+    "characters_non_speaking": 2,
+    "quran_verses": 16,
+    "hadith": 14,
+    "duas": 7,
+    "prophets": 4,
+    "concepts": 22,
+    "vocabulary": 5,
+    "conflicts": 60,
+    "patterns": 13,
+    "locations": 4,
+    "wardrobes": 2,
+    "props": 1,
+    "safety_rules": 13,
+    "episode_topics": 44,
+    "song_topics": 22,
+    "published_episodes": 0,
+    "published_songs": 0,
+    "total_files": 3360
+  },
+  "source_of_truth": {
+    "note": "Machine-readable version of sources/production/SOURCE_OF_TRUTH_MANIFEST.md -- that file remains the human-readable authority, this is a generated derivation for AI task-routing, not a second source of truth.",
+    "domains": {
+      "characters_visual": "sources/characters/character_master_library.json",
+      "characters_voice": "sources/characters/character_master_library.json:voice_master",
+      "voice_collision": "sources/characters/voice_collision_matrix.json",
+      "voice_audition": "sources/characters/voice_audition_manifest.json",
+      "pronunciation": "sources/production/pronunciation_dictionary.json",
+      "locations": "sources/production/location_library.json",
+      "wardrobe": "sources/production/wardrobe_library.json",
+      "props": "sources/production/prop_registry.json",
+      "religious_evidence": "phase2/data/islamic/*.json",
+      "religious_allowlist": "phase1/docs/governance/religious_production_allowlist.json",
+      "religious_blocklist": "phase1/docs/governance/religious_production_blocklist.json",
+      "concepts": "phase3/knowledge/concepts/*.json",
+      "vocabulary": "phase3/knowledge/vocabulary/islamic_vocabulary.json",
+      "conflicts": "phase3/knowledge/story/conflict_library.json",
+      "patterns": "phase3/knowledge/story/story_patterns.json",
+      "episode_topics": "phase5/orchestration/planning/episode_topic_bank.json",
+      "song_topics": "phase5/orchestration/planning/song_topic_bank.json",
+      "content_safety": "phase2/data/safety/content_scene_safety_registry.json",
+      "animal_policy": "phase2/data/safety/animal_policy_registry.json",
+      "review_resolutions": "phase2/data/safety/review_resolutions.json",
+      "world_state_history": "phase2/data/database/world_state.json",
+      "gemini_export": "output_package/<name>/gemini/ (DERIVED, never authoritative)",
+      "generated_episodes": "output_package/ (DERIVED, never authoritative, 0 published)"
+    }
+  }
+}

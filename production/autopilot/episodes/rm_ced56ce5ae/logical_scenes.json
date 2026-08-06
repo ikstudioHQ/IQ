@@ -1,0 +1,507 @@
+{
+  "schema_version": "2.72",
+  "episode_id": "rm_ced56ce5ae",
+  "target_duration": 600,
+  "scenes": [
+    {
+      "scene_id": "scene_01",
+      "narrative_purpose": "hook",
+      "purpose_description": "A small everyday surprise creates an immediate question.",
+      "estimated_duration_seconds": 60.0,
+      "location": "school",
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "source_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Wait\u2014something here doesn't feel quite right."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_02",
+      "narrative_purpose": "setup",
+      "purpose_description": "The children understand the practical situation.",
+      "estimated_duration_seconds": 60.0,
+      "location": "school",
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "source_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Let's look carefully before we decide."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's look carefully before we decide."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_03",
+      "narrative_purpose": "choice",
+      "purpose_description": "A child must choose what to do next.",
+      "estimated_duration_seconds": 60.0,
+      "location": "school",
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "source_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I think I know what I want to do, but I should think first."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I think I know what I want to do, but I should think first."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_04",
+      "narrative_purpose": "consequence",
+      "purpose_description": "The first choice creates a visible consequence.",
+      "estimated_duration_seconds": 60.0,
+      "location": "school",
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "source_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Oh. My choice changed what happened next."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Oh. My choice changed what happened next."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_05",
+      "narrative_purpose": "reflection",
+      "purpose_description": "The children pause, notice feelings, and reconsider.",
+      "estimated_duration_seconds": 60.0,
+      "location": "school",
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "source_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: How would I feel if I were on the other side of this?"
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: How would I feel if I were on the other side of this?"
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_06",
+      "narrative_purpose": "discovery",
+      "purpose_description": "They connect the experience to the supported lesson.",
+      "estimated_duration_seconds": 60.0,
+      "location": "school",
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "source_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I understand the lesson better when I see what my choice does."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I understand the lesson better when I see what my choice does."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_07",
+      "narrative_purpose": "practice",
+      "purpose_description": "They try a better action in a concrete child-scale way.",
+      "estimated_duration_seconds": 60.0,
+      "location": "school",
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "source_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Let's try the kinder, wiser choice together."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Let's try the kinder, wiser choice together."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_08",
+      "narrative_purpose": "payoff",
+      "purpose_description": "The better choice changes the situation and relationships.",
+      "estimated_duration_seconds": 60.0,
+      "location": "school",
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "source_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: That feels better\u2014and it helped someone too."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: That feels better\u2014and it helped someone too."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_09",
+      "narrative_purpose": "callback",
+      "purpose_description": "A light callback shows the lesson being remembered.",
+      "estimated_duration_seconds": 60.0,
+      "location": "school",
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "source_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: I want to remember this the next time I have a choice."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: I want to remember this the next time I have a choice."
+        }
+      ]
+    },
+    {
+      "scene_id": "scene_10",
+      "narrative_purpose": "handoff",
+      "purpose_description": "The episode closes warmly and preserves a next-day hook.",
+      "estimated_duration_seconds": 60.0,
+      "location": "school",
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "source_evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "provenance_class": "AUTHORED_CREATIVE_STORY",
+      "dialogue": [
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_001_zayd",
+          "text": "Zayd: Tomorrow, let's see if we can remember what we learned today."
+        },
+        {
+          "character_id": "char_002_amira",
+          "text": "Amira: Tomorrow, let's see if we can remember what we learned today."
+        }
+      ]
+    }
+  ]
+}

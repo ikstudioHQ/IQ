@@ -1,0 +1,457 @@
+{
+  "schema_version": "2.68",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "episode",
+  "parent_id": "rm_efc2c3ee01",
+  "source_scene_id": "scene_01",
+  "generation_units": [
+    {
+      "generation_unit_id": "rm_efc2c3ee01_scene_01_u01",
+      "parent_scene_id": "scene_01",
+      "start_seconds": 0.0,
+      "end_seconds": 7.5,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "dialogue",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right.",
+          "start_seconds": 0.0,
+          "end_seconds": 3.0,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "reaction"
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "cast grouped with separated silhouettes",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear hook action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_efc2c3ee01_scene_01_u02",
+      "parent_scene_id": "scene_01",
+      "start_seconds": 7.5,
+      "end_seconds": 15.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "dialogue",
+          "text": "Ummi Layla: Wait\u2014something here doesn't feel quite right.",
+          "start_seconds": 7.5,
+          "end_seconds": 10.7,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "reaction"
+        },
+        {
+          "character_id": "char_002_amira",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear hook action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_efc2c3ee01_scene_01_u03",
+      "parent_scene_id": "scene_01",
+      "start_seconds": 15.0,
+      "end_seconds": 22.5,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "Zayd: Wait\u2014something here doesn't feel quite right.",
+          "start_seconds": 15.0,
+          "end_seconds": 18.0,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_002_amira",
+          "type": "reaction"
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear hook action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_efc2c3ee01_scene_01_u04",
+      "parent_scene_id": "scene_01",
+      "start_seconds": 22.5,
+      "end_seconds": 30.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "dialogue",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right.",
+          "start_seconds": 22.5,
+          "end_seconds": 25.5,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "reaction"
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear hook action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_efc2c3ee01_scene_01_u05",
+      "parent_scene_id": "scene_01",
+      "start_seconds": 30.0,
+      "end_seconds": 37.5,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "dialogue",
+          "text": "Ummi Layla: Wait\u2014something here doesn't feel quite right.",
+          "start_seconds": 30.0,
+          "end_seconds": 33.2,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "reaction"
+        },
+        {
+          "character_id": "char_002_amira",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear hook action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_efc2c3ee01_scene_01_u06",
+      "parent_scene_id": "scene_01",
+      "start_seconds": 37.5,
+      "end_seconds": 45.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "dialogue",
+          "text": "Zayd: Wait\u2014something here doesn't feel quite right.",
+          "start_seconds": 37.5,
+          "end_seconds": 40.5,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_002_amira",
+          "type": "reaction"
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear hook action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_efc2c3ee01_scene_01_u07",
+      "parent_scene_id": "scene_01",
+      "start_seconds": 45.0,
+      "end_seconds": 52.5,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "dialogue",
+          "text": "Amira: Wait\u2014something here doesn't feel quite right.",
+          "start_seconds": 45.0,
+          "end_seconds": 48.0,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "reaction"
+        },
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_003_ummi_layla"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear hook action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    },
+    {
+      "generation_unit_id": "rm_efc2c3ee01_scene_01_u08",
+      "parent_scene_id": "scene_01",
+      "start_seconds": 52.5,
+      "end_seconds": 60.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_002_amira",
+        "char_003_ummi_layla"
+      ],
+      "performance": [
+        {
+          "character_id": "char_003_ummi_layla",
+          "type": "dialogue",
+          "text": "Ummi Layla: Wait\u2014something here doesn't feel quite right.",
+          "start_seconds": 52.5,
+          "end_seconds": 55.7,
+          "lip_sync": true
+        },
+        {
+          "character_id": "char_001_zayd",
+          "type": "reaction"
+        },
+        {
+          "character_id": "char_002_amira",
+          "type": "reaction"
+        }
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_002_amira"
+      ],
+      "in_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "out_state": {
+        "location": "home",
+        "position": "stable separated blocking, slight authored progression",
+        "orientation": "toward scene action",
+        "emotion": "curious",
+        "props": [],
+        "camera_axis": "stable A-axis"
+      },
+      "primary_action": "One clear hook action; characters keep separated silhouettes and physically achievable motion.",
+      "secondary_reaction": "Non-speakers react with eyes and posture only; mouths remain non-speaking.",
+      "camera": "Stable medium two-shot/group shot on established A-axis; gentle push only when emotionally useful.",
+      "lighting": "Warm child-friendly cinematic lighting; preserve time and direction.",
+      "music_continuity": "Light underscore only; duck under dialogue.",
+      "location": "home"
+    }
+  ]
+}

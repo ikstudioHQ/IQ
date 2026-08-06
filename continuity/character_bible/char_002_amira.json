@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "character_id": "char_002_amira",
+  "canonical_name": "Amira",
+  "aliases": [],
+  "role_relation": "Core lead; Zayd's younger sister",
+  "age": "5",
+  "is_speaking": true,
+  "appearance": {
+    "canonical_description": "Amira — warm light-brown skin, rosy round cheeks, very large hazel eyes; soft lavender hijab, pale-yellow knee-length dress, mint leggings, cream shoes. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality. Full-body canonical character reference, neutral warm-cream background, front three-quarter pose, feet visible, no text, no watermark.",
+    "needs_review": false
+  },
+  "turnaround_prompt": "Amira, exact same canonical identity: warm light-brown skin, rosy round cheeks, very large hazel eyes; soft lavender hijab, pale-yellow knee-length dress, mint leggings, cream shoes. Create a six-view turnaround: front, left 3/4, left profile, back, right profile, right 3/4. Keep face, proportions, clothing colors, hairstyle/hijab and accessories identical in every view. Neutral warm-cream model-sheet background. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "expression_prompt": "Amira, exact same canonical identity: warm light-brown skin, rosy round cheeks, very large hazel eyes; soft lavender hijab, pale-yellow knee-length dress, mint leggings, cream shoes. Expression sheet with neutral, happy, excited, thoughtful, worried, sad, surprised, apologetic, relieved, joyful. Head-and-shoulders grid, identical identity and clothing, consistent lighting. 3D animated children's feature-film style, soft rounded shapes, large expressive eyes, warm pastel palette, soft cinematic lighting, wholesome child-safe mood, modest clothing, friendly proportions, clean silhouette, consistent character-model design, high detail, 16:9 reference quality.",
+  "colours": {
+    "needs_review": true,
+    "note": "v2.72 source data describes colours in prose inside canonical_image_prompt/turnaround_prompt rather than as structured hex values. Not fabricating hex codes here -- the prose description remains authoritative until a human extracts structured colour values, if that's ever needed for a non-text-prompt use case."
+  },
+  "voice": {
+    "voice_profile_text": "sweet gentle young girl; high natural pitch; slow-medium pace; soft and emotionally clear",
+    "voice_master": {
+      "voice_identity_id": "VOICE_002_AMIRA",
+      "voice_profile_version": "2.0",
+      "voice_status": "AUDITION_REQUIRED",
+      "fingerprint": {
+        "vocal_age_band": "child",
+        "gender_presentation": "female",
+        "pitch_band": "high",
+        "pace_baseline": "slow",
+        "source_description": "sweet gentle young girl; high natural pitch; slow-medium pace; soft and emotionally clear",
+        "derivation_note": "Parsed/classified from the supplied voice_profile_text -- not independently invented. Bands are coarse (needed for collision comparison), full text remains the authoritative descriptive profile."
+      },
+      "immutable_identity": {
+        "vocal_age": "child",
+        "gender_presentation": "female",
+        "pitch_band": "high",
+        "core_timbre": "sweet gentle young girl; high natural pitch; slow-medium pace; soft and emotionally clear"
+      },
+      "provider_binding": {
+        "primary": null,
+        "fallback": null,
+        "_note": "No provider selected. Never invented."
+      },
+      "provider_voice_id": null,
+      "voice_seed": null,
+      "approval_status": "NOT_APPROVED",
+      "approved_at": null,
+      "approved_by": null,
+      "reference_audio": null,
+      "singing_eligible": true,
+      "singing_voice_adaptation": "Not yet defined -- uses spoken voice identity by default until a real singing-specific adaptation is tested.",
+      "fingerprint_v2": {
+        "pitch_center": 5,
+        "age_band": "child",
+        "gender_voice_class": "female",
+        "pace": "slow",
+        "accent": "not specified",
+        "distinctive_descriptor_words": [
+          "emotionally",
+          "high",
+          "medium",
+          "natural",
+          "slow"
+        ],
+        "raw_source": "sweet gentle young girl; high natural pitch; slow-medium pace; soft and emotionally clear"
+      },
+      "provider_model": null,
+      "previous_voice_version": null,
+      "approved_sample_asset": null,
+      "approved_date": null,
+      "audition_pack": {
+        "A_neutral": "I drew a picture of our garden today.",
+        "B_happy": "I'm so glad you're here!",
+        "C_concerned": "Are you feeling alright? You seem quiet.",
+        "D_excited": "I can't wait for Eid!",
+        "E_calm": "It's alright, take your time.",
+        "F_storytelling": "Once there was a little lamb who loved to wander...",
+        "G_question": "Ummi, can I help you in the kitchen?",
+        "H_exclamation": "Oh, how lovely!",
+        "I_pronunciation": "Assalamu Alaikum. InshaAllah, we'll see you soon.",
+        "J_singing_optional": "A short, gentle two-line chorus about kindness, slow tempo."
+      }
+    }
+  },
+  "restrictions": null,
+  "production_priority": "CORE",
+  "approval_status": "DRAFT",
+  "asset_status": "ASSET_PENDING",
+  "reference_images": [
+    {
+      "asset_id": "char_002_amira_approved_reference",
+      "path": "sources/characters/reference_images/2. Amira.png",
+      "role": "asset",
+      "status": "supplied_unapproved_pending_review",
+      "resolves_on_disk": true
+    }
+  ],
+  "relationships": [],
+  "relationships_needs_review": true,
+  "source_of_truth": false,
+  "provenance": "migrated_from:sources/characters/character_master_library.json",
+  "provenance_note": "This file is DERIVED. sources/characters/character_master_library.json remains the authored source of truth; re-run this migration if that file changes rather than hand-editing this output."
+}

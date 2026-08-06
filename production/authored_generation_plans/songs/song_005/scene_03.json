@@ -1,0 +1,330 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "song",
+  "parent_id": "song_005",
+  "logical_scene_id": "scene_03",
+  "generation_units": [
+    {
+      "generation_unit_id": "song_005_scene_03_u01",
+      "parent_scene_id": "scene_03",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 7.6,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_057_neighbor_auntie_ruqayyah",
+        "char_058_neighbor_uncle_dawud"
+      ],
+      "silent_characters": [
+        "char_057_neighbor_auntie_ruqayyah",
+        "char_058_neighbor_uncle_dawud"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "singing",
+          "text": "Auntie smiles, Uncle waves, The street feels like a home, Helping those around us,",
+          "start_seconds": 0.0,
+          "end_seconds": 6.364
+        }
+      ],
+      "primary_action": "Neighbors help each other along the warm street — a door held, a smile shared. Authored beat 1/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_057_neighbor_auntie_ruqayyah": "stable slot 2",
+          "char_058_neighbor_uncle_dawud": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_057_neighbor_auntie_ruqayyah": "toward shared action focus",
+          "char_058_neighbor_uncle_dawud": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "begin scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_057_neighbor_auntie_ruqayyah": "stable slot 2",
+          "char_058_neighbor_uncle_dawud": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_057_neighbor_auntie_ruqayyah": "toward shared action focus",
+          "char_058_neighbor_uncle_dawud": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_005_scene_03_u02",
+      "parent_scene_id": "scene_03",
+      "sequence": 2,
+      "start_seconds": 7.6,
+      "end_seconds": 15.2,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_057_neighbor_auntie_ruqayyah",
+        "char_058_neighbor_uncle_dawud"
+      ],
+      "silent_characters": [
+        "char_057_neighbor_auntie_ruqayyah",
+        "char_058_neighbor_uncle_dawud"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "singing",
+          "text": "Means we are never alone. One body, one ummah, When one of us is low,",
+          "start_seconds": 7.6,
+          "end_seconds": 14.418
+        }
+      ],
+      "primary_action": "Neighbors help each other along the warm street — a door held, a smile shared. Authored beat 2/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_057_neighbor_auntie_ruqayyah": "stable slot 2",
+          "char_058_neighbor_uncle_dawud": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_057_neighbor_auntie_ruqayyah": "toward shared action focus",
+          "char_058_neighbor_uncle_dawud": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_057_neighbor_auntie_ruqayyah": "stable slot 2",
+          "char_058_neighbor_uncle_dawud": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_057_neighbor_auntie_ruqayyah": "toward shared action focus",
+          "char_058_neighbor_uncle_dawud": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_005_scene_03_u03",
+      "parent_scene_id": "scene_03",
+      "sequence": 3,
+      "start_seconds": 15.2,
+      "end_seconds": 22.8,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_057_neighbor_auntie_ruqayyah",
+        "char_058_neighbor_uncle_dawud"
+      ],
+      "silent_characters": [
+        "char_057_neighbor_auntie_ruqayyah",
+        "char_058_neighbor_uncle_dawud"
+      ],
+      "performance": [
+        {
+          "character_id": "char_001_zayd",
+          "type": "singing",
+          "text": "We help, we care, we hold the door, Together hearts all grow.",
+          "start_seconds": 15.2,
+          "end_seconds": 20.655
+        }
+      ],
+      "primary_action": "Neighbors help each other along the warm street — a door held, a smile shared. Authored beat 3/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_057_neighbor_auntie_ruqayyah": "stable slot 2",
+          "char_058_neighbor_uncle_dawud": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_057_neighbor_auntie_ruqayyah": "toward shared action focus",
+          "char_058_neighbor_uncle_dawud": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_057_neighbor_auntie_ruqayyah": "stable slot 2",
+          "char_058_neighbor_uncle_dawud": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_057_neighbor_auntie_ruqayyah": "toward shared action focus",
+          "char_058_neighbor_uncle_dawud": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_005_scene_03_u04",
+      "parent_scene_id": "scene_03",
+      "sequence": 4,
+      "start_seconds": 22.8,
+      "end_seconds": 30.4,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_057_neighbor_auntie_ruqayyah",
+        "char_058_neighbor_uncle_dawud"
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_057_neighbor_auntie_ruqayyah",
+        "char_058_neighbor_uncle_dawud"
+      ],
+      "performance": [],
+      "primary_action": "Neighbors help each other along the warm street — a door held, a smile shared. Authored beat 4/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_057_neighbor_auntie_ruqayyah": "stable slot 2",
+          "char_058_neighbor_uncle_dawud": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_057_neighbor_auntie_ruqayyah": "toward shared action focus",
+          "char_058_neighbor_uncle_dawud": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_057_neighbor_auntie_ruqayyah": "stable slot 2",
+          "char_058_neighbor_uncle_dawud": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_057_neighbor_auntie_ruqayyah": "toward shared action focus",
+          "char_058_neighbor_uncle_dawud": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_005_scene_03_u05",
+      "parent_scene_id": "scene_03",
+      "sequence": 5,
+      "start_seconds": 30.4,
+      "end_seconds": 38.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_001_zayd",
+        "char_057_neighbor_auntie_ruqayyah",
+        "char_058_neighbor_uncle_dawud"
+      ],
+      "silent_characters": [
+        "char_001_zayd",
+        "char_057_neighbor_auntie_ruqayyah",
+        "char_058_neighbor_uncle_dawud"
+      ],
+      "performance": [],
+      "primary_action": "Neighbors help each other along the warm street — a door held, a smile shared. Authored beat 5/5: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_057_neighbor_auntie_ruqayyah": "stable slot 2",
+          "char_058_neighbor_uncle_dawud": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_057_neighbor_auntie_ruqayyah": "toward shared action focus",
+          "char_058_neighbor_uncle_dawud": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_001_zayd": "stable slot 1",
+          "char_057_neighbor_auntie_ruqayyah": "stable slot 2",
+          "char_058_neighbor_uncle_dawud": "stable slot 3"
+        },
+        "orientation": {
+          "char_001_zayd": "toward shared action focus",
+          "char_057_neighbor_auntie_ruqayyah": "toward shared action focus",
+          "char_058_neighbor_uncle_dawud": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "scene action settled"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

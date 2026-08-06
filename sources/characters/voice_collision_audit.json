@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "total_speaking": 84,
+  "flagged_collisions": [
+    {
+      "char_a": "char_004_baba_ahmad",
+      "char_b": "char_033_officer_khalid",
+      "overlap_ratio": 0.86,
+      "status": "REVIEW_REQUIRED",
+      "note": "Automated flag for human review -- not auto-changed, per instruction."
+    },
+    {
+      "char_a": "char_028_dr_samir",
+      "char_b": "char_033_officer_khalid",
+      "overlap_ratio": 0.71,
+      "status": "REVIEW_REQUIRED",
+      "note": "Automated flag for human review -- not auto-changed, per instruction."
+    },
+    {
+      "char_a": "char_033_officer_khalid",
+      "char_b": "char_050_carpenter_hamid",
+      "overlap_ratio": 0.71,
+      "status": "REVIEW_REQUIRED",
+      "note": "Automated flag for human review -- not auto-changed, per instruction."
+    },
+    {
+      "char_a": "char_037_baker_uncle_tariq",
+      "char_b": "char_069_molana_abdul_qadir",
+      "overlap_ratio": 0.75,
+      "status": "REVIEW_REQUIRED",
+      "note": "Automated flag for human review -- not auto-changed, per instruction."
+    },
+    {
+      "char_a": "char_038_grocer_uncle_rashid",
+      "char_b": "char_048_bus_driver_uncle_majid",
+      "overlap_ratio": 0.83,
+      "status": "REVIEW_REQUIRED",
+      "note": "Automated flag for human review -- not auto-changed, per instruction."
+    },
+    {
+      "char_a": "char_057_neighbor_auntie_ruqayyah",
+      "char_b": "char_073_dadi_khadija",
+      "overlap_ratio": 0.71,
+      "status": "REVIEW_REQUIRED",
+      "note": "Automated flag for human review -- not auto-changed, per instruction."
+    },
+    {
+      "char_a": "char_062_fili",
+      "char_b": "char_067_chinki",
+      "overlap_ratio": 0.71,
+      "status": "REVIEW_REQUIRED",
+      "note": "Automated flag for human review -- not auto-changed, per instruction."
+    },
+    {
+      "char_a": "char_065_nunu",
+      "char_b": "char_067_chinki",
+      "overlap_ratio": 0.71,
+      "status": "REVIEW_REQUIRED",
+      "note": "Automated flag for human review -- not auto-changed, per instruction."
+    }
+  ]
+}

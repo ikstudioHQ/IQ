@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "note": "Structured per-species registry, explicitly NOT a blanket haram-animal blacklist. Animal cruelty is blocked separately via safety_011 in content_scene_safety_registry.json regardless of species.",
+  "total_species": 4,
+  "animals": [
+    {
+      "species": "pig/swine",
+      "usage_context": "food/dietary",
+      "food_context_relevant": true,
+      "religious_evidence_id": "restriction_001",
+      "child_safety_notes": "Real animal depiction (farm/zoo/story context, not as food) is not itself restricted -- restriction_001 in content_restrictions.json specifically covers depiction related to consumption, not the animal's existence.",
+      "depiction_rules": "May appear as a real farm/zoo animal in educational or story context. Must not be shown as food/consumed on this channel per restriction_001.",
+      "status": "REVIEW_REQUIRED",
+      "review_required": true,
+      "notes": "Genuinely nuanced -- flagged for real human review before any pig-adjacent episode, not auto-decided by this registry."
+    },
+    {
+      "species": "dog",
+      "usage_context": "pet/companion",
+      "food_context_relevant": false,
+      "religious_evidence_id": null,
+      "child_safety_notes": "The thirsty-dog hadith (hd_011) is already a real, positive, cited story element in this repository.",
+      "depiction_rules": "Fully allowed -- pets, strays, story companions.",
+      "status": "ALLOWED",
+      "review_required": false,
+      "notes": "Real repository precedent exists (hd_011, compassion_for_animals)."
+    },
+    {
+      "species": "cat",
+      "usage_context": "pet/companion",
+      "food_context_relevant": false,
+      "religious_evidence_id": null,
+      "child_safety_notes": null,
+      "depiction_rules": "Fully allowed.",
+      "status": "ALLOWED",
+      "review_required": false,
+      "notes": "Nuri (char_006) is an existing non-speaking cat-adjacent character in the repository."
+    },
+    {
+      "species": "farm animals (cow, sheep, chicken, duck, rooster, rabbit)",
+      "usage_context": "farm/pet/story",
+      "food_context_relevant": true,
+      "religious_evidence_id": null,
+      "child_safety_notes": "Normal educational/farm/story depiction fully allowed. Slaughter/food-preparation scenes are a separate, more sensitive question -- not addressed by this registry entry, would need its own real review.",
+      "depiction_rules": "Allowed for farm-life, pet, or story context.",
+      "status": "ALLOWED",
+      "review_required": false,
+      "notes": "Several already exist in character_master_library.json (Misha the Cow, Fifi the Duck, Rooster Rafiq, Bun-Bun the Rabbit, Wooly the Sheep)."
+    }
+  ]
+}

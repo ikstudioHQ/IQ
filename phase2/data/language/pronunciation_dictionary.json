@@ -1,0 +1,216 @@
+{
+  "schema_version": "2.0",
+  "updated_at": "2026-07-30T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "words": [
+    {
+      "canonical_spelling": "Assalamu Alaikum",
+      "alternative_spellings": [
+        "As-salamu alaykum",
+        "Salam"
+      ],
+      "child_pronunciation": "As-sa-la-mu A-lay-kum",
+      "ipa": "/ˈæs.sæˌlɑː.mu ʔæˈleɪ.kʊm/",
+      "tts_override": "Assalamu Alaikum",
+      "engine_override": {
+        "amazon_polly": "Assalamu Alaikum",
+        "google_tts": "Assalamu Alaikum",
+        "azure_tts": "Assalamu Alaikum"
+      },
+      "meaning": "Peace be upon you (greeting)",
+      "category": "greeting",
+      "difficulty": 2,
+      "usage_examples": [
+        "Zayd says, 'Assalamu Alaikum!' to his friend Amira.",
+        "Every morning, Ummi Layla teaches Zayd to say Assalamu Alaikum."
+      ],
+      "syllables": "As-sa-la-mu A-lay-kum",
+      "stress": "As-sa-LA-mu A-LAY-kum",
+      "audio_reference_placeholder": "audio/assalamu_alaikum.mp3",
+      "engine_overrides_expanded": {
+        "amazon_polly": "Assalamu Alaikum",
+        "google_tts": "Assalamu Alaikum",
+        "azure_tts": "Assalamu Alaikum",
+        "elevenlabs": "Assalamu Alaikum",
+        "murf": "Assalamu Alaikum"
+      },
+      "usage_expanded": [
+        "Zayd says, 'Assalamu Alaikum!' to his friend Amira.",
+        "Child-friendly explanation: Remember Allah brings peace."
+      ],
+      "version": "v1.1",
+      "confidence": "verified",
+      "reviewed": true,
+      "last_updated": "2026-07-30"
+    },
+    {
+      "canonical_spelling": "Alhamdulillah",
+      "alternative_spellings": [
+        "Al-hamdu-lillah",
+        "Alhamdulilah"
+      ],
+      "child_pronunciation": "Al-ham-du-lil-lah",
+      "ipa": "/ˈæl.hæm.duː.lɪˈlɑː/",
+      "tts_override": "Alhamdulillah",
+      "engine_override": {
+        "amazon_polly": "Alhamdulillah",
+        "google_tts": "Alhamdulillah",
+        "azure_tts": "Alhamdulillah"
+      },
+      "meaning": "All praise is for Allah",
+      "category": "praise",
+      "difficulty": 2,
+      "usage_examples": [
+        "When Amira finishes her food, she says Alhamdulillah.",
+        "Ummi Layla smiles when she hears Alhamdulillah from Amira."
+      ],
+      "syllables": "As-sa-la-mu A-lay-kum",
+      "stress": "As-sa-LA-mu A-LAY-kum",
+      "audio_reference_placeholder": "audio/alhamdulillah.mp3",
+      "engine_overrides_expanded": {
+        "amazon_polly": "Alhamdulillah",
+        "google_tts": "Alhamdulillah",
+        "azure_tts": "Alhamdulillah",
+        "elevenlabs": "Alhamdulillah",
+        "murf": "Alhamdulillah"
+      },
+      "usage_expanded": [
+        "When Amira finishes her food, she says Alhamdulillah.",
+        "Child-friendly explanation: Remember Allah brings peace."
+      ],
+      "version": "v1.1",
+      "confidence": "verified",
+      "reviewed": true,
+      "last_updated": "2026-07-30"
+    },
+    {
+      "canonical_spelling": "Bismillah",
+      "alternative_spellings": [
+        "Bismillah",
+        "Bismilla"
+      ],
+      "child_pronunciation": "Bis-mil-lah",
+      "ipa": "/bɪs.mɪˈlɑː/",
+      "tts_override": "Bismillah",
+      "engine_override": {
+        "amazon_polly": "Bismillah",
+        "google_tts": "Bismillah",
+        "azure_tts": "Bismillah"
+      },
+      "meaning": "In the name of Allah",
+      "category": "invocation",
+      "difficulty": 1,
+      "usage_examples": [
+        "Before eating, Zayd says Bismillah.",
+        "Bismillah is the first word in many beautiful duas."
+      ],
+      "syllables": "As-sa-la-mu A-lay-kum",
+      "stress": "As-sa-LA-mu A-LAY-kum",
+      "audio_reference_placeholder": "audio/bismillah.mp3",
+      "engine_overrides_expanded": {
+        "amazon_polly": "Bismillah",
+        "google_tts": "Bismillah",
+        "azure_tts": "Bismillah",
+        "elevenlabs": "Bismillah",
+        "murf": "Bismillah"
+      },
+      "usage_expanded": [
+        "Before eating, Zayd says Bismillah.",
+        "Child-friendly explanation: Remember Allah brings peace."
+      ],
+      "version": "v1.1",
+      "confidence": "verified",
+      "reviewed": true,
+      "last_updated": "2026-07-30"
+    },
+    {
+      "canonical_spelling": "Insha Allah",
+      "alternative_spellings": [
+        "Inshallah",
+        "Insha'Allah"
+      ],
+      "child_pronunciation": "In-sha Al-lah",
+      "ipa": "/ɪnˈʃɑː ʔæˈlɑː/",
+      "tts_override": "Insha Allah",
+      "engine_override": {
+        "amazon_polly": "Insha Allah",
+        "google_tts": "Insha Allah",
+        "azure_tts": "Insha Allah"
+      },
+      "meaning": "If Allah wills",
+      "category": "expression",
+      "difficulty": 3,
+      "usage_examples": [
+        "Zayd says, 'Insha Allah, we will go to the park tomorrow.'",
+        "Baba Ahmad teaches that Insha Allah means trusting Allah."
+      ],
+      "syllables": "As-sa-la-mu A-lay-kum",
+      "stress": "As-sa-LA-mu A-LAY-kum",
+      "audio_reference_placeholder": "audio/insha_allah.mp3",
+      "engine_overrides_expanded": {
+        "amazon_polly": "Insha Allah",
+        "google_tts": "Insha Allah",
+        "azure_tts": "Insha Allah",
+        "elevenlabs": "Insha Allah",
+        "murf": "Insha Allah"
+      },
+      "usage_expanded": [
+        "Zayd says, 'Insha Allah, we will go to the park tomorrow.'",
+        "Child-friendly explanation: Remember Allah brings peace."
+      ],
+      "version": "v1.1",
+      "confidence": "verified",
+      "reviewed": true,
+      "last_updated": "2026-07-30"
+    },
+    {
+      "canonical_spelling": "Jazakallahu Khairan",
+      "alternative_spellings": [
+        "Jazak Allah",
+        "JazakAllah Khair"
+      ],
+      "child_pronunciation": "Ja-zak-al-la-hu Khai-ran",
+      "ipa": "/dʒæˈzæk.əl.læː.hu ˈxaɪ.ræn/",
+      "tts_override": "Jazakallahu Khairan",
+      "engine_override": {
+        "amazon_polly": "Jazakallahu Khairan",
+        "google_tts": "Jazakallahu Khairan",
+        "azure_tts": "Jazakallahu Khairan"
+      },
+      "meaning": "May Allah reward you with good",
+      "category": "thanks",
+      "difficulty": 4,
+      "usage_examples": [
+        "Amira says Jazakallahu Khairan when someone helps her.",
+        "Ummi Layla teaches Amira that thanking people is beautiful."
+      ],
+      "syllables": "As-sa-la-mu A-lay-kum",
+      "stress": "As-sa-LA-mu A-LAY-kum",
+      "audio_reference_placeholder": "audio/jazakallahu_khairan.mp3",
+      "engine_overrides_expanded": {
+        "amazon_polly": "Jazakallahu Khairan",
+        "google_tts": "Jazakallahu Khairan",
+        "azure_tts": "Jazakallahu Khairan",
+        "elevenlabs": "Jazakallahu Khairan",
+        "murf": "Jazakallahu Khairan"
+      },
+      "usage_expanded": [
+        "Amira says Jazakallahu Khairan when someone helps her.",
+        "Child-friendly explanation: Remember Allah brings peace."
+      ],
+      "version": "v1.1",
+      "confidence": "verified",
+      "reviewed": true,
+      "last_updated": "2026-07-30"
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "total_words": 5,
+    "expanded": true,
+    "version": "v1.1",
+    "pronunciation_system": "Complete with syllables, stress, child pronunciation, TTS overrides, engine overrides, examples, audio placeholders"
+  }
+}

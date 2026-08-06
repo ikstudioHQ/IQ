@@ -1,0 +1,1203 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-05",
+  "brand": "Islamic Kids Studio",
+  "total_topics": 44,
+  "note": "Planning records only, not scripts. Uses ROLE TYPES (child protagonist, parent, sibling, etc.) not named characters, since the permanent character master library is being prepared separately. Grounded in real concept/conflict/evidence repository data — no fabricated evidence.",
+  "topics": [
+    {
+      "topic_id": "topic_001",
+      "working_title": "Learning Charity — A classmate has less than you at lunchtime",
+      "primary_concept": "concept_charity",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "school",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_034",
+      "primary_pattern": "pattern_004",
+      "alternative_pattern": "pattern_004",
+      "evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "learning_objective": "Children can name one way to help someone who has less.",
+      "emotional_hook": "joy",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_charity -> cf_034 -> ['qv_011', 'hd_010']"
+    },
+    {
+      "topic_id": "topic_002",
+      "working_title": "Learning Charity — Wanting to donate a favorite (not just spare) toy",
+      "primary_concept": "concept_charity",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_056",
+      "primary_pattern": "pattern_004",
+      "alternative_pattern": "pattern_004",
+      "evidence_ids": [
+        "qv_011",
+        "hd_010"
+      ],
+      "learning_objective": "Children can name one way to help someone who has less.",
+      "emotional_hook": "joy",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_charity, using alternate conflict cf_056 for variety."
+    },
+    {
+      "topic_id": "topic_003",
+      "working_title": "Learning Good Speech — A friend saying something unkind by accident",
+      "primary_concept": "concept_good_speech",
+      "secondary_behavior": null,
+      "age_band": [
+        4,
+        8
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_025",
+      "primary_pattern": "pattern_002",
+      "alternative_pattern": "pattern_006",
+      "evidence_ids": [
+        "hd_002"
+      ],
+      "learning_objective": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_good_speech -> cf_025 -> ['hd_002']"
+    },
+    {
+      "topic_id": "topic_004",
+      "working_title": "Learning Good Speech — Wanting to interrupt while someone else is talking",
+      "primary_concept": "concept_good_speech",
+      "secondary_behavior": null,
+      "age_band": [
+        4,
+        8
+      ],
+      "setting": "home/mosque",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_035",
+      "primary_pattern": "pattern_006",
+      "alternative_pattern": "pattern_002",
+      "evidence_ids": [
+        "hd_002"
+      ],
+      "learning_objective": "Children can pause and choose a kind word instead of an unkind one in a moment of frustration.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_good_speech, using alternate conflict cf_035 for variety."
+    },
+    {
+      "topic_id": "topic_005",
+      "working_title": "Learning Patience — Losing a game and feeling upset",
+      "primary_concept": "concept_patience",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_023",
+      "primary_pattern": "pattern_009",
+      "alternative_pattern": "pattern_013",
+      "evidence_ids": [
+        "qv_007"
+      ],
+      "learning_objective": "Children can wait their turn calmly and name it as sabr.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_patience -> cf_023 -> ['qv_007']"
+    },
+    {
+      "topic_id": "topic_006",
+      "working_title": "Learning Patience — Waiting your turn in a long line at the mosque or store",
+      "primary_concept": "concept_patience",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        7
+      ],
+      "setting": "mosque/market",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_054",
+      "primary_pattern": "pattern_013",
+      "alternative_pattern": "pattern_009",
+      "evidence_ids": [
+        "qv_007"
+      ],
+      "learning_objective": "Children can wait their turn calmly and name it as sabr.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_patience, using alternate conflict cf_054 for variety."
+    },
+    {
+      "topic_id": "topic_007",
+      "working_title": "Learning Forgiveness — A friend saying something unkind by accident",
+      "primary_concept": "concept_forgiveness",
+      "secondary_behavior": null,
+      "age_band": [
+        5,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_025",
+      "primary_pattern": "pattern_008",
+      "alternative_pattern": "pattern_011",
+      "evidence_ids": [
+        "qv_008"
+      ],
+      "learning_objective": "Children can describe forgiving a friend after a small mistake.",
+      "emotional_hook": "relief",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_forgiveness -> cf_025 -> ['qv_008']"
+    },
+    {
+      "topic_id": "topic_008",
+      "working_title": "Learning Forgiveness — A sibling breaking something of yours by accident",
+      "primary_concept": "concept_forgiveness",
+      "secondary_behavior": null,
+      "age_band": [
+        5,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_019",
+      "primary_pattern": "pattern_011",
+      "alternative_pattern": "pattern_008",
+      "evidence_ids": [
+        "qv_008"
+      ],
+      "learning_objective": "Children can describe forgiving a friend after a small mistake.",
+      "emotional_hook": "relief",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_forgiveness, using alternate conflict cf_019 for variety."
+    },
+    {
+      "topic_id": "topic_009",
+      "working_title": "Learning Community — A family member is sick and routines change",
+      "primary_concept": "concept_community",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_040",
+      "primary_pattern": "pattern_012",
+      "alternative_pattern": "pattern_011",
+      "evidence_ids": [
+        "qv_016",
+        "hd_012"
+      ],
+      "learning_objective": "Children can describe helping someone outside their immediate family.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_community -> cf_040 -> ['qv_016', 'hd_012']"
+    },
+    {
+      "topic_id": "topic_010",
+      "working_title": "Learning Community — Wanting to skip helping set up for a family gathering",
+      "primary_concept": "concept_community",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "family gathering",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_041",
+      "primary_pattern": "pattern_011",
+      "alternative_pattern": "pattern_012",
+      "evidence_ids": [
+        "qv_016",
+        "hd_012"
+      ],
+      "learning_objective": "Children can describe helping someone outside their immediate family.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_community, using alternate conflict cf_041 for variety."
+    },
+    {
+      "topic_id": "topic_011",
+      "working_title": "Learning Honesty — Breaking a small promise by accident",
+      "primary_concept": "concept_honesty",
+      "secondary_behavior": null,
+      "age_band": [
+        5,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_003",
+      "primary_pattern": "pattern_006",
+      "alternative_pattern": "pattern_002",
+      "evidence_ids": [
+        "hd_005",
+        "hd_002"
+      ],
+      "learning_objective": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_honesty -> cf_003 -> ['hd_005', 'hd_002']"
+    },
+    {
+      "topic_id": "topic_012",
+      "working_title": "Learning Honesty — Sharing toys with a sibling or friend",
+      "primary_concept": "concept_honesty",
+      "secondary_behavior": null,
+      "age_band": [
+        5,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_002",
+      "primary_pattern": "pattern_002",
+      "alternative_pattern": "pattern_006",
+      "evidence_ids": [
+        "hd_005",
+        "hd_002"
+      ],
+      "learning_objective": "Children can describe a moment when telling the truth was the right, brave choice.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_honesty, using alternate conflict cf_002 for variety."
+    },
+    {
+      "topic_id": "topic_013",
+      "working_title": "Learning Mercy — Spilling something and worrying about getting in trouble",
+      "primary_concept": "concept_mercy",
+      "secondary_behavior": null,
+      "age_band": [
+        5,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_017",
+      "primary_pattern": "pattern_002",
+      "alternative_pattern": "pattern_011",
+      "evidence_ids": [
+        "hd_014",
+        "hd_003"
+      ],
+      "learning_objective": "Children can describe showing gentleness to someone who was upset.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_mercy -> cf_017 -> ['hd_014', 'hd_003']"
+    },
+    {
+      "topic_id": "topic_014",
+      "working_title": "Learning Mercy — A friend is mean to a smaller or younger child",
+      "primary_concept": "concept_mercy",
+      "secondary_behavior": null,
+      "age_band": [
+        5,
+        7
+      ],
+      "setting": "playground",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_055",
+      "primary_pattern": "pattern_011",
+      "alternative_pattern": "pattern_002",
+      "evidence_ids": [
+        "hd_014",
+        "hd_003"
+      ],
+      "learning_objective": "Children can describe showing gentleness to someone who was upset.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_mercy, using alternate conflict cf_055 for variety."
+    },
+    {
+      "topic_id": "topic_015",
+      "working_title": "Learning Trustworthiness — A sibling breaking something of yours by accident",
+      "primary_concept": "concept_trustworthiness",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_019",
+      "primary_pattern": "pattern_002",
+      "alternative_pattern": "pattern_013",
+      "evidence_ids": [
+        "qv_009"
+      ],
+      "learning_objective": "Children can describe returning a borrowed item carefully.",
+      "emotional_hook": "relief",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_trustworthiness -> cf_019 -> ['qv_009']"
+    },
+    {
+      "topic_id": "topic_016",
+      "working_title": "Learning Trustworthiness — Wanting to keep playing with new friend's toy a bit too long",
+      "primary_concept": "concept_trustworthiness",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "playground/school",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_050",
+      "primary_pattern": "pattern_013",
+      "alternative_pattern": "pattern_002",
+      "evidence_ids": [
+        "qv_009"
+      ],
+      "learning_objective": "Children can describe returning a borrowed item carefully.",
+      "emotional_hook": "relief",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_trustworthiness, using alternate conflict cf_050 for variety."
+    },
+    {
+      "topic_id": "topic_017",
+      "working_title": "Learning Prayer — Being asked to pray while in the middle of fun play",
+      "primary_concept": "concept_prayer",
+      "secondary_behavior": null,
+      "age_band": [
+        5,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_032",
+      "primary_pattern": "pattern_009",
+      "alternative_pattern": "pattern_006",
+      "evidence_ids": [
+        "qv_012"
+      ],
+      "learning_objective": "Children can name one of the five daily prayers.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_prayer -> cf_032 -> ['qv_012']"
+    },
+    {
+      "topic_id": "topic_018",
+      "working_title": "Learning Prayer — Wanting to skip prayer to finish watching something",
+      "primary_concept": "concept_prayer",
+      "secondary_behavior": null,
+      "age_band": [
+        5,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_051",
+      "primary_pattern": "pattern_006",
+      "alternative_pattern": "pattern_009",
+      "evidence_ids": [
+        "qv_012"
+      ],
+      "learning_objective": "Children can name one of the five daily prayers.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_prayer, using alternate conflict cf_051 for variety."
+    },
+    {
+      "topic_id": "topic_019",
+      "working_title": "Learning Perseverance — Losing a game and feeling upset",
+      "primary_concept": "concept_perseverance",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_023",
+      "primary_pattern": "pattern_003",
+      "alternative_pattern": "pattern_002",
+      "evidence_ids": [
+        "qv_015"
+      ],
+      "learning_objective": "Children can describe trying again after not succeeding the first time.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_perseverance -> cf_023 -> ['qv_015']"
+    },
+    {
+      "topic_id": "topic_020",
+      "working_title": "Learning Perseverance — A teacher assigns a difficult task and character wants to give up",
+      "primary_concept": "concept_perseverance",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "school",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_046",
+      "primary_pattern": "pattern_002",
+      "alternative_pattern": "pattern_003",
+      "evidence_ids": [
+        "qv_015"
+      ],
+      "learning_objective": "Children can describe trying again after not succeeding the first time.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_perseverance, using alternate conflict cf_046 for variety."
+    },
+    {
+      "topic_id": "topic_021",
+      "working_title": "Learning Courage — Feeling scared to try something new, like swimming",
+      "primary_concept": "concept_courage",
+      "secondary_behavior": null,
+      "age_band": [
+        3,
+        6
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_026",
+      "primary_pattern": "pattern_007",
+      "alternative_pattern": "pattern_007",
+      "evidence_ids": [
+        "qv_013"
+      ],
+      "learning_objective": "Children can describe trying something new even though it felt scary.",
+      "emotional_hook": "curiosity",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_courage -> cf_026 -> ['qv_013']"
+    },
+    {
+      "topic_id": "topic_022",
+      "working_title": "Learning Courage — Being scared during a thunderstorm at night",
+      "primary_concept": "concept_courage",
+      "secondary_behavior": null,
+      "age_band": [
+        3,
+        6
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_045",
+      "primary_pattern": "pattern_007",
+      "alternative_pattern": "pattern_007",
+      "evidence_ids": [
+        "qv_013"
+      ],
+      "learning_objective": "Children can describe trying something new even though it felt scary.",
+      "emotional_hook": "curiosity",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_courage, using alternate conflict cf_045 for variety."
+    },
+    {
+      "topic_id": "topic_023",
+      "working_title": "Learning Friendship / Brotherhood — A friend from a different background joins the class",
+      "primary_concept": "concept_friendship",
+      "secondary_behavior": null,
+      "age_band": [
+        4,
+        8
+      ],
+      "setting": "school",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_036",
+      "primary_pattern": "pattern_008",
+      "alternative_pattern": "pattern_012",
+      "evidence_ids": [
+        "hd_008"
+      ],
+      "learning_objective": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_friendship -> cf_036 -> ['hd_008']"
+    },
+    {
+      "topic_id": "topic_024",
+      "working_title": "Learning Friendship / Brotherhood — Two friends both want to lead the same game",
+      "primary_concept": "concept_friendship",
+      "secondary_behavior": null,
+      "age_band": [
+        4,
+        8
+      ],
+      "setting": "playground",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_047",
+      "primary_pattern": "pattern_012",
+      "alternative_pattern": "pattern_008",
+      "evidence_ids": [
+        "hd_008"
+      ],
+      "learning_objective": "Children can describe one way to be a good friend when a friend is having a hard time.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_friendship, using alternate conflict cf_047 for variety."
+    },
+    {
+      "topic_id": "topic_025",
+      "working_title": "Learning Respect for Parents — Helping a grandparent with a small task",
+      "primary_concept": "concept_respect_for_parents",
+      "secondary_behavior": null,
+      "age_band": [
+        4,
+        6
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_005",
+      "primary_pattern": "pattern_011",
+      "alternative_pattern": "pattern_002",
+      "evidence_ids": [
+        "hd_001",
+        "hd_004"
+      ],
+      "learning_objective": "Children can describe one way they helped a parent this week.",
+      "emotional_hook": "gratitude",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_respect_for_parents -> cf_005 -> ['hd_001', 'hd_004']"
+    },
+    {
+      "topic_id": "topic_026",
+      "working_title": "Learning Respect for Parents — Parents say no to something reasonable-seeming and character feels it's unfair",
+      "primary_concept": "concept_respect_for_parents",
+      "secondary_behavior": null,
+      "age_band": [
+        4,
+        6
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_053",
+      "primary_pattern": "pattern_002",
+      "alternative_pattern": "pattern_011",
+      "evidence_ids": [
+        "hd_001",
+        "hd_004"
+      ],
+      "learning_objective": "Children can describe one way they helped a parent this week.",
+      "emotional_hook": "gratitude",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_respect_for_parents, using alternate conflict cf_053 for variety."
+    },
+    {
+      "topic_id": "topic_027",
+      "working_title": "Learning Tawakkul — Lost toy",
+      "primary_concept": "concept_tawakkul",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_001",
+      "primary_pattern": "pattern_001",
+      "alternative_pattern": "pattern_007",
+      "evidence_ids": [
+        "qv_004",
+        "qv_005",
+        "dua_005",
+        "dua_006"
+      ],
+      "learning_objective": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_tawakkul -> cf_001 -> ['qv_004', 'qv_005', 'dua_005', 'dua_006']"
+    },
+    {
+      "topic_id": "topic_028",
+      "working_title": "Learning Tawakkul — Waiting impatiently for something",
+      "primary_concept": "concept_tawakkul",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_004",
+      "primary_pattern": "pattern_007",
+      "alternative_pattern": "pattern_001",
+      "evidence_ids": [
+        "qv_004",
+        "qv_005",
+        "dua_005",
+        "dua_006"
+      ],
+      "learning_objective": "Children can say a trust-in-Allah dua after trying their best at something hard.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_tawakkul, using alternate conflict cf_004 for variety."
+    },
+    {
+      "topic_id": "topic_029",
+      "working_title": "Learning Humility — Winning a game and bragging about it",
+      "primary_concept": "concept_humility",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "playground",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_031",
+      "primary_pattern": "pattern_006",
+      "alternative_pattern": "pattern_010",
+      "evidence_ids": [
+        "qv_014"
+      ],
+      "learning_objective": "Children can describe being humble after doing well at something.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_humility -> cf_031 -> ['qv_014']"
+    },
+    {
+      "topic_id": "topic_030",
+      "working_title": "Learning Humility — A sibling gets praised for something you also did quietly",
+      "primary_concept": "concept_humility",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_049",
+      "primary_pattern": "pattern_010",
+      "alternative_pattern": "pattern_006",
+      "evidence_ids": [
+        "qv_014"
+      ],
+      "learning_objective": "Children can describe being humble after doing well at something.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_humility, using alternate conflict cf_049 for variety."
+    },
+    {
+      "topic_id": "topic_031",
+      "working_title": "Learning Self-Control — Losing a game and feeling upset",
+      "primary_concept": "concept_self_control",
+      "secondary_behavior": null,
+      "age_band": [
+        7,
+        8
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_023",
+      "primary_pattern": "pattern_013",
+      "alternative_pattern": "pattern_002",
+      "evidence_ids": [
+        "hd_006",
+        "hd_002"
+      ],
+      "learning_objective": "Children can describe staying calm during a frustrating moment.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_self_control -> cf_023 -> ['hd_006', 'hd_002']"
+    },
+    {
+      "topic_id": "topic_032",
+      "working_title": "Learning Self-Control — Being offered something haram-adjacent innocently by a friend (e.g. food with unclear ingredients)",
+      "primary_concept": "concept_self_control",
+      "secondary_behavior": null,
+      "age_band": [
+        7,
+        8
+      ],
+      "setting": "school/playground",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_048",
+      "primary_pattern": "pattern_002",
+      "alternative_pattern": "pattern_013",
+      "evidence_ids": [
+        "hd_006",
+        "hd_002"
+      ],
+      "learning_objective": "Children can describe staying calm during a frustrating moment.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_self_control, using alternate conflict cf_048 for variety."
+    },
+    {
+      "topic_id": "topic_033",
+      "working_title": "Learning Generosity — Not wanting to share the last snack",
+      "primary_concept": "concept_generosity",
+      "secondary_behavior": null,
+      "age_band": [
+        3,
+        6
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_018",
+      "primary_pattern": "pattern_004",
+      "alternative_pattern": "pattern_012",
+      "evidence_ids": [
+        "hd_007"
+      ],
+      "learning_objective": "Children can name something they shared and how it felt.",
+      "emotional_hook": "joy",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_generosity -> cf_018 -> ['hd_007']"
+    },
+    {
+      "topic_id": "topic_034",
+      "working_title": "Learning Generosity — Not wanting to clean up after playing",
+      "primary_concept": "concept_generosity",
+      "secondary_behavior": null,
+      "age_band": [
+        3,
+        6
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_006",
+      "primary_pattern": "pattern_012",
+      "alternative_pattern": "pattern_004",
+      "evidence_ids": [
+        "hd_007"
+      ],
+      "learning_objective": "Children can name something they shared and how it felt.",
+      "emotional_hook": "joy",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_generosity, using alternate conflict cf_006 for variety."
+    },
+    {
+      "topic_id": "topic_035",
+      "working_title": "Learning Compassion for Animals — A stray animal needing gentle help",
+      "primary_concept": "concept_compassion_for_animals",
+      "secondary_behavior": null,
+      "age_band": [
+        4,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_029",
+      "primary_pattern": "pattern_011",
+      "alternative_pattern": "pattern_002",
+      "evidence_ids": [
+        "hd_011"
+      ],
+      "learning_objective": "Children can describe a kind way to treat an animal.",
+      "emotional_hook": "gratitude",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_compassion_for_animals -> cf_029 -> ['hd_011']"
+    },
+    {
+      "topic_id": "topic_036",
+      "working_title": "Learning Compassion for Animals — A pet needs feeding but character is busy playing",
+      "primary_concept": "concept_compassion_for_animals",
+      "secondary_behavior": null,
+      "age_band": [
+        4,
+        7
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_038",
+      "primary_pattern": "pattern_002",
+      "alternative_pattern": "pattern_011",
+      "evidence_ids": [
+        "hd_011"
+      ],
+      "learning_objective": "Children can describe a kind way to treat an animal.",
+      "emotional_hook": "gratitude",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_compassion_for_animals, using alternate conflict cf_038 for variety."
+    },
+    {
+      "topic_id": "topic_037",
+      "working_title": "Learning Kindness — Finding a lost kitten or animal",
+      "primary_concept": "concept_kindness",
+      "secondary_behavior": null,
+      "age_band": [
+        3,
+        5
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_009",
+      "primary_pattern": "pattern_004",
+      "alternative_pattern": "pattern_006",
+      "evidence_ids": [
+        "hd_001",
+        "hd_003"
+      ],
+      "learning_objective": "Children can describe one kind thing they did for someone.",
+      "emotional_hook": "joy",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_kindness -> cf_009 -> ['hd_001', 'hd_003']"
+    },
+    {
+      "topic_id": "topic_038",
+      "working_title": "Learning Kindness — Wanting a toy that isn't yours at a store",
+      "primary_concept": "concept_kindness",
+      "secondary_behavior": null,
+      "age_band": [
+        3,
+        5
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_014",
+      "primary_pattern": "pattern_006",
+      "alternative_pattern": "pattern_004",
+      "evidence_ids": [
+        "hd_001",
+        "hd_003"
+      ],
+      "learning_objective": "Children can describe one kind thing they did for someone.",
+      "emotional_hook": "joy",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_kindness, using alternate conflict cf_014 for variety."
+    },
+    {
+      "topic_id": "topic_039",
+      "working_title": "Learning Cleanliness — Not wanting to wash hands or brush teeth",
+      "primary_concept": "concept_cleanliness",
+      "secondary_behavior": null,
+      "age_band": [
+        3,
+        5
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_033",
+      "primary_pattern": "pattern_003",
+      "alternative_pattern": "pattern_013",
+      "evidence_ids": [
+        "qv_010",
+        "hd_009"
+      ],
+      "learning_objective": "Children can describe washing hands before eating and why.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_cleanliness -> cf_033 -> ['qv_010', 'hd_009']"
+    },
+    {
+      "topic_id": "topic_040",
+      "working_title": "Learning Cleanliness — Getting frustrated during wudu because it's cold or slow",
+      "primary_concept": "concept_cleanliness",
+      "secondary_behavior": null,
+      "age_band": [
+        3,
+        5
+      ],
+      "setting": "home/mosque",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_037",
+      "primary_pattern": "pattern_013",
+      "alternative_pattern": "pattern_003",
+      "evidence_ids": [
+        "qv_010",
+        "hd_009"
+      ],
+      "learning_objective": "Children can describe washing hands before eating and why.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_cleanliness, using alternate conflict cf_037 for variety."
+    },
+    {
+      "topic_id": "topic_041",
+      "working_title": "Learning Gratitude — Helping a grandparent with a small task",
+      "primary_concept": "concept_gratitude",
+      "secondary_behavior": null,
+      "age_band": [
+        3,
+        5
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_005",
+      "primary_pattern": "pattern_010",
+      "alternative_pattern": "pattern_004",
+      "evidence_ids": [
+        "qv_001",
+        "dua_003",
+        "dua_002"
+      ],
+      "learning_objective": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "emotional_hook": "gratitude",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_gratitude -> cf_005 -> ['qv_001', 'dua_003', 'dua_002']"
+    },
+    {
+      "topic_id": "topic_042",
+      "working_title": "Learning Gratitude — Meeting a new friend at school",
+      "primary_concept": "concept_gratitude",
+      "secondary_behavior": null,
+      "age_band": [
+        3,
+        5
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_008",
+      "primary_pattern": "pattern_004",
+      "alternative_pattern": "pattern_010",
+      "evidence_ids": [
+        "qv_001",
+        "dua_003",
+        "dua_002"
+      ],
+      "learning_objective": "Children can name one thing they're grateful for and say Alhamdulillah.",
+      "emotional_hook": "gratitude",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_gratitude, using alternate conflict cf_008 for variety."
+    },
+    {
+      "topic_id": "topic_043",
+      "working_title": "Learning Justice — Breaking a small promise by accident",
+      "primary_concept": "concept_justice",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "sibling or friend",
+        "parent or elder"
+      ],
+      "conflict_id": "cf_003",
+      "primary_pattern": "pattern_012",
+      "alternative_pattern": "pattern_002",
+      "evidence_ids": [
+        "qv_006",
+        "hd_013"
+      ],
+      "learning_objective": "Children can describe a fair way to solve a disagreement.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Grounded in real repository data: concept_justice -> cf_003 -> ['qv_006', 'hd_013']"
+    },
+    {
+      "topic_id": "topic_044",
+      "working_title": "Learning Justice — Parents say no to something reasonable-seeming and character feels it's unfair",
+      "primary_concept": "concept_justice",
+      "secondary_behavior": null,
+      "age_band": [
+        6,
+        8
+      ],
+      "setting": "home",
+      "possible_character_role_types": [
+        "child protagonist",
+        "classmate or neighbor"
+      ],
+      "conflict_id": "cf_053",
+      "primary_pattern": "pattern_002",
+      "alternative_pattern": "pattern_012",
+      "evidence_ids": [
+        "qv_006",
+        "hd_013"
+      ],
+      "learning_objective": "Children can describe a fair way to solve a disagreement.",
+      "emotional_hook": "worry",
+      "production_readiness": "READY_AFTER_CHARACTER_IMPORT",
+      "missing_data": [],
+      "notes": "Second topic for concept_justice, using alternate conflict cf_053 for variety."
+    }
+  ]
+}

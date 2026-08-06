@@ -1,0 +1,62 @@
+{
+  "concept_id": "concept_community",
+  "name": "Community (Ummah)",
+  "definition_by_age": {
+    "4": "The friends and family around us.",
+    "6": "Ummah means the big family of Muslims around the world who care for each other.",
+    "8": "Ummah is the global Muslim community, connected by shared faith and care for one another."
+  },
+  "common_misconceptions": [],
+  "learning_objective": "Children can describe helping someone outside their immediate family.",
+  "related_quran": [
+    "qv_016"
+  ],
+  "related_hadith": [
+    "hd_012"
+  ],
+  "related_duas": [],
+  "related_prophets": [],
+  "related_vocabulary": [
+    "vocab_025"
+  ],
+  "related_conflicts": [
+    "cf_041",
+    "cf_040"
+  ],
+  "recommended_age_range": [
+    6,
+    8
+  ],
+  "version": "v1.0",
+  "citation_verified": true,
+  "source_verified": true,
+  "scholarly_reviewed": false,
+  "related_manners": [],
+  "recommended_default": {
+    "conflict_id": "cf_040",
+    "pattern_id": "pattern_012",
+    "hook_id": "hook_004",
+    "ending_id": "end_004",
+    "emotion": "worry",
+    "note": "Added 2026-08-05 during conflict/pattern expansion — real conflict now exists for this concept, closing a prior retrieval-diversity gap."
+  },
+  "semantic_support": {
+    "hd_012": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Directly and vividly about community/ummah interconnection.",
+      "scholarly_reviewed": false
+    },
+    "qv_016": {
+      "support_type": "DIRECT_SUPPORT",
+      "reasoning": "Comprehensive, direct verse on kindness to neighbors/relatives/community.",
+      "scholarly_reviewed": false
+    }
+  },
+  "alternative_patterns": [
+    {
+      "pattern_id": "pattern_011",
+      "conflict_id": "cf_041",
+      "reasoning": "Skipping a family-gathering responsibility fits neglect-then-repair directly."
+    }
+  ]
+}

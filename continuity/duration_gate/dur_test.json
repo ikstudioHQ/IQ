@@ -1,0 +1,13 @@
+{
+  "episode_id": "dur_test",
+  "requested_minutes": 5.066666666666666,
+  "requested_seconds": 304.0,
+  "planned_seconds": 304,
+  "planned_minutes": 5.07,
+  "clip_count": 38,
+  "provider_clip_seconds": 8,
+  "deviation_ratio": 0.0,
+  "tolerance": 0.15,
+  "status": "PASS",
+  "checked_at": "2026-08-06T12:48:04.134406+00:00"
+}

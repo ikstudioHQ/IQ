@@ -1,0 +1,14 @@
+{
+  "season_id": "cg_season6",
+  "status": "PASS",
+  "episode_count": 2,
+  "findings": [
+    {
+      "episode_id": "cg_ep02",
+      "issue": "possible_duplicate_thread",
+      "message": "Episode cg_ep02 declares a new 'lesson' thread with text identical to one already declared in cg_ep01 -- possible accidental re-introduction of an already-established thread.",
+      "severity": "warning"
+    }
+  ],
+  "checked_at": "2026-08-06T12:48:04.119151+00:00"
+}

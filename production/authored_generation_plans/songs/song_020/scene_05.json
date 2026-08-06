@@ -1,0 +1,203 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "song",
+  "parent_id": "song_020",
+  "logical_scene_id": "scene_05",
+  "generation_units": [
+    {
+      "generation_unit_id": "song_020_scene_05_u01",
+      "parent_scene_id": "scene_05",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 7.333,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_003_ummi_layla",
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "Fresh and clean before we eat — That feels good and right.",
+          "start_seconds": 0.0,
+          "end_seconds": 5.455
+        }
+      ],
+      "primary_action": "The children return to the table smiling, ready to sit and say Bismillah before eating. Authored beat 1/3: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_kitchen",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "begin scene action"
+      },
+      "out_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_020_scene_05_u02",
+      "parent_scene_id": "scene_05",
+      "sequence": 2,
+      "start_seconds": 7.333,
+      "end_seconds": 14.667,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_003_ummi_layla",
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "This song stays inside the registered evidence set only: qv_010, hd_009.",
+          "start_seconds": 7.333,
+          "end_seconds": 12.333
+        }
+      ],
+      "primary_action": "The children return to the table smiling, ready to sit and say Bismillah before eating. Authored beat 2/3: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_kitchen",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_020_scene_05_u03",
+      "parent_scene_id": "scene_05",
+      "sequence": 3,
+      "start_seconds": 14.667,
+      "end_seconds": 22.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_002_amira",
+        "char_003_ummi_layla",
+        "char_001_zayd"
+      ],
+      "performance": [],
+      "primary_action": "The children return to the table smiling, ready to sit and say Bismillah before eating. Authored beat 3/3: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "warm, even, soft — no harsh shadows (group_family_moment); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_family_kitchen",
+      "lighting": "warm, even, soft — no harsh shadows (group_family_moment)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_family_kitchen",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_003_ummi_layla": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_003_ummi_layla": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "scene action settled"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}

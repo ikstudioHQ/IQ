@@ -1,0 +1,1 @@
+1. qv_015 — Quran 94:5-6, DIRECT_SUPPORT

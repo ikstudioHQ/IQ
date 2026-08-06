@@ -1,0 +1,28 @@
+video:
+  resolution: 1920x1080
+  aspect_ratio: '16:9'
+  frame_rate: 30
+  codec: h264
+  color_space: Rec.709
+  bit_depth: 8
+animation:
+  style: 2D soft shape
+  character_proportions: head-to-body ratio 1:2.5
+  line_thickness: soft rounded, 2-3px equivalent
+  color_palette: pastel (mint, peach, cream, lavender, soft blue)
+  motion_smoothing: true
+  background_style: soft watercolor-like gradients
+audio:
+  sample_rate: 44100
+  bit_depth: 16
+  channels: 2
+  music_volume_relative: -20dB
+  voice_volume_relative: -12dB
+  sound_effect_volume_relative: -25dB
+thumbnail:
+  resolution: 1280x720
+  format: jpg
+  quality: 92
+  font_family: Poppins
+  font_size_range: 80-120px
+  text_shadow: dark outline, 4px

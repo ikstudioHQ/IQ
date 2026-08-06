@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-02T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Concept + age -> teaching method, as structured data (converted from teaching_strategy.md v1.0 per creator feedback that AI retrieves structured data more reliably than prose tables).",
+  "methods": [
+    {
+      "age_band": [2, 3],
+      "method": "repetition_simple_label",
+      "reasoning": "One-step cause-effect only; can't hold multi-step reasoning",
+      "story_implication": "Short conflict, single clear action, concept word repeated 2-3 times in context",
+      "reflection_beat_required": false
+    },
+    {
+      "age_band": [4, 5],
+      "method": "small_concrete_story",
+      "reasoning": "Two-step cause-effect, mild internal conflict tolerable",
+      "story_implication": "Standard 5-beat structure works directly; keep the lesson to one clear takeaway",
+      "reflection_beat_required": false
+    },
+    {
+      "age_band": [6, 8],
+      "method": "story_plus_reflection_question",
+      "reasoning": "Can handle a real, if small, moral cost to the right choice",
+      "story_implication": "Add a closing reflection beat (ending_styles.json's reflection_question style) - the story alone isn't enough at this age, naming the why briefly reinforces it",
+      "reflection_beat_required": true
+    }
+  ],
+  "selection_procedure": [
+    "1. Read the target age from the resolved topic's age_range field.",
+    "2. Look up the matching method row by age_band.",
+    "3. Cross-reference the concept package's definition_by_age field for exact wording - never write a fresh definition.",
+    "4. Pass the selected method to story_prompt.md as a beat-structure constraint, not a rewrite of the 5-beat template - only pacing and reflection-beat presence vary by age."
+  ],
+  "related_files": [
+    "phase1/docs/curriculum/CHILD_DEVELOPMENT_MATRIX.md",
+    "phase3/knowledge/concepts/",
+    "phase3/knowledge/story/ending_styles.json",
+    "phase1/docs/story/STORY.md",
+    "phase5/orchestration/planning/retrieval_ranking.md"
+  ],
+  "metadata": {"channel": "Islamic Kids Studio", "handle": "@IslamicKidsHQ"}
+}

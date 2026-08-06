@@ -1,0 +1,690 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-08-01T10:00:00+05:30",
+  "brand": "Islamic Kids Studio",
+  "handle": "@IslamicKidsHQ",
+  "purpose": "Concrete, reusable conflict situations — different from story_patterns.json (which is structural shape). One moral can pair with many conflicts from here to avoid the repetition documented in phase3/knowledge/failures/repeated_story.md.",
+  "conflicts": [
+    {
+      "conflict_id": "cf_001",
+      "name": "Lost toy",
+      "age_range": [
+        3,
+        6
+      ],
+      "pairs_well_with_concepts": [
+        "concept_tawakkul",
+        "concept_gratitude"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_002",
+      "name": "Sharing toys with a sibling or friend",
+      "age_range": [
+        2,
+        5
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_003",
+      "name": "Breaking a small promise by accident",
+      "age_range": [
+        5,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty",
+        "concept_justice"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_004",
+      "name": "Waiting impatiently for something",
+      "age_range": [
+        3,
+        6
+      ],
+      "pairs_well_with_concepts": [
+        "concept_tawakkul"
+      ],
+      "environment": "env_park"
+    },
+    {
+      "conflict_id": "cf_005",
+      "name": "Helping a grandparent with a small task",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_gratitude",
+        "concept_respect_for_parents"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_006",
+      "name": "Not wanting to clean up after playing",
+      "age_range": [
+        2,
+        5
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty",
+        "concept_generosity",
+        "concept_cleanliness"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_007",
+      "name": "Feeling scared of the dark",
+      "age_range": [
+        3,
+        6
+      ],
+      "pairs_well_with_concepts": [
+        "concept_tawakkul"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_008",
+      "name": "Meeting a new friend at school",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_gratitude"
+      ],
+      "environment": "env_school"
+    },
+    {
+      "conflict_id": "cf_009",
+      "name": "Finding a lost kitten or animal",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_gratitude",
+        "concept_kindness"
+      ],
+      "environment": "env_park"
+    },
+    {
+      "conflict_id": "cf_010",
+      "name": "A rainy day changes the day's plan",
+      "age_range": [
+        3,
+        6
+      ],
+      "pairs_well_with_concepts": [
+        "concept_tawakkul"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_011",
+      "name": "Wanting to say something that isn't quite true to avoid trouble",
+      "age_range": [
+        5,
+        8
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_012",
+      "name": "A trip to the market and forgetting something important",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_gratitude",
+        "concept_cleanliness"
+      ],
+      "environment": "env_market"
+    },
+    {
+      "conflict_id": "cf_013",
+      "name": "Forgetting to say salam to a neighbor",
+      "age_range": [
+        3,
+        6
+      ],
+      "pairs_well_with_concepts": [
+        "concept_gratitude"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_014",
+      "name": "Wanting a toy that isn't yours at a store",
+      "age_range": [
+        3,
+        6
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty",
+        "concept_kindness"
+      ],
+      "environment": "env_market"
+    },
+    {
+      "conflict_id": "cf_015",
+      "name": "A friend not wanting to play the game you chose",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty"
+      ],
+      "environment": "env_school"
+    },
+    {
+      "conflict_id": "cf_016",
+      "name": "Feeling left out at a birthday party",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_gratitude"
+      ],
+      "environment": "env_park"
+    },
+    {
+      "conflict_id": "cf_017",
+      "name": "Spilling something and worrying about getting in trouble",
+      "age_range": [
+        4,
+        6
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty",
+        "concept_mercy"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_018",
+      "name": "Not wanting to share the last snack",
+      "age_range": [
+        3,
+        5
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty",
+        "concept_generosity"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_019",
+      "name": "A sibling breaking something of yours by accident",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_tawakkul",
+        "concept_forgiveness",
+        "concept_trustworthiness"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_020",
+      "name": "Getting briefly separated in a crowded place",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_tawakkul"
+      ],
+      "environment": "env_market"
+    },
+    {
+      "conflict_id": "cf_021",
+      "name": "Not wanting to wake up for the morning routine",
+      "age_range": [
+        3,
+        6
+      ],
+      "pairs_well_with_concepts": [
+        "concept_tawakkul"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_022",
+      "name": "A new sibling getting a lot of attention",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_gratitude"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_023",
+      "name": "Losing a game and feeling upset",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty",
+        "concept_patience",
+        "concept_self_control",
+        "concept_perseverance"
+      ],
+      "environment": "env_park"
+    },
+    {
+      "conflict_id": "cf_024",
+      "name": "Not wanting to clean up after a long play session",
+      "age_range": [
+        2,
+        5
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_025",
+      "name": "A friend saying something unkind by accident",
+      "age_range": [
+        5,
+        8
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty",
+        "concept_forgiveness"
+      ],
+      "environment": "env_school"
+    },
+    {
+      "conflict_id": "cf_026",
+      "name": "Feeling scared to try something new, like swimming",
+      "age_range": [
+        3,
+        6
+      ],
+      "pairs_well_with_concepts": [
+        "concept_tawakkul",
+        "concept_courage"
+      ],
+      "environment": "env_park"
+    },
+    {
+      "conflict_id": "cf_027",
+      "name": "Wanting extra time doing something fun before stopping",
+      "age_range": [
+        3,
+        6
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_028",
+      "name": "Forgetting a small responsibility, like feeding a pet",
+      "age_range": [
+        5,
+        8
+      ],
+      "pairs_well_with_concepts": [
+        "concept_honesty"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_029",
+      "name": "A stray animal needing gentle help",
+      "age_range": [
+        4,
+        7
+      ],
+      "pairs_well_with_concepts": [
+        "concept_gratitude",
+        "concept_compassion_for_animals"
+      ],
+      "environment": "env_park"
+    },
+    {
+      "conflict_id": "cf_030",
+      "name": "Moving to a new house and missing old friends",
+      "age_range": [
+        5,
+        8
+      ],
+      "pairs_well_with_concepts": [
+        "concept_tawakkul"
+      ],
+      "environment": "env_home"
+    },
+    {
+      "conflict_id": "cf_031",
+      "name": "Winning a game and bragging about it",
+      "setting": "playground",
+      "compatible_concepts": [
+        "concept_humility"
+      ],
+      "notes": "Character wins fairly, then boasts, and sees a friend's face fall."
+    },
+    {
+      "conflict_id": "cf_032",
+      "name": "Being asked to pray while in the middle of fun play",
+      "setting": "home",
+      "compatible_concepts": [
+        "concept_prayer"
+      ],
+      "notes": "Real, common tension between play and salah timing, age-appropriate."
+    },
+    {
+      "conflict_id": "cf_033",
+      "name": "Not wanting to wash hands or brush teeth",
+      "setting": "home",
+      "compatible_concepts": [
+        "concept_cleanliness"
+      ],
+      "notes": "Classic, real, universally relatable."
+    },
+    {
+      "conflict_id": "cf_034",
+      "name": "A classmate has less than you at lunchtime",
+      "setting": "school",
+      "compatible_concepts": [
+        "concept_charity",
+        "concept_generosity"
+      ],
+      "notes": "Concrete, visible-need charity scenario for young children."
+    },
+    {
+      "conflict_id": "cf_035",
+      "name": "Wanting to interrupt while someone else is talking",
+      "setting": "home/mosque",
+      "compatible_concepts": [
+        "concept_good_speech",
+        "concept_self_control"
+      ],
+      "notes": "Direct fit for good-speech/patience-in-listening."
+    },
+    {
+      "conflict_id": "cf_036",
+      "name": "A friend from a different background joins the class",
+      "setting": "school",
+      "compatible_concepts": [
+        "concept_friendship",
+        "concept_community"
+      ],
+      "notes": "Real, inclusive scenario without stereotyping — friendship theme."
+    },
+    {
+      "conflict_id": "cf_037",
+      "name": "Getting frustrated during wudu because it's cold or slow",
+      "setting": "home/mosque",
+      "compatible_concepts": [
+        "concept_self_control",
+        "concept_cleanliness"
+      ],
+      "notes": "Concrete daily-practice friction point."
+    },
+    {
+      "conflict_id": "cf_038",
+      "name": "A pet needs feeding but character is busy playing",
+      "setting": "home",
+      "compatible_concepts": [
+        "concept_compassion_for_animals",
+        "concept_trustworthiness"
+      ],
+      "notes": "Distinct from cf_028 (forgetting) — here it's active choice to delay, not forgetting."
+    },
+    {
+      "conflict_id": "cf_039",
+      "name": "Overhearing gossip about a friend and deciding whether to repeat it",
+      "setting": "school",
+      "compatible_concepts": [
+        "concept_good_speech",
+        "concept_trustworthiness"
+      ],
+      "notes": "Real good-speech dilemma about not spreading unkind talk."
+    },
+    {
+      "conflict_id": "cf_040",
+      "name": "A family member is sick and routines change",
+      "setting": "home",
+      "compatible_concepts": [
+        "concept_compassion_for_animals",
+        "concept_community",
+        "concept_patience"
+      ],
+      "notes": "Gentle, age-appropriate family-care scenario — no death/serious illness detail, just 'not feeling well.'"
+    },
+    {
+      "conflict_id": "cf_041",
+      "name": "Wanting to skip helping set up for a family gathering",
+      "setting": "family gathering",
+      "compatible_concepts": [
+        "concept_respect_for_parents",
+        "concept_community"
+      ],
+      "notes": "Real chore-avoidance in a family-event context, distinct setting from home."
+    },
+    {
+      "conflict_id": "cf_042",
+      "name": "A younger cousin copies everything you do at a gathering",
+      "setting": "family gathering",
+      "compatible_concepts": [
+        "concept_self_control",
+        "concept_kindness"
+      ],
+      "notes": "Common, relatable sibling/cousin-dynamic irritation."
+    },
+    {
+      "conflict_id": "cf_043",
+      "name": "Long car/travel ride with nothing to do",
+      "setting": "travel",
+      "compatible_concepts": [
+        "concept_patience"
+      ],
+      "notes": "Real travel-specific patience scenario, distinct from cf_004's generic waiting."
+    },
+    {
+      "conflict_id": "cf_044",
+      "name": "Forgetting to pack something important for a trip",
+      "setting": "travel",
+      "compatible_concepts": [
+        "concept_self_control",
+        "concept_trustworthiness"
+      ],
+      "notes": "Real travel-preparation responsibility scenario."
+    },
+    {
+      "conflict_id": "cf_045",
+      "name": "Being scared during a thunderstorm at night",
+      "setting": "home",
+      "compatible_concepts": [
+        "concept_courage",
+        "concept_tawakkul"
+      ],
+      "notes": "Distinct from cf_007 (dark) — storm-specific, tawakkul-compatible."
+    },
+    {
+      "conflict_id": "cf_046",
+      "name": "A teacher assigns a difficult task and character wants to give up",
+      "setting": "school",
+      "compatible_concepts": [
+        "concept_perseverance"
+      ],
+      "notes": "Direct school-context perseverance scenario."
+    },
+    {
+      "conflict_id": "cf_047",
+      "name": "Two friends both want to lead the same game",
+      "setting": "playground",
+      "compatible_concepts": [
+        "concept_justice",
+        "concept_friendship"
+      ],
+      "notes": "Real peer-negotiation scenario, distinct from cf_015 (game choice) — here it's about leadership/turns, not game type."
+    },
+    {
+      "conflict_id": "cf_048",
+      "name": "Being offered something haram-adjacent innocently by a friend (e.g. food with unclear ingredients)",
+      "setting": "school/playground",
+      "compatible_concepts": [
+        "concept_self_control",
+        "concept_trustworthiness"
+      ],
+      "notes": "Real, age-appropriate values scenario — must not become a food-shaming moment, framed gently as 'checking first.'"
+    },
+    {
+      "conflict_id": "cf_049",
+      "name": "A sibling gets praised for something you also did quietly",
+      "setting": "home",
+      "compatible_concepts": [
+        "concept_humility",
+        "concept_gratitude"
+      ],
+      "notes": "Real recognition/fairness-adjacent sibling dynamic, distinct from cf_022 (attention on new sibling)."
+    },
+    {
+      "conflict_id": "cf_050",
+      "name": "Wanting to keep playing with new friend's toy a bit too long",
+      "setting": "playground/school",
+      "compatible_concepts": [
+        "concept_trustworthiness",
+        "concept_self_control"
+      ],
+      "notes": "Borrowed-item boundary scenario, distinct from cf_002/cf_014."
+    },
+    {
+      "conflict_id": "cf_051",
+      "name": "Wanting to skip prayer to finish watching something",
+      "setting": "home",
+      "compatible_concepts": [
+        "concept_prayer",
+        "concept_self_control"
+      ],
+      "notes": "Distinct from cf_032 (play) — screen-time specific temptation."
+    },
+    {
+      "conflict_id": "cf_052",
+      "name": "A grandparent moves slowly and character feels impatient walking with them",
+      "setting": "market/family gathering",
+      "compatible_concepts": [
+        "concept_mercy",
+        "concept_respect_for_parents",
+        "concept_patience"
+      ],
+      "notes": "Real, gentle mercy-toward-elders scenario."
+    },
+    {
+      "conflict_id": "cf_053",
+      "name": "Parents say no to something reasonable-seeming and character feels it's unfair",
+      "setting": "home",
+      "compatible_concepts": [
+        "concept_respect_for_parents",
+        "concept_justice"
+      ],
+      "notes": "Distinct from cf_041 — about accepting a decision, not chores."
+    },
+    {
+      "conflict_id": "cf_054",
+      "name": "Waiting your turn in a long line at the mosque or store",
+      "setting": "mosque/market",
+      "compatible_concepts": [
+        "concept_patience"
+      ],
+      "notes": "Real, distinct public-setting waiting scenario."
+    },
+    {
+      "conflict_id": "cf_055",
+      "name": "A friend is mean to a smaller or younger child",
+      "setting": "playground",
+      "compatible_concepts": [
+        "concept_mercy",
+        "concept_justice",
+        "concept_kindness"
+      ],
+      "notes": "Real bystander-intervention scenario, gentle framing."
+    },
+    {
+      "conflict_id": "cf_056",
+      "name": "Wanting to donate a favorite (not just spare) toy",
+      "setting": "home",
+      "compatible_concepts": [
+        "concept_charity",
+        "concept_generosity"
+      ],
+      "notes": "Distinct from cf_034 — giving something genuinely valued, not surplus."
+    },
+    {
+      "conflict_id": "cf_057",
+      "name": "Parents ask for help right when character finally has free time",
+      "setting": "home",
+      "compatible_concepts": [
+        "concept_respect_for_parents",
+        "concept_self_control"
+      ],
+      "notes": "Real timing-conflict scenario, distinct from other chore conflicts."
+    },
+    {
+      "conflict_id": "cf_058",
+      "name": "A charity collection box passes around and character has little to give",
+      "setting": "mosque/school",
+      "compatible_concepts": [
+        "concept_charity"
+      ],
+      "notes": "Real scenario about giving what you can, not comparing amounts."
+    },
+    {
+      "conflict_id": "cf_059",
+      "name": "Character must be patient through a boring but necessary appointment",
+      "setting": "travel/errand",
+      "compatible_concepts": [
+        "concept_patience",
+        "concept_self_control"
+      ],
+      "notes": "Distinct setting (doctor/errand) from other waiting conflicts."
+    },
+    {
+      "conflict_id": "cf_060",
+      "name": "An elderly neighbor needs help carrying groceries",
+      "setting": "neighborhood",
+      "compatible_concepts": [
+        "concept_mercy",
+        "concept_kindness",
+        "concept_charity"
+      ],
+      "notes": "Real, concrete mercy-in-action scenario, new setting (neighborhood)."
+    }
+  ],
+  "metadata": {
+    "channel": "Islamic Kids Studio",
+    "handle": "@IslamicKidsHQ",
+    "total_conflicts": 60,
+    "note": "Expanded from 30 to 50 (2026-08-05) — each checked against the existing 30 for setting/situation duplication before adding; new entries specifically fill gaps for concepts that had no story hook (prayer, cleanliness, good_speech, community, courage variants, perseverance, humility). Creative structural data — no web research needed."
+  }
+}

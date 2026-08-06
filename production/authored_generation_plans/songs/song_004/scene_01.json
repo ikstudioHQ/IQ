@@ -1,0 +1,263 @@
+{
+  "schema_version": "2.66",
+  "provenance_class": "AUTHORED_PRODUCTION_DIRECTION",
+  "parent_type": "song",
+  "parent_id": "song_004",
+  "logical_scene_id": "scene_01",
+  "generation_units": [
+    {
+      "generation_unit_id": "song_004_scene_01_u01",
+      "parent_scene_id": "scene_01",
+      "sequence": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 7.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "A picture torn in two, My heart felt sore and blue, My friend said,",
+          "start_seconds": 0.0,
+          "end_seconds": 6.364
+        }
+      ],
+      "primary_action": "Park bench; the butterfly drawing tears; Amira's face falls. Authored beat 1/4: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "begin scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_004_scene_01_u02",
+      "parent_scene_id": "scene_01",
+      "sequence": 2,
+      "start_seconds": 7.0,
+      "end_seconds": 14.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [
+        {
+          "character_id": "char_002_amira",
+          "type": "singing",
+          "text": "I am sorry, Now what should I do?",
+          "start_seconds": 7.0,
+          "end_seconds": 10.636
+        }
+      ],
+      "primary_action": "Park bench; the butterfly drawing tears; Amira's face falls. Authored beat 2/4: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_004_scene_01_u03",
+      "parent_scene_id": "scene_01",
+      "sequence": 3,
+      "start_seconds": 14.0,
+      "end_seconds": 21.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [],
+      "primary_action": "Park bench; the butterfly drawing tears; Amira's face falls. Authored beat 3/4: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    },
+    {
+      "generation_unit_id": "song_004_scene_01_u04",
+      "parent_scene_id": "scene_01",
+      "sequence": 4,
+      "start_seconds": 21.0,
+      "end_seconds": 28.0,
+      "exact_character_count": 3,
+      "visible_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "silent_characters": [
+        "char_002_amira",
+        "char_009_hana",
+        "char_001_zayd"
+      ],
+      "performance": [],
+      "primary_action": "Park bench; the butterfly drawing tears; Amira's face falls. Authored beat 4/4: use restrained, continuity-safe motion.",
+      "secondary_reaction": "Visible non-performers react naturally without lip-sync; keep silhouettes separated.",
+      "camera": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction); stable blocking, no orbit, preserve camera axis",
+      "location": "loc_neighborhood_park",
+      "lighting": "neutral daylight, slightly cooler than the resolution beat to signal mild tension (conflict_introduction)",
+      "music_continuity": "continue canonical song bed seamlessly",
+      "in_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "continue scene action"
+      },
+      "out_state": {
+        "location": "loc_neighborhood_park",
+        "position": {
+          "char_002_amira": "stable slot 1",
+          "char_009_hana": "stable slot 2",
+          "char_001_zayd": "stable slot 3"
+        },
+        "orientation": {
+          "char_002_amira": "toward shared action focus",
+          "char_009_hana": "toward shared action focus",
+          "char_001_zayd": "toward shared action focus"
+        },
+        "props": {},
+        "emotion": "scene-consistent",
+        "camera_axis": "stable-front",
+        "action_state": "scene action settled"
+      },
+      "provenance_class": "AUTHORED_PRODUCTION_DIRECTION"
+    }
+  ]
+}
